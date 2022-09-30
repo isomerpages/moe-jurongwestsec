@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - JWSS History.md
       - Principal's Message.md
