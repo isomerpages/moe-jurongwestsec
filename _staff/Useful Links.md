@@ -20,6 +20,3 @@ Quick Access Links
 *   [**School IFAAS&nbsp;2.0**](https://ifaas2.moe.gov.sg/)
 *   [**Reset MIMS Password**](https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?logoutURL=https%3A%2F%2Fportal.mims.moe.gov.sg%2FAGLogout)
 *   [**Student Learning Space (Unlock Account / Reset Password)**](https://form.gov.sg/5d6e1250d6754c0012d7ef15)
-
-
-
