@@ -4,7 +4,7 @@ permalink: /about-us/jwss-student-council/student-council/
 description: ""
 third_nav_title: JWSS Student Council
 ---
-![JWSS SC 2019 - 1.jpg](/images/JWSS SC 2019.jpg)
+![](/images/JWSS%20SC%202019.jpg)
 
 Overview
 --------
