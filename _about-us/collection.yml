@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - JWSS Student Council/JWSS Student Council.md
       - JWSS Student Council/.keep
       - Direct School Admission (DSA–Sec).md
       - Executive and Administrative Staff.md
