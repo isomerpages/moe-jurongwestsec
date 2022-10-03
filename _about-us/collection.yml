@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - JWSS Student Council/JWSS CCA Leaders.md
       - JWSS Student Council/JWSS Class Committee.md
       - JWSS Student Council/JWSS Student Ambassadors.md
       - JWSS Student Council/JWSS Student Council.md
