@@ -3,9 +3,8 @@ title: Executive and Administrative Staff
 permalink: /about-us/executive-and-administrative-staff/
 description: ""
 ---
+![EAS.jpg](/images/EAS.jpg)  
 
-  
-![EAS.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/About%20the%20School/EAS/Dept%20Chart%20photo/EAS.jpg)  
 <p> | EXECUTIVE &amp; ADMINISTRATIVE STAFF  |<br>
 | 01/ | <strong>Ms Angela Sim</strong><br><em>Administration Manager</em><br> | 09/ | <strong>Mr Ng Cheng Kwee</strong><br><em>Education Workshop Instructor</em><br> |
 | 02/ | <strong>Mr Govindasamy V</strong><br><em>Operations Manager</em><br> | 10/ | <strong>Mr Mohamed Zaidy Bin Mohamed Diah</strong><br><em>Education Workshop Instructor</em><br> |
