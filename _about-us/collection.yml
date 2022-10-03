@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Direct School Admission (DSA–Sec).md
       - Executive and Administrative Staff.md
       - School Management Committee.md
       - School Advisory Committee.md
