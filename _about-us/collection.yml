@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - Textbooks and Uniforms.md
       - School Safety SOP.md
       - Financial Assistance Scheme.md
