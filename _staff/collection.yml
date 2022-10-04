@@ -1,5 +1,0 @@
-collections:
-  staff:
-    output: true
-    order:
-      - Staff and Students Portal.md
