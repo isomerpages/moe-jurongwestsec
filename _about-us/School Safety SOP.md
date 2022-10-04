@@ -3,7 +3,6 @@ title: School Safety SOP
 permalink: /about-us/school-safety-sop/
 description: ""
 ---
-
 &nbsp;**JWSS School Safety Vision**
 
 A safe and secure environment where teaching and learning takes place.
@@ -61,7 +60,8 @@ Regular and timely review of traffic management plan will ensure the effectivene
 
  a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Operating Hours of School Gates**
 
-<img style="width:500px" src="/images/main entrance.png">
+<img src="/images/main entrance.png"
+		 style="width:500px">
 <br>
 
 
