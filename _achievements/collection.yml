@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Alumni Achievements.md
       - CCA Achievements.md
       - Academic Achievements.md
