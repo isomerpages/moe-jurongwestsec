@@ -267,7 +267,7 @@ As a school which has achieved Value-Added academic results in both the Express 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-da8v"><img src="/images/Lim-Hern-Fong-Jared.JPG" alt="Lim Hern Fong Jared.JPG" width="515" height="687"></td>
+    <td class="tg-da8v"><img src="/images/Lim-Hern-Fong-Jared.jpg" alt="Lim Hern Fong Jared.JPG" width="515" height="687"></td>
   </tr>
   <tr>
     <td class="tg-0pjp">Lim Hern Fong Jared from Secondary 4E1<br><br>Company Sergeant Major of The Boys Brigade from 2014-2015<br>Graduated from Pioneer Junior College (PJC) with 6 Distinctions<br>Scored 8 points for his L1R5 with 7 Distinctions<br><br>Graduated from Nanyang Technological University <br>(Double Degree in Computing and Business)</td>
