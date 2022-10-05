@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Yearbooks.md
       - Principal's Message.md
       - JWSS History.md
       - School Advisory Committee.md
@@ -19,4 +18,5 @@ collections:
       - Financial Assistance Scheme.md
       - School Safety SOP.md
       - 2022 School Calendar for Students.md
+      - School Yearbooks.md
       - Contact Us.md
