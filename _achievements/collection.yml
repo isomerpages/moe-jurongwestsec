@@ -2,10 +2,10 @@ collections:
   achievements:
     output: true
     order:
-      - JWSS Colors Awards.md
+      - Academic Achievements.md
+      - CCA Achievements.md
       - Staff Achievements.md
       - Student Achievements.md
-      - The Principal's List.md
       - Alumni Achievements.md
-      - CCA Achievements.md
-      - Academic Achievements.md
+      - The Principal's List.md
+      - JWSS Colors Awards.md
