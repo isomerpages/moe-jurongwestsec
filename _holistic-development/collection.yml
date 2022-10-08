@@ -2,5 +2,6 @@ collections:
   holistic-development:
     output: true
     order:
+      - Character and Citizenship/Values in Action.md
       - Character and Citizenship/Cyber Wellness.md
       - Character and Citizenship/.keep
