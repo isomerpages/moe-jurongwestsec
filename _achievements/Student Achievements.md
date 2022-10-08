@@ -3,7 +3,7 @@ title: Student Achievements
 permalink: /achievements/student-achievements/
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 &nbsp;&nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
 <label for="accordion1"><h5 style="color:darkblue">Student Achievements 2022</h5></label>
