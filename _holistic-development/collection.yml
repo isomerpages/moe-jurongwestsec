@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - MP Attachment Programme.md
       - JWSS Frontier Primary School Mentorship Programme.md
       - "Jurong West Sec & Hwa Chong Institution Collaboration: The HCI Boarding
         Experience.md"
