@@ -2,6 +2,8 @@ collections:
   holistic-development:
     output: true
     order:
+      - "Jurong West Sec & Hwa Chong Institution Collaboration: The HCI Boarding
+        Experience.md"
       - Character and Citizenship/CCE Introduction.md
       - "Character and Citizenship/Professional Development for CCE:
         facilitation workshop.md"
