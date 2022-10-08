@@ -3,7 +3,7 @@ title: JWSS Colors Awards
 permalink: /achievements/jwss-colors-awards/
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
 <label for="accordion1"><h5 style="color:darkblue">JWSS Colours Award 2021</h5></label>
