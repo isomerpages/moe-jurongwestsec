@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - Physical and Mental Health.md
       - Sexuality Education.md
       - Values in Action.md
       - Character and Citizenship/.keep
