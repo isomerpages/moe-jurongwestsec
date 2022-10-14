@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - LLP Community and Youth Leadership.md
       - Enhanced Art Programme (EAP).md
       - The JeWel Programme (Talent Development).md
       - Full Subject–Based Banding (FSBB).md
