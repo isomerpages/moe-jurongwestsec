@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - Full Subject–Based Banding (FSBB).md
       - Overseas Student Exchange Programme.md
       - Student Work Attachment Programme.md
       - MP Attachment Programme.md
