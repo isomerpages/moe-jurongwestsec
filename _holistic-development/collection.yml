@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - Arts & Aesthetics.md
       - Cyber Wellness.md
       - Higher Education and Career Guidance.md
       - Physical and Mental Health.md
