@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - The JeWel Programme (Talent Development).md
       - Full Subject–Based Banding (FSBB).md
       - Overseas Student Exchange Programme.md
       - Student Work Attachment Programme.md
