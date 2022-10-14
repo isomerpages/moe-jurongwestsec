@@ -2,6 +2,12 @@ collections:
   holistic-development:
     output: true
     order:
+      - Character and Citizenship/.keep
+      - Character and Citizenship/CCE Introduction.md
+      - "Character and Citizenship/Professional Development for CCE:
+        facilitation workshop.md"
+      - Character and Citizenship/Values in Action.md
+      - Character and Citizenship/Cyber Wellness.md
       - PDLP @ JWSS.md
       - Applied Learning Programme Alp at JWSS.md
       - LLP Community and Youth Leadership.md
@@ -14,9 +20,3 @@ collections:
       - JWSS Frontier Primary School Mentorship Programme.md
       - "Jurong West Sec & Hwa Chong Institution Collaboration: The HCI Boarding
         Experience.md"
-      - Character and Citizenship/CCE Introduction.md
-      - "Character and Citizenship/Professional Development for CCE:
-        facilitation workshop.md"
-      - Character and Citizenship/Values in Action.md
-      - Character and Citizenship/Cyber Wellness.md
-      - Character and Citizenship/.keep
