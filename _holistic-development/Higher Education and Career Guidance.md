@@ -107,17 +107,16 @@ As we slowly resume school activities this year, the school organised some ECG a
 
 Applied Learning Module at Singapore Polytechnic: Fundamentals of Robot Programming
 
-  
 
-![05.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2022/05.png)
-
-  
-
-![06.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2022/06.png)
+![05.png](/images/0505.png)
 
   
 
-![07.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2022/07.png)
+![06.png](/imagess/0606.png)
+
+  
+
+![07.png](/images/0707.png)
 
   
   
