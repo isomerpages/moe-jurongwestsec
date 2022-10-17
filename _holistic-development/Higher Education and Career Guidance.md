@@ -74,8 +74,7 @@ Click&nbsp;[here](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-w
   
 
 
-Activities in 2022
-------------------
+## Activities in 2022
 
   
 
@@ -83,36 +82,28 @@ Activities in 2022
 
 As we slowly resume school activities this year, the school organised some ECG activities for students to learn and explore the different education and career pathways. Through ECG, we hope to develop students’ growth mindset and work resilience to embrace the need for lifelong learning and career adaptability. Below are some of the platforms to nurture students’ self-awareness and self-directedness to support them in discovering their strengths and interests and charting their education and career journey.
 
-![01.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2022/01.PNG)
-
-  
-
-  
+![01.PNG](/images/0101.png)
 
 * * *
 
   
 **Experience ITE Programme**  
 
-![02.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2022/02.jpg)
+![02.jpg](/images/0202.jpg)
 
   
 
-![03.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2022/03.jpg)
+![03.jpg](/images/0303.jpg)
 
   
 
-![04.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2022/04.jpg)
+![04.jpg](/images/0404.jpg)
 
   
 
   
 
 * * *
-
-  
-
-**
 
 Applied Learning Module at Singapore Polytechnic: Fundamentals of Robot Programming
 
