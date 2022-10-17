@@ -39,48 +39,40 @@ The extensive variety of ECG experiences in JWSS aims to enable our students to 
   
 The Student Work Attachment Programme (**SWAP**) is designed to enable JWSS students to  
 
-![](/image/Flagship_SWAP.png)
+![](/images/Flagship_SWAP.png)
 
 The work attachment opportunities are open to students at the upper secondary levels and typically last for one to two weeks (depending on the area of work) during the semestral holidays in June and November/December.
 
 Students are invited to apply for the available work attachment opportunities and are selected to go on the work attachment based on certain criteria including passion for the work area and industry.
 
-Click&nbsp;[here](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme)&nbsp;&nbsp;to find out more about the&nbsp;[Student Work Attachment Programme (SWAP)](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme)&nbsp;at JWSS.
+Click&nbsp;[here](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme) to find out more about the [Student Work Attachment Programme (SWAP)](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme)&nbsp;at JWSS.
 
-![ECG2017 (1).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017%20(1).JPG)  
+![ECG2017 (1).JPG](/images/ECG2017%20(1).JPG)  
 
-![ECG2017 (2).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017%20(2).JPG)  
+![ECG2017 (2).JPG](/images/ECG2017%20(2).JPG)  
 
-![ECG2017 (3).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017%20(3).JPG)  
+![ECG2017 (3).JPG](/images/ECG2017%20(3).JPG)  
 
-![ECG2017 (4).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017%20(4).JPG)  
+![ECG2017 (4).JPG](/images/ECG2017%20(4).JPG)  
 
-![ECG2017 (5).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017%20(5).JPG)  
+![ECG2017 (5).JPG](/images/ECG2017%20(5).JPG)  
 
-![ECG2017 (6).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017%20(6).JPG)
-
-  
-
-![ECG2017p7(amended).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017p7(amended).JPG)
+![ECG2017 (6).JPG](/images/ECG2017%20(6).JPG)
 
   
 
-![ECG2017p8(amended).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017p8(amended).JPG)
+![ECG2017p7(amended).JPG](/images/ECG2017p7(amended).JPG)
 
   
 
-![ECG2017p9(amended).JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2017/ECG2017p9(amended).JPG)
+![ECG2017p8(amended).JPG](/images/ECG2017p8(amended).JPG)
 
   
 
-  
-  
+![ECG2017p9(amended).JPG](/images/ECG2017p9(amended).JPG)
 
   
 
-  
-
-  
 
 Activities in 2022
 ------------------
