@@ -16,9 +16,6 @@ As part of Student Development Curriculum Division (SDCD) overall support to all
 	/>
 <br>
 
-
-* * *
-
   
 
 Every Teacher a CCE Teacher
@@ -35,10 +32,6 @@ This course comprised of 1.5 days of synchronous learning, complemented with asy
 <br>
 
 
-* * *
-
-  
-
 Key Goals of HeART of CCE (Sec)
 
   
@@ -52,8 +45,3 @@ Key Goals of HeART of CCE (Sec)
          style="width:500px"
 	/>
 <br>
-
-
-  
-
-* * *
