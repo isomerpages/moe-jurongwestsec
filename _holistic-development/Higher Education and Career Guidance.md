@@ -3,50 +3,43 @@ title: Higher Education and Career Guidance
 permalink: /holistic-development/higher-education-and-career-guidance/
 description: ""
 ---
-Importance of ECG
------------------
+## Importance of ECG
 
-_‘One of the key things that we need to do is for our students to graduate with a good understanding of their strengths, weaknesses, and interests. More informed choices will reduce the attrition from school to workplace.’_  
+_‘One of the key things that we need to do is for our students to graduate with a good understanding of their strengths, weaknesses, and interests. More informed choices will reduce the attrition from school to workplace.’_ <br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;_Minister Chan Chun Sing_&nbsp;_at STL-SCEU Learning Festival,  
-__February 2022_
+_Minister Chan Chun Sing_&nbsp;_at STL-SCEU Learning Festival,  
+_February 2022_
 
-ECG Messages for Students (In Alignment with SkillsFuture)
-----------------------------------------------------------
+#### ECG Messages for Students (In Alignment with SkillsFuture)
+
 
   
 
-![](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/ECG_Messages.jpg)
+![](/images/ECG_Messages.jpg)
 
-The 3 Big ECG Questions for Students
-------------------------------------
+## The 3 Big ECG Questions for Students
+![](/images/3_Big_ECG.png)
 
-![](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/3_Big_ECG.png)
-
-ECG Experiences @ JWSS
-----------------------
+## ECG Experiences @ JWSS
 
   
 The comprehensive suite of ECG Experiences at JWSS is designed with the following in mind:  
 
-![](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/ECG_Experiences.png)
+![](/images/ECG_Experiences.png)
 
-Suite of ECG Experiences @ JWSS
--------------------------------
-
+## Suite of ECG Experiences @ JWSS
   
 
 The extensive variety of ECG experiences in JWSS aims to enable our students to make informed choices about post-secondary education and possible careers.  
 
-![ecg_Experience_complete.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/ecg_Experience_complete.jpg)
+![ecg_Experience_complete.jpg](/images/ecg_Experience_complete.jpg)
 
-Flagship Student Work Attachment Programme
-------------------------------------------
+## Flagship Student Work Attachment Programme
 
   
 The Student Work Attachment Programme (**SWAP**) is designed to enable JWSS students to  
 
-![](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/Flagship_SWAP.png)
+![](/image/Flagship_SWAP.png)
 
 The work attachment opportunities are open to students at the upper secondary levels and typically last for one to two weeks (depending on the area of work) during the semestral holidays in June and November/December.
 
