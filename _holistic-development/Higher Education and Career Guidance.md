@@ -45,9 +45,9 @@ The work attachment opportunities are open to students at the upper secondary le
 
 Students are invited to apply for the available work attachment opportunities and are selected to go on the work attachment based on certain criteria including passion for the work area and industry.
 
-Click&nbsp;[here](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme) to find out more about the [Student Work Attachment Programme (SWAP)](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme)&nbsp;at JWSS.
+Click&nbsp;[here](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme) to find out more about the [Student Work Attachment Programme (SWAP)](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme)&nbsp;at JWSS. // convert to jpg
 
-![ECG2017 (1).JPG](/images/ECG2017%20(1).JPG)  
+![ECG2017 (1).jpg](/images/ECG2017%20(1).jpg)  
 
 ![ECG2017 (2).JPG](/images/ECG2017%20(2).JPG)  
 
@@ -129,25 +129,18 @@ Customised talks for students
 
   
 
-![08.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2022/08.jpg)
+![08.jpg](/images/0808.jpg)
 
   
 
 * * *
 
-
-
-**
+## Activities in 2019
 
   
-
-Activities in 2019
-------------------
-
+**:: ECG Learning Journey 2019 (22 Oct)**  
   
-**:: ECG Learning Journey 2019 (22 Oct)  
-  
-**Our school’s second ECG Learning Journey was held on 22 October this year. The Secondary 3 students had 9 organisations to choose from for the ECG Learning Journey. The 9 organisations are Building and Construction Authority, LASALLE, MAJ Aviation, Maritime and Port Authority of Singapore, Rolls Royce Seletar Plant, SBS (Bus), SBS (Train), Grand Park Orchard Hotel and Supreme Court. The objectives of the ECG Learning Journey are as follows:
+Our school’s second ECG Learning Journey was held on 22 October this year. The Secondary 3 students had 9 organisations to choose from for the ECG Learning Journey. The 9 organisations are Building and Construction Authority, LASALLE, MAJ Aviation, Maritime and Port Authority of Singapore, Rolls Royce Seletar Plant, SBS (Bus), SBS (Train), Grand Park Orchard Hotel and Supreme Court. The objectives of the ECG Learning Journey are as follows:
 
   
 
@@ -158,37 +151,51 @@ Activities in 2019
 \- To inculcate an appreciation for the value of all occupations and how they contribute to the well-functioning of society
 
   
+<br>
+<img src="/images/image001.jpg" 
+         style="width:500px"
+	/>
+<br>
 
-![image001.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2019/image001.jpg)
 
 **Students at Grand Park Central Hotel**
 
-  
-
-![image003.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2019/image003.jpg)
+  <br>
+<img src="/images/image003%20(1).jpg" 
+         style="width:500px"
+	/>
+<br>
 
 **Students at MAJ Aviation**
 
-  
-
-![image005.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2019/image005.jpg)
+<br>
+<img src="/images/image005.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 **Students at Rolls Royce Seletar Plant**
 
   
-
-![image007.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2019/image007.jpg)
+<br>
+<img src="/images/image007.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 **Students participating in the Singapore Maritime Trail**
 
   
-![image009.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2019/image009.jpg)
+<br>
+<img src="/images/image009.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 **Students at LASALLE**
 
   
-  
-**::**&nbsp;**Talks by JWSS Alumni on their National Service Experience (2019)**  
+**Talks by JWSS Alumni on their National Service Experience (2019)**  
   
 In 2019, JWSS held an engagement session between JWSS alumni who were currently serving their National Service (NS) obligations. JWSS collaborated with the Singapore Armed Forces (SAF) to invite two JWSS alumni who were serving in the SAF to share their NS experience with our Secondary 3 students, including our female students. Both our male and female students found the session meaningful and engaging, and engaged in a short question and answer segment with our alumni to learn more about the choices that they had made in NS, and the impact that their NS experience has had on their lives. We will seek to continue these engagement sessions for our students to provide them with insight on how Singapore’s defence force operates, and what they can look forward to in the future.  
   
