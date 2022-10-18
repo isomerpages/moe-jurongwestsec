@@ -3,8 +3,7 @@ title: Enhanced Art Programme (EAP)
 permalink: /holistic-development/enhanced-art-programme-eap/
 description: ""
 ---
-Overview
---------
+## Overview
 
   
 **JWSS**&nbsp;was&nbsp;**selected**&nbsp;by the Ministry of Education to offer the EAP from 1 January 2017. It is currently one of the&nbsp;**only two schools in the West**&nbsp;offering the programme.  
@@ -13,9 +12,7 @@ As the EAP is only offered to students enrolled in the EAP schools, Primary Six 
   
 The EAP was started by MOE HQ in 2011 to provide greater opportunities for students with a keen disposition and ability in art to develop their talent.&nbsp; It is a 2-year upper secondary programme that leads to the GCE O-level Art or Higher Art examination.&nbsp; It provides an enriched learning environment for students who are passionate about and have talent in Art.  
   
-![newspaper_artwork_jwss.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/EAP-Arts/newspaper_artwork_jwss.PNG)  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 760px; height: 33px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Straits Times - Thursday, 28th May 2015</b></font></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Art Work by JWSS Students</b></font></td></tr></tbody></table>
+![newspaper_artwork_jwss.PNG](/images/newspaper_artwork_jwss.png)  
 
   
 As part of the EAP, students are exposed different art media, creative processes, professions and practices in the arts and creative industries, while providing in-depth development of students in artistic expression through multi-disciplinary art.  
@@ -27,30 +24,29 @@ Students who join JWSS as Secondary One students in 2018 can be enrolled into th
 At Secondary One and Two, students who are passionate and have talent in Art can be selected to be on the school’s Talent Development Programme for Art in which they can continue to explore their passion and further home their skills as they prepare for pursuing Art in Secondary Three.  
   
 
-Future Ready EAP Students
--------------------------
+### Future Ready EAP Students
+
 
   
 The EAP in JWSS focuses on interactive artistic expressions using multi-media and multi-disciplinary art. The programme’s integrated learning and thinking approach of&nbsp;_**Inquire**_,&nbsp;**_Inspire_**,&nbsp;**_Implement_**, &amp;&nbsp;**_Ideate_**&nbsp;in a context of experimentation will equip EAP students with a spirit of innovation and resilience as well as critical and creative thinking - qualities and competencies critical for students to be future ready.  
-![EAP3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/EAP-Arts/EAP3.jpg)  
+![EAP3.jpg](/images/EAP3.jpg)  
 
-Connections to the Real World
------------------------------
+### Connections to the Real World
+
 
   
 Through the JWSS EAP’s innovative curriculum and pedagogy, students will be able to make real world connections and have varied opportunities for collaborative learning including from practising artists.  
   
 EAP students in JWSS will able to engage in traditional, contemporary as well as digital arts through the following experiences as part of the EAP:  
   
-![EAP Connections to Real World.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/EAP-Arts/EAP%20Connections%20to%20Real%20World.PNG)  
-**Artist Centered Experiences  
-**In the JWSS Art Studio, EAP Students explore with different media and techniques to create artistic expressions according to a thematic context.  
+![EAP Connections to Real World.PNG](/images/EAP%20Connections%20to%20Real%20World.png)  
+**Artist Centered Experiences**
+<br>In the JWSS Art Studio, EAP Students explore with different media and techniques to create artistic expressions according to a thematic context.  
   
-![Artist Centered Experiences.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/EAP-Arts/Artist%20Centered%20Experiences.PNG)  
-**Activities  
-****2019 Mural School Competition**Our EAP students recently completed an exciting project at the Jurong West Hawker Centre (JWHC) – The Wall Mural School Competition organized by JWHC.&nbsp; The objective of the competition is to bond Jurong West schools and the residents with the wall murals significantly enhance the vibrancy of the environment.&nbsp; Facilitated by our Art teachers, our EAP and Art Club students sprang into action immediately after EOY exams and embarked upon the student-led project.
+![Artist Centered Experiences.PNG](/images/Artist%20Centered%20Experiences.png)  
+### Activities  
 
-  
+**2019 Mural School Competition**<br>Our EAP students recently completed an exciting project at the Jurong West Hawker Centre (JWHC) – The Wall Mural School Competition organized by JWHC.&nbsp; The objective of the competition is to bond Jurong West schools and the residents with the wall murals significantly enhance the vibrancy of the environment.&nbsp; Facilitated by our Art teachers, our EAP and Art Club students sprang into action immediately after EOY exams and embarked upon the student-led project.
 
 Designed and led by our EAP students, the wall mural was completed together with the Art Club students over 5 weekends.&nbsp; This competition will no doubt become an indelible part of our Art students’ JW Experience, enabling them to fulfill their creative aspirations and contribute as active citizens in society.
 
