@@ -324,9 +324,7 @@ Organisations were invited to set up booths in the school. Students were given t
 
   
   
-::****Advanced Elective Module (AEM), Aerospace Fundamentals with Flight Simulation at Singapore Polytechnic  
-(13 - 16 March)  
-**  
+**Advanced Elective Module (AEM), Aerospace Fundamentals with Flight Simulation at Singapore Polytechnic  (13 - 16 March)**  
 
 <br>
 <img src="/images/cce1.jpg" 
