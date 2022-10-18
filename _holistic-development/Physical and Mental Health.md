@@ -23,14 +23,13 @@ The school’s health needs can be grouped according to 3 major domains:
 
   
 
-**JWSS Health Promotion Framework  
-**
+#### JWSS Health Promotion Framework
 
-![healthframework.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Physical%20and%20Mental%20Health/healthframework.png)
+![healthframework.png](/image/healthframework.png)
 
   
 
-Pillars of Health Framework  
+##### Pillars of Health Framework  
 
   
 
@@ -49,14 +48,11 @@ JWSS Health Promotion Framework
 
   
 
-![healthpromotionframework.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Physical%20and%20Mental%20Health/healthpromotionframework.png)
+![healthpromotionframework.png](/image/healthpromotionframework.png)
 
   
 
-**Platforms for Health Promotion  
-**
-
-  
+**Platforms for Health Promotion**
 
 Students-based platforms to promote and recognise students for health promotion efforts include: 
 
@@ -82,25 +78,24 @@ Students-based platforms to promote and recognise students for health promotion 
 
   
 
-**Activities**
+### Activities
 
-  
-
-![image001.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Physical%20and%20Mental%20Health/image001.jpg)
+![image0001.jpg](/images/image0001.jpg)
 
 **Speaker sharing tips on skin care.**
 
   
 
-![image003.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Physical%20and%20Mental%20Health/image003.jpg)
+![image0003.jpg](/images/image0003.jpg)
 
 **Refresh Program students taking part in Cluster Games.**  
   
 
-![image005.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Physical%20and%20Mental%20Health/image005.jpg)
+![image0005.jpg](/images/image0005.jpg)
 
 **Winners of the Inter-Department Relay Race.**
 
   
 
-![image007.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Physical%20and%20Mental%20Health/image007.jpg)**Staff playing at the Inter-Department games.**
+![image0007.jpg](/images/image007.jpg)
+**Staff playing at the Inter-Department games.**
