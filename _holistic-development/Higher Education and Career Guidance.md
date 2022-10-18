@@ -222,34 +222,30 @@ and Business Studies |
   
 **Panel discussion**<br>Our students were given the opportunity to ask the guest speakers some questions during the panel discussion.  
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/ECGday4.png" 
          style="width:500px"
 	/>
 <br>
-  
-![4.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/4.png)  
 **Sharing by Jurong Pioneer JC**
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/ECGday5.png" 
          style="width:500px"
 	/>
 <br>
-![5.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/5.png)**Sharing by our school's ECG Counsellor**&nbsp;
+**Sharing by our school's ECG Counsellor**
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/ECGday6.png" 
          style="width:500px"
 	/>
 <br>
-![6.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/6.png)  
 
 **Sharing by a former student on his educational and career pathway**  
   
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/ECGday7.png" 
          style="width:500px"
 	/>
 <br>
-![7.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/7.png)
 
 Mr Byron Tan, 4T1 2012 He is currently in NTU pursuing a degree in Electrical and Electronic Engineering
 
@@ -260,34 +256,27 @@ Mr Byron Tan, 4T1 2012 He is currently in NTU pursuing a degree in Electrical an
 Organisations were invited to set up booths in the school. Students were given the opportunity to visit the booths to find out more about the various post-secondary pathways and to clarify their doubts.&nbsp;
 
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/ECGday8.png" 
          style="width:500px"
 	/>
-<br>
-![8.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/8.png)  
 
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/ECGday9.png" 
          style="width:500px"
 	/>
-<br>
-![9.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/9.png)
 
   
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/ECGday10.png" 
+         style="width:500px"
+	/>
+
+<br>
+<img src="/images/ECGday11.png" 
          style="width:500px"
 	/>
 <br>
 
-![10.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/10.png)
-<br>
-<img src="/images/cce1.jpg" 
-         style="width:500px"
-	/>
-<br>
-
-![11.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/11.png)
 
 ## Activities in 2018
 
@@ -299,7 +288,7 @@ Our school’s second ECG Day was held on 23 May this year. The purpose of the E
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 241px; height: 326px;" class="ive_eobj_center" alt="ECG_Day (1).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(1).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 472px; height: 328px;" class="ive_eobj_center" alt="ECG_Day (2).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(2).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 353px; height: 329px;" class="ive_eobj_center" alt="ECG_Day (3).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(3).jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Chua Ching Hock</b><br style="margin: 0px; outline: 0px; padding: 0px;">Senior Manager with Changi Airport Group, Changi Airport Terminal 4&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Lee Qing Hong</b><br style="margin: 0px; outline: 0px; padding: 0px;">A bilingual events host &amp; weekend Chinese radio presenter<br style="margin: 0px; outline: 0px; padding: 0px;">on SPH radio UFM100.3<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Ian Gan</b><br style="margin: 0px; outline: 0px; padding: 0px;">Chief Executive Officer<br style="margin: 0px; outline: 0px; padding: 0px;">of SEED Ventures<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 241px; height: 326px;" class="ive_eobj_center" alt="ECG_Day (1).jpg" src="/images/ECG_Day%20(1).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 472px; height: 328px;" class="ive_eobj_center" alt="ECG_Day (2).jpg" src="/images/ECG_Day%20(2).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 353px; height: 329px;" class="ive_eobj_center" alt="ECG_Day (3).jpg" src="/images/ECG_Day%20(3).jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Chua Ching Hock</b><br style="margin: 0px; outline: 0px; padding: 0px;">Senior Manager with Changi Airport Group, Changi Airport Terminal 4&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Lee Qing Hong</b><br style="margin: 0px; outline: 0px; padding: 0px;">A bilingual events host &amp; weekend Chinese radio presenter<br style="margin: 0px; outline: 0px; padding: 0px;">on SPH radio UFM100.3<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Ian Gan</b><br style="margin: 0px; outline: 0px; padding: 0px;">Chief Executive Officer<br style="margin: 0px; outline: 0px; padding: 0px;">of SEED Ventures<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
   
 
@@ -308,9 +297,21 @@ Our school’s second ECG Day was held on 23 May this year. The purpose of the E
 Our students were given the opportunity to ask the guest speakers some questions during the panel discussion.  
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" colspan="3"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 1075px; height: 714px;" class="ive_eobj_center" alt="ECG_Day (4).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(4).jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 398px; height: 437px;" class="ive_eobj_center" alt="ECG_Day (5).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(5).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 329px; height: 439px;" class="ive_eobj_center" alt="ECG_Day (6).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(6).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 339px; height: 439px;" class="ive_eobj_center" alt="ECG_Day (7).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(7).jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" colspan="3"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="ECG_Day (8).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(8).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 339px; height: 410px;" class="ive_eobj_center" alt="ECG_Day (9).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(9).jpg"></td></tr></tbody></table></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" colspan="3"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 1075px; height: 714px;" class="ive_eobj_center" alt="ECG_Day (4).jpg" src="/images/ECG_Day%20(4).jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 398px; height: 437px;" class="ive_eobj_center" alt="ECG_Day (5).jpg" src="images/ECG_Day%20(5).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 329px; height: 439px;" class="ive_eobj_center" alt="ECG_Day (6).jpg" src="images/ECG_Day%20(6).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 339px; height: 439px;" class="ive_eobj_center" alt="ECG_Day (7).jpg" src="/images/ECG_Day%20(7).jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);" colspan="3"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="ECG_Day (8).jpg" src="/images/ECG_Day%20(8).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 339px; height: 410px;" class="ive_eobj_center" alt="ECG_Day (9).jpg" src="/images/ECG_Day%20(9).jpg"></td></tr></tbody></table></td></tr></tbody></table>
 
-**Sharing by Pioneer Junior College**![ECG_Day (10).jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(10).jpg)**Sharing by our school's ECG Counsellor**![ECG_Day (11).jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(11).jpg)**Sharing by our former students about their Educational and Career pathways**  
+**Sharing by Pioneer Junior College**
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+![ECG_Day (10).jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(10).jpg)**Sharing by our school's ECG Counsellor**
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+![ECG_Day (11).jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(11).jpg)**Sharing by our former students about their Educational and Career pathways**  
 **  
 
 <table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234);" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 540px; height: 357px;" class="ive_eobj_center" alt="ECG_Day (13).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(13).jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 539px; height: 357px;" class="ive_eobj_center" alt="ECG_Day (14).jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/ECG_Day%20(14).jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" face="Open Sans, sans-serif"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 14px;">Ms Cheong Si Hui, our former student – 4N2, 2012<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">She is currently in NUS pursuing a degree in Environmental Science</span></span></font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" face="Open Sans, sans-serif"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 14px;">Mr Jeremy Lau, our former student – 4N2, 2011<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Graduated from Singapore Polytechnic with a diploma in Mechanical Engineering and is currently working in the Singapore Police Force as a Sergeant</span></span></font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
@@ -328,6 +329,11 @@ Our students were given the opportunity to ask the guest speakers some questions
 (13 - 16 March)  
 **  
 
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 ![AEM1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM1.jpg)
 
   
@@ -336,23 +342,48 @@ To enrich secondary school’s curriculum with greater diversity, secondary scho
 This year, 18 of our students signed up for the AEM Aerospace Fundamentals with Flight Simulation at Singapore Polytechnic from 13 to 16 March.
 
   
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 ![AEM2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM2.jpg)  
 
 It was an enriching experience for them as they learnt how to control the system and fly an aeroplane on a flight simulator, learnt about the principles of flight; how aircrafts defy gravity and fly thousands of miles above sea level, learnt about aircraft parts and related systems through hands-on at the labs and learnt about our local growing aerospace industry and career prospects.  
 
   
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 ![AEM3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM3.jpg)
 
   
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
   
 
 ![AEM4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM4.jpg)
 
   
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 ![AEM5.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM5.jpg)
 
-  
+  <br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+
 ![AEM6.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM6.jpg)
