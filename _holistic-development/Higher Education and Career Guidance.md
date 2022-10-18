@@ -199,18 +199,18 @@ Our school’s second ECG Learning Journey was held on 22 October this year. The
   
 In 2019, JWSS held an engagement session between JWSS alumni who were currently serving their National Service (NS) obligations. JWSS collaborated with the Singapore Armed Forces (SAF) to invite two JWSS alumni who were serving in the SAF to share their NS experience with our Secondary 3 students, including our female students. Both our male and female students found the session meaningful and engaging, and engaged in a short question and answer segment with our alumni to learn more about the choices that they had made in NS, and the impact that their NS experience has had on their lives. We will seek to continue these engagement sessions for our students to provide them with insight on how Singapore’s defence force operates, and what they can look forward to in the future.  
   
-![NS1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/CCE/NS1.jpg)  
-![NS2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/CCE/NS2.jpg)  
-![NS3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/CCE/NS3.jpg)**::**&nbsp;**ECG Day 2019 (27 May)  
-**
+![NS1.jpg](/images/NS1.jpg)  
+![NS2.jpg](/images/NS2.jpg)  
+![NS3.jpg](/images/NS3.jpg)
 
-  
 
+**ECG Day 2019 (27 May)**
+<br>
 Our school’s third ECG Day was held on 27 May this year. The purpose of the ECG Day is to enable students to gather information from various sources to start exploring and making informed educational and career decisions for their future.
 
 **Sharing by our guest speakers about their career**
 
-| ![1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/1.png) | ![2.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/2.png) | ![3.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/3.png) |
+| ![1.png](/images/ECGday1.png) | ![2.png](/images/ECGday2.png) | ![3.png](/images/ECGday3.png) |
 | --- | --- | --- |
 | Mr Chia Hock Lai | Mr Adzfar Alami | Ms Cherlyn Lim |
 | CEO of Switchnovate, a  
@@ -220,15 +220,35 @@ one of the biggest law firms in Singapore
 and Business Studies |
 
   
-**Panel discussion  
-**Our students were given the opportunity to ask the guest speakers some questions during the panel discussion.  
+**Panel discussion**<br>Our students were given the opportunity to ask the guest speakers some questions during the panel discussion.  
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
   
 ![4.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/4.png)  
-**Sharing by Jurong Pioneer JC  
-**![5.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/5.png)**Sharing by our school's ECG Counsellor**&nbsp;![6.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/6.png)  
+**Sharing by Jurong Pioneer JC**
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+![5.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/5.png)**Sharing by our school's ECG Counsellor**&nbsp;
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+![6.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/6.png)  
 
 **Sharing by a former student on his educational and career pathway**  
   
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 ![7.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/7.png)
 
 Mr Byron Tan, 4T1 2012 He is currently in NTU pursuing a degree in Electrical and Electronic Engineering
@@ -239,21 +259,39 @@ Mr Byron Tan, 4T1 2012 He is currently in NTU pursuing a degree in Electrical an
 
 Organisations were invited to set up booths in the school. Students were given the opportunity to visit the booths to find out more about the various post-secondary pathways and to clarify their doubts.&nbsp;
 
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 ![8.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/8.png)  
 
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 ![9.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/9.png)
 
   
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 ![10.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/10.png)
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
 
 ![11.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Events/2019/ECGday/11.png)
 
-Activities in 2018
-------------------
+## Activities in 2018
 
-**::**&nbsp;**ECG Day 2018 (23 May)  
-**
+**ECG Day 2018 (23 May)**
 
 Our school’s second ECG Day was held on 23 May this year. The purpose of the ECG Day is to enable students to gather information from various sources to start exploring and making informed educational and career decisions for their future.  
   
