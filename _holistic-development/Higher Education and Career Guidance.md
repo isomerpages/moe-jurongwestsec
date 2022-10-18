@@ -327,11 +327,11 @@ Organisations were invited to set up booths in the school. Students were given t
 **Advanced Elective Module (AEM), Aerospace Fundamentals with Flight Simulation at Singapore Polytechnic  (13 - 16 March)**  
 
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/AEM1.jpg" 
          style="width:500px"
 	/>
 <br>
-![AEM1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM1.jpg)
+
 
   
 To enrich secondary school’s curriculum with greater diversity, secondary schools, in collaboration with polytechnics, have begun offering AEMs under the guidance of Ministry of Education (MOE). Taught by polytechnic lecturers, AEMs can help enhance the learning experience of secondary school students through practice-oriented approaches. The experience will help them to discover their strengths and interests and have a taste of how polytechnic courses are conducted.
@@ -340,47 +340,31 @@ This year, 18 of our students signed up for the AEM Aerospace Fundamentals with 
 
   
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/AEM2.jpg" 
          style="width:500px"
 	/>
 <br>
-
-![AEM2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM2.jpg)  
 
 It was an enriching experience for them as they learnt how to control the system and fly an aeroplane on a flight simulator, learnt about the principles of flight; how aircrafts defy gravity and fly thousands of miles above sea level, learnt about aircraft parts and related systems through hands-on at the labs and learnt about our local growing aerospace industry and career prospects.  
 
   
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/AEM3.jpg" 
          style="width:500px"
 	/>
-<br>
-
-![AEM3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM3.jpg)
-
   
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/AEM4.jpg" 
          style="width:500px"
 	/>
-<br>
-  
-
-![AEM4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM4.jpg)
-
   
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/AEM5.jpg" 
          style="width:500px"
 	/>
-<br>
-
-![AEM5.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM5.jpg)
 
   <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/AEM6.jpg" 
          style="width:500px"
 	/>
 <br>
-
-![AEM6.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Character%20Development/Higher%20Education%20and%20Career%20Guidance/2018/AEM6.jpg)
