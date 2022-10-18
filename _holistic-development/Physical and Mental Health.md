@@ -25,7 +25,7 @@ The school’s health needs can be grouped according to 3 major domains:
 
 #### JWSS Health Promotion Framework
 
-![healthframework.png](/image/healthframework.png)
+![healthframework.png](/images/healthframework.png)
 
   
 
@@ -48,7 +48,7 @@ JWSS Health Promotion Framework
 
   
 
-![healthpromotionframework.png](/image/healthpromotionframework.png)
+![healthpromotionframework.png](/images/healthpromotionframework.png)
 
   
 
