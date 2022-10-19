@@ -72,34 +72,28 @@ English *JeWel*
 
   
 
-English Language
-----------------
+## English Language
 
-![English.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Jewel%20Programme%20(TDP)/English.PNG)
+![English.PNG](/images/English.png)
 
-Mathematics
------------
+## Mathematics
 
-  
-![Math.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Jewel%20Programme%20(TDP)/Math.PNG)
 
-Science
--------
+![Math.PNG](/images/Math.png)
+
+## Science
 
   
-![Science.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Jewel%20Programme%20(TDP)/Science.PNG)
+![Science.PNG](/images/Science.png)
 
-Physical Education and Sports
------------------------------
-
-  
-![PE.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Jewel%20Programme%20(TDP)/PE.PNG)  
-
-Art
----
+## Physical Education and Sports
 
   
-![Art.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Jewel%20Programme%20(TDP)/Art.PNG)
+![PE.PNG](/images/PE.png)  
+
+## Art
+  
+![Art.PNG](/images/Art.png)
 
 The JeWel Challenge
 -------------------
