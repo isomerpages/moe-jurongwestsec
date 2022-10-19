@@ -123,20 +123,20 @@ The art creations were sold by our EAP students at this year’s&nbsp;**SGH Fest
 
 
   
-![EAP5.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/EAP-Arts/EAP5.jpg)  
+![EAP5.jpg](/images/EAP5.jpg)  
 
 **A glance at the multitude of Post-Secondary Options**
 
   
 
-![art_creations_jwss_students.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/EAP-Arts/art_creations_jwss_students.PNG)  
+![art_creations_jwss_students.PNG](/images/art_creations_jwss_students.PNG)  
 
 **Art Creations by JWSS Students**
 
   
 
-Recognising Talents
--------------------
+### Recognising Talents
+
 
   
 All graduates of the JWSS EAP will be awarded a&nbsp;**specially commission certificate**&nbsp;by the school for their achievements and accomplishments in Art.  
@@ -144,8 +144,7 @@ All graduates of the JWSS EAP will be awarded a&nbsp;**specially commission cert
 EAP graduates will also be&nbsp;**able to present interactive resumes and design portfolios**&nbsp;to support their applications for&nbsp;**DSA-JC**&nbsp;or&nbsp;**EAE**&nbsp;to art-related courses in various post-secondary institutions as well as&nbsp;**art-related scholarships**&nbsp;and/or&nbsp;**sponsorships**.  
   
 
-For Further Information on the EAP
-----------------------------------
+### For Further Information on the EAP
 
   
 
