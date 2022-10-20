@@ -9,7 +9,7 @@ One of Jurong West Secondary School's signature programme under Higher Education
   
 It is imperative for our students to have a sensing of how the knowledge and skills they acquire in school is relevant to and can be applied in the work environment. More specifically, the objectives of this programme are to enable students to  
   
-![SWAP2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Student%20Work%20Attachment%20June%202015/SWAP2.jpg)  
+![SWAP2.jpg](/images/SWAP2.jpg)  
 **_SWAP_**&nbsp;is available to our upper secondary students during the school holidays in the months of June and November yearly. The length of the attachment is typically from five to ten days, depending on the industry or organisation.  
   
 Students will be informed of the opportunities available with our partners in the various industries and they can select which company they would like to be attached to based on their interests and would need to submit an application and write-up to the school.  
@@ -40,132 +40,71 @@ Student participants will also be awarded a certificate, jointly signed by the P
 ## SWAP Participant Testimonials for 2018
 
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Singapore Chinese Chamber of Commerce and Industry (SCCCI)</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 346px; height: 253px;" class="ive_eobj_center" alt="image001.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/2018/image001.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“It was a great experience as I was able to know more about the organisation and have a better perspective as I make a decision regarding my future. Even though I might not choose this career path, the decision is an informed one. Furthermore, it helped me to understand myself better and what would better suit me. It also helped me learn much about computing and sharpen my decision-making skills.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">- Tan Li Qi (3E3, 2018)</span></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Singapore Chinese Chamber of Commerce and Industry (SCCCI)</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 346px; height: 253px;" class="ive_eobj_center" alt="image001.jpg" src="/images/image001%20(1).jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“It was a great experience as I was able to know more about the organisation and have a better perspective as I make a decision regarding my future. Even though I might not choose this career path, the decision is an informed one. Furthermore, it helped me to understand myself better and what would better suit me. It also helped me learn much about computing and sharpen my decision-making skills.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">- Tan Li Qi (3E3, 2018)</span></td></tr></tbody></table>
 
-  
-  
-****
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2">Wildlife Reserves Singapore (WRS)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“The best experience I had during the attachment period was feeding animals from different species. I liked feeding the manatees the most. This attachment opened up different pathways for me as it will definitely help me to think further before making a choice regarding the course for my tertiary education. I found our school value of “integrity’ especially applicable here as I was able to have access to a lot of information that I am not allowed to share. It really showed that the school values are not there just for the sake of it, rather it has a huge connection to the world beyond the school.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Lyra Aqilah Bte Mohd Zaki (4E3, 2018)</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366px; height: 274px;" class="ive_eobj_center" alt="image003.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/2018/image003.jpg"></td></tr></tbody></table>
-
-**
-
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2">Wildlife Reserves Singapore (WRS)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“The best experience I had during the attachment period was feeding animals from different species. I liked feeding the manatees the most. This attachment opened up different pathways for me as it will definitely help me to think further before making a choice regarding the course for my tertiary education. I found our school value of “integrity’ especially applicable here as I was able to have access to a lot of information that I am not allowed to share. It really showed that the school values are not there just for the sake of it, rather it has a huge connection to the world beyond the school.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Lyra Aqilah Bte Mohd Zaki (4E3, 2018)</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366px; height: 274px;" class="ive_eobj_center" alt="image003.jpg" src="/images/image003%20(2).jpg"></td></tr></tbody></table>
   
 
-  
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Think Tank Studio</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 344px; height: 257px;" class="ive_eobj_center" alt="image005.jpg" src="/images/image005%20(1).jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“It was so difficult, at times to stay on topic, while writing or doing the research. It let me realise the amount of effort that goes into each publication that we get at school as reading material. It makes me value each and every article even more, now that I have experienced the hard work that remains hidden behind every single story published.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Teo Hui Ting (3N3, 2018)</span></td></tr></tbody></table>
 
-**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Think Tank Studio</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 344px; height: 257px;" class="ive_eobj_center" alt="image005.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/2018/image005.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“It was so difficult, at times to stay on topic, while writing or doing the research. It let me realise the amount of effort that goes into each publication that we get at school as reading material. It makes me value each and every article even more, now that I have experienced the hard work that remains hidden behind every single story published.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Teo Hui Ting (3N3, 2018)</span></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2">Manicka and Co.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“It was an interesting experience. I enjoyed my attachment at the law firm and it was enriching because I could learn myself more about Singapore law. Witnessing the preparation that a lawyer undergoes to present a case and the actual courtroom interaction motivated me to think about studying law.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Dian Nuzhaini Doh Li Mei (4E3, 2018)</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 360px; height: 229px;" class="ive_eobj_center" alt="image007.jpg" src="/images/image007%20(1).jpg"></td></tr></tbody></table>
 
-  
-**
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Singapore Mass Rapid Transit (SMRT)</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 348px; height: 260px;" class="ive_eobj_left" alt="image009.jpg" src="/images/image009%20(1).jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“I was able to experience working together as a team. It was a completely new experience, totally different from school. Seeing the professionals work, I learnt about responsibility and work-ethics. I was able to accept feedback from my seniors and it was great that I got to work with people of different ages.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Alyssa Alicia Cubinar (3T1, 2018))</span></td></tr></tbody></table>
 
-**
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2">Manicka and Co.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“It was an interesting experience. I enjoyed my attachment at the law firm and it was enriching because I could learn myself more about Singapore law. Witnessing the preparation that a lawyer undergoes to present a case and the actual courtroom interaction motivated me to think about studying law.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Dian Nuzhaini Doh Li Mei (4E3, 2018)</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 360px; height: 229px;" class="ive_eobj_center" alt="image007.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/2018/image007.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2">The Science Centre<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“Being a part of the Work Attachment Programme enabled me to understand how it is to be a part of a bigger workforce. My job needed me to interact with visitors, daily. It helped me to hone my communication skills and allowed me to be more interactive. This opportunity made me more resilient and also taught me the value of responsibility.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Shruthi Piriya Yasaskaran (3E2, 2018)</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 218px; height: 290px;" class="ive_eobj_center" alt="image011.jpg" src="/images/image011.jpg"></td></tr></tbody></table>
 
-**
 
-**
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Singapore Mass Rapid Transit (SMRT)</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left; width: 348px; height: 260px;" class="ive_eobj_left" alt="image009.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/2018/image009.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“I was able to experience working together as a team. It was a completely new experience, totally different from school. Seeing the professionals work, I learnt about responsibility and work-ethics. I was able to accept feedback from my seniors and it was great that I got to work with people of different ages.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Alyssa Alicia Cubinar (3T1, 2018))</span></td></tr></tbody></table>
-
-  
-**
-
-**
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 716px; height: 233px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 716px;" colspan="2">The Science Centre<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">“Being a part of the Work Attachment Programme enabled me to understand how it is to be a part of a bigger workforce. My job needed me to interact with visitors, daily. It helped me to hone my communication skills and allowed me to be more interactive. This opportunity made me more resilient and also taught me the value of responsibility.”<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;- Shruthi Piriya Yasaskaran (3E2, 2018)</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 218px; height: 290px;" class="ive_eobj_center" alt="image011.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/2018/image011.jpg"></td></tr></tbody></table>
-
-**
-
-As of 2019:
------------
+## As of 2019:
 
 We have partnered with:  
   
   
-  
-
-| ![SPH.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SPH.png)
-Singapore Press Holdings
-
- | ![SCS_high_res_sg.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SCS_high_res_sg.jpg)
-
-Science Centre Singapore
-
- | ![wrs.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/wrs.jpg)
-
-Wildlife Reserves Singapore
-
- |
-| --- | --- | --- |
-| &nbsp;![manicka.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/manicka.png)  
-
-**Manicka &amp; Co LLP (Law Firm)**
-
- | 
-
-![MZ.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/MZ.png)
-
-  
-
-**Multi-Zone Trading Pte Ltd (Chemical Trading Firm)**
-
- | 
-
-![playeum.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/playeum.png)
-
-**Playeum**
-
- |
-| ![Singapore_Chinese_Chamber_of_Commerce__Industry_logo.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/Singapore_Chinese_Chamber_of_Commerce__Industry_logo.JPG)
-
-**Singapore Chinese Chamber of Commerce &amp; Industry**
-
- | ![download.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/download.jpg)
-
-**Singapore Indian Chamber of Commerce &amp; Industry**
-
- |   
-![smrt-logo-2y6wxd0vcraueor7vfchsa.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/smrt-logo-2y6wxd0vcraueor7vfchsa.jpg)
-
-**Singapore Mass Rapid Transit**
-
- |
-| ![NLB_VP20LOGO_CMYK-small.jpg_pagespeed_ce_6oQlmV2b5v.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/NLB_VP20LOGO_CMYK-small.jpg_pagespeed_ce_6oQlmV2b5v.jpg)
-
-**National Library Board Singapore**
-
- | ![abbott.gif](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/abbott.gif)
-
-**Abbott Laboratory**
-
- | ![deernden.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/deernden.png)
-
-**Deer and Den Design**
-
- |
-| ![thinktank.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/thinktank.jpg)
-
-**Think Tank Studio**
-
- | 
-
-![minmed.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/minmed.png)
-
-&nbsp;**Minmed Group (Health)**
-
- | 
-
-![SDC.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SDC.png)
-
-**Singapore Discovery Centre**
-
- |
-| &nbsp;![WAP.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/WAP.png)
-
-**WAP (Design Agency)**
-
- | &nbsp; | &nbsp; |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SPH.png" alt="SPH.png"><span style="color:inherit;background-color:transparent">#Singapore Press Holdings</span></th>
+    <th class="tg-9hzb"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SCS_high_res_sg.jpg" alt="SCS_high_res_sg.jpg" width="164" height="190"><span style="color:inherit;background-color:transparent">#Science Centre Singapore</span></th>
+    <th class="tg-9hzb"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/wrs.jpg" alt="wrs.jpg" width="285" height="189"><span style="background-color:initial">#Wildlife Reserves Singapore</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig"> <img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/manicka.png" alt="manicka.png" width="320" height="160"><br>Manicka &amp; Co LLP (Law Firm)</td>
+    <td class="tg-9hzb"><span style="background-color:initial"> </span><br><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/MZ.png" alt="MZ.png" width="271" height="160"><br>Multi-Zone Trading Pte Ltd (Chemical Trading Firm)</td>
+    <td class="tg-9hzb"><span style="background-color:initial"> </span><br><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/playeum.png" alt="playeum.png" width="239" height="179">#Playeum</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/Singapore_Chinese_Chamber_of_Commerce__Industry_logo.JPG" alt="Singapore_Chinese_Chamber_of_Commerce__Industry_logo.JPG" width="347" height="195">#Singapore Chinese Chamber of Commerce &amp; Industry</td>
+    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/download.jpg" alt="download.jpg" width="231" height="195">#Singapore Indian Chamber of Commerce &amp; Industry</td>
+    <td class="tg-ktyi"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/smrt-logo-2y6wxd0vcraueor7vfchsa.jpg" alt="smrt-logo-2y6wxd0vcraueor7vfchsa.jpg" width="334" height="174">#Singapore Mass Rapid Transit</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/NLB_VP20LOGO_CMYK-small.jpg_pagespeed_ce_6oQlmV2b5v.jpg" alt="NLB_VP20LOGO_CMYK-small.jpg_pagespeed_ce_6oQlmV2b5v.jpg">#National Library Board Singapore</td>
+    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/abbott.gif" alt="abbott.gif" width="338" height="254">#Abbott Laboratory</td>
+    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/deernden.png" alt="deernden.png" width="357" height="251">#Deer and Den Design</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/thinktank.jpg" alt="thinktank.jpg">#Think Tank Studio</td>
+    <td class="tg-9hzb"><br><br><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/minmed.png" alt="minmed.png" width="261" height="100"><br><br> Minmed Group (Health)</td>
+    <td class="tg-9hzb"><br><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SDC.png" alt="SDC.png" width="145" height="136"># <br>Singapore Discovery Centre</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> <img src="/images/WAP.png" alt="WAP.png">#WAP (Design Agency)</td>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi"> </td>
+  </tr>
+</tbody>
+</table>
