@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/JWSS%20School%20Crest.png)
 
-![fps.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/FPS%20Mentorship/fps.png) 
+![fps.png](/images/fps.png) 
 
 JWSS in collaboration with Frontier Primary School (FPS) piloted a new mentorship programme between our secondary 2 students and their primary 6 students. The JWSS-FPS mentorship programme lasted weekly from May till August 2019 and during this period, 8 students from our Talent Development Programme (JeWel Programme)&nbsp; mentored Primary 6 students from FPS.  
 
