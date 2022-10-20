@@ -75,31 +75,31 @@ We have partnered with:
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SPH.png" alt="SPH.png"><span style="color:inherit;background-color:transparent">#Singapore Press Holdings</span></th>
-    <th class="tg-9hzb"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SCS_high_res_sg.jpg" alt="SCS_high_res_sg.jpg" width="164" height="190"><span style="color:inherit;background-color:transparent">#Science Centre Singapore</span></th>
-    <th class="tg-9hzb"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/wrs.jpg" alt="wrs.jpg" width="285" height="189"><span style="background-color:initial">#Wildlife Reserves Singapore</span></th>
+    <th class="tg-9hzb"><img src="/images/SPH.png" alt="SPH.png"><span style="color:inherit;background-color:transparent">#Singapore Press Holdings</span></th>
+    <th class="tg-9hzb"><img src="/images/SCS_high_res_sg.jpg" alt="SCS_high_res_sg.jpg" width="164" height="190"><span style="color:inherit;background-color:transparent">#Science Centre Singapore</span></th>
+    <th class="tg-9hzb"><img src="/images/wrs.jpg" alt="wrs.jpg" width="285" height="189"><span style="background-color:initial">#Wildlife Reserves Singapore</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig"> <img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/manicka.png" alt="manicka.png" width="320" height="160"><br>Manicka &amp; Co LLP (Law Firm)</td>
-    <td class="tg-9hzb"><span style="background-color:initial"> </span><br><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/MZ.png" alt="MZ.png" width="271" height="160"><br>Multi-Zone Trading Pte Ltd (Chemical Trading Firm)</td>
-    <td class="tg-9hzb"><span style="background-color:initial"> </span><br><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/playeum.png" alt="playeum.png" width="239" height="179">#Playeum</td>
+    <td class="tg-7yig"> <img src="/images/manicka.png" alt="manicka.png" width="320" height="160"><br>Manicka &amp; Co LLP (Law Firm)</td>
+    <td class="tg-9hzb"><span style="background-color:initial"> </span><br><img src="/images/MZ.png" alt="MZ.png" width="271" height="160"><br>Multi-Zone Trading Pte Ltd (Chemical Trading Firm)</td>
+    <td class="tg-9hzb"><span style="background-color:initial"> </span><br><img src="/images/playeum.png" alt="playeum.png" width="239" height="179">#Playeum</td>
   </tr>
   <tr>
-    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/Singapore_Chinese_Chamber_of_Commerce__Industry_logo.JPG" alt="Singapore_Chinese_Chamber_of_Commerce__Industry_logo.JPG" width="347" height="195">#Singapore Chinese Chamber of Commerce &amp; Industry</td>
-    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/download.jpg" alt="download.jpg" width="231" height="195">#Singapore Indian Chamber of Commerce &amp; Industry</td>
-    <td class="tg-ktyi"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/smrt-logo-2y6wxd0vcraueor7vfchsa.jpg" alt="smrt-logo-2y6wxd0vcraueor7vfchsa.jpg" width="334" height="174">#Singapore Mass Rapid Transit</td>
+    <td class="tg-7yig"><img src="/images/Singapore_Chinese_Chamber_of_Commerce__Industry_logo.jpg" alt="Singapore_Chinese_Chamber_of_Commerce__Industry_logo.JPG" width="347" height="195">#Singapore Chinese Chamber of Commerce &amp; Industry</td>
+    <td class="tg-7yig"><img src="/images/download.jpg" alt="download.jpg" width="231" height="195">#Singapore Indian Chamber of Commerce &amp; Industry</td>
+    <td class="tg-ktyi"><img src="/images/smrt-logo-2y6wxd0vcraueor7vfchsa.jpg" alt="smrt-logo-2y6wxd0vcraueor7vfchsa.jpg" width="334" height="174">#Singapore Mass Rapid Transit</td>
   </tr>
   <tr>
-    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/NLB_VP20LOGO_CMYK-small.jpg_pagespeed_ce_6oQlmV2b5v.jpg" alt="NLB_VP20LOGO_CMYK-small.jpg_pagespeed_ce_6oQlmV2b5v.jpg">#National Library Board Singapore</td>
-    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/abbott.gif" alt="abbott.gif" width="338" height="254">#Abbott Laboratory</td>
-    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/deernden.png" alt="deernden.png" width="357" height="251">#Deer and Den Design</td>
+    <td class="tg-7yig"><img src="/images/NLB_VP20LOGO_CMYK-smalljpg_pagespeed_ce_6oQlmV2b5v.jpg" alt="NLB_VP20LOGO_CMYK-small.jpg_pagespeed_ce_6oQlmV2b5v.jpg">#National Library Board Singapore</td>
+    <td class="tg-7yig"><img src="/images/abbott.gif" alt="abbott.gif" width="338" height="254">#Abbott Laboratory</td>
+    <td class="tg-7yig"><img src="/images/deernden.png" alt="deernden.png" width="357" height="251">#Deer and Den Design</td>
   </tr>
   <tr>
-    <td class="tg-7yig"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/thinktank.jpg" alt="thinktank.jpg">#Think Tank Studio</td>
-    <td class="tg-9hzb"><br><br><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/minmed.png" alt="minmed.png" width="261" height="100"><br><br> Minmed Group (Health)</td>
-    <td class="tg-9hzb"><br><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Student%20Work%20Attachment%20Programme/SDC.png" alt="SDC.png" width="145" height="136"># <br>Singapore Discovery Centre</td>
+    <td class="tg-7yig"><img src="/images/thinktank.jpg" alt="thinktank.jpg">#Think Tank Studio</td>
+    <td class="tg-9hzb"><br><br><img src="/images/minmed.png" alt="minmed.png" width="261" height="100"><br><br> Minmed Group (Health)</td>
+    <td class="tg-9hzb"><br><img src="/images/SDC.png" alt="SDC.png" width="145" height="136"># <br>Singapore Discovery Centre</td>
   </tr>
   <tr>
     <td class="tg-7yig"> <img src="/images/WAP.png" alt="WAP.png">#WAP (Design Agency)</td>
