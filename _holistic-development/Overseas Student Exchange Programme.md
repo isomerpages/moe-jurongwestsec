@@ -7,58 +7,79 @@ Our Overseas Student Exchange Programme (OSEP) serves to enrich and support acad
   
 In line with MOE’s 21st Century Competencies, JWSS OSEP, aims to provide and nurture our students through a diverse learning environment so as to sharpen their global awareness and cross cultural skills.  
 
-![Picture1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Picture1.jpg)JWSS Students who are interested in participating in the exchange programme may apply during the month of May yearly and application forms will be available in the General Office during the month of May.
+![Picture1.jpg](/images/Picture1.jpg)<br>
+JWSS Students who are interested in participating in the exchange programme may apply during the month of May yearly and application forms will be available in the General Office during the month of May.
 
   
 
-  
-
-Overseas Student Exchange Programme to Shizuoka, Japan (11 - 15 November 2019)
-------------------------------------------------------------------------------
+### Overseas Student Exchange Programme to Shizuoka, Japan (11 - 15 November 2019)
 
 Once again, students from JWSS had the opportunity to travel to Shizuoka, Japan for their yearly exchange programme, where we once again had a partnership with Mishima-Kita Senior High School.  
   
 This year's exchange programme saw our students taking part in various other activities such as Karate Do.&nbsp;Karate is a martial art developed in the Ryukyu Kingdom, Japan in the early 20th Century.&nbsp;  
 Out students also had the opportunity to try on the Kimono, which is a traditional Japanese garment and the national dress of&nbsp;Japan.  
   
+<br>
+<img src="/images/OSEP1.jpeg" 
+         style="width:500px"
+	/>
+<br>
 
-| ![OSEP1.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP1.jpeg)
-&nbsp;Before departure at Changi Airport
+<h4 style="color:purple" align="center">Before departure at Changi Airport</h4>
+
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
 
  | ![OSEP2.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP2.jpeg)
 
 Arrival at the foot of Mount Fuji
 
- |
-| --- | --- |
+ <br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+
 | ![OSEP3.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP3.jpeg)
 
 **A short intro to Mishima Kita Senior High School**
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
 
  | ![OSEP5.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP5.jpeg)
 
 **Having a sparing session of Karate Do**
-
- |
-| ![OSEP4.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP4.jpeg)
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+ ![OSEP4.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP4.jpeg)
 
 **Trying on the Kimono for the first time!**
 
- | ![OSEP6.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP6.jpeg)**A feast fit for a King?** |
-| ![OSEP8.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP8.jpeg)**Interacting with their Japanese friends** | ![OSEP7.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP7.jpeg)
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+![OSEP6.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP6.jpeg)**A feast fit for a King?** |
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+![OSEP8.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP8.jpeg)**Interacting with their Japanese friends** 
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+![OSEP7.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP7.jpeg)
 
 **"Itadakimasu!"**
-
- |
-
-  
-  
-  
-  
   
 
-18th Singapore - Hong Kong Exchange Programme (SHKEP) 2019
-----------------------------------------------------------
+## 18th Singapore - Hong Kong Exchange Programme (SHKEP) 2019
 
 The SHKEP is a signature programme between Singapore Ministry of Education (MOE) and Hong Kong Education Bureau (HK-EDB). The annual programme was first carried out in 2000 with 6 secondary schools from both Singapore and Hong Kong and this year, Jurong West Secondary School has been selected to be one of the participating schools in Singapore.
 
