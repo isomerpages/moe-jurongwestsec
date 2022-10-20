@@ -46,33 +46,29 @@ Out students also had the opportunity to try on the Kimono, which is a tradition
 <h4 style="color:purple" align="center">Having a sparing session of Karate Do</h4>
 
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/OSEP4.jpeg" 
          style="width:500px"
 	/>
- ![OSEP4.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP4.jpeg)
-
-**Trying on the Kimono for the first time!**
+<h4 style="color:purple" align="center">Trying on the Kimono for the first time!</h4>
 
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/OSEP6.jpeg" 
          style="width:500px"
 	/>
-![OSEP6.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP6.jpeg)**A feast fit for a King?** |
+<h4 style="color:purple" align="center">A feast fit for a King?</h4>
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/OSEP8.jpeg" 
          style="width:500px"
 	/>
-![OSEP8.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP8.jpeg)**Interacting with their Japanese friends** 
+<h4 style="color:purple" align="center">Interacting with their Japanese friends</h4>
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/OSEP7.jpeg" 
          style="width:500px"
 	/>
-![OSEP7.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP7.jpeg)
 
 **"Itadakimasu!"**
   
-
-## 18th Singapore - Hong Kong Exchange Programme (SHKEP) 2019
+### 18th Singapore - Hong Kong Exchange Programme (SHKEP) 2019
 
 The SHKEP is a signature programme between Singapore Ministry of Education (MOE) and Hong Kong Education Bureau (HK-EDB). The annual programme was first carried out in 2000 with 6 secondary schools from both Singapore and Hong Kong and this year, Jurong West Secondary School has been selected to be one of the participating schools in Singapore.
 
@@ -96,33 +92,29 @@ During Leg 1 (July) of the programme, students from Hong Kong came over to Singa
 
   
 
-| ![shkep1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/SHKEP/shkep1.jpg)Arrival of our Hong Kong buddies | ![shkep2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/SHKEP/shkep2.jpg)Group photo at Gardens By The Bay |
+| ![shkep1.jpg](/images/shkep1.jpg)Arrival of our Hong Kong buddies | ![shkep2.jpg](/images/shkep2.jpg)Group photo at Gardens By The Bay |
 | --- | --- |
-| ![shekp3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/SHKEP/shekp3.jpg)**Our students with their buddies solving the questions at GBTB** | ![shekp5.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/SHKEP/shekp5.jpg)**With their HK buddies at the Forest Dome** |
-| ![shekp7.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/SHKEP/shekp7.jpg)**All ready for an adventure at the River Safari** | ![shekp8.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/SHKEP/shekp8.jpg)**Ready to journey around the "world"** |
-| ![shekp4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/SHKEP/shekp4.jpg)**Group photo with our Hong Kong guests**&nbsp; &nbsp; |
+| ![shekp3.jpg](/images/shekp3.jpg)**Our students with their buddies solving the questions at GBTB** | ![shekp5.jpg](/images/shekp5.jpg)**With their HK buddies at the Forest Dome** |
+| ![shekp7.jpg](/images/shekp7.jpg)**All ready for an adventure at the River Safari** | ![shekp8.jpg](/images/shekp8.jpg)**Ready to journey around the "world"** |
+| ![shekp4.jpg](/images/shekp4.jpg)**Group photo with our Hong Kong guests**&nbsp; &nbsp; |
 
   
 
   
-
-  
-
-Overseas Student Exchange Programme to Shizuoka, Japan (5 - 9 November 2018)
-----------------------------------------------------------------------------
+### Overseas Student Exchange Programme to Shizuoka, Japan (5 - 9 November 2018)
 
 Students from JWSS had the opportunity again to travel to Shizuoka, Japan for their exchange programme, where we once again had a partnership with Shimizu Minami High School and Mishima-Kita Senior High School.  
   
 This year's exchange programme saw our students taking part in various other activities such as Kado, also known as the "way of&nbsp;flowers". The tradition dates back to the 7th century when&nbsp;floral&nbsp;offerings were made at altars. In modern days, these are placed in homes for their calming effect.&nbsp;  
 Besides the core programme of attending lessons in Japanese schools, our students also experienced earthquake at their earthquake simulation centre.  
   
-![WhatsApp Image 2018-11-17 at 12.33.13.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2018/WhatsApp%20Image%202018-11-17%20at%2012.33.13.jpeg)
+![](/images/WhatsApp%20Image%202018-11-17_1.jpeg)
 
 Taking a group photo with their Japanese buddies at Shimizu Minami Junior High School
 
   
 
-![WhatsApp Image 2018-11-17 at 12.33.16.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2018/WhatsApp%20Image%202018-11-17%20at%2012.33.16.jpeg)Attending a lesson on&nbsp;Japanese Literature (with some basic translation by their japanese buddies)
+![](/images/WhatsApp%20Image%202018-11-17_2.jpeg)Attending a lesson on&nbsp;Japanese Literature (with some basic translation by their japanese buddies)
 
   
 ![WhatsApp Image 2018-11-17 at 12.33.17.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2018/WhatsApp%20Image%202018-11-17%20at%2012.33.17.jpeg)
@@ -142,13 +134,9 @@ Our student trying her hand on Kado (Japanese Flower Arrangement)
 
   
   
-  
-  
 
-Overseas Student Exchange Programme to Shizuoka, Japan (6 - 10 November 2017)
------------------------------------------------------------------------------
+### Overseas Student Exchange Programme to Shizuoka, Japan (6 - 10 November 2017)
 
-  
 
 ![Japan OSEP Header (small).jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2017/Japan%20OSEP%20Header%20(small).jpg)As part of the school’s Internationalisation programme, JWSS students had an opportunity to travel to Shizuoka, Japan where the school has an exchange programme with Shimizu Minami High School and Mishima-Kita Senior High School which is accorded the status of a Super Global High School.  
   
