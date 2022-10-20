@@ -6,11 +6,11 @@ description: ""
 # Create Table
 
 
-J**urong West Secondary School** is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020. It was also reported in the media on 3 September 2019. ([read about it here!](https://www.channelnewsasia.com/news/singapore/subject-based-banding-secondary-schools-pilot-moe-11868662))
+**Jurong West Secondary School** is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020. It was also reported in the media on 3 September 2019. ([read about it here!](https://www.channelnewsasia.com/news/singapore/subject-based-banding-secondary-schools-pilot-moe-11868662))
 
   
 
-![fsbb1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Subject%20Based%20Banding/fsbb1.jpg)  
+![fsbb1.jpg](/images/fsbb1.jpg)  
 
   
 
@@ -20,7 +20,7 @@ With Full SBB, all schools are moving towards one secondary education, with many
   
 Click the video below to learn more about what our Deputy Director-General of Education (Schools), Ms Liew Wei Li has to say about Full Subject Based Banding.  
   
-![ddge.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Subject%20Based%20Banding/ddge.jpg)  
+![ddge.jpg](/images/ddge.jpg)  
   
   
 At Jurong West Secondary School, in addition to being able to offer English Language / Mathematics / Science / Chinese Language / Malay Language / Tamil Language, eligible students will be able to offer the Humanities (Geography / History / Literature) at a more demanding level from 2020 onwards.  
@@ -39,10 +39,9 @@ Offering of Humanities subjects at a more demanding level from Secondary 2; and 
   
   
 
-**Full SBB Pilot @ Jurong West Secondary School in 2021 – Enhancing the JW Experience for our students**
---------------------------------------------------------------------------------------------------------
+#### Full SBB Pilot @ Jurong West Secondary School in 2021 – Enhancing the JW Experience for our students
 
-  
+ convert to html table
 
 | 
 **Option**
