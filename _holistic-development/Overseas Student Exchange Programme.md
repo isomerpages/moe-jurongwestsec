@@ -28,30 +28,23 @@ Out students also had the opportunity to try on the Kimono, which is a tradition
 <h4 style="color:purple" align="center">Before departure at Changi Airport</h4>
 
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/OSEP2.jpeg" 
          style="width:500px"
 	/>
-
- | ![OSEP2.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP2.jpeg)
-
-Arrival at the foot of Mount Fuji
+<br>
+<h4 style="color:purple" align="center">Arrival at the foot of Mount Fuji</h4>
 
  <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/OSEP3.jpeg" 
          style="width:500px"
 	/>
-
-| ![OSEP3.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP3.jpeg)
-
-**A short intro to Mishima Kita Senior High School**
+<h4 style="color:purple" align="center">A short intro to Mishima Kita Senior High School</h4>
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/OSEP5.jpeg" 
          style="width:500px"
 	/>
+<h4 style="color:purple" align="center">Having a sparing session of Karate Do</h4>
 
- | ![OSEP5.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Distinctive%20at%20JWSS/Overseas%20Student%20Exchange%20Programme/2019/Japan/OSEP5.jpeg)
-
-**Having a sparing session of Karate Do**
 <br>
 <img src="/images/cce1.jpg" 
          style="width:500px"
