@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Co–Curricular Framework.md
+      - Academic/.keep
       - Academic/Science.md
       - Academic/Promotion Criteria.md
-      - Academic/.keep
+      - Co–Curricular Framework.md
