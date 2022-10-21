@@ -103,28 +103,30 @@ description: ""
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 798px; height: 96px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 395px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Artist: Cheryl Ang Suhartono (3E3’21)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></font><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none;" target="_blank" href="https://cherylangs.wixsite.com/my-site/selected-works">https://cherylangs.wixsite.com/my-site/selected-works</a><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 395px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Artist: Ashurah Binte Sofyan (3E3’21)<br style="margin: 0px; outline: 0px; padding: 0px;"></b><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none;" target="_blank" href="https://ashurahandthewhales.wixsite.com/my-site">https://ashurahandthewhales.wixsite.com/my-site</a><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Artist: Nur Syarafana Binte Sulasi (2E1’21)</b><br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; white-space: pre;"></span><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none;" target="_blank" href="https://arah1902.wixsite.com/my-site">https://arah1902.wixsite.com/my-site</a><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Artist: Tan Kai Ting, Kes (2E1’21)</b><br style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none;" target="_blank" href="https://kestan07.wixsite.com/my-site-1">https://kestan07.wixsite.com/my-site-1</a><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Artist: Valerie Tay Yujie (1 Integrity’21)</b><br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; white-space: pre;"></span><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none;" target="_blank" href="https://valerietay08.wixsite.com/my-site">https://valerietay08.wixsite.com/my-site</a><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Artist: Putri Hana Sufia Binte Karudin (1 Integrity’21)</b><br style="margin: 0px; outline: 0px; padding: 0px;"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none;" target="_blank" href="https://putrihanasufia.wixsite.com/my-site">https://putrihanasufia.wixsite.com/my-site</a></font><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td></tr></tbody></table>
 
   
-
-  
-
-  
-
-### **Highlights in 2020**
-
-**The Singapore Youth Festival (SYF) 2020**  
-
-|   
-  
-![B.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2020/B.jpg)  
-Student Artist: Goh Min Xuan Ebelle (4E4’20) | ![C.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2020/C.jpg)  
-Student Artist: Iklil Nur Atiqah Binte Rus Lee (4E4’20) |
-| --- | --- |
-| ![D.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2020/D.jpg)&nbsp;  
-Student Artist: Amelia Fu Meile (1T1’20) | ![E.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Clubs%20&amp;%20Societies/Art%20Club/2020/E.jpg)  
-Student Artist: Cheryl Ang Suhartono |
-
-  
-
-* * *
+<h4 style="color:purple" align="center">Highlights in 2020 The Singapore Youth Festival (SYF) 2020</h4>
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm"><br><img src="/images/B1.jpg" alt="B.jpg" width="406" height="407"><span style="font-weight:400">#Student Artist: Goh Min Xuan Ebelle (4E4’20)</span></th>
+    <th class="tg-amwm"><img src="/images/C1.jpg" alt="C.jpg" width="345" height="485"><span style="font-weight:400">#Student Artist: Iklil Nur Atiqah Binte Rus Lee (4E4’20)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/d1.jpg" alt="D.jpg" width="552"># <br>Student Artist: Amelia Fu Meile (1T1’20)</td>
+    <td class="tg-0lax"><img src="/images/EEE.jpg" alt="E.jpg" width="539" height="725">#Student Artist: Cheryl Ang Suhartono</td>
+  </tr>
+</tbody>
+</table>
 
 **Live-On Competition by National Organ Transplant Unit**  
 
