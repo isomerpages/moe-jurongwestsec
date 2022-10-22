@@ -184,3 +184,41 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 <h4 style="color:purple" align="center">3. Unlock creativity through digital doodling &amp; painting workshop</h4>
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; width: 766px; height: 0px;" class="iveo_table ives_tab_simple ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">In this program, students focus on exercising the creative side of their minds through concept exploration, mind stimulation, creative visual expression, group interaction as well as exposure to how to make good use of the innovative digital imaging software program. The artwork created by students were given to teachers as an appreciation Teachers’ Day gift.</b></font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 383px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 389px; height: 517px;" class="ive_eobj_center" alt="artclub11.jpg" src="/images/artclub11.jpg"></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 383px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 390px; height: 518px;" class="ive_eobj_center" alt="artclub12.jpg" src="/images/artclub12.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 389px; height: 518px;" class="ive_eobj_center" alt="artclub13.jpg" src="/images/artclub13.jpg"></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 390px; height: 518px;" class="ive_eobj_center" alt="artclub14.jpg" src="/images/artclub14.jpg"></td></tr></tbody></table></div></li></ul>
+</div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2"><h5 style="color:darkblue">Environmental Science Club</h5></label>
+<div>
+
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p><strong>About Environmental Science Club</strong></p>
+<p>The JWSS Science Club is dedicated to enriching the science culture in Jurong West Secondary School as well as promoting environmental conservation and raising awareness to preserve the biodiversity of Singapore.</p>
+<p>Check us out on our Instagram:  <a href="https://instagram.com/jwssesc?igshid=YmMyMTA2M2Y=">Link</a></p>
+
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+
+
+</div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3"><h5 style="color:darkblue">JWSS Colours Award 2019</h5></label>
+<div>
+</div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4"><h5 style="color:darkblue">JWSS Colours Award 2019</h5></label>
+<div>
