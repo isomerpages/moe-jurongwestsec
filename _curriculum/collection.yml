@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Performing Arts.md
       - Academic/.keep
       - Academic/Science.md
       - Academic/Promotion Criteria.md
       - Co–Curricular Framework.md
       - Clubs & Societies.md
+      - Performing Arts.md
