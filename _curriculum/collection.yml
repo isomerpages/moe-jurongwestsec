@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Clubs & Society.md
       - Academic/.keep
       - Academic/Science.md
       - Academic/Promotion Criteria.md
