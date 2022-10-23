@@ -1241,3 +1241,152 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
   </tr>
 </tbody>
 </table>
+	
+<h4 style="color:purple" align="center">Achievements</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-6cvf{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Competition</span></th>
+    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Achievement</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-djlw"><span style="font-weight:400">Singapore Secondary Schools Debating Championships (Division III)</span></td>
+    <td class="tg-6cvf"><span style="font-weight:400">Top 20 Speaker Awards</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">2022</span></td>
+  </tr>
+  <tr>
+    <td class="tg-6cvf">Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-6cvf">Certificate of Distinction</td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> Singapore Secondary Schools Debating Championships (Division III)</td>
+    <td class="tg-ii8k"><span style="font-weight:normal">3rd Place &amp; Top 20 Speaker Awards </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">2021</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> Division III Debating Championships</td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Top 4 (Semi-Finalists) &amp; Top 20 Speaker Awards </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">2021</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal"> Debate Association Debating Championships</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal"> 17th Ranked Speaker of Tournament (Silver Division)</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">SYF Arts Presentation</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal"> Certificate of Accomplishment</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">Singapore Secondary Schools Debating Championships (Division III)</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Top 4 (Semi-Finalists)</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal"> Singapore Secondary Schools Debating Championships (Division III)</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal"> Top 8 (Quarter-Finalists) &amp; Top 20 Speakers</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">2018</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">Evergreen Debate Invitational </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">First Runner Up </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">2018</span></td>
+  </tr>
+</tbody>
+</table>
+<h4 style="color:purple" align="center">Activities</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-xvg2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-6cvf{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xvg2">Competition<br></th>
+    <th class="tg-xvg2">Year</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-djlw">JWSS 21st Speech &amp; Prize Giving Day</td>
+    <td class="tg-6cvf">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-6cvf">March Bonding Camp</td>
+    <td class="tg-6cvf">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> Singapore Secondary Schools Debating Championships (Division III)</td>
+    <td class="tg-ii8k">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Debate Association’s Debating Championships</td>
+    <td class="tg-ii8k">2022</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">e-CCA Open House</td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> March Bonding Camp</td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> Division III Debating Championships</td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Debate Association’s Debating Championships </td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> Hua Yi Debate Invitational</td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> JWSS 20th Speech &amp; Prize Giving Day</td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> National Day Celebration</td>
+    <td class="tg-ii8k">2021</td>
+  </tr>
+</tbody>
+</table>
+<h4 style="color:purple" align="center">Title: 3rd Place in the Online Singapore Secondary Schools Debating Championships (Division III)</h4>
+<br>
+<img src="/images/el1.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p>Five student debaters \[left to right: Chua Hong Xuan (4T1) Mao Misel Ananda Pertiwi (4E3), Wong Pei Jun (4E3), Tee Xinyi (4E3) and Jeff Cheah (4E3)\] from English Language Drama and Debating (ELDD) achieved 3rd place in the Online Singapore Secondary Schools Debating Championships. Wong Pei Jun and Jeff Cheah also received top accolades at the tournament by ranking 6th and 10th Best Speaker respectively in the tournament.</p><br>
+<p>Due to safe distancing measures taken to combat COVID-19, the tournament was held on the Zoom platform from February to April. The debaters had an enriching and invaluable experience as they sparred with various schools on issues such as mandatory vaccinations during a pandemic, the impact of superhero narratives in the media, and the impact of televised singing competitions.</p><br>
+<p>Congratulations to the debaters for rising to the challenge and displaying excellence and resilience!</p>
