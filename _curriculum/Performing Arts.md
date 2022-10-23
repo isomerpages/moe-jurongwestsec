@@ -316,7 +316,441 @@ Mdm Siti Aisah (2 IC)</td>
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:purple">Concert Band</h5></label>
 <div>
 
-![Image A_Speech Day_2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2022/Image%20A_Speech%20Day_2.jpg)
+<br>
+<img src="/images/Image A_Speech Day_2.jpg" 
+         style="width:500px"
+	/>
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="3"><span style="font-weight:bold">CCA Schedule</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Training Venue</td>
+    <td class="tg-a4yv">Training Day One</td>
+    <td class="tg-a4yv">Training Day Two</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Band Room</td>
+    <td class="tg-ktyi">Monday 3.45 pm - 6.15 pm</td>
+    <td class="tg-ktyi">Wednesday 3.45 pm - 6.15 pm</td>
+  </tr>
+</tbody>
+</table>	
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Organisation Chart</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Teachers-In-Charge</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Mdm Zhang Lixia (OIC)<br>  
+Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
+  </tr>
+</tbody>
+</table>
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-g7kj">Instructors</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6bzh">Mr Vincent Lee</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kpb2" colspan="2">Executive Committee</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vo25">Band Major</td>
+    <td class="tg-vo25">Soon Kai De (3E2))</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Band Major (Music)</td>
+    <td class="tg-vo25">Hayden Siah Seng Tat (3E1)</td>
+  </tr>
+ <tr>
+    <td class="tg-vo25">Band Major (Admin)</td>
+    <td class="tg-vo25">Chloe Tay Xin Ying (3E4)<br></td>
+  </tr>
+</tbody>
+</table>
+
+<h4 style="color:purple" align="center">CCA Objectives</h4>
+<p style="text-align: center"><strong>At  Jurong West Secondary School Concert Band, we aim to:</strong></p>
+<p>Develop and nurture the fundamental skills necessary to perform a repertoire of a symphonic nature for various occasions,foster camaraderie and teamwork among our members through planned programmes and activities, and create opportunities for members to hone their leadership skills and enhance their self-confidence</p>
+<h4 style="color:purple" align="center">Achievements</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Competition</th>
+    <th class="tg-a4yv">Achievement</th>
+    <th class="tg-a4yv">Year</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">SYF Arts Presentation</td>
+    <td class="tg-lygy">Certificate of Accomplishment</td>
+    <td class="tg-lygy">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SYF Arts Presentation</td>
+    <td class="tg-lygy">Certificate of Accomplishment</td>
+    <td class="tg-lygy">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SYF Arts Presentation</td>
+    <td class="tg-lygy">Certificate of Accomplishment</td>
+    <td class="tg-lygy">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SYF Arts Presentation</td>
+    <td class="tg-lygy">Certificate of Accomplishment</td>
+    <td class="tg-lygy">2015</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SYF Arts Presentation</td>
+    <td class="tg-lygy">Certificate of Accomplishment</td>
+    <td class="tg-lygy">2013</td>
+  </tr>
+</tbody>
+</table>
+
+<h4 style="color:purple" align="center">List of Activities & Performances</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activities</th>
+    <th class="tg-a4yv">2022<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">CCA Open House<br></td>
+    <td class="tg-7yig">January</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Chinese New Year Performance</td>
+    <td class="tg-7yig">January</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Annual Band Camp</td>
+    <td class="tg-7yig">March</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Speech Day</td>
+    <td class="tg-7yig">April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Sec 4 Farewell</td>
+    <td class="tg-7yig">April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  CCA Exchange Day</td>
+    <td class="tg-7yig">May</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Band Concert Appreciation</td>
+    <td class="tg-7yig">June</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Annual JWSS National Day Parade</td>
+    <td class="tg-7yig">August</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activities</th>
+    <th class="tg-a4yv">2021<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">CCA Open House<br></td>
+    <td class="tg-7yig">January</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Chinese New Year Performance</td>
+    <td class="tg-7yig">January</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Annual Band Camp</td>
+    <td class="tg-7yig">March</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Workshop Youth Arts Leader Conference</td>
+    <td class="tg-7yig">January - September</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Sec 4 Farewell</td>
+    <td class="tg-7yig">April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Speech Day</td>
+    <td class="tg-7yig">April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Annual JWSS National Day E-Concert</td>
+    <td class="tg-7yig">August</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Participation in Performing Arts Videography Workshop</td>
+    <td class="tg-7yig">November</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activities</th>
+    <th class="tg-a4yv">2020<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">20th ROTA Commander Course Commissioning Parade at Civil Defence Academy</td>
+    <td class="tg-7yig">January</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">CCA Open House<br></td>
+    <td class="tg-7yig">January</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Chinese New Year (CNY) Concert</td>
+    <td class="tg-7yig"> January</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Annual Band Camp</td>
+    <td class="tg-7yig"> March</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Annual JWSS Speech Day</td>
+    <td class="tg-7yig"> April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  CCA Online Zoom Session and Practices</td>
+    <td class="tg-7yig">March - August</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Annual JWSS National Day E-Concer</td>
+    <td class="tg-7yig">August</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Participation in Wind Bands Association Youth Arts Leaders Conference</td>
+    <td class="tg-7yig">September</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">  Participation in Combined Music CCA Leadership Camp</td>
+    <td class="tg-7yig">November</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activities</th>
+    <th class="tg-a4yv">2019<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">CCA Open House</td>
+    <td class="tg-7yig">January</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Band Concert Appreciation<br></td>
+    <td class="tg-7yig">February-October</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Annual Band Camp</td>
+    <td class="tg-7yig">March</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Music Exchange at Woodgrove Sec School</td>
+    <td class="tg-7yig"> March</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Music Exchange at Xinmin Sec School</td>
+    <td class="tg-7yig"> March</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Annual JWSS Speech Day</td>
+    <td class="tg-7yig">April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Singapore Youth Festival Arts Presentation 2019</td>
+    <td class="tg-7yig">April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Performing Arts Morning Assembly Showcase</td>
+    <td class="tg-7yig">April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Seniors’ Farewell Ceremony</td>
+    <td class="tg-7yig">April</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Performing Arts Sports Education Programme (SEP): Bubble Soccer</td>
+    <td class="tg-7yig">May</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Participation in Yuhua Leadership Training Camp</td>
+    <td class="tg-7yig">June</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Annual JWSS National Day Parade</td>
+    <td class="tg-7yig">August</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Participation in Wind Bands Association Youth Arts Leaders Conference</td>
+    <td class="tg-7yig">September</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Participation in Combined Music CCA Leadership Camp</td>
+    <td class="tg-7yig">November<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Overseas Immersion Trip to Bangkok, Thailand</td>
+    <td class="tg-7yig">November</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<h4 style="color:purple" align="center">Overall Immersion Trips</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Country</span></th>
+    <th class="tg-a4yv">Year of Travel<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">Bangkok, Thailand</td>
+    <td class="tg-baqh">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Hong Kong</td>
+    <td class="tg-baqh">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Hanoi, Vietnam</td>
+    <td class="tg-baqh">2016</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Kuala Lumpur, Malaysia</td>
+    <td class="tg-baqh">2015</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ho Chi Minh, Vietnam</td>
+    <td class="tg-baqh">2014</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Penang, Malaysia</td>
+    <td class="tg-baqh">2013</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Taiwan</td>
+    <td class="tg-baqh">2011</td>
+  </tr>
+</tbody>
+</table>
 ![Image 02.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2002.jpeg)
 
 Our principal, Mr. Michael, offers words of encouragement for the students prior their departure.
