@@ -1124,3 +1124,124 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 	/>
 <br>
 </div></li></ul>
+
+</li><li>
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:purple">English Language, Drama and Debating
+</h5></label>
+<div>
+	
+<br>
+<img src="/images/ELDD%20Website%20Main%20Pic.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yf8{background-color:#ffffff;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7yf8" colspan="3"><span style="font-weight:bold">CCA Schedule</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Training Venue</td>
+    <td class="tg-a4yv">Training Day One</td>
+    <td class="tg-a4yv">Training Day Two</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Learning Hive</td>
+    <td class="tg-ktyi">Monday 3.45 pm - 6.15 pm</td>
+    <td class="tg-ktyi">Wednesday 3.45 pm - 6.15 pm</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rrjb{background-color:#efefef;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gct1{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rrjb"><span style="font-weight:bold">Organisation Chart</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kpb2">Teachers-In-Charge</td>
+  </tr>
+  <tr>
+    <td class="tg-gct1">Ms Sandramathy (OIC)<br>Ms Cheryl Lim (2IC)<br>Ms Samantha Chin<br>Ms Faizal Bin Abdul Aziz<br></td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8d3w{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kpb2">Instructor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8d3w">Debate: Mr Leuven Lee<br>Drama: Ms Jaclyn Magdalene Rajendran</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8d3w{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kpb2" colspan="2">Executive Committee</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8d3w">President</td>
+    <td class="tg-lygy">Naomi Lim Hai Tong (3E2)</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Vice-Presidents</td>
+    <td class="tg-lygy">Rohini D/O Terence(SEC 3E2)<br>Keneshaarai D/O Perumal (3E4)<br></td>
+  </tr>
+</tbody>
+</table>
+	
+
+	
