@@ -186,18 +186,20 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 <table class="iveo_table ives_tab_simple ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; width: 766px; height: 0px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;"><b style="margin: 0px; outline: 0px; padding: 0px;">In this program, students focus on exercising the creative side of their minds through concept exploration, mind stimulation, creative visual expression, group interaction as well as exposure to how to make good use of the innovative digital imaging software program. The artwork created by students were given to teachers as an appreciation Teachers’ Day gift.</b></font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 383px;"><img src="/images/artclub11.jpg" alt="artclub11.jpg" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 389px; height: 517px;"></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 383px;"><img src="/images/artclub12.jpg" alt="artclub12.jpg" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 390px; height: 518px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><img src="/images/artclub13.jpg" alt="artclub13.jpg" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 389px; height: 518px;"></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><img src="/images/artclub14.jpg" alt="artclub14.jpg" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 390px; height: 518px;"></td></tr></tbody></table></div></li></ul>
 
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:purple">Environmental Science Club</h5></label>
-<div>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2"><h5 style="color:purple">Environmental Science Club</h5></label>
 
-<img style="width:500px" src="/images/env1.jpg">
+<img src="/images/env1.jpg" 
+         style="width:500px"
+	/>
 <br>
 <p><strong>About Environmental Science Club</strong></p>
 <p>The JWSS Science Club is dedicated to enriching the science culture in Jurong West Secondary School as well as promoting environmental conservation and raising awareness to preserve the biodiversity of Singapore.</p>
 <p>Check us out on our Instagram:&nbsp;&nbsp;<a href="https://instagram.com/jwssesc?igshid=YmMyMTA2M2Y=">Link</a></p>
-
 <br>
-<img style="width:500px" src="/images/env2.png">
+<img src="/images/env2.png" 
+         style="width:500px"
+	/>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -513,8 +515,8 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 </table>
 	
 <h4 align="center" style="color:purple">Highlights of 2021</h4>
-
-	Singapore Science Buskers  
+<p style="text-align: center"><strong>Singapore Science Buskers</strong></p>
+</p> 
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1131.98px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 550px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="WhatsApp Image 2021-11-03 at 09.00.38 1.jpeg" width="100%" src="/images/WhatsApp%20Image%202021-11-03-1.jpeg">Students presenting their science experiment to the judges, Singapore Science Buskers competition, final round.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 550px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="WhatsApp Image 2021-11-03 at 09.00.38.jpeg" width="100%" src="/images/WhatsApp%20Image%202021-11-03-2.jpeg">Before presenting their science experiment to the judges in final round of Singapore Science Busker competition.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 <br>
@@ -639,13 +641,12 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 
 <br>
 <img style="width:500px" src="/images/image018e.jpg">
-<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></div></li></ul>
+<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></div></li>
 
-
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:purple">Infocomm And Media Technology Club</h5></label>
-<div>
+<<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3"><h5 style="color:purple">Infocomm And Media Technology Club</h5></label>
+	<div>
 <img style="width:500px" src="/images/Splash01.png">
 <br>
 
@@ -889,4 +890,3 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 <p style="text-align: center"><strong>Our 2020 HBL Toy Photography Challenge</strong></p>
 </div>
 </li>
-</ul>
