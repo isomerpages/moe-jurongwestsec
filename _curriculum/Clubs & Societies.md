@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5 style="color:purple">Art Club</h5></label>
+		<label for="accordion1"><h5 style="color:Purple">Art Club</h5></label>
     <div>
 			<b>About Art Club</b>
 
