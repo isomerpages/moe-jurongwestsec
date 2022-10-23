@@ -1101,29 +1101,26 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 <p style="text-align: center"><strong>The gracious students and staff of Horwang School. The minute we entered their school compounds, we were received so warmly, it made us feel at home.</strong></p>
 
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/symphonic28.jpg" 
          style="width:500px"
 	/>
 <br>
 <p style="text-align: center"><strong></strong></p>
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/symphonic29.jpg" 
          style="width:500px"
 	/>
 <br>
 <p style="text-align: center"><strong></strong></p>
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/symphonic30.jpg" 
          style="width:500px"
 	/>
 <br>
 <p style="text-align: center"><strong></strong></p>
 <br>
-<img src="/images/cce1.jpg" 
+<img src="/images/symphonic31.jpg" 
          style="width:500px"
 	/>
 <br>
-<p style="text-align: center"><strong></strong></p>
-
-**![28.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/28.jpg)![29.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/29.jpg)![30.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/30.jpg)![31.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/31.jpg)**
 </div></li></ul>
