@@ -751,258 +751,379 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
   </tr>
 </tbody>
 </table>
-![Image 02.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2002.jpeg)
 
-Our principal, Mr. Michael, offers words of encouragement for the students prior their departure.
+<h4 style="color:purple" align="center">Activities & Competitions (2021)
+</h4>
+<b>YF Arts Presentation 2021</b>
+
+<p>On 12 April 2021, the Jurong West Concert Band (JWCB) participated in the annual Singapore Youth Festival (SYF) Arts Presentation. This was the event of the year for all Performing Arts CCA as they had the opportunity to showcase their talents. After many gruelling months of practice compounded by the difficulties put forth by the COVID-19 pandemic, the JWCB overcame all odds to put on their best performance of the year which was a rendition of Aston Overture. Having to receive feedback virtually and practise without their fellow bandmates, this was an event that built resilience and adaptability in the JWCB students. Despite these challenges, the JWCB managed to secure a Certificate of Accomplishment for their hard work.</p>
+
+<p>Our band students enjoying a spot of lunch before preparing for the SYF Presentation.</p>
+
+<br>
+<img src="/images/Image%2002.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>Our principal, Mr. Michael, offers words of encouragement for the students prior their departure.</strong></p>
+
+<br>
+<img src="/images/Image%2003.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>Our students and our conductor Mr. Vincent Lee (far right) are ready to depart.</strong></p>
+
+  
+<br>
+<img src="/images/Image%2004.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The students are on the way</strong></p>
+<br>
+<img src="/images/Image%2005.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The JWCB students adhere to strict safe-management measures while awaiting their turn.</strong></p>
+
+<br>
+<img src="/images/Image%2006.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The JWCB on stage for their SYF Presentation with conductor Mr. Vincent Lee.</strong></p>
+<h4 style="color:purple" align="center">Secondary 4 Farewell</h4>
+
+<p>On 14 April 2021, JWCB witnessed a change in the leadership. To celebrate the Secondary 4 students’ contributions and to welcome the new generation of leaders, the JWCB held a Secondary 4 Farewell event to see the old leaders off and to wish them well for their upcoming examinations. The students participated in a variety of fun activities like creating farewell cards for their seniors and many more. It was a good opportunity for the JWCB to have one final bonding session with the seniors as an entire CCA and to have the seniors hand over the proverbial torch to the next batch of leaders.</p>
+<br>
+<img src="/images/Image%2007.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>Ms. Huda presents Jamie, the outgoing Band Major, with a certificate of appreciation.</strong></p>
+
+<br>
+<img src="/images/Image%2008.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>Not to be outdone, the seniors presents Ms Huda with a handmade card to express their appreciation.</strong></p>
+<br>
+<img src="/images/Image%2009.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The band majors pose for a photograph for one last hurrah. Goodbye seniors, we will miss you!</strong></p>
+
+<h4 style="color:purple" align="center">March Band Camp</h4>
+
+
+<p>On 16 March 2021, the JWCB had a Band Camp to polish their skills and to build cohesion among themselves. The students engaged in various fun activities including team-bonding games and playing darts. It was a good opportunity for the students to unwind and relax prior the intensive SYF season. The students managed to learn values like teamwork and perseverance.</p> 
+
+  
+<br>
+<img src="/images/Image%2010.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The students are engaging in a bonding activity led by one of their Sec 4 seniors.</strong></p>
+<br>
+<img src="/images/Image%2011.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The students engage in fun activities like playing darts.
+</strong></p>
+
+<br>
+<img src="/images/Image%2012.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The students pose for a photograph as they enjoy their activity.</strong></p>
+
+<h4 style="color:purple" align="center">National Day E-Concert</h4>
+
+<p>On 8 August 2021, JWSS came together to celebrate the 56th birthday of our nation. In lieu of face-to-face celebrations in light of the COVID-19 pandemic, the JWCB put together a video of themselves playing a rendition of Stand Up for Singapore for the school’s enjoyment. Despite the operational challenges of such an undertaking, the JWCB students overcame these difficulties with grit and determination to produce a rousing performance.</p>
+
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1080px; height: 289px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 549px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 441px; height: 271px;" class="ive_eobj_center" alt="Image 16.jpg" width="100%" src="/images/Image%2016.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 523px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 17.jpg" width="100%" src="/images/Image%2017.jpg">&nbsp;</td></tr></tbody></table>&nbsp;
+
+ 
+
+<h4 style="color:purple" align="center">Resumption of Face-to-Face Sessions</h4>
+
+<p>In accordance with the brief relaxation of safe management measures nationwide, JWCB managed to experience some face-to-face CCA sessions. This provided some much-needed relief from the stringent measures. It also provided a rare opportunity for the students to have hands-on engagement with their CCA activities and to interact with their fellow bandmates.</p>
+
+<br>
+<img src="/images/Image%2013.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>Despite the inability to practise their woodwind or brass instruments, the JWCB students heaved a sigh of relief as they could at least practise their rhythms and rudiments face-to-face.</strong></p>
+
+<h4 style="color:purple" align="center">Performing Arts Videography Workshop</h4>
+
+<p>In November 2021, JWCB attended a virtual Videography Workshop with their fellow schoolmates from the Performing Arts CCAs. This workshop included lessons on the processes underlying film production. The students had the opportunity to learn new skills such as shot composition and storyboarding. This was on top of an opportunity to form new bonds with their schoolmates.</p>
+
+  
+<br>
+<img src="/images/Image%2014.png" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The students discuss their ideas for a short film with their schoolmates.</strong></p>
+<br>
+<img src="/images/Image%2015.png" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The students share their ideas with the workshop instructor.</strong></p>
 
   
 
-![Image 03.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2003.jpeg)
+<h4 style="color:purple" align="center">Activities &amp; Competitions (2020)
+</h4>
+<br>
+<img src="/images/symphonic01.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>20th ROTA COMMANDER COURSE (RCC) COMMISSIONING PARADE REHEARSAL</strong></p>
+<p>Held at Civil Defence Academy, JWSS Symphonic Band is once again hounoured to be a part of this milestone event for the 20th&nbsp;RCC commissioned officers.</p>
+<br>
+<img src="/images/symphonic02.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>A shot with the Guest-of-Honour, Ms Sun Xue Ling, Senior Parliamentary Secretary, Ministry of Home Affairs and Ministry of National Development during reception session.</strong></p>
+<br>
+<img src="/images/symphonic03.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>WEEKLY PRACTICE SESSIONS IN THE BAND ROOM- The newly refurbished flooring creates an even more conducive environment for our weekly practice sessions.</strong></p>
 
-Our students and our conductor Mr. Vincent Lee (far right) are ready to depart.
-
+<br>
+<img src="/images/ACB.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<br>
+<img src="/images/BCB.jpeg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>CNY CONCERT PERFORMANCE - Ushering in the new year with familiar CNY tunes, smiles and red packets.</strong></p>
   
-
-![Image 04.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2004.jpeg)
-
-The students are on the way.
-
-  
-
-![Image 05.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2005.jpeg)
-
-The JWCB students adhere to strict safe-management measures while awaiting their turn.
-
-  
-
-![Image 06.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2006.jpg)
-
-The JWCB on stage for their SYF Presentation with conductor Mr. Vincent Lee.
-
-  
-
-* * *
-
-  
-
-**Secondary 4 Farewell**
-
-On 14 April 2021, JWCB witnessed a change in the leadership. To celebrate the Secondary 4 students’ contributions and to welcome the new generation of leaders, the JWCB held a Secondary 4 Farewell event to see the old leaders off and to wish them well for their upcoming examinations. The students participated in a variety of fun activities like creating farewell cards for their seniors and many more. It was a good opportunity for the JWCB to have one final bonding session with the seniors as an entire CCA and to have the seniors hand over the proverbial torch to the next batch of leaders.  
-
-  
-
-![Image 07.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2007.jpeg)
-
-Ms. Huda presents Jamie, the outgoing Band Major, with a certificate of appreciation.
-
-  
-
-![Image 08.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2008.jpeg)
-
-Not to be outdone, the seniors presents Ms Huda with a handmade card to express their appreciation.  
-
-  
-
-![Image 09.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2009.jpeg)
-
-The band majors pose for a photograph for one last hurrah. Goodbye seniors, we will miss you!
-
-  
-
-* * *
-
-  
-
-**March Band Camp**
-
-On 16 March 2021, the JWCB had a Band Camp to polish their skills and to build cohesion among themselves. The students engaged in various fun activities including team-bonding games and playing darts. It was a good opportunity for the students to unwind and relax prior the intensive SYF season. The students managed to learn values like teamwork and perseverance.&nbsp;  
-
-  
-
-![Image 10.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2010.jpeg)
-
-The students are engaging in a bonding activity led by one of their Sec 4 seniors.
-
-  
-
-![Image 11.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2011.jpeg)
-
-The students engage in fun activities like playing darts.
-
-&nbsp;  
-
-![Image 12.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2012.jpeg)&nbsp;
-
-The students pose for a photograph as they enjoy their activity.
-
-  
-
-* * *
-
-  
-
-**National Day E-Concert**
-
-On 8 August 2021, JWSS came together to celebrate the 56th birthday of our nation. In lieu of face-to-face celebrations in light of the COVID-19 pandemic, the JWCB put together a video of themselves playing a rendition of Stand Up for Singapore for the school’s enjoyment. Despite the operational challenges of such an undertaking, the JWCB students overcame these difficulties with grit and determination to produce a rousing performance.
-
-&nbsp;<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1080px; height: 289px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 549px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 441px; height: 271px;" class="ive_eobj_center" alt="Image 16.jpg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2016.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 523px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 17.jpg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2017.jpg">&nbsp;</td></tr></tbody></table>&nbsp;
-
-  
-
-* * *
-
-  
-
-**Resumption of Face-to-Face Sessions**
-
-In accordance with the brief relaxation of safe management measures nationwide, JWCB managed to experience some face-to-face CCA sessions. This provided some much-needed relief from the stringent measures. It also provided a rare opportunity for the students to have hands-on engagement with their CCA activities and to interact with their fellow bandmates.&nbsp;  
-
-  
-
-![Image 13.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2013.jpg)
-
-  
-
-Despite the inability to practise their woodwind or brass instruments, the JWCB students heaved a sigh of relief as they could at least practise their rhythms and rudiments face-to-face.
-
-  
-
-* * *
-
-  
-
-**Performing Arts Videography Workshop**
-
-In November 2021, JWCB attended a virtual Videography Workshop with their fellow schoolmates from the Performing Arts CCAs. This workshop included lessons on the processes underlying film production. The students had the opportunity to learn new skills such as shot composition and storyboarding. This was on top of an opportunity to form new bonds with their schoolmates.&nbsp;  
-
-  
-
-![Image 14.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2014.png)
-
-The students discuss their ideas for a short film with their schoolmates.
-
-  
-
-![Image 15.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2021/Image%2015.png)
-
-The students share their ideas with the workshop instructor.
-
-  
-
-**Activities &amp; Competitions (2020)**
-------------------------------------
-
-![01.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/01.jpg)
-
-**20th&nbsp;ROTA COMMANDER COURSE (RCC) COMMISSIONING PARADE REHEARSAL**\- Held at Civil Defence Academy, JWSS Symphonic Band is once again hounoured to be a part of this milestone event for the 20th&nbsp;RCC commissioned officers.
-
-**![02.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/02.jpg)**
-
-**20th&nbsp;ROTA COMMANDER COURSE (RCC) COMMISSIONING PARADE**\- A shot with the Guest-of-Honour, Ms Sun Xue Ling, Senior Parliamentary Secretary, Ministry of Home Affairs and Ministry of National Development during reception session.
-
-![03.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/03.jpg)
-
-**WEEKLY PRACTICE SESSIONS IN THE BAND ROOM**\- The newly refurbished flooring creates an even more conducive environment for our weekly practice sessions.
-
-![A.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/CNY%20CONCERT%20PERFORMANCE/A.jpeg)
-
-![B.jpeg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/CNY%20CONCERT%20PERFORMANCE/B.jpeg)
-
-**CNY CONCERT PERFORMANCE**&nbsp;–&nbsp; Ushering in the new year with familiar CNY tunes, smiles and red packets.  
-
-![C.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/BAND%20DAY%20CAMP/C.jpg)
-
-![D.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/BAND%20DAY%20CAMP/D.jpg)
-
-![E.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/BAND%20DAY%20CAMP/E.jpg)
-
-**BAND DAY CAMP**&nbsp;– Held in early March 2020, Band Day Camp paved way for bonding outside practice sessions. We are so grateful for chances like these!  
-
-![F.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/CCA%20ONLINE%20ZOOM%20SESSIONS/F.jpg)  
-
-**CCA ONLINE ZOOM SESSIONS**&nbsp;–&nbsp; Sessions still went on and we made sure we see each other online when face-to-face CCA was suspended. We did a combination of online activities with an aim to provide students with meaningful learning experiences. From simple music composition to getting into the shoes of a band judge, teachers and instructors work together to curate instructional resources to maximise students’ learning.&nbsp;  
-
-![G.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/NATIONAL%20DAY%20E-CONCERT/G.jpg)  
-
-NATIONAL DAY E-CONCERT – In a special performing arts segment, the band members put together a piece by playing to the tune of ‘One People, One Nation, One Singapore’.  
-
-* * *
-
-**Activities &amp; Competitions (2019)**
-
-![04.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/04.jpg)
-
-**CCA OPEN HOUSE -**&nbsp;Alumni joining us for CCA Open House to support their fellow juniors and share their insights on the reasons why Band truly makes an excellent CCA choice
-
-![05.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/05.jpg)
-
-**BAND CAMP -**&nbsp;Band Members displaying their creative talent in designing other than playing their instruments. Other than sectionals and practices to prepare for SYF, Band Camp aims to provide an opportunity for members to bond through games and activities.
-
-**![06.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/06.jpg)**
-
-**MUSIC EXCHANGE AT WOODGROVE -**&nbsp;The trumpet section getting useful pointers on the importance of proper embouchure, which allows them to play their instrument at full range with a full, clear tone and without any strain to their muscles.
-
-**![07.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/07.jpg)**
-
-**MUSIC EXCHANGE AT XINMIN –**&nbsp;JWSS Symphonic Band &nbsp;listened on as fellow musicians present their SYF set piece, Festival on Earth by Lee Jin Jun. Music Exchanges provide a good chance for band members to develop critical listening skills with an aim to improve instrumental tone quality and awareness towards other instruments in band as well.&nbsp;
-
-**![08.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/08.jpg)**
-
-**MUSIC EXCHANGE AT XINMIN -**&nbsp;The SYF team is ready to give their best on the SYF stage after gaining useful pointers and exposure from fellow musicians of their age. This definitely makes them feel extremely thrilled to be a part of the band movement in Singapore.&nbsp;
-
-![09.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/09.jpg)
-
-**SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION 2019–**&nbsp;Captured just minutes before entering the SYF Hall!
-
-![10.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/10.jpg)
-
-**SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION 2019 –**&nbsp;The continual journey of self-improvement and the friendship formed among JWSS Symphonic Band members throughout preparing for SYF makes all the hard work worthwhile!
-
-![11.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/11.jpg)
-
-**JWSS SPEECH DAY REHEARSAL –**&nbsp;Melodious tunes for the audience to enjoy during the concert segment.
-
-![12.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/12.jpg)
-
-**JWSS SPEECH DAY –**&nbsp;Our very own student conductor, Izzati Majinin (4N1) helming the parade segment.
-
-![13.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/13.jpg)
-
-**PERFORMING ARTS MORNING ASSEMBLY SHOWCASE –**&nbsp;A special showcase from the Band for their schoolmates to brighten their day!
-
-![15.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/15.jpg)![16.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/16.jpg)**SENIORS’ FAREWELL –**&nbsp;Trusty Band Majors, Izzati and Kyle Anne, are always there for the Band members whenever they needed guidance.![17.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/17.jpg)  
-
-**SENIORS’ FAREWELL –**&nbsp;Trusty Band Majors, Izzati and Kyle Anne, are always there for the Band members whenever they needed guidance.&nbsp;With every outgoing JWSB cohort, goodbyes do not get any easier. With every passing batch too, seniors never fail to reaffirm the reasons why all the juniors should stay on and push through challenging times in Band. All the best, seniors!
-
-**![18.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/18.jpg)**
-
-**![19.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/19.jpg)**
-
-**JWSS ANNUAL NATIONAL DAY PARADE –**&nbsp;Newly-minted Band Major and Student Conductor, Iffah Haziqah, leading the Band in the parade segment. Definitely not an easy task but she does it exceedingly well under the guidance of our instructor, Mr Vincent Lee and the strong support from all the band members.
-
-**![20.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/20.jpg)**
-
-**OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –**&nbsp;JWSS Symphonic Band embark on this journey which aims&nbsp;for students to interact through planned programs and school immersion activities conducted at local schools, improve students’ musical skills through exchange and sectionals sessions with local counterparts and foster camaraderie, cross-cultural interaction and bonding among fellow musicians from Bangkok.
-
-**![21.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/21.jpg)![22.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/22.jpg)**
-
-****OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –**&nbsp;The Grand Palace of Thailand and The Rattanakosin Exhibition Hall were two iconic places in Bangkok which allow students to immerse themselves in the Thai way of life and understand their utmost respect for The King**.****
-
-**![23.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/23.jpg)![24.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/24.jpg)**
-
-****OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –**&nbsp;Band members face up to the challenge of painting their puppet meticulously at Tookkatoon Thai Puppet Museum.&nbsp;Besides learning about the history of Thai Puppetry, students witness the delicate process of making traditional Thai puppets and get to enjoy a mesmerizing Thai Puppet Show.**
-
-&nbsp;**![25.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/25.jpg)**
-
-**OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –**&nbsp;Band members spent a&nbsp;wonderful night in Thai style with authentic Thai cuisine, Traditional Thai dance and live music at&nbsp;Nopparat Thai Classical Dance and Dinner Restaurant.
-
-**![26.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/26.jpg)**
-
-**OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –**&nbsp;A shot at Paper Ranger, Thailand. JWSB members doing their part for the community by threading, piecing and folding used one-side papers together to make a notebook for the needy children in the rural areas. In total, our overseas team of 23 made and designed 52 notebooks!
-
-**![27.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/27.jpg)**
-
-**OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –**&nbsp;The gracious students and staff of Horwang School. The minute we entered their school compounds, we were received so warmly, it made us feel at home.
+<br>
+<img src="/images/CCB.jpg" 
+         style="width:500px"
+	/>
+<br>
+
+<br>
+<img src="/images/DCB.jpg" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/ECB.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>BAND DAY CAMP – Held in early March 2020, Band Day Camp paved way for bonding outside practice sessions. We are so grateful for chances like these!  </strong></p>
+
+
+
+<br>
+<img src="/images/FCB.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>CCA ONLINE ZOOM SESSIONS - Sessions still went on and we made sure we see each other online when face-to-face CCA was suspended. We did a combination of online activities with an aim to provide students with meaningful learning experiences. From simple music composition to getting into the shoes of a band judge, teachers and instructors work together to curate instructional resources to maximise students’ learning.</strong></p>
+
+<br>
+<img src="/images/GCB.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>NATIONAL DAY E-CONCERT – In a special performing arts segment, the band members put together a piece by playing to the tune of ‘One People, One Nation, One Singapore</strong></p>  
+
+
+<h4 style="color:purple" align="center">Activities & Competitions (2019)</h4>
+<br>
+<img src="/images/symphonic04.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>CCA OPEN HOUSE - Alumni joining us for CCA Open House to support their fellow juniors and share their insights on the reasons why Band truly makes an excellent CCA choice</strong></p>
+
+<br>
+<img src="/images/symphonic05.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>BAND CAMP - Band Members displaying their creative talent in designing other than playing their instruments. Other than sectionals and practices to prepare for SYF, Band Camp aims to provide an opportunity for members to bond through games and activities.</strong></p>
+<br>
+<img src="/images/symphonic06.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>MUSIC EXCHANGE AT WOODGROVE - The trumpet section getting useful pointers on the importance of proper embouchure, which allows them to play their instrument at full range with a full, clear tone and without any strain to their muscles.</strong></p>
+<br>
+<img src="/images/symphonic07.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>MUSIC EXCHANGE AT XINMIN – JWSS Symphonic Band &nbsp;listened on as fellow musicians present their SYF set piece, Festival on Earth by Lee Jin Jun. Music Exchanges provide a good chance for band members to develop critical listening skills with an aim to improve instrumental tone quality and awareness towards other instruments in band as well.</strong></p>
+
+<br>
+<img src="/images/symphonic08.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>MUSIC EXCHANGE AT XINMIN - The SYF team is ready to give their best on the SYF stage after gaining useful pointers and exposure from fellow musicians of their age. This definitely makes them feel extremely thrilled to be a part of the band movement in Singapore.</strong></p>
+
+<br>
+<img src="/images/symphonic09.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION 2019–Captured just minutes before entering the SYF Hall!</strong></p>
+
+<br>
+<img src="/images/symphonic10.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION 2019 –The continual journey of self-improvement and the friendship formed among JWSS Symphonic Band members throughout preparing for SYF makes all the hard work worthwhile!</strong></p>
+
+<br>
+<img src="/images/symphonic11.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>JWSS SPEECH DAY REHEARSAL – Melodious tunes for the audience to enjoy during the concert segment.</strong></p>
+
+<br>
+<img src="/images/symphonic12.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>JWSS SPEECH DAY – Our very own student conductor, Izzati Majinin (4N1) helming the parade segment.</strong></p>
+<br>
+<img src="/images/symphonic13.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>PERFORMING ARTS MORNING ASSEMBLY SHOWCASE – A special showcase from the Band for their schoolmates to brighten their day!</strong></p>
+
+<br>
+<img src="/images/symphonic15.jpg" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/symphonic16.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>SENIORS’ FAREWELL – Trusty Band Majors, Izzati and Kyle Anne, are always there for the Band members whenever they needed guidance.</strong></p>
+
+<br>
+<img src="/images/symphonic17.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>SENIORS’ FAREWELL – Trusty Band Majors, Izzati and Kyle Anne, are always there for the Band members whenever they needed guidance.&nbsp;With every outgoing JWSB cohort, goodbyes do not get any easier. With every passing batch too, seniors never fail to reaffirm the reasons why all the juniors should stay on and push through challenging times in Band. All the best, seniors!</strong></p>
+<br>
+<img src="/images/symphonic18.jpg" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/symphonic19.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>JWSS ANNUAL NATIONAL DAY PARADE – Newly-minted Band Major and Student Conductor, Iffah Haziqah, leading the Band in the parade segment. Definitely not an easy task but she does it exceedingly well under the guidance of our instructor, Mr Vincent Lee and the strong support from all the band members.</strong></p>
+
+<br>
+<img src="/images/symphonic20.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –JWSS Symphonic Band embark on this journey which aims&nbsp;for students to interact through planned programs and school immersion activities conducted at local schools, improve students’ musical skills through exchange and sectionals sessions with local counterparts and foster camaraderie, cross-cultural interaction and bonding among fellow musicians from Bangkok.</strong></p>
+
+<br>
+<img src="/images/symphonic21.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong></strong></p>
+<br>
+<img src="/images/symphonic22.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –The Grand Palace of Thailand and The Rattanakosin Exhibition Hall were two iconic places in Bangkok which allow students to immerse themselves in the Thai way of life and understand their utmost respect for The King</strong></p>
+
+<br>
+<img src="/images/symphonic23.jpg" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/symphonic24.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>Band members face up to the challenge of painting their puppet meticulously at Tookkatoon Thai Puppet Museum. Besides learning about the history of Thai Puppetry, students witness the delicate process of making traditional Thai puppets and get to enjoy a mesmerizing Thai Puppet Show.</strong></p>
+
+
+<br>
+<img src="/images/symphonic25.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>Band members spent a wonderful night in Thai style with authentic Thai cuisine, Traditional Thai dance and live music at Nopparat Thai Classical Dance and Dinner Restaurant.</strong></p>
+
+<br>
+<img src="/images/symphonic26.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>A shot at Paper Ranger, Thailand. JWSB members doing their part for the community by threading, piecing and folding used one-side papers together to make a notebook for the needy children in the rural areas. In total, our overseas team of 23 made and designed 52 notebooks!</strong></p>
+
+<br>
+<img src="/images/symphonic27.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>The gracious students and staff of Horwang School. The minute we entered their school compounds, we were received so warmly, it made us feel at home.</strong></p>
+
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong></strong></p>
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong></strong></p>
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong></strong></p>
+<br>
+<img src="/images/cce1.jpg" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong></strong></p>
 
 **![28.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/28.jpg)![29.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/29.jpg)![30.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/30.jpg)![31.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/Symphonic%20Band/2020/31.jpg)**
 </div></li></ul>
