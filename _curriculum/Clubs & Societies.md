@@ -4,10 +4,10 @@ permalink: /curriculum/clubs-n-societies/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-&nbsp;&nbsp;<li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-<label for="accordion1"><h5 style="color:purple">Art Club</h5></label>
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+  <li>
+    <input type="checkbox" id="accordion1">
+		<label for="accordion1"><h5 style="color:purple">Art Club</h5></label>
+    <div>
 			<b>About Art Club</b>
 
 <p>The Art Club provides the opportunity and space where creativity thinking is realised. It is a value–centred CCA where every JWSS art club member is a passionate advocate for arts.</p>
@@ -643,7 +643,7 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 <img style="width:500px" src="/images/image018e.jpg">
 <p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></div></li>
 
-<<li>
+<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h5 style="color:purple">Infocomm And Media Technology Club</h5></label>
 	<div>
