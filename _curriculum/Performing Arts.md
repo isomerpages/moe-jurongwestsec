@@ -1125,10 +1125,9 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 <br>
 </div></li></ul>
 
-</li><li>
+<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:purple">English Language, Drama and Debating
-</h5></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:purple">English Language, Drama and Debating</h5></label>
 <div>
 	
 <br>
