@@ -187,10 +187,9 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 
 <li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:darkblue">Environmental Science Club</h5></label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><h5 style="color:purple">Environmental Science Club</h5></label>
 <div>
 
-<br>
 <img style="width:500px" src="/images/env1.jpg">
 <br>
 <p><strong>About Environmental Science Club</strong></p>
@@ -640,13 +639,13 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 
 <br>
 <img style="width:500px" src="/images/image018e.jpg">
-<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></div>
-</li>
+<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></div></li></ul>
+
 
 <li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:purple">Infocomm And Media Technology Club</h5></label>
-<div><br>
+<div>
 <img style="width:500px" src="/images/Splash01.png">
 <br>
 
@@ -890,4 +889,4 @@ Our students participated in the 2019 National Day Observance at Bukit Batok Eas
 <p style="text-align: center"><strong>Our 2020 HBL Toy Photography Challenge</strong></p>
 </div>
 </li>
-
+</ul>
