@@ -1415,140 +1415,102 @@ convert from jfif pls
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/B5.jpg">
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/B7.jpg">
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/B6.jpg">
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We performed a skit and set up a booth during CCA Open House</span></td>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We emerged as the Top 4 teams in the Singapore Secondary Schools Debating Championships. The intense preparations definitely paid off!</span></td>
   </tr>
 </tbody>
-</table>
-![B5.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/B5.jpg)![B7.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/B7.jpg)![B6.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/B6.jpg)  
-  
-  
-  
-  
-  
-  
-
-  
-
-**We emerged as the Top 4 teams in the Singapore Secondary Schools Debating Championships. The intense preparations definitely paid off!**
-
+	</table>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/C11.jpg">
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/C22.jpg">
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We performed a skit and set up a booth during CCA Open House</span></td>
+    <td class="tg-0pky"></td><img style="width:200px" src="/images/C33.jpg">
+    <td class="tg-0pky"></td><img style="width:200px" src="/images/C44.jpg">
+  </tr>
+  <tr>
+    <td class="tg-baqh" colspan="2">Our annual March drama and bonding camp was filled with exciting games. <br>The seniors also had intensive preparations for the upcoming SYF while the juniors prepared for the Speech Day performance.</td>
   </tr>
 </tbody>
 </table>
-| ![C1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/C1.jpg)![C2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/C2.jpg)  
-  
-  
-<style type="text/css">
+
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/C11.jpg">
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/C22.jpg">
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We performed a skit and set up a booth during CCA Open House</span></td>
+    <td class="tg-0pky"></td><img style="width:200px" src="/images/C33.jpg">
+    <td class="tg-0pky"></td><img style="width:200px" src="/images/C44.jpg">
   </tr>
-</tbody>
-</table>
-![C3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/C3.jpg)![C4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/C4.jpg)  
+  <tr>
+    <td class="tg-baqh" colspan="2">We were a bundle of nerves on the day of our first ever SYF showcase. We did our best and were awarded the Certificate of Accomplishment!</td>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-**Our annual March drama and bonding camp was filled with exciting games. The seniors also had intensive preparations for the upcoming SYF while the juniors prepared for the Speech Day**&nbsp;&nbsp;**performance.**  
+		 
  |
 | &nbsp;![D4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/D4.jpg)![D2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/D2.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+		
+		
 ![D1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/D1.jpg)![D3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/D3.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-**We were a bundle of nerves on the day of our first ever SYF showcase. We did our best and were awarded the Certificate of Accomplishment!**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We performed a skit and set up a booth during CCA Open House</span></td>
+  </tr>
+</tbody>
+</table>
 
  |
 | &nbsp;![E2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/E2.jpg)![E1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/E1.jpg) |
 | &nbsp;&nbsp;**The team made their final touch ups to the props for the Speech Day performance.** |
 | &nbsp;  
 ![F1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/F1.jpg)![F2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/F2.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
