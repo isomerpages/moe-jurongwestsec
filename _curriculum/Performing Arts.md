@@ -1448,12 +1448,12 @@ convert from jfif pls
     <td class="tg-0pky"></td><img style="width:200px" src="/images/C44.jpg">
   </tr>
   <tr>
-    <td class="tg-baqh" colspan="2">Our annual March drama and bonding camp was filled with exciting games. <br>The seniors also had intensive preparations for the upcoming SYF while the juniors prepared for the Speech Day performance.</td>
+    <td class="tg-baqh" colspan="2">Our annual March drama and bonding camp was filled with exciting games. The seniors also had intensive preparations for the upcoming SYF while the juniors prepared for the Speech Day performance.</td>
   </tr>
 </tbody>
 </table>
 
-  <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -1465,24 +1465,18 @@ convert from jfif pls
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th><img style="width:200px" src="/images/C11.jpg">
-    <th class="tg-0pky"></th><img style="width:200px" src="/images/C22.jpg">
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/D4.jpg">
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/D2-0.jpg">
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td><img style="width:200px" src="/images/C33.jpg">
-    <td class="tg-0pky"></td><img style="width:200px" src="/images/C44.jpg">
+    <td class="tg-0pky"></td><img style="width:200px" src="/images/D1.jpg">
+    <td class="tg-0pky"></td><img style="width:200px" src="/images/D3.jpg">
   </tr>
   <tr>
     <td class="tg-baqh" colspan="2">We were a bundle of nerves on the day of our first ever SYF showcase. We did our best and were awarded the Certificate of Accomplishment!</td>
-  
-		 
- |
-| &nbsp;![D4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/D4.jpg)![D2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/D2.jpg)  
-		
-		
-![D1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/D1.jpg)![D3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/D3.jpg)  
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -1494,31 +1488,38 @@ convert from jfif pls
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/E2-0.jpg">
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/E1-0.jpg">
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We performed a skit and set up a booth during CCA Open House</span></td>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">The team made their final touch ups to the props for the Speech Day performance.</span></td>
   </tr>
 </tbody>
 </table>
 
- |
-| &nbsp;![E2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/E2.jpg)![E1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/E1.jpg) |
-| &nbsp;&nbsp;**The team made their final touch ups to the props for the Speech Day performance.** |
-| &nbsp;  
-![F1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/F1.jpg)![F2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/F2.jpg)  
-  
-  
-  
-  
-  
-  
-
-**We bade farewell to our Secondary 4 seniors at the CCA Appreciation Tea.**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/F1-0.jpg">
+    <th class="tg-0pky"></th><img style="width:200px" src="/images/F2-0.jpg">
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We bade farewell to our Secondary 4 seniors at the CCA Appreciation Tea.</span></td>
+  </tr>
+</tbody>
+</table>
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; width: 770px; height: 265px;" class="iveo_table ives_tab_simple ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 353px;" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 379px; height: 306px;" class="ive_eobj_center" alt="eldds1.jpg" src="/images/eldds1.jpg"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA Open House Performance</b></font></div></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 419px;" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" face="arial, sans-serif" size="2"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 428px; height: 306px;" class="ive_eobj_center" alt="eldds2.jpg" src="/images/eldds2.jpg"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: transparent; color: inherit;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">ELDDS Members promoting the CCA Booth during the Open House</b></font></span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" face="arial, sans-serif" size="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 380px; height: 285px;" class="ive_eobj_center" alt="eldds3.jpg" src="/images/eldds3.jpg"><b style="margin: 0px; outline: 0px; padding: 0px;">Debaters at the Singapore Secondary Schools<br style="margin: 0px; outline: 0px; padding: 0px;">Debating Championships</b></font></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" face="arial, sans-serif" size="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 426px; height: 289px;" class="ive_eobj_center" alt="eldds4.jpg" src="/images/eldds4.jpg"><b style="margin: 0px; outline: 0px; padding: 0px;">'The Karung Guni Boy' performance at the<br style="margin: 0px; outline: 0px; padding: 0px;">Asian Festival of Children's Content</b></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" face="arial, sans-serif" size="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 817px; height: 526px;" class="ive_eobj_center" alt="eldds5.jpg" src="/images/eldds5.jpg"><b style="margin: 0px; outline: 0px; padding: 0px;">ELDDS members watching the theatre production 'Those Who Can't, Teach'</b></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" face="arial, sans-serif" size="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 379px; height: 295px;" class="ive_eobj_center" alt="eldds6.jpg" src="/images/eldds6.jpg"></font></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 422px; height: 296px;" class="ive_eobj_center" alt="eldds7.jpg" src="/images/eldds7.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Debate Friendly Competition with Fuhua Secondary School</b></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="eldds8.jpg" src="/images/eldds8.jpg"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">Trying out Opera make up and costume during the Hong Kong Cultural Immersion Trip</b></font></td></tr></tbody></table>
 </div></li>
