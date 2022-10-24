@@ -1368,9 +1368,9 @@ convert from jfif pls
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th><img style="width:500px" src="/images/A1.jpg">
+    <th class="tg-0pky"></th><img style="width:500px" src="/images/A2-0.jpg">
+    <th class="tg-0pky"></th><img style="width:500px" src="/images/A3.jpg">
   </tr>
 </thead>
 <tbody>
@@ -1379,16 +1379,8 @@ convert from jfif pls
   </tr>
 </tbody>
 </table>
-| ![A1.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/A1.JPG)![A2.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/A2.JPG)![A3.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/A3.JPG)  
-  
-  
-  
-  
-  
-  
-  
-  
-We performed a skit and set up a booth during CCA Open House
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -1400,23 +1392,18 @@ We performed a skit and set up a booth during CCA Open House
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th><img style="width:500px" src="/images/B1-0.jpg">
+    <th class="tg-0pky"></th><img style="width:500px" src="/images/B3.jpg">
+    <th class="tg-0pky"></th><img style="width:500px" src="/images/B2.jpg">
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We performed a skit and set up a booth during CCA Open House</span></td>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">We participated in the Hua Yi Invitational Debate and had a valuable experience sparring with teams from various schools</span></td>
   </tr>
 </tbody>
-</table>(https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/B1[1].jpg)![B3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/B3.jpg)![B2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2019/B2.jpg)  
-  
-  
-
-  
-
-**We participated in the Hua Yi Invitational Debate and had a valuable experience sparring with teams from various schools**
+</table>
+ 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
