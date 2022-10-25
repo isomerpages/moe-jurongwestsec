@@ -1562,9 +1562,7 @@ convert from jfif pls
   
 
 **Singapore Youth Festival Arts Presentation 2021**  
-<img style="width:500px" src="/images/ND_2.jpg">
-<br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
+
 ![2. SYF 1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%201.png)
 
 SYF dancers posing after Arts Presentation 2021  
@@ -1844,30 +1842,17 @@ The dancers, clad in red cheongsam top performing for the popular Da Do Hui Chun
 ![DC_3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_3.jpg)
 
   
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/DC_4.jpg">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![DC_4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_4.jpg)
-
-  
-
-The new secondary one dancers spending quality time bonding with their seniors during the Secondary One Orientation programme.
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
-<br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![DC_5.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_5.jpg)  
-The dancers building their flexibility and strength during the Tumbling workshop.
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
-<br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![DC_6.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_6.jpg)
-
+<p style="text-align: center"><strong>The new secondary one dancers spending quality time bonding with their seniors during the Secondary One Orientation programme.</strong></p> 
  
-The dancers posing for a photo with their Tumbling workshop instructors.  
+<img style="width:500px" src="/images/DC_5.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers building their flexibility and strength during the Tumbling workshop.</strong></p> 
+<img style="width:500px" src="/images/DC_6.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers posing for a photo with their Tumbling workshop instructors.</strong></p> 
+
 <h4 style="color:purple" align="center">National Day Performance Video (Zoom)
 </h4>
 	<p>(The photos were taken before the circuit breaker measures were put in place.)</p>
