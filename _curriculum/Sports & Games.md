@@ -197,6 +197,180 @@ description: ""
 </tbody>
 </table>
 <h4 style="color:purple" align="center">List of Activities</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pll1">Activity</th>
+    <th class="tg-pll1">2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">CCA Appreciation Tea for Sec 4s and 5s</td>
+    <td class="tg-ii8k">April</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> West Zone ‘B’ Division Badminton Championships</td>
+    <td class="tg-ii8k"> March to April</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> Alumni Skills Exchange &amp; Sharing Session</td>
+    <td class="tg-ii8k"> March Holidays</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> Training cum Team Bonding Day Camp in JWSS</td>
+    <td class="tg-ii8k"> March Holidays</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> CCA Trials for Sec One</td>
+    <td class="tg-ii8k">January</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">CCA Open House</td>
+    <td class="tg-ii8k">January</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pll1">Activity</th>
+    <th class="tg-pll1">2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">JWSS Holiday Training Programme</td>
+    <td class="tg-ii8k">November</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">CCA Appreciation Tea for Sec 4s and 5s</td>
+    <td class="tg-ii8k">April<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">West Zone ‘B’ Division Badminton Championships</td>
+    <td class="tg-ii8k">March - April</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Training cum Team Bonding Day Camp in JWSS</td>
+    <td class="tg-ii8k">March Holidays</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">CCA Trials for Sec One</td>
+    <td class="tg-ii8k">January</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> CCA Open House</td>
+    <td class="tg-ii8k">January</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pll1">Activity</th>
+    <th class="tg-pll1">2020</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">JWSS Internal Competition</td>
+    <td class="tg-n4qt">October to December</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">Training cum Team Bonding Day Camp in JWSS</td>
+    <td class="tg-n4qt">March Holidays</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">West Zone ‘B’ and ‘C’ Division Badminton Championships</td>
+    <td class="tg-n4qt">January - March</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CCA Trials for Sec One</td>
+    <td class="tg-n4qt">January</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CCA Open House</td>
+    <td class="tg-n4qt">January</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> CCA Open House</td>
+    <td class="tg-ii8k">January</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pll1">Activity</th>
+    <th class="tg-pll1">2019</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Training cum Team Bonding Camp in JWSS<br></td>
+    <td class="tg-n4qt">March Holidays</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">West Zone ‘B’ and ‘C’ Division Badminton Championships</td>
+    <td class="tg-n4qt">January - March</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CCA Trials for Sec One</td>
+    <td class="tg-n4qt">January</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CCA Open House</td>
+    <td class="tg-n4qt">January</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CCA Open House</td>
+    <td class="tg-n4qt">January</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"> CCA Open House</td>
+    <td class="tg-ii8k">January</td>
+  </tr>
+</tbody>
+</table>
 
 
   
