@@ -47,6 +47,157 @@ description: ""
   </tr>
 </tbody>
 </table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0yo0{background-color:#dddddd;color:#222;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fbkb{background-color:#dddddd;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0n0o{background-color:#c0c0c0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm" colspan="2">Organisation Chart</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fbkb" colspan="2">Teachers-in-Charge</td>
+  </tr>
+  <tr>
+    <td class="tg-0n0o"> Badminton Boys</td>
+    <td class="tg-0n0o">Badminton Girls </td>
+  </tr>
+  <tr>
+    <td class="tg-0yo0">Mr Lim Wee (I/C)<br>Mr Yeo Keng Boon Kenneth (2 I/C)<br>Mr Ganesh Kumar Ponnalagu<br></td>
+    <td class="tg-0yo0">Darshini D/O Gunaseigaran (I/C)<br>Tan Qiu Yan (2 I/C)</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-urrx{background-color:#dddddd;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt">Coach</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-urrx">Mr Keu Yin Song<br>Mr Er Hock Tee</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zk2{background-color:#b0b0b0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1b5l{background-color:#efefef;border-color:inherit;color:#07084B;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1zk2" colspan="2">Executive Team</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1zk2" colspan="2">Boy's Team</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l"> Captain</td>
+    <td class="tg-1b5l">Tan Kai Tze (B Division)</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l">Vice-Captains</td>
+    <td class="tg-1b5l">Kotian Gurupreeth Purandara (B Division)<br>Balasubramanian Aswin Kumar (B Division)</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l">Events &amp; Publicity Head</td>
+    <td class="tg-1b5l">Felix Lee Yize</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l"> Logistics Head</td>
+    <td class="tg-1b5l">Hia Wei Dai</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l"> Welfare Head</td>
+    <td class="tg-1b5l">Mui Yu Zheng, Jayden</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l"> Level Coordinator Head<br>Assistant Level Coordinator<br></td>
+    <td class="tg-1b5l">Rusyaidi Bin Rohaizat<br>Muhammad Ukasyah Bin Mohd Ismadi</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4pie{background-color:#efefef;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1zk2{background-color:#b0b0b0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1b5l{background-color:#efefef;border-color:inherit;color:#07084B;text-align:center;vertical-align:top}
+.tg .tg-0ftp{background-color:#efefef;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7g6k" colspan="2"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1zk2" colspan="2">Girl's Team</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l">Captains</td>
+    <td class="tg-1b5l">(3E3) Antu Angelena<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l">Vice-Captains</td>
+    <td class="tg-1b5l">(3N3) Jezreel Ching Yi Xuan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l">Publicity &amp; Events Head<br></td>
+    <td class="tg-1b5l">(3E2) Fedora Tan Cixi<br></td>
+  </tr>
+  <tr>
+    <td class="tg-4pie">Logistics Head</td>
+    <td class="tg-4pie">(3E2) Bun Le Xuan</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5l">Welfare Head<br></td>
+    <td class="tg-1b5l">(3E2) Erika Chua Shi Xuan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-4pie">Lower Sec Coordinator</td>
+    <td class="tg-4pie">(2IY) Lakshya Bhujanga Kotian</td>
+  </tr>
+  <tr>
+    <td class="tg-0ftp">Upper Sec Coordinator</td>
+    <td class="tg-0ftp">(3E4) Tee Jia Xuan</td>
+  </tr>
+</tbody>
+</table>
+<h4 style="color:purple" align="center">List of Activities</h4>
+
 
   
 Activities &amp; Competitions (2019)**
