@@ -1562,7 +1562,9 @@ convert from jfif pls
   
 
 **Singapore Youth Festival Arts Presentation 2021**  
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![2. SYF 1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%201.png)
 
 SYF dancers posing after Arts Presentation 2021  
@@ -1588,7 +1590,9 @@ Team B SYF dancers performing during Arts Presentation 2021
 **JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance 2021**  
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![3. Speech Day 1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/3.%20Speech%20Day%201.png)
 
 The 20th Anniversary &amp; Speech and Prize Giving Day performers posing after the event
@@ -1604,13 +1608,17 @@ The 20th Anniversary &amp; Speech and Prize Giving Day performers posing after t
   
 
 **Dance Camp 2021**  
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![4. Dance Camp 3.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%203.png)
 
 Dancers stretching during the Hip Hop workshop (Dance Camp 2021)
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![4. Dance Camp 2.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%202.png)
 
 Dancers practising during the Hip Hop workshop (Dance Camp 2021)![](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
@@ -1624,7 +1632,9 @@ Dancers practising during the Lyrical Dance workshop (Dance Camp 2021)
 <table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px; height: 379px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 509px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 525.638px; height: 385.773px;" class="ive_eobj_center" alt="4. Dance Camp 5.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%205.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 563px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 541px; height: 405px;" class="ive_eobj_center" alt="4. Dance Camp 6.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%206.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
 Dancers practising during the Makeup Workshop (Dance Camp 2021)
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![4. Dance Camp 7.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%207.png)Dancers practising during the Makeup Workshop (Dance Camp 2021)
 
 * * *
@@ -1632,7 +1642,9 @@ Dancers practising during the Makeup Workshop (Dance Camp 2021)
   
 
 **Dance Workshops by Alumni**
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![5. Alumni.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/5.%20Alumni.png)
 
 Dancers learning dance moves from Alumni seniors during the CCA sessions
@@ -1644,7 +1656,9 @@ Dancers learning dance moves from Alumni seniors during the CCA sessions
   
 
 **Secondary One Dance Audition 2021**  
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![6. Sec 1 Audition.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/6.%20Sec%201%20Audition.png)
 
 Secondary One students participating in Dance Audition 2021
@@ -1668,7 +1682,9 @@ Secondary One students participating in Dance Audition 2021
   
 
 **CCA Appreciation Tea 2021**  
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![8. Appreciation Tea.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/8.%20Appreciation%20Tea.png)
 
 Secondary Four seniors posing with the appreciation gifts received from juniors
@@ -1692,7 +1708,9 @@ Seniors receiving their Passing Out Ceremony trophies and certificates from thei
   
 
 **E-CCA Training Sessions**  
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![10. E-CCA 1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/10.%20E-CCA%201.png)
 
 Dancers practising during e-CCA training sessions
@@ -1716,7 +1734,9 @@ Dancers doing various activities and discussions during breakout room sessions
   
 
 **Student-led Breakout Room Activity (E-CCA)**  
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![10. E-CCA 4.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/10.%20E-CCA%204.png)
 
 Dance leaders conducting bonding activity using Mentimeter during one of the e-CCA sessions
@@ -1734,21 +1754,29 @@ Dance leaders conducting bonding activity using Mentimeter during one of the e-C
 **CCA Open House 2020**  
 
 (The photos were taken before the circuit breaker measures were put in place.)
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![CCAOH_1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CCA%20Open%20House/CCAOH_1.png)
 
 JWSS IDC board prepared by the dancers.  
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![CCAOH_2.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CCA%20Open%20House/CCAOH_2.png)
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![CCAOH_3.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CCA%20Open%20House/CCAOH_3.png)
 
 Interested secondary one students checking out the Dance booth.  
 
 &nbsp;&nbsp;  
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![CCAOH_4.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CCA%20Open%20House/CCAOH_4.png)
 
 A dancer promoting the club to a few interested secondary one students.&nbsp;
@@ -1764,19 +1792,27 @@ A dancer promoting the club to a few interested secondary one students.&nbsp;
 (The photos were taken before the circuit breaker measures were put in place.)
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![CNY_1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CNY%20Performance/CNY_1.jpg)
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![CNY_2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CNY%20Performance/CNY_2.jpg)
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![CNY_3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CNY%20Performance/CNY_3.jpg)
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![CNY_4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CNY%20Performance/CNY_4.jpg)  
 The dancers, clad in red cheongsam top performing for the popular Da Do Hui Chun song during the JWSS Chinese New Year celebration concert.
 
@@ -1791,18 +1827,26 @@ The dancers, clad in red cheongsam top performing for the popular Da Do Hui Chun
 (The photos were taken before the circuit breaker measures were put in place.)
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![DC_1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_1.jpg)
 
-  
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p>  
 ![DC_2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_2.jpg)
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![DC_3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_3.jpg)
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![DC_4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_4.jpg)
 
   
@@ -1810,47 +1854,40 @@ The dancers, clad in red cheongsam top performing for the popular Da Do Hui Chun
 The new secondary one dancers spending quality time bonding with their seniors during the Secondary One Orientation programme.
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![DC_5.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_5.jpg)  
 The dancers building their flexibility and strength during the Tumbling workshop.
 
   
-
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![DC_6.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_6.jpg)
 
-  
-
+ 
 The dancers posing for a photo with their Tumbling workshop instructors.  
-  
+<h4 style="color:purple" align="center">National Day Performance Video (Zoom)
+</h4>
+	<p>(The photos were taken before the circuit breaker measures were put in place.)</p>
 
-* * *
+///Video to be converted to///
 
-  
-
-### **National Day Performance Video (Zoom)**
-
-(The photos were taken before the circuit breaker measures were put in place.)
-
-  
-
-  
-
-![ND_1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/National%20Day%20Performance/ND_1.jpg)
-
-  
-
-![ND_2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/National%20Day%20Performance/ND_2.jpg)
-
-  
-
-The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  
-
-  
-
-![ND_3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/National%20Day%20Performance/ND_3.jpg)  
-![ND_4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/National%20Day%20Performance/ND_4.jpg)  
-
-The dancers coming together to do a Zoom performance for Singapore, United as One song.  
+<br>
+<img style="width:500px" src="/images/ND_1.jpg">
+<br>
+<br>
+<img style="width:500px" src="/images/ND_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
+<br>
+<img style="width:500px" src="/images/ND_3.jpg">
+<br>
+<br>
+<img style="width:500px" src="/images/ND_4.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers coming together to do a Zoom performance for Singapore, United as One song.</strong></p> 
 
 
 <h4 style="color:purple" align="center">Teachers’ Day Performance Video
