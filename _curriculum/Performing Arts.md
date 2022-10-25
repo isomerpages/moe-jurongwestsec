@@ -1852,104 +1852,75 @@ The dancers conveying their National Day wishes to their teachers and fellow sch
 
 The dancers coming together to do a Zoom performance for Singapore, United as One song.  
 
-  
 
-* * *
+<h4 style="color:purple" align="center">Teachers’ Day Performance Video
+</h4>
+	<p>(The photos were taken before the circuit breaker measures were put in place.)</p>
 
-  
+![]Video to be converted to youtube(vhttps://jurongwestsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)  
 
-### **Teachers’ Day Performance Video**
-
-(The photos were taken before the circuit breaker measures were put in place.)
-
-  
-
-![](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)  
-
-![TDP_2.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Teachers%E2%80%99%20Day%20Performance%20Video/TDP_2.png)
-
-  
-
-![TDP_3.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Teachers%E2%80%99%20Day%20Performance%20Video/TDP_3.png)
+<br>
+<img style="width:500px" src="/images/TDP_2.png">
+<br>
+<img style="width:500px" src="/images/TDP_2.png">
+<br>
+<img style="width:500px" src="/images/TDP_3.png">
+<br>
+<img style="width:500px" src="/images/TDP_4.png">
+<br>
+<p style="text-align: center"><strong>The senior dancers coming together to do a video performance for the Teachers’ Day concert. </strong></p>
 
   
+<h4 style="color:purple" align="center">Activities & Competitions (2019)</h4>
 
-![TDP_4.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Teachers%E2%80%99%20Day%20Performance%20Video/TDP_4.png)
 
+<h4 style="color:purple" align="center">Singapore Youth Festival Arts Presentation 2019  
+</h4>
+<br>
+<img style="width:500px" src="/images/danceSFY_Team.jpg">
+<br>
+<p style="text-align: center"><strong>SYF dancers posing together before leaving for the Arts Presentation.</strong></p>
+
+<br>
+<img style="width:500px" src="/images/BDW_1.jpg">
+<br>
+<p style="text-align: center"><strong>SYF dancers waiting patiently for their turn to perform.</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ssntT6qCamM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h4 style="color:purple" align="center">Ballroom Dance Workshop</h4>
+
+<br>
+<img style="width:500px" src="/images/BDW_1.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers posing together with the Instructor, Ms Lorencia.
+</strong></p>
+
+<br>
+<img style="width:500px" src="/images/BDW_2.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers going through theory lessons.</strong></p>
   
-
-The senior dancers coming together to do a video performance for the Teachers’ Day concert.&nbsp;  
-
+<br>
+<img style="width:500px" src="/images/BDW_3.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers trying some ballroom dance techniques taught. </strong></p>
   
+<br>
+<img style="width:500px" src="/images/BDW_4.jpg">
+<br>
+<p style="text-align: center"><strong>The Instructor demonstrating a particular technique with the help of one of the dancers. </strong></p> 
 
-**Activities &amp; Competitions (2019)**
-------------------------------------
+<h4 style="color:purple" align="center">VIA Programme at Frontier Primary School </h4>
+ 
+<br>
+<img style="width:500px" src="/images/Frontier_1.jpg">
+<br>
+<p style="text-align: center"><strong>The dancers doing a demonstration for the P6 students before teaching them the choreography. </strong></p> 
 
-  
-
-**
-
-**Singapore Youth Festival Arts Presentation 2019**  
-
-![SYF_Team.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2019/SYF_Team.jpg)
-
-SYF dancers posing together before leaving for the Arts Presentation.
-
-  
-
-![SYF_1.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2019/SYF_1.JPG)
-
-SYF dancers waiting patiently for their turn to perform.
-
-  
-
-  
-
-  
-
-* * *
-
-**Ballroom Dance Workshop**  
-
-  
-
-![BDW_1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2019/BDW_1.jpg)
-
-The dancers posing together with the Instructor, Ms Lorencia.
-
-  
-
-![BDW_2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2019/BDW_2.jpg)
-
-The dancers going through theory lessons.
-
-  
-
-![BDW_3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2019/BDW_3.jpg)
-
-The dancers trying some ballroom dance techniques taught.
-
-  
-
-![BDW_4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2019/BDW_4.jpg)
-
-The Instructor demonstrating a particular technique with the help of one of the dancers.
-
-**
-
-**VIA Programme at Frontier Primary School  
-  
-**
-
-![Frontier_1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2019/Frontier_1.jpg)
-
-**The dancers doing a demonstration for the P6 students before teaching them the choreography.  
-  
-**
-
-![Frontier_2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2019/Frontier_2.jpg)
-
-**A dancer helping one of the P6 students with her steps.**  
+<br>
+<img style="width:500px" src="/images/Frontier_2.jpg">
+<br>
+<p style="text-align: center"><strong>A dancer helping one of the P6 students with her steps.</strong></p>
   
 <br>
 <img style="width:500px" src="/images/Frontier_3.jpg">
