@@ -952,3 +952,775 @@ description: ""
          style="width:500px"
 	/>
 <br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="2"><span style="font-weight:bold">CCA Schedule</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Training Venue</td>
+    <td class="tg-a4yv">Training Day One</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Multi-Purpose Indoor Court</td>
+    <td class="tg-7yig">Wednesday 4pm – 6pm</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig"> Indoor Sports Hall (ISH)</td>
+    <td class="tg-7yig"> Friday 1pm - 3pm</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh"><span style="font-weight:bold">Organisation Chart</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Teachers-In-Charge</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Ms Nadirah (OIC)<br>Ms Iman Nor Atiqah (2IC)</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Coach</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Mr Khyrul</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="2">B Division</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Captain</td>
+    <td class="tg-lygy">He Le Xuan (3E2)</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Vice-Captain</td>
+    <td class="tg-lygy">Nur Adriana Marsya (3E4)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Logistics IC</td>
+    <td class="tg-lygy">Yap YuTong (3E3)</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="2">C Division</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Captain</td>
+    <td class="tg-lygy">Lin Jia Huan (2E2)</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Vice-Captain</td>
+    <td class="tg-lygy">Delfia Iryani Binte Irwan (2E2)</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Logistics IC</td>
+    <td class="tg-lygy">Chong Xin Xi (2E2)</td>
+  </tr>
+</tbody>
+</table>
+<h4 style="color:purple" align="center">Achievements</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Competition</th>
+    <th class="tg-a4yv">Achievement</th>
+    <th class="tg-a4yv">Year</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vo25"> ActiveSG SFA Junior Floorball League</td>
+    <td class="tg-vo25"> Fourth</td>
+    <td class="tg-vo25">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Hockey B Division Plate Championship </td>
+    <td class="tg-vo25">First Runner-Up</td>
+    <td class="tg-vo25">2018</td>
+  </tr>
+</tbody>
+</table>
+<h4 style="color:purple" align="center">List Of Activities</h4>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activity<br></th>
+    <th class="tg-a4yv">2022<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">National Schools Games – Floorball Girls (B&amp;C Division)</td>
+    <td class="tg-lygy">January – March<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Floorball Camp</td>
+    <td class="tg-lygy">March</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gct1{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kpb2">Activity<br></th>
+    <th class="tg-kpb2">2021<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gct1">Floorball Camp</td>
+    <td class="tg-gct1">March</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gct1{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kpb2">Activity<br></th>
+    <th class="tg-kpb2">2020<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gct1">National Schools Games – Floorball Girls (B&amp;C Division)</td>
+    <td class="tg-gct1">January – March</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Floorball Camp<br></td>
+    <td class="tg-lygy">March</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gct1{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kpb2">Activity<br></th>
+    <th class="tg-kpb2">2019<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gct1">National Schools Games - Floorball Girls (B &amp; C Division)</td>
+    <td class="tg-gct1">January - August 2019</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Floorball Camp<br></td>
+    <td class="tg-lygy">March</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">VIA at Frontier Primary School</td>
+    <td class="tg-lygy">November</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Friendies (SAC, KRSS)</td>
+    <td class="tg-lygy">November</td>
+  </tr>
+</tbody>
+</table>
+	
+<h4 style="color:purple" align="center">Activities & Events (2021)</h4>
+<img src="/images/floorball1.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball3.png" 
+         style="width:500px"
+	/>
+<br>
+<h4 style="color:purple" align="center">Activities & Events (2020)</h4>
+<img src="/images/floorball4.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball5.png" 
+         style="width:500px"
+	/>
+<br>
+<h4 style="color:purple" align="center">Activities & Events (2019)</h4>
+<br>
+<img src="/images/floorball6.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball7.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball8.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball9.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball10.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball11.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball12.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball13.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball14.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/floorball15.png" 
+         style="width:500px"
+	/>
+	</div></li>
+	
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4"><h5 style="color:purple">Hockey</h5></label>
+<div>
+<img src="/images/HockeyBoys.jpg" 
+         style="width:500px"
+	/>
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm" colspan="3">CCA Schedule</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Training Venue</td>
+    <td class="tg-a4yv">Training Day One</td>
+    <td class="tg-a4yv">Training Day Two</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">School Field<br></td>
+    <td class="tg-7yig">Friday<br>3.30 pm - 6.00 pm </td>
+    <td class="tg-ktyi">Monday/Wednesday <br>3.30 pm - 6.00 pm<br>(During Competition)</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Orgnaisation Chart</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Teachers-In-Charge</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Mr Mustaqim Mohamed (Teacher-In-Charge)<br>Mr Yip Kwan Guan(OIC)<br>Mr Muhammad Illyas Abdussamad</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Coaches</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4ufn">Mr Syed Syahmi<br>Mr Sunil Prasad Eyamo</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Key Appointment Holders</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4ufn">Mohamed ‘Irfan Dhiaulhaq (Captain)<br>Muhammad Haidar (Vice-Captain)<br>Appadurai Jaswanthram (Vice-Captain)<br>Yap Ming Xuen (Welfare I/C)<br>Sean Ng (Logistics I/C)</td>
+  </tr>
+</tbody>
+</table>
+<h4 style="color:purple" align="center">Achievements</h4>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Competition</th>
+    <th class="tg-a4yv">Achievement</th>
+    <th class="tg-a4yv">Year</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4ufn">National Hockey Championship</td>
+    <td class="tg-lygy">'B' Division Top 8</td>
+    <td class="tg-lygy">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division Bowl Champion</td>
+    <td class="tg-lygy">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy">'C' Division Top 8 </td>
+    <td class="tg-lygy"> 2018 </td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division Bowl Runner up</td>
+    <td class="tg-lygy">2018</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy">'C' Division Plate 1st Runner up </td>
+    <td class="tg-lygy"> 2017</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy">'B' Division Plate Runner up</td>
+    <td class="tg-lygy">2017</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy">'C' Division Bowl 1st Runner up</td>
+    <td class="tg-lygy">2016</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy">'B' Division Plate 1st Runner up</td>
+    <td class="tg-lygy">2016</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division Top 8</td>
+    <td class="tg-lygy">2015</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division Top 8</td>
+    <td class="tg-lygy">2015</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division Top 8</td>
+    <td class="tg-lygy">2014</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division Top 8</td>
+    <td class="tg-lygy">2014</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division Top 8</td>
+    <td class="tg-lygy">2013</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division Top 8</td>
+    <td class="tg-lygy">2013</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division Top 8</td>
+    <td class="tg-lygy">2012</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division 2nd Runner Up</td>
+    <td class="tg-lygy">2012</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy">'C' Division Top 8 </td>
+    <td class="tg-lygy">2011</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division 2nd Runner Up</td>
+    <td class="tg-lygy">2011</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division 1st Runner Up</td>
+    <td class="tg-lygy">2010</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division 1st Runner Up</td>
+    <td class="tg-lygy">2010</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division 4th Runner Up</td>
+    <td class="tg-lygy">2009</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division 3rd Runner Up</td>
+    <td class="tg-lygy">2009</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division 2nd Runner Up</td>
+    <td class="tg-lygy">2008</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division 3rd Runner Up</td>
+    <td class="tg-lygy">2008</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division Champion</td>
+    <td class="tg-lygy">2007</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division 3rd Runner Up</td>
+    <td class="tg-lygy">2007</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division 3rd Runner Up</td>
+    <td class="tg-lygy">2005</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'B' Division 1st Runner Up</td>
+    <td class="tg-lygy">2005</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National Hockey Championship</td>
+    <td class="tg-lygy"> 'C' Division 1st Runner Up</td>
+    <td class="tg-lygy">2003</td>
+  </tr>
+</tbody>
+</table>
+	
+<h4 style="color:purple" align="center">List of Activities</h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activity<br></th>
+    <th class="tg-a4yv">2020 - 2021<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4ufn">Training Sessions via Zoom and Face-to-Face</td>
+    <td class="tg-lygy">Jan-Oct</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Training cum Team Bonding Camp in JWSS<br></td>
+    <td class="tg-lygy">March</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Virtual Team Challenge</td>
+    <td class="tg-lygy">June</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activity<br></th>
+    <th class="tg-a4yv">2019<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Outreach Programme at Frontier Primary School</td>
+    <td class="tg-lygy">November</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National ‘C’ Division Championship<br></td>
+    <td class="tg-lygy">June - July</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Training cum Team bonding Camp in JWSS</td>
+    <td class="tg-lygy">March</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National ‘B’ Division Championship</td>
+    <td class="tg-lygy">January - April</td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activity<br></th>
+    <th class="tg-a4yv">2018<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Overseas Immersion Trip to Malacca</td>
+    <td class="tg-lygy">November</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Holiday Trainings<br></td>
+    <td class="tg-lygy">June/ November</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National ‘C’ Division Championship</td>
+    <td class="tg-lygy">July to August</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">National ‘B’ Division Championship</td>
+    <td class="tg-lygy">February to April </td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Training cum Team bonding Camp in JWSS</td>
+    <td class="tg-baqh"> March<br></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">CCA Open House</td>
+    <td class="tg-baqh"> January</td>
+  </tr>
+</tbody>
+</table>
+<br>
+<img src="/images/hockey1.png" 
+         style="width:500px"
+	/>
+<br>
+<br>
+<img src="/images/hockey2.png" 
+         style="width:500px"
+	/>
+<br>
+<br>
+<img src="/images/hockey3.png" 
+         style="width:500px"
+	/>
+<br>
+<br>
+<img src="/images/hockey4.png" 
+         style="width:500px"
+	/>
+<br>
+<br>
+<img src="/images/hockey5.png" 
+         style="width:500px"
+	/>
+<br>
+</div></li>
+
+
