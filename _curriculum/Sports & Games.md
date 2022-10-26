@@ -1723,17 +1723,94 @@ description: ""
 <br>
 </div></li>
 
+<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5"><h5 style="color:purple">Netball</h5></label>
+<div>
+<img src="/images/netball1.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball3.png" 
+         style="width:500px"
+	/>
+<br>
+<h4 style="color:purple" align="center">Netball 2021</h4>
+	
+<p>Usually, our Netballers participate in various competitions and carnivals throughout the year. However, due to the pandemic, National School Games (NSG) and other competitions were cancelled. Despite the setback, Netball teachers and student leaders planned meaningful activities for Netballers to stay fit and ready for future challengers.</p> 
 
+<p>As a replacement for NSG, Netball student leaders conducted the Intra-CCA 4v4 Netball League and Netball Skills Challenge. This motivated the students to come for training and hone their skills in the game. In order to stay ahead in the game, our coach conducted online netball session via Zoom during the Heightened Alert Phase period. The girls did physical training and ball handling activities at home. In addition, to keep the team spirit high and bond tight, Netball Student Leaders also organised team bonding activities every term. Netballers really look forward to take part in these fun activities!</p>
 
+<p>2021 Highlights</p>
 
+<ul>
+<li><p>  CCA Open House</p>
+</li>
+<li><p>  Intra-CCA 4v4 Netball Tournament</p>
+</li>
+<li><p>  Netball Skills Challenge</p>
+</li>
+<li><p>  Appreciation Tea for Sec 4 and 5 Netballers</p>
+</li>
+<li><p>  Termly Team Bonding Activities</p>
+</li>
+<li><p>  e-CCA via Zoom</p>
+</li>
+<li><p>Holiday Engagement – Netball Virtual Run</p>
+</li>
+<li><p>Holiday Engagement – Planks Challenge</p>
+</li>
+</ul>
 
-
-
-
-
-
-
-
-
-
-
+<img src="/images/netball4.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball5.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball6.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball7.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball8.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball9.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball10.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball11.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball12.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball13.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball14.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/netball1.png" 
+         style="width:500px"
+	/>
+<br>
