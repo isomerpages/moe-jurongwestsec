@@ -462,6 +462,93 @@ description: ""
 	/>
 <br>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-8d3w{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-xvg2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xvg2" colspan="4">CCA Schedule</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kpb2">Team</td>
+    <td class="tg-kpb2">Training Venue</td>
+    <td class="tg-kpb2">Training Day One</td>
+    <td class="tg-kpb2">Training Day Two</td>
+  </tr>
+  <tr>
+    <td class="tg-8d3w">Boys</td>
+    <td class="tg-8d3w"> Basketball Court</td>
+    <td class="tg-jxgv">Monday 3.45 pm - 6.15 pm</td>
+    <td class="tg-jxgv">Wednesday 3.45 pm - 6.15 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-8d3w">Girls</td>
+    <td class="tg-8d3w"> Basketball Court</td>
+    <td class="tg-nbj5">Monday 3.45 pm - 6.15 pm</td>
+    <td class="tg-jxgv">Friday 3.45 pm - 6.15 pm</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xvg2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xvg2">Organisation Chart</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kpb2">Teachers-In-Charge</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="font-weight:bold;text-decoration:underline">Girls' Team</span><br>Mdm Nur Farizah Binte Esman (I/C)<br>Ms Luo Yuhui<br>Mrs Salinah Zhu<br><br><span style="font-weight:bold;text-decoration:underline">Boy's Team</span><br>Mr Yaw Kah Weng (I/C)<br>Mr Hong Guangyu William (2 I/C)<br>Mr Rajamanickam Thandavamurthy</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8d3w{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kpb2">Coaches</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8d3w">Mr Lee Kendy (C’ &amp; B’ Div Boys' Team)<br>Ms Ng Su Wei (C’ &amp; B’ Div Girls' Team)</td>
+  </tr>
+</tbody>
+</table>
 <h4 style="color:purple" align="center">Activities & Competitions (2022)</h4>
 	
 <h4 style="color:purple" align="center">Activities & Competitions (2021)</h4>
