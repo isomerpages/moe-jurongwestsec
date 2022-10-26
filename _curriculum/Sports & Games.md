@@ -1814,3 +1814,30 @@ description: ""
          style="width:500px"
 	/>
 <br>
+<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"><h5 style="color:purple">Ultimate Frisbee</h5></label>
+<div>
+<img src="/images/uf1.png" 
+         style="width:500px"
+	/>
+<br>
+<p style="text-align: center"><strong>At  Jurong West Secondary Ultimate Frisbee, we aim to:<br>Develop and nurture the fundamental skills necessary to play a full Ultimate Frisbee game. Foster teamwork, friendships and a strong sense of sportsmanship amongs our members though planned programmes and activities. Create opportunities for members to hone their leadership skills and enhance their self-confidence.</strong></p>
+<img src="/images/uf2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/uf3.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/uf4.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/uf5.png" 
+         style="width:500px"
+	/>
+<br>
+
+
