@@ -717,13 +717,188 @@ description: ""
 </table>
 <h4 style="color:purple" align="center">List of Activities
 </h4>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activity<br></th>
+    <th class="tg-a4yv">2019<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Basketball Outreach Programme at Frontier Primary School </td>
+    <td class="tg-lygy">November</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">  Basketball School Immersion in Thailand<br></td>
+    <td class="tg-lygy">October</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> ActiveSG-BAS Basketball D League (C’ Division)</td>
+    <td class="tg-lygy">August - September</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘C’ Division Basketball Championships</td>
+    <td class="tg-lygy"> June - July</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> Training cum Team bonding Camp in JWSS</td>
+    <td class="tg-lygy">June  </td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">ActiveSG-BAS Basketball D League (B' Division) </td>
+    <td class="tg-lygy">April </td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘B’ Division Basketball Championships</td>
+    <td class="tg-lygy"> January - April</td>
+  </tr>
+</tbody>
+</table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activity<br></th>
+    <th class="tg-a4yv">2018<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Basketball Outreach Programme at Frontier Primary School<br></td>
+    <td class="tg-lygy">November</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">  ActiveSG-BAS Basketball D League (C’ Division)<br></td>
+    <td class="tg-lygy">August - September</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘C’ Division Basketball Championships</td>
+    <td class="tg-lygy"> June - July</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> Training cum Team bonding Camp in JWSS</td>
+    <td class="tg-lygy">June  </td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2">    ActiveSG-BAS Basketball D League (B’ Division)</td>
+    <td class="tg-lygy"> April</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘B’ Division Basketball Championships</td>
+    <td class="tg-lygy"> January - April</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘B’ Division Basketball Championships</td>
+    <td class="tg-lygy"> January - April</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Activity<br></th>
+    <th class="tg-a4yv">2017<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">Basketball School Immersion in Hong Kong</td>
+    <td class="tg-lygy">November</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">  Basketball Outreach Programme at Frontier Primary School<br></td>
+    <td class="tg-lygy">November</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘C’ Division Basketball Championships</td>
+    <td class="tg-lygy"> June - July</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> Training cum Team bonding Camp in JWSS</td>
+    <td class="tg-lygy">June  </td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘B’ Division Basketball Championships</td>
+    <td class="tg-lygy"> January - April</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘B’ Division Basketball Championships</td>
+    <td class="tg-lygy"> January - April</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> West Zone ‘B’ Division Basketball Championships</td>
+    <td class="tg-lygy"> January - April</td>
+  </tr>
+</tbody>
+</table>
 
 <h4 style="color:purple" align="center">Activities & Competitions (2022)</h4>
-	
-<h4 style="color:purple" align="center">Activities & Competitions (2021)</h4>
+<br>
+<img src="/images/basketball1.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/basketball2.png" 
+         style="width:500px"
+	/>
 
+
+<h4 style="color:purple" align="center">Activities & Competitions (2021)</h4>
+<br>
+<img src="/images/basketball3.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/basketball4.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/basketball5.png" 
+         style="width:500px"
+	/>
 <h4 style="color:purple" align="center">Activities & Competitions (2020)</h4>
-	
+<br>
+<img src="/images/basketball6.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/basketball7.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/basketball8.png" 
+         style="width:500px"
+	/>
 <h4 style="color:purple" align="center">Activities & Competitions (2019)</h4>
 	
 <h4 style="color:purple" align="center">Activities & Competitions (2018)</h4>
