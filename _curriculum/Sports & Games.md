@@ -942,3 +942,13 @@ description: ""
 <img src="/images/basketball18.png" 
          style="width:500px"
 	/>
+</div></li>
+	
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><h5 style="color:purple">Floorball</h5></label>
+<div>
+<img src="/images/floorball01.png" 
+         style="width:500px"
+	/>
+<br>
