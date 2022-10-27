@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Resources for Parents/Secondary 1 Parents Engagement Session 2022.md
       - Resources for Parents/.keep
       - Letters to Parents/Letters 2017.md
       - Letters to Parents/.keep
