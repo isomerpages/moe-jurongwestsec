@@ -2,5 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Resources for Parents/.keep
       - Letters to Parents/Letters 2017.md
       - Letters to Parents/.keep
