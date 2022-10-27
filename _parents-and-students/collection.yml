@@ -2,10 +2,10 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Resources for Parents/Useful Reading.md
-      - Resources for Parents/Academic Related.md
-      - Resources for Parents/Secondary 2 Parents Engagement Session 2021.md
-      - Resources for Parents/Secondary 1 Parents Engagement Session 2022.md
       - Resources for Parents/.keep
+      - Resources for Parents/Secondary 1 Parents Engagement Session 2022.md
+      - Resources for Parents/Secondary 2 Parents Engagement Session 2021.md
+      - Resources for Parents/Academic Related.md
+      - Resources for Parents/Useful Reading.md
       - Letters to Parents/Letters 2017.md
       - Letters to Parents/.keep
