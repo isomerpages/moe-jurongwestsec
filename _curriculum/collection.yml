@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/Craft and Technology.md
       - Academic/English Language and Literature.md
       - Academic/Humanities.md
       - Academic/Information and Communications Technology.md
