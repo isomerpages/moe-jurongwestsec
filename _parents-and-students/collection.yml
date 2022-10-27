@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Subject Overview/Secondary 4 and 5.md
       - Subject Overview/.keep
       - Parent's Gateway.md
       - Parent Support Group.md
