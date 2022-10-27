@@ -2,12 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - Sports & Games.md
-      - Clubs & Society.md
-      - Academic/Physical Education.md
       - Academic/.keep
+      - Academic/Physical Education.md
       - Academic/Science.md
       - Academic/Promotion Criteria.md
       - Co–Curricular Framework.md
+      - Clubs & Society.md
       - Clubs & Societies.md
       - Performing Arts.md
+      - Sports & Games.md
