@@ -4,7 +4,6 @@ permalink: /parents-and-students/resources-for-parents/academic-related/
 description: ""
 third_nav_title: Resources for Parents
 ---
-
 ### [6 August 2021] Removal of Common Last Topics for Secondary 1-3 End-of-Year Examinations 2021 
 
 Dear Parents/ Guardians,  
@@ -40,10 +39,6 @@ Please find the details of the Common Last Topics (CLT) that have been removed f
   
 
 <table class="ive_eobj_center iveo_table ives_tab_dark" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 783px; height: 39px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 779px;"><b style="margin: 0px; outline: 0px; padding: 0px;">National Examination</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 60px;"><a href="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Parents/Resources%20for%20Parents/2021/CLT%20removal%2021/CLT%20O%202021.pdf" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none; font-family: arial, sans-serif; font-size: small; text-align: left;">GCE O-Level Subjects</a></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 60px;"><a href="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Parents/Resources%20for%20Parents/2021/CLT%20removal%2021/CLT%20NA%202021.pdf" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none; font-family: arial, sans-serif; font-size: small; text-align: left;">GCE N(A)-Level Subjects</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 60px;"><a href="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Parents/Resources%20for%20Parents/2021/CLT%20removal%2021/CLT%20NT%202021.pdf" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none; text-align: left; background-color: initial; font-family: arial, sans-serif; font-size: small;">GCE N(T)-Level Subjects</a><a href="https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Parents/Resources%20for%20Parents/2021/CLT%20removal%2021/2021-Removal%20of%20topics%20Sec%201E%20G3.pdf" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(66, 139, 202); text-decoration: none;"></a></td></tr></tbody></table>
-
-  
-
-* * *
 
   
 
