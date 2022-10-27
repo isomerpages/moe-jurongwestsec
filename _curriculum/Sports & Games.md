@@ -445,8 +445,8 @@ description: ""
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; width: 734.333px;" class="iveo_table ives_tab_simple ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="image003.jpg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Sports%20&amp;%20Games/Badminton/2019/image003.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">West Zone (Girls) Badminton Competition.</b></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="image004.jpg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Sports%20&amp;%20Games/Badminton/2019/image004.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px; font-family: arial, sans-serif; font-size: small;">West Zone (Boys) Badminton Competition.</b><b style="margin: 0px; outline: 0px; padding: 0px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"></font></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 730px; height: 486px;" class="ive_eobj_center" alt="image005.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Sports%20&amp;%20Games/Badminton/2019/image005.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" face="arial, sans-serif" size="2">Paying attention to the Coach during trainings.</font></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 731px; height: 1093px;" class="ive_eobj_center" alt="image006.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Sports%20&amp;%20Games/Badminton/2019/image006.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;" colspan="2"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px; font-weight: bold;" face="arial, sans-serif" size="2">Intense training in progress.</font></td></tr></tbody></table></div></li></ul>
 
 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:purple">Basketball</h5></label>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><h5 style="color:purple">Basketball</h5></label>
 <div>
 <img src="/images/basketballA.jpg" 
          style="width:500px"
@@ -1306,12 +1306,11 @@ description: ""
 <br>
 <img src="/images/floorball15.png" 
          style="width:500px"
-	/>
-	</div></li>
+	/></div></li></ul>
 	
 <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4"><h5 style="color:purple">Hockey</h5></label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><h5 style="color:purple">Hockey</h5></label>
 <div>
 <img src="/images/HockeyBoys.jpg" 
          style="width:500px"
@@ -1839,13 +1838,13 @@ description: ""
          style="width:500px"
 	/>
 <br>
-</div></li>
+</div></li></ul>
 	
 <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><h5 style="color:purple">Volleyball</h5></label>
 <div>
-<img src="/images/cce1.png" 
+<img src="/images/volleyball1.png" 
          style="width:500px"
 	/>
 <br>
@@ -1897,7 +1896,61 @@ description: ""
          style="width:500px"
 	/>
 <br>
-<img src="/images/cce1.png" 
+<img src="/images/volleyball2.png" 
          style="width:500px"
 	/>
 <br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+
+	<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/volleyball2.png" 
+         style="width:500px"
+	/>
+<br>
+</div></li></ul>
