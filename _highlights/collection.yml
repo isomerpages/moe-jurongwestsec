@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Publish.md
       - 2022 GCE O–Level Results.md
