@@ -9,15 +9,22 @@ sections:
   - hero:
       background: /images/home2jwss.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: in the news
+          description: Our family stories
+          url: /highlights/in-the-news
+        - title: School Gallery
+          description: Milestones & Celebrations
+          url: /highlights/school-gallery
   - infobar:
       title: GCE O-Level Results Release 2022
       description: About a sentence worth of description here
       button: all the best!
       url: /highlights/gce-o-level-results-release-2022/
+  - infobar:
+      subtitle: JWSS Story
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/vcQkl9n_H8o" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
 ---
