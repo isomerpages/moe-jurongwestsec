@@ -4,10 +4,9 @@ permalink: /curriculum/academic/craft-and-technology/
 description: ""
 third_nav_title: Academic
 ---
-[Home](https://jurongwestsec.moe.edu.sg/) \> Academic > Craft and Technology
 
-Craft and Technology
-====================
+## Craft and Technology
+
 
 *   Teaching Staff
 *   Art
@@ -15,35 +14,34 @@ Craft and Technology
 *   Nutrition and Food Science
 *   Programme
 
-Teaching Staff
---------------
+## Teaching Staff
+
 
   
-![CT.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/!DepartmentPhotoChart/CT.jpg)  
+![CT.jpg](/images/CT.jpg)  
   
 
 <table class="ives_tab_kosong ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 854.5px; height: 389px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 47px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-weight: 700; text-align: left;">01/</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 232px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Law Wei Ming, Kelvin</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">HOD Craft &amp; Technology<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Design &amp; Technology</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 43px;"><b style="margin: 0px; outline: 0px; padding: 0px;">02/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 240px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Mr&nbsp;</b><b style="margin: 0px; outline: 0px; padding: 0px;">Faizal Bin Abdul Aziz&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Subject Head, Art<br style="margin: 0px; outline: 0px; padding: 0px;">Art</i><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">03/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 232px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;</b><b style="margin: 0px; outline: 0px; padding: 0px;">Aishah Lidon</b><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Nutrition &amp; Food Science<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">04/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></div><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></span></div><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></i><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Mr&nbsp;</b><b style="margin: 0px; outline: 0px; padding: 0px;">Yeo Keng Boon, Kenneth</b><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Design &amp; Technology</i><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">05/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></b><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Mr&nbsp;</b><b style="margin: 0px; outline: 0px; padding: 0px;">Nar Soon Keong</b><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Design &amp; Technology<br style="margin: 0px; outline: 0px; padding: 0px;">Computer Applications</i><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">06/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"></b><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Mr&nbsp;</b><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Quek Jia Liang</b></span><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"></i><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Art</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px;">Computer Applications</i></div><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">07/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Nadirah Binte Yusnaini Wahid</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;">Nutrition &amp; Food Science</i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">08/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></i><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Mr&nbsp;</b><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mohammad Azri Bin Kasmanni</b></span></div><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></i></div></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Contract Adjunct Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Art<br style="margin: 0px; outline: 0px; padding: 0px;">Computer Applications</i><br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"></span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">09/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></b></div><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></i><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Mrs Violet Lee<br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Flexi Adjunct Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Nutrition &amp; Food Science</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td></tr></tbody></table>
 
 ### Art
 
-![art_creations_jwss_students.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Craft%20and%20Technology/2017/art_creations_jwss_students.PNG)  
+![art_creations_jwss_students.PNG](/images/art_creations_jwss_students.png)  
   
-Subjects Offered  
-  
+Subjects Offered<br>
 General Art Programme  
 
 *   Visual Arts @ Lower Secondary 
 *   ‘NT’ Level Art @ Upper Secondary
 
   
-
-Enhanced Art Programme (EAP) 
+<br>
+Enhanced Art Programme (EAP)<br>
 
 *   A JWSS Distinctive Programme ‘O’ Level Art @ Upper Secondary 
 
   
-
-Art Talent Development Programme (TDP)  
+<br>
+Art Talent Development Programme (TDP)<br>
 
 *   Lower Secondary
 
@@ -51,11 +49,11 @@ Art Talent Development Programme (TDP)
 
   
 
-Curriculum  
+<b>Curriculum</b>
 
   
 
-Art is important for students’ holistic development as Art
+Art is important for students’ holistic development as Art<br>
 
   
 
@@ -63,17 +61,15 @@ Art is important for students’ holistic development as Art
 *   builds students’ capacity to critically discern and process visual information, and communicate effectively in the 21st Century; and
 *   expands imagination and creativity.
 
-  
-
-Drawing from the value of art in education, the aims and objectives of the Lower Secondary Art are:
+<br>
+Drawing from the value of art in education, the aims and objectives of the Lower Secondary Art are:<br>
 
   
 
 **Aims:**
 
-  
-
-Art Education in our schools aims to enable every child to 
+<br>
+Art Education in our schools aims to enable every child to<br>
 
 *   enjoy art,
 *   communicate visually, and
@@ -83,88 +79,81 @@ Art Education in our schools aims to enable every child to 
 
 **Objectives:**
 
-  
+<br>  
+To develop active artists and informed audience who are imaginative, critically discerned, confident, curious, innovative, has a lifelong enjoyment for art; and respect art as part of their understanding of themselves, their cultural heritage and the world.<br>
 
-To develop active artists and informed audience who are imaginative, critically discerned, confident, curious, innovative, has a lifelong enjoyment for art; and respect art as part of their understanding of themselves, their cultural heritage and the world.  
-
-  
-
-At the end of their 2-year Lower Secondary Art Curriculum, students will be able to do the following:
+ <br>
+At the end of their 2-year Lower Secondary Art Curriculum, students will be able to do the following:<br>
 
   
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-6cvf{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-cjod{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Domains</span></th>
+    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Learning Outcomes</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6cvf">Perceive<br>From observing to inquiring<br></td>
+    <td class="tg-cjod">Identify qualities in and interpret what they see and experience<br><br>Record and present their observations using different ways<br><br>Generate questions and ideas from visual <br></td>
+  </tr>
+  <tr>
+    <td class="tg-djlw">Communicate<br>From creating to innovating<br></td>
+    <td class="tg-cjod">Express experiences and ideas in art making<br><br>Experiment with different materials, tools, and media to create new visual possibilities<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span>Appreciate<br>From connecting to responding</td>
+    <td class="tg-y7qa">Reflect and share views on their own and others’ art making<br><br>Relate to examples of Singapore and international art and their ideas and processes<br><br>Work with others to make art, present art, and solve visual and other problems<br></td>
+  </tr>
+</tbody>
+</table>
 
-| Domains | Learning Outcomes |
-| --- | --- |
-| **Perceive**  
-_From observing to inquiring_  
- | 
-*   Identify qualities in and interpret what they see and experience  
-    
-*   Record and present their observations using different ways  
-    
-*   Generate questions and ideas from visual   
-    
-
- |
-| **Communicate  
-**_From creating to innovating_  
- | 
-
-*   Express experiences and ideas in art making  
-    
-*   Experiment with different materials, tools, and media to create new visual possibilities  
-    
-
- |
-|  **Appreciate  
-**_From connecting to responding_ | 
-
-*   Reflect and share views on their own and others’ art making  
-    
-*   Relate to examples of Singapore and international art and their ideas and processes  
-    
-*   Work with others to make art, present art, and solve visual and other problems  
-    
-
- |
-
-  
-
-  
 
 **T & L Framework:**
 
-![art_framework.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Craft%20and%20Technology/2017/art_framework.jpg)
+![art_framework.jpg](/images/art_framework.jpg)
 
-**** For Interaction (4I) Integrated Learning and Thinking Approach
+<b>For Interaction (4I) Integrated Learning and Thinking Approach</b>
 
-Design & Technology 
---------------------
+## Design & Technology 
+
 
   
-![Web1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Craft%20and%20Technology/Web1.jpg)  
+![Web1.jpg](/images/Web1.jpg)  
   
-Subject Offered  
+<b>Subject Offered</b> 
 
 *   Design & Technology
 
   
-Curriculum  
+<b>Curriculum</b>
   
 
-**Lower Secondary Programme:**
-
-  
-
-Design & Technology (D&T) is part of a holistic broad-based education. It is a compulsory project-based subject in the lower secondary school curriculum. D&T anchors on design action and the application of knowledge and process skills.
+<b>Lower Secondary Programme:</b>
 
   
 
-Students are to engage in design-and-make activities and experience a basic process of design adapted to their abilities, interest and design context.
-
+<p>Design & Technology (D&T) is part of a holistic broad-based education. It is a compulsory project-based subject in the lower secondary school curriculum. D&T anchors on design action and the application of knowledge and process skills.</p>
+<br>
   
+<p>Students are to engage in design-and-make activities and experience a basic process of design adapted to their abilities, interest and design context.</p>
+<br> 
 
-The lower secondary D&T syllabus aims to enable students to: 
+<p>The lower secondary D&T syllabus aims to enable students to:</p> 
 
 *   develop an awareness of design in the made-world; 
 *   develop an appreciation of function;
@@ -173,39 +162,33 @@ The lower secondary D&T syllabus aims to enable students to: 
 *   experience the process of realising design through making; and 
 *   think and intervene creatively to become autonomous decision makers. 
 
-**Upper Secondary Programme:**
+<b>Upper Secondary Programme:</b>
 
-  
-
-Our upper secondary programme prepares students for their GCE O/N levels in Secondary 4/5. It is a comprehensive programme to familiarise students with coursework requirements.
-
-  
-
-Students will also acquire basic knowledge and understanding related to Structures, Mechanisms and Electronics for designing and making controlled systems. They will need to apply the knowledge in one or more technological areas appropriate to the context of their Coursework Projects. The three technological areas can be summarised as follows:
+<p>Our upper secondary programme prepares students for their GCE O/N levels in Secondary 4/5. It is a comprehensive programme to familiarise students with coursework requirements.</p>
+<br>
+<p>Students will also acquire basic knowledge and understanding related to Structures, Mechanisms and Electronics for designing and making controlled systems. They will need to apply the knowledge in one or more technological areas appropriate to the context of their Coursework Projects. The three technological areas can be summarised as follows:</p>
 
 *   **Structures** – supporting systems designed for minimal movement
 *   **Mechanisms** – movement systems designed to transfer and control physical movement and forces from one point/direction to another
 *   **Electronics** – control systems designed to sense, process and control via electrical signals.
 
-**  
-T & L Framework:**  
+<b>T & L Framework:</b>
 
-![dnt_framework.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Craft%20and%20Technology/Design%20and%20Tech/dnt_framework.png)
+![dnt_framework.png](/images/dnt_framework.png)
 
-Nutrition and Food Science
---------------------------
+## Nutrition and Food Science
 
   
-![NFS2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Craft%20and%20Technology/NFS2.jpg)  
+![NFS2.jpg](/images/NFS2.jpg)  
   
-Subjects Offered  
+<b>Subjects Offered</b> 
   
 
 *   Food & Consumer Education (FCE) @ Lower Secondary 
 *   Food & Nutrition (FN) @ Upper Secondary
 
   
-Curriculum  
+<b>Curriculum</b>  
 
   
 
@@ -260,4 +243,4 @@ The syllabus aims to:
 <table class="iveo_table ives_tab_1 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; float: left; border: 1px solid rgb(234, 234, 234); width: 528px; height: 65px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 262px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Core areas of study</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 262px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">1. Food studies</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">2. Consumer studies</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Elective module</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;">1. Nutrition &amp; Food Science<br style="margin: 0px; outline: 0px; padding: 0px;">2. Food Entrepreneurship<br style="margin: 0px; outline: 0px; padding: 0px;">3. FCE &amp; The Community&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
 
-## 
+##
