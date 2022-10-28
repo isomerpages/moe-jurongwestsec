@@ -4,7 +4,6 @@ permalink: /curriculum/academic/craft-and-technology/
 description: ""
 third_nav_title: Academic
 ---
-
 ## Craft and Technology
 
 
@@ -200,11 +199,9 @@ Food and Consumer Education (FCE) is taken by all lower secondary students in JW
 
   
 
-The FCE syllabus is designed to empower students to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The focus is on how individuals and families optimise their resources of food, finance and time to meet the physical mental, social and economic needs.
+<p>The FCE syllabus is designed to empower students to be health-conscious and discerning consumers; enabling them to better manage their lives for the present and the future. The focus is on how individuals and families optimise their resources of food, finance and time to meet the physical mental, social and economic needs.</p>
 
-  
-
-The syllabus aims to enable students to 
+<p>The syllabus aims to enable students to</p>
 
 *   understand the importance of nutrition for long-term health;
 *   apply basic principles of consumer education;
@@ -214,20 +211,15 @@ The syllabus aims to enable students to 
 *   develop positive attitudes and values for the well-being of the community (families and society); and
 *   demonstrate effective and responsible use of resources for the individuals and the community.
 
-  
-
-The FCE syllabus is designed to prepare students for the 21st Century. Hence, the 21st Century Competencies (21CC) has been integrated into the content, learning process and assessment. FCE is a relevant subject that provides students a foresight to prepare them for the evolving world. 
+<p>The FCE syllabus is designed to prepare students for the 21st Century. Hence, the 21st Century Competencies (21CC) has been integrated into the content, learning process and assessment. FCE is a relevant subject that provides students a foresight to prepare them for the evolving world.</p>
 
   
-
-**Upper Secondary Programme:**  
+<b>*Upper Secondary Programme:</b>  
   
-
-Our upper secondary programme prepares students for their GCE O/N levels in Secondary 4. It is a comprehensive programme to familiarise students with coursework requirements.
+<p>Our upper secondary programme prepares students for their GCE O/N levels in Secondary 4. It is a comprehensive programme to familiarise students with coursework requirements.</p>
 
   
-
-The syllabus aims to:
+<b>The syllabus aims to:</b>
 
 *   develop candidates’ understanding of the concepts of nutrition and meal planning;
 *   develop candidates’ understanding of the link between diet and health;
@@ -236,11 +228,6 @@ The syllabus aims to:
 
   
 
-**Structure of Syllabus:**  
-
-  
+<b>Structure of Syllabus:</b>  
 
 <table class="iveo_table ives_tab_1 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; float: left; border: 1px solid rgb(234, 234, 234); width: 528px; height: 65px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 262px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Core areas of study</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 262px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">1. Food studies</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">2. Consumer studies</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Elective module</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;">1. Nutrition &amp; Food Science<br style="margin: 0px; outline: 0px; padding: 0px;">2. Food Entrepreneurship<br style="margin: 0px; outline: 0px; padding: 0px;">3. FCE &amp; The Community&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-
-##
