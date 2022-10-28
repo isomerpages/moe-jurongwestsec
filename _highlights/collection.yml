@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - School Gallery.md
       - Publish.md
       - 2022 GCE O–Level Results.md
