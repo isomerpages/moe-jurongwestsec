@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Uniformed Groups.md
       - Academic/Teaching n Learning at JWSS.md
       - Academic/Academic Subjects.md
       - Academic/Craft and Technology.md
