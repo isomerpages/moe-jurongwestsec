@@ -4,10 +4,8 @@ permalink: /curriculum/academic/mathematics/
 description: ""
 third_nav_title: Academic
 ---
-[Home](https://jurongwestsec.moe.edu.sg/)&nbsp;\&gt; Academic &gt; Mathematics
 
-Mathematics
-===========
+## Mathematics
 
 *   Teaching Staff
 *   Mathematics
@@ -15,267 +13,207 @@ Mathematics
 *   Principles of Accounts
 *   Programme
 
-Teaching Staff
---------------
+## Teaching Staff
 
-![MA.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/!DepartmentPhotoChart/MA.jpg)
+
+![MA.jpg](/images/MA.jpg)
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 785.5px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 25px;">01/</th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 224px;">Ms Sharron Chiam Sze Hui<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">HOD Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i></span></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 26px;"><b style="margin: 0px; outline: 0px; padding: 0px;">02/</b></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 223px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Amanda Lee Si Jie</b><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;"></i><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">Year Head 2<br style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 24px;"><b style="margin: 0px; outline: 0px; padding: 0px;">03/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 263px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Lim Kiang Wee<br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;">Lead Teacher, Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">04/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Ng Boon Yong</b><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Senior Teacher, Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">05/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yaw Kah Weng</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Subject Head, Physical Education &amp; Co-Curricular Activities<br style="margin: 0px; outline: 0px; padding: 0px;">Physical Education<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">06/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Seoh Soon Peng<br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">07/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yeo Si Jin Beryvn</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">08/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Neo Suat Li Shirley</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Elements of Business Skills<br style="margin: 0px; outline: 0px; padding: 0px;">Principles of Accounts</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">09/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Teo Rui Shan</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Elements of Business Skills<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Principles of Accounts</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">10/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Chua Wang Zhi</b><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 700;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Physics</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">11/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Lee Jun Wei</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">12/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mrs Alicia Tan</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">13/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yeo Guo Liang</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;">Physics</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">14/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Hong Guangyu William</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">15/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;Hou Manping</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Elements of Business Skills<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Principles of Accounts</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">16/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mdm Tan Kim Kim Felicia</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Computer Applications</i><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">17/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;Erlinda Tanuwijaya</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;">Social Studies</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">18/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;Ang Geok Xing</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;">Biology</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">19/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;Juliana Binte Adaham</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;">Chemistry</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><i style="margin: 0px; outline: 0px; padding: 0px;"></i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
-Mathematics
------------
+### Subject offered: Mathematics
+![2017Supermarket.jpg](/images/2017Supermarket.jpg)  
 
-###   
-![2017Supermarket.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2017/2017Supermarket.jpg)  
-
-###   
-
-### Subject Offered  
-  
-
-*   Mathematics
-
-### 
 
 ### Curriculum
 
-  
 
-The syllabus is organised along 3 content strands with a listing of mathematical processes that cut across the 3 strands.  
-
-  
-
-| 3 Content + 1 Process Strand |
-| --- |
-| **Numbers and Algebra** | **Geometry and Measurement** | **Statistics and Probability** |
-|  | **Mathematical Processes** |   
- |
+<p>The syllabus is organised along 3 content strands with a listing of mathematical processes that cut across the 3 strands.</p>  
 
   
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-riw6{background-color:#1F8CE4;border-color:inherit;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j34p{background-color:#F2F9FF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-riw6" colspan="3">3 Content + 1 Process Strand</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j34p">Numbers and Algebra</td>
+    <td class="tg-j34p">Geometry and Measurement</td>
+    <td class="tg-i38w">Statistics and Probability</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w" colspan="3">Mathematical Processes </td>
+  </tr>
+</tbody>
+</table>
 
-### T &amp; L Framework
+### T & L Framework
 
   
-![01.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2022/01.png)
+![01.png](/images/01math.png)
 
-The central focus of the mathematics curriculum is the development of mathematical problem solving competency. Supporting this focus are five-related components – concepts, skills, processes, metacognition and attitude.
+<p>The central focus of the mathematics curriculum is the development of mathematical problem solving competency. Supporting this focus are five-related components – concepts, skills, processes, metacognition and attitude.</p>
 
-Additional Mathematics
-----------------------
 
-  
-
-### ![cover.PNG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2017/cover.PNG)  
+![cover.PNG](/images/coveraddmath.png)  
 
   
 
-### Subject Offered  
-  
+### Subject Offered:  Additional Mathematics
 
-*   Additional Mathematics
-
-### 
 
 ### Curriculum
 
-  
+<p>The syllabus is organised along 3 content strands with a listing of mathematical processes that cut across the 3 strands.</p>
 
-The syllabus is organised along 3 content strands with a listing of mathematical processes that cut across the 3 strands.  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-riw6{background-color:#1F8CE4;border-color:inherit;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-riw6" colspan="3">3 Content + 1 Process Strand</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i38w">Algebra</td>
+    <td class="tg-i38w">Geometry and Trigonometry</td>
+    <td class="tg-i38w">Calculus</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w" colspan="3">Mathematical Processes </td>
+  </tr>
+</tbody>
+</table>
 
-  
+### T & L Framework
 
-| 3 Content + 1 Process Strand |
-| --- |
-| **Algebra** | **Geometry and Trigonometry** | **Calculus** |
-|  | **Mathematical Processes** |   
- |
+![02.png](/images/02math.png)
 
-  
+<p>The central focus of the mathematics curriculum is the development of mathematical problem solving competency. Supporting this focus are five-related components – concepts, skills, processes, metacognition and attitude.</p>
 
-### T &amp; L Framework
+![POA2015_4.jpg](/images/POA2015_4.jpg)
 
-![02.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2022/02.png)
-
-The central focus of the mathematics curriculum is the development of mathematical problem solving competency. Supporting this focus are five-related components – concepts, skills, processes, metacognition and attitude.
-
-Principles of Accounts
-----------------------
-
-  
-
-###   
-![POA2015_4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Principles%20of%20Account/POA2015_4.jpg)
-
-### **Subject Offered**
-
-  
-
-*   Principles of Accounts
-
-###   
-
-### **Curriculum**  
-  
-Principles of Accounts (POA) is designed to provide students with a meaningful basic introduction to financial accounting and to develop an appreciation of the discipline of accounting. It is grounded in preparing, communicating and using financial information, and appreciating the need for ethical conduct. The subject places emphasis on the understanding and application of accounting knowledge to develop lifelong skills and values that will be of value in the increasingly complex world of business.
-
-  
-
-This subject forms part of a broad-based education to equip students with strong fundamentals for future learning.
-
-In line with the framework of learning Principles of Accounts as an important foundation subject, our department organises a series of enrichment activities to stimulate students' interest and inquisitiveness towards the subject.
-
-Programme
----------
-
-**Student Achievements**  
-
-&nbsp;  
-
-| Competition | Achievement | Year |
-| --- | --- | --- |
-| Singapore&nbsp;Math&nbsp;Kangaroo Competition (SMKC) | **Gold**  
-Ng Yit Yu (2-Integrity)  
-Kelly Teo (3E1)  
-  
-**Silver**  
-Ong Yi Chun, Shirin (2-Respect)  
-Lakshya Bhujanga Kotian (2-Integrity)  
-Kwa Zhen Yang (2-Care)  
-Shen Ziru (3E2)  
-Appadurai Jaswanthram (3E3)  
-  
-**Bronze**  
-Crisostomo Yvonne (1-Excellence)  
-Loh Wei Hao, Zavier (1-Resilience)  
-Sim Jia Min (2-Care)  
-Mohan Krithin (2-Care)  
-Tan Ket Loon (2-Care)  
-Lin Jialu (2-Excellence)  
-Wang Zhiling (2-Respect)  
-Tan Le Tong (2-Respect)  
-Maryam D/O Ejaz (2-Curiosity)  
-Boey Kai Zun, Xavier (2-Integrity)  
-Nicole Lim Yu Xin (2-Integrity)  
-Li Zhin Rong, Alwin (3E1)  
-Padmanaban Sindhhuja (3E2)  
-Verity Lee Jing Xuan (3E3)  
-Mathukumilli Veera (3E3)  
-Zenden Goh Ray En (3N1)  
-  
-**Honourable Mention**  
-Paguia Seth Raphael Guiala (1-Care)  
-Lin Guan Han (1-Innovation)  
-Shiva Kris Chandrashekaran (1-Passion)  
-Kwa Yi Da (1-Resilience)  
-Tan Yi’en (2-Care)  
-Shao Jiaren (2-Integrity)  
-Chng Yu Quan (3E3)  
-  
- | &nbsp;2022 |
-| Singapore Mathematical Olympiads | **Honourable Mention**&nbsp;(Junior Section)  
-Sim Jia Min (1-Care)  
-Kelly Teo (2E1)  
-Lee Zheng Yuan (2E1)&nbsp; | 2021 |
-| &nbsp;All Singapore Secondary Mathematics Competition for Normal Course Students | &nbsp;**Top Placing**&nbsp;(Upper Secondary Normal Technical Individual Category):  
-Poh Wee Wisely (3T2) | 2021 |
-| Singapore Math&nbsp;Kangaroo Competition (SMKC)  
- | &nbsp;**Silver**:  
-Mohan Krithin (1-Care)  
-Joel Teo Kah Jun (2E1)  
-Ho Yi An Jerome (3E3)  
-  
-**Bronze**:  
-Sim Jia Min (1-Care)  
-How Jia Jun (2E3)  
-Julian Tan Wei Heng (2E1)  
-Kelly Teo (2E1)  
-Lee Zheng Yuan (2E1)  
-Padmanaban Sindhuja (2E2)  
-  
-**Honorable Mention**:  
-Kwa Zhen Yang (1-Care)  
-Mohammad Hamim Ibne Sharif (1-Care)  
-Chua Le Yu (2E1)  
-Foo Hai Yun (2E1)  
-Verity Lee Jing Xuan (2E3)  
-Yang Jiaxin (2E4)  
-  
- | 2021 | &nbsp; |
-| &nbsp;Singapore Mathematical Olympiads Competition | &nbsp;Honourable Mention (Senior Category):  
-Michael Napat Koh (3E1)&nbsp; | 2020 |
-| Singapore Math Kangaroo Competition (SMKC)  
- | 
-**Gold**:
-
-Lee Zheng Yuan (1E1)
-
-Kelly Teo (1E1)
+### Subject Offered: Principles of Accounts
 
   
 
-**Silver**:
-
-Joel Teo Kah Jun (1E1)
-
-Foo Hai Yun (1E1)
-
-Gan Siew Lan (1E1)
-
-Chia Yuan Hao Clarence (1E1)
-
-Ko Yu Xuan (2E1)
-
+### Curriculum  
   
+<p>Principles of Accounts (POA) is designed to provide students with a meaningful basic introduction to financial accounting and to develop an appreciation of the discipline of accounting. It is grounded in preparing, communicating and using financial information, and appreciating the need for ethical conduct. The subject places emphasis on the understanding and application of accounting knowledge to develop lifelong skills and values that will be of value in the increasingly complex world of business.</p>
 
-**Bronze**:
+<p>This subject forms part of a broad-based education to equip students with strong fundamentals for future learning.</p>
 
-Vaishali Paranidharan (1E1)
+<p>In line with the framework of learning Principles of Accounts as an important foundation subject, our department organises a series of enrichment activities to stimulate students' interest and inquisitiveness towards the subject.</p>
 
-Joachim Ng Jun Heng (1E1)
+## Programme
+<h4 style="color:purple" align="center"></h4>
+Student Achievements  
 
-Randilyn Liau Fang Xian (1E1)
-
-Appadurai Jaswanthram (1E1)
-
-Christine Koes (2E4)
-
-Teo Kai Xin Joslyn (3E1)
-
-  
-
-
-
-
- | 2020 |
-| &nbsp;All Singapore Secondary Math Competition for Normal Course students | **Third Placing**&nbsp;(Lower Secondary Normal Technical Category)  
-Poh Wee Wisely (2T2)  
- | 2020  
- |   
- |   
- |
-| Australian Mathematics Competition (AMC)&nbsp; | &nbsp;**Distinction**:
-
-Isaac Sim (1E2)
-
-Ethan Low Wei Yi (1E1)
-
-Michael Napat Koh (2E3)
-
- | 2019 |
-| All Singapore Secondary Mathematics Competition for Normal Course Students | 
-
-**Individual Category**:
-
-Koon Wei Ping Rafael (2N2) - 7th position
-
-Enven Ho Jun Xiang (2N2) - 9th position
-
- | 2019 |
-
-* * *
-
-  
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Competition</span></th>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Achievement</span></th>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Singapore Math Kangaroo Competition (SMKC)</span></td>
+    <td class="tg-i38w">Gold<br><span style="color:#222;background-color:#F2F9FF">Ng Yit Yu (2-Integrity)</span><br><span style="color:#222;background-color:#F2F9FF">Kelly Teo (3E1)</span><br><br>Silver<br><span style="color:#222;background-color:#F2F9FF">Ong Yi Chun, Shirin (2-Respect)</span><br><span style="color:#222;background-color:#F2F9FF">Lakshya Bhujanga Kotian (2-Integrity)</span><br><span style="color:#222;background-color:#F2F9FF">Kwa Zhen Yang (2-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Shen Ziru (3E2)</span><br><span style="color:#222;background-color:#F2F9FF">Appadurai Jaswanthram (3E3)</span><br><br>Bronze<br><span style="color:#222;background-color:#F2F9FF">Crisostomo Yvonne (1-Excellence)</span><br><span style="color:#222;background-color:#F2F9FF">Loh Wei Hao, Zavier (1-Resilience)</span><br><span style="color:#222;background-color:#F2F9FF">Sim Jia Min (2-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Mohan Krithin (2-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Tan Ket Loon (2-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Lin Jialu (2-Excellence)</span><br><span style="color:#222;background-color:#F2F9FF">Wang Zhiling (2-Respect)</span><br><span style="color:#222;background-color:#F2F9FF">Tan Le Tong (2-Respect)</span><br><span style="color:#222;background-color:#F2F9FF">Maryam D/O Ejaz (2-Curiosity)</span><br><span style="color:#222;background-color:#F2F9FF">Boey Kai Zun, Xavier (2-Integrity)</span><br><span style="color:#222;background-color:#F2F9FF">Nicole Lim Yu Xin (2-Integrity)</span><br><span style="color:#222;background-color:#F2F9FF">Li Zhin Rong, Alwin (3E1)</span><br><span style="color:#222;background-color:#F2F9FF">Padmanaban Sindhhuja (3E2)</span><br><span style="color:#222;background-color:#F2F9FF">Verity Lee Jing Xuan (3E3)</span><br><span style="color:#222;background-color:#F2F9FF">Mathukumilli Veera (3E3)</span><br><span style="color:#222;background-color:#F2F9FF">Zenden Goh Ray En (3N1)</span><br><br>Honourable Mention<br><span style="color:#222;background-color:#F2F9FF">Paguia Seth Raphael Guiala (1-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Lin Guan Han (1-Innovation)</span><br><span style="color:#222;background-color:#F2F9FF">Shiva Kris Chandrashekaran (1-Passion)</span><br><span style="color:#222;background-color:#F2F9FF">Kwa Yi Da (1-Resilience)</span><br><span style="color:#222;background-color:#F2F9FF">Tan Yi’en (2-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Shao Jiaren (2-Integrity)</span><br><span style="color:#222;background-color:#F2F9FF">Chng Yu Quan (3E3)</span><br><br></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> 2022</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Singapore Mathematical Olympiads</span></td>
+    <td class="tg-i38w">Honourable Mention<span style="color:#222;background-color:#F2F9FF"> (Junior Section)</span><br><span style="color:#222;background-color:#F2F9FF">Sim Jia Min (1-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Kelly Teo (2E1)</span><br><span style="color:#222;background-color:#F2F9FF">Lee Zheng Yuan (2E1) </span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">2021</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> All Singapore Secondary Mathematics Competition for Normal Course Students</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Top Placing<span style="color:#222;background-color:#F2F9FF"> (Upper Secondary Normal Technical Individual Category):</span><br><span style="color:#222;background-color:#F2F9FF">Poh Wee Wisely (3T2)</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">2021</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Singapore Math Kangaroo Competition (SMKC)</span><br></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Silver<span style="color:#222;background-color:#F2F9FF">:</span><br><span style="color:#222;background-color:#F2F9FF">Mohan Krithin (1-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Joel Teo Kah Jun (2E1)</span><br><span style="color:#222;background-color:#F2F9FF">Ho Yi An Jerome (3E3)</span><br><br>Bronze<span style="color:#222;background-color:#F2F9FF">:</span><br><span style="color:#222;background-color:#F2F9FF">Sim Jia Min (1-Care)</span><br><span style="color:#222;background-color:#F2F9FF">How Jia Jun (2E3)</span><br><span style="color:#222;background-color:#F2F9FF">Julian Tan Wei Heng (2E1)</span><br><span style="color:#222;background-color:#F2F9FF">Kelly Teo (2E1)</span><br><span style="color:#222;background-color:#F2F9FF">Lee Zheng Yuan (2E1)</span><br><span style="color:#222;background-color:#F2F9FF">Padmanaban Sindhuja (2E2)</span><br><br>Honorable Mention<span style="color:#222;background-color:#F2F9FF">:</span><br><span style="color:#222;background-color:#F2F9FF">Kwa Zhen Yang (1-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Mohammad Hamim Ibne Sharif (1-Care)</span><br><span style="color:#222;background-color:#F2F9FF">Chua Le Yu (2E1)</span><br><span style="color:#222;background-color:#F2F9FF">Foo Hai Yun (2E1)</span><br><span style="color:#222;background-color:#F2F9FF">Verity Lee Jing Xuan (2E3)</span><br><span style="color:#222;background-color:#F2F9FF">Yang Jiaxin (2E4)</span><br><br></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">2021</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> Singapore Mathematical Olympiads Competition</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> Honourable Mention (Senior Category):</span><br><span style="color:#222;background-color:#F2F9FF">Michael Napat Koh (3E1) </span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">2020</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Singapore Math Kangaroo Competition (SMKC)</span><br></td>
+    <td class="tg-i38w">Gold:<br>Lee Zheng Yuan (1E1)<br>Kelly Teo (1E1)<br><br>Silver:<br>Joel Teo Kah Jun (1E1)<br>Foo Hai Yun (1E1)<br>Gan Siew Lan (1E1)<br>Chia Yuan Hao Clarence (1E1)<br>Ko Yu Xuan (2E1)<br><br>Bronze:<br>Vaishali Paranidharan (1E1)<br>Joachim Ng Jun Heng (1E1)<br>Randilyn Liau Fang Xian (1E1)<br>Appadurai Jaswanthram (1E1)<br>Christine Koes (2E4)<br>Teo Kai Xin Joslyn (3E1)<br></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">2020</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> All Singapore Secondary Math Competition for Normal Course students</span></td>
+    <td class="tg-i38w">Third Placing <span style="color:#222;background-color:#F2F9FF">(Lower Secondary Normal Technical Category)</span><br><span style="color:#222;background-color:#F2F9FF">Poh Wee Wisely (2T2)</span><br></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">2020</span><br></td>
+    <td class="tg-da8v"></td>
+    <td class="tg-da8v"></td>
+  </tr>
+  <tr>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Australian Mathematics Competition (AMC) </span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Distinction<span style="color:#222;background-color:#F2F9FF">:</span><br>Isaac Sim (1E2)<br>Ethan Low Wei Yi (1E1)<br>Michael Napat Koh (2E3)</td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">2019</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-da8v"><span style="font-weight:normal">All Singapore Secondary Mathematics Competition for Normal Course Students</span></td>
+    <td class="tg-i38w">Individual Category<span style="font-weight:400">:</span>Koon Wei Ping Rafael (2N2) - 7th position<br>Enven Ho Jun Xiang (2N2) - 9th position</td>
+    <td class="tg-da8v"><span style="font-weight:normal">2019</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 ****2021**  
 **
 
