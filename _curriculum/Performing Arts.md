@@ -1022,11 +1022,9 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 </div></li></ul>
 
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3"><h5 style="color:purple">English Language, Drama and Debating</h5></label>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><h5 style="color:purple">English Language, Drama and Debating</h5></label>
 <div>
-	
-<br>
 <img src="/images/ELDD%20Website%20Main%20Pic.jpeg" style="width:500px">
 <br>
 <style type="text/css">
@@ -1287,16 +1285,14 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1103.96px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 536px;"><img src="images/3.jpeg" width="100%" alt="3.jpeg" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535.99px; height: 399px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 536px;"><img src="/images/4.jpeg" width="100%" alt="4.jpeg" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535.99px; height: 399px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img src="/images/5.jpeg" width="100%" alt="5.jpeg" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 301px; height: 400px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img src="/images/2.jpeg" width="100%" alt="2.jpeg" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535.99px; height: 399px;"></td></tr></tbody></table>
 
-<h4 style="color:purple" align="center">SYF Performance: Pruned</h4>convert from jfif syf 2 5 6
+<h4 style="color:purple" align="center">SYF Performance: Pruned</h4>
 <br>
 <img src="/images/syf5.jpg" style="width:500px">
 <br>
 
-<table class="iveo_table ive_eobj_center ives_tab_1" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1103.96px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 549px;"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2021/syf6.JPG" width="100%" alt="syf6.JPG" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 498px; height: 305px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 548px;"><img src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2021/syf2.JPG" width="100%" alt="syf2.JPG" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 540.703px; height: 307px;"></td></tr></tbody></table>
+<table class="iveo_table ive_eobj_center ives_tab_1" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1103.96px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 549px;"><img src="/images/syf6.jpg" width="100%" alt="syf6.JPG" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 498px; height: 305px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 548px;"><img src="/images/syf2.jpg" width="100%" alt="syf2.JPG" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 540.703px; height: 307px;"></td></tr></tbody></table>
 
-  
-convert from jfif pls
-![IMG_0629.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/EL%20Debate%20and%20Drama%20Society/2021/IMG_0629.JPG)  
+![IMG_0629.JPG](/images/IMG_0629.jpg)  
 
 
 
@@ -1379,7 +1375,6 @@ convert from jfif pls
   </tr>
 </tbody>
 </table>
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -1525,10 +1520,9 @@ convert from jfif pls
 </div></li>
 	
 <li>
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4"><h5 style="color:purple">Modern Dance Club</h5></label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><h5 style="color:purple">Modern Dance Club</h5></label>
 <div>
-	
 <img style="width:500px" src="/images/Dance%20Website%20Cover%20Photo.jpg">
 <br>
 
@@ -1820,28 +1814,15 @@ The dancers, clad in red cheongsam top performing for the popular Da Do Hui Chun
 
   
 
-### **Dance Camp 2020**
+<p style="text-align: center"><strong>Dance Camp 2020</strong></p>
+	<p>(The photos were taken before the circuit breaker measures were put in place.)</p>
 
-(The photos were taken before the circuit breaker measures were put in place.)
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/DC_1.jpg">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![DC_1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_1.jpg)
-
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/DC_2.jpg">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p>  
-![DC_2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_2.jpg)
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/DC_3.jpg">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![DC_3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/Dance%20Camp%202020/DC_3.jpg)
-
-  
 <img style="width:500px" src="/images/DC_4.jpg">
 <br>
 <p style="text-align: center"><strong>The new secondary one dancers spending quality time bonding with their seniors during the Secondary One Orientation programme.</strong></p> 
