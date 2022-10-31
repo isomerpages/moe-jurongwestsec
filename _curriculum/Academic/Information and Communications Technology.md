@@ -62,7 +62,9 @@ third_nav_title: Academic
 The value of computing lies in the **integrative use of software and hardware** to **create new artefacts that solve or address real-world problems**.<br>
 
   
-<b>T & L Framework</b><p>Computing Education Framework</p> 
+<b>T & L Framework</b>
+
+<p>Computing Education Framework</p> 
 
 <p>(The outer ring are examples of topics that could be covered for the three dimensions in the inner ring. The middle rings shows the components of each dimension.)</p>
 
