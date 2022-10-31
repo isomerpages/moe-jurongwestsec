@@ -1582,24 +1582,15 @@ Team B SYF dancers performing during Arts Presentation 2021
 **JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance 2021**  
 
   
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/3Speech Day 1.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![3. Speech Day 1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/3.%20Speech%20Day%201.png)
+<p style="text-align: center"><strong>The 20th Anniversary & Speech and Prize Giving Day performers posing after the event</strong></p>
 
-The 20th Anniversary &amp; Speech and Prize Giving Day performers posing after the event
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 908px; height: 306px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 465px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 461px; height: 300px;" class="ive_eobj_center" alt="3. Speech Day 2.png" src="/images/3Speech%20Day%202.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 441px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 439px; height: 301px;" class="ive_eobj_center" alt="3. Speech Day 3.png" src="/images/3Speech%20Day%203.png"></td></tr></tbody></table>
 
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 908px; height: 306px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 465px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 461px; height: 300px;" class="ive_eobj_center" alt="3. Speech Day 2.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/3.%20Speech%20Day%202.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 441px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 439px; height: 301px;" class="ive_eobj_center" alt="3. Speech Day 3.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/3.%20Speech%20Day%203.png"></td></tr></tbody></table>
-
-  
-
-* * *
-
-  
-
-**Dance Camp 2021**  
+<p style="text-align: center"><strong>Dance Camp 2021
+</strong></p>
+	
 <img style="width:500px" src="/images/ND_2.jpg">
 <br>
 <p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
@@ -1665,29 +1656,19 @@ Secondary One students participating in Dance Audition 2021
 
 <table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 536px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 295.16px;" class="ive_eobj_center" alt="7. Theatre Workshop 1.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/7.%20Theatre%20Workshop%201.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 536px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 442px; height: 300px;" class="ive_eobj_center" alt="7. Theatre Workshop 2.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/7.%20Theatre%20Workshop%202.png"></td></tr></tbody></table>
 
-  
-
-  
-
-* * *
-
-  
-
-**CCA Appreciation Tea 2021**  
-<img style="width:500px" src="/images/ND_2.jpg">
+<p style="text-align: center"><strong>CCA Appreciation Tea 2021</strong></p>	
+	
+<img style="width:500px" src="/images/8Appreciation&20Tea.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![8. Appreciation Tea.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/8.%20Appreciation%20Tea.png)
+<p style="text-align: center"><strong>Secondary Four seniors posing with the appreciation gifts received from juniors</strong></p>
 
-Secondary Four seniors posing with the appreciation gifts received from juniors
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1049px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 356.992px; height: 237.227px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 1.png" src="/images/9Passing%20Out%20Ceremony%201.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 356px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 355.99px; height: 374.451px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 2.png" src="/images/9Passing%20Out%20Ceremony%202.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 336px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 299px; height: 397px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 3.png" src="/images/9Passing%20Out%20Ceremony%203.png"></td></tr></tbody></table>
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1049px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 356.992px; height: 237.227px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 1.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%201.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 356px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 355.99px; height: 374.451px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 2.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%202.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 336px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 299px; height: 397px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 3.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%203.png"></td></tr></tbody></table>
-
-Seniors receiving their Passing Out Ceremony trophies and certificates from their FTs
+<p style="text-align: center"><strong>Seniors receiving their Passing Out Ceremony trophies and certificates from their FTs</strong></p>
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 921px; height: 302px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 336px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 337px; height: 268px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 4.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%204.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 336px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 320px; height: 295px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 5.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%205.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 249px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 236px; height: 292px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 6.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%206.png"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 921px; height: 302px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 336px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 337px; height: 268px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 4.png" src="/images/9Passing%20Out%20Ceremony%204.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 336px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 320px; height: 295px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 5.png" src="/images/9Passing%20Out%20Ceremony%205.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 249px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 236px; height: 292px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 6.png" src="/images/9Passing%20Out%20Ceremony%206.png"></td></tr></tbody></table>
 
 <p style="text-align: center"><strong>Seniors receiving their Passing Out Ceremony trophies and certificates from their FTs</strong></p>
 
