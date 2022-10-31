@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Portal for Staff & Students.md
       - Academic/.keep
       - Academic/Teaching n Learning at JWSS.md
       - Academic/Academic Subjects.md
@@ -21,3 +20,4 @@ collections:
       - Performing Arts.md
       - Sports & Games.md
       - Uniformed Groups.md
+      - Portal for Staff & Students.md
