@@ -1620,45 +1620,28 @@ Dancers practising during the Makeup Workshop (Dance Camp 2021)
 <p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
 ![4. Dance Camp 7.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%207.png)Dancers practising during the Makeup Workshop (Dance Camp 2021)
 
-* * *
-
-  
-
-**Dance Workshops by Alumni**
-<img style="width:500px" src="/images/ND_2.jpg">
+<p style="text-align: center"><strong>Dance Workshops by Alumni</strong></p>
+	
+<img style="width:500px" src="/images/5Alumni.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![5. Alumni.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/5.%20Alumni.png)
+<p style="text-align: center"><strong>Dancers learning dance moves from Alumni seniors during the CCA sessions</strong></p> 
 
-Dancers learning dance moves from Alumni seniors during the CCA sessions
 
   
-
-* * *
-
-  
-
-**Secondary One Dance Audition 2021**  
-<img style="width:500px" src="/images/ND_2.jpg">
+<p style="text-align: center"><strong>Secondary One Dance Audition 2021</strong></p>
+	
+<img style="width:500px" src="/images/6Sec%201%20Audition.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![6. Sec 1 Audition.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/6.%20Sec%201%20Audition.png)
+<p style="text-align: center"><strong>Secondary One students participating in Dance Audition 2021</strong></p> 
 
-Secondary One students participating in Dance Audition 2021
 
-  
+<p style="text-align: center"><strong>Theatre Staging and Production Workshop</strong></p>
 
-* * *
-
-  
-
-**Theatre Staging and Production Workshop**  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 536px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 295.16px;" class="ive_eobj_center" alt="7. Theatre Workshop 1.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/7.%20Theatre%20Workshop%201.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 536px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 442px; height: 300px;" class="ive_eobj_center" alt="7. Theatre Workshop 2.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/7.%20Theatre%20Workshop%202.png"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 536px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 295.16px;" class="ive_eobj_center" alt="7. Theatre Workshop 1.png" src="/images/7Theatre%20Workshop%201.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 536px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 442px; height: 300px;" class="ive_eobj_center" alt="7. Theatre Workshop 2.png" src="/images/7Theatre%20Workshop%202.png"></td></tr></tbody></table>
 
 <p style="text-align: center"><strong>CCA Appreciation Tea 2021</strong></p>	
 	
-<img style="width:500px" src="/images/8Appreciation&20Tea.png">
+<img style="width:500px" src="/images/8Appreciation%20Tea.png">
 <br>
 <p style="text-align: center"><strong>Secondary Four seniors posing with the appreciation gifts received from juniors</strong></p>
 
