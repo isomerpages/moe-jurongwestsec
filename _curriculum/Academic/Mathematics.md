@@ -4,7 +4,6 @@ permalink: /curriculum/academic/mathematics/
 description: ""
 third_nav_title: Academic
 ---
-
 ## Mathematics
 
 *   Teaching Staff
@@ -214,67 +213,42 @@ Student Achievements
   </tr>
 </tbody>
 </table>
-****2021**  
-**
 
-******Crime Scene Investigation using Mathematics (20 October)  
-**As part of the school’s post-exam activities, Secondary Two students worked on a scenario of a hit-and-run accident where they have to apply their mathematical knowledge to solve the crime. The students collaborated in groups and raced against the clock to interpret the various evidence found.****&nbsp;
+<p style="text-align: center"><strong>2021</strong></p>
+<b>Crime Scene Investigation using Mathematics (20 October)</b><br>  
+<p>As part of the school’s post-exam activities, Secondary Two students worked on a scenario of a hit-and-run accident where they have to apply their mathematical knowledge to solve the crime. The students collaborated in groups and raced against the clock to interpret the various evidence found.</p>
 
-Through the activity, students enjoyed the knowledge discovery process and experienced how Mathematics can be applied to the real world context.
+<p>Through the activity, students enjoyed the knowledge discovery process and experienced how Mathematics can be applied to the real world context.</p>
 
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 995px; height: 717px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 447px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 01.jpeg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2021/Image%2001.jpeg">Students making use of their Personal Learning Devices (PLDs) to analyse the evidence provided.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 540px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 417px; height: 312px;" class="ive_eobj_center" alt="Image 02.jpeg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2021/Image%2002.jpeg">Students working on their calculations and sharing their findings.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 03.JPG" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2021/Image%2003.JPG">Students discussing and debating who the “suspect” is.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 452px; height: 339px;" class="ive_eobj_center" alt="Image 04.jpeg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2021/Image%2004.jpeg">Congratulations to the prize winners.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 995px; height: 717px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 447px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 01.jpeg" width="100%" src="/images/math1.jpeg">Students making use of their Personal Learning Devices (PLDs) to analyse the evidence provided.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 540px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 417px; height: 312px;" class="ive_eobj_center" alt="Image 02.jpeg" width="100%" src="/images/math2.jpeg">Students working on their calculations and sharing their findings.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 03.JPG" width="100%" src="/images/math3.jpg">Students discussing and debating who the “suspect” is.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 452px; height: 339px;" class="ive_eobj_center" alt="Image 04.jpeg" width="100%" src="/images/math4.jpeg">Congratulations to the prize winners.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
-* * *
+<p style="text-align: center"><strong>2020</strong></p>
 
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; font-weight: bold; font-size: large; width: 881px; height: 113px;" class="ive_eobj_center iveo_table ives_tab_simple"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="post exam 1.jpg" width="100%" src="/images/Post%20Exam/post%20exam%201.jpg"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: transparent; color: inherit;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Students working together to analyse the evidence provided</span>.</span></div></font></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Post exam 2.jpeg" width="100%" src="/images/Post%20Exam/Post%20exam%202.jpeg"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: transparent; color: inherit; font-weight: normal;">Students sharing their findings with each other.</span></div></font></td></tr></tbody></table>
+
+<p style="text-align: center"><strong>2019</strong></p>
+
+<b>Secondary 2 Mathematics Trail (28 May)</b>
+
+<p>The Secondary 2 students embarked on a learning trail where they were given the opportunities to connect mathematics that they have learnt in school to the real world. Through a visit to the supermarket and a game of bowling, the students learnt to work collaboratively with their peers to construct new knowledge and, at the same time, solve problems</p> 
   
-
-**2020**
-
-**Crime Scene Investigation using Mathematics (20 October)  
-**As part of the school’s post-exam activities, Secondary Two students worked on a scenario of a hit-and-run accident where they have to apply their mathematical knowledge to solve the crime. The students collaborated in groups and raced against the clock to interpret the various evidence found.&nbsp;
-
-Through the activity, students enjoyed the knowledge discovery process and experienced how Mathematics can be applied to the real world context.
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; font-weight: bold; font-size: large; width: 881px; height: 113px;" class="ive_eobj_center iveo_table ives_tab_simple"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="post exam 1.jpg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2020/Post%20Exam/post%20exam%201.jpg"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: transparent; color: inherit;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Students working together to analyse the evidence provided</span>.</span></div></font></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Post exam 2.jpeg" width="100%" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2020/Post%20Exam/Post%20exam%202.jpeg"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: transparent; color: inherit; font-weight: normal;">Students sharing their findings with each other.</span></div></font></td></tr></tbody></table>
-
-  
-
-**2019**  
-
-**Secondary 2 Mathematics Trail (28 May)**  
-The Secondary 2 students embarked on a learning trail where they were given the opportunities to connect mathematics that they have learnt in school to the real world. Through a visit to the supermarket and a game of bowling, the students learnt to work collaboratively with their peers to construct new knowledge and, at the same time, solve problems  
-
-|   
 ![A.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2019/A.jpg)
 Students comparing prices at the supermarket before making their decision
 
- |
-| --- |
-|   
-  
-![B.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2019/B.jpg)**
 
-**Students engaged in a discussion with their teacher at the supermarket**
+![B.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2019/B.jpg)
 
-** |
-|   
-  
-![C.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2019/C.jpg)**
+<p style="text-align: center"><strong></strong></p>
+Students engaged in a discussion with their teacher at the supermarket
+![C.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2019/C.jpg)
+<p style="text-align: center"><strong></strong></p>
+Students exploring the best type of graphs to present their scores while having a game of bowling
+![D.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2019/D.jpg)
+<p style="text-align: center"><strong></strong></p>
+Students learning Mathematics through bowling<br>
 
-**Students exploring the best type of graphs to present their scores while having a game of bowling**
-
-** |
-| &nbsp;  
-  
-![D.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/Mathematics/2019/D.jpg)**
-
-**Students learning Mathematics through bowling**
-
-** |
-
-  
-
-**POA Activities (2019)**
+<p style="text-align: center"><strong></strong></p>
+POA Activities (2019)
 
   
 
