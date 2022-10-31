@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Uniformed Groups.md
+      - Academic/.keep
       - Academic/Teaching n Learning at JWSS.md
       - Academic/Academic Subjects.md
       - Academic/Craft and Technology.md
@@ -11,7 +11,6 @@ collections:
       - Academic/Information and Communications Technology.md
       - Academic/Mathematics.md
       - Academic/Mother Tongue Languages.md
-      - Academic/.keep
       - Academic/Physical Education.md
       - Academic/Science.md
       - Academic/Promotion Criteria.md
@@ -20,3 +19,4 @@ collections:
       - Clubs & Societies.md
       - Performing Arts.md
       - Sports & Games.md
+      - Uniformed Groups.md
