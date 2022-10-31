@@ -160,6 +160,10 @@ description: ""
          style="width:500px"
 	/>
 <br>
+<img src="/images/redcross18.png" 
+         style="width:500px"
+	/>
+<br>
 <img src="/images/redcross15.png" 
          style="width:500px"
 	/>
@@ -169,10 +173,6 @@ description: ""
 	/>
 <br>
 <img src="/images/redcross17.png" 
-         style="width:500px"
-	/>
-<br>
-<img src="/images/redcross18.png" 
          style="width:500px"
 	/>
 <br>
