@@ -178,4 +178,35 @@ description: ""
 <br>
 
 <h3 id="boysbrigade">The Boys' Brigade</h3>
-
+<img src="/images/boysbrigade1.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/boysbrigade2.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/boysbrigade3.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/boysbrigade4.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/boysbrigade5.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/boysbrigade6.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/boysbrigade7.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/boysbrigade8.png" 
+         style="width:500px"
+	/>
+<br>
