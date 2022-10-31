@@ -1689,130 +1689,55 @@ Seniors receiving their Passing Out Ceremony trophies and certificates from thei
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 921px; height: 302px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 336px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 337px; height: 268px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 4.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%204.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 336px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 320px; height: 295px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 5.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%205.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 249px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 236px; height: 292px;" class="ive_eobj_center" alt="9. Passing Out Ceremony 6.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/9.%20Passing%20Out%20Ceremony%206.png"></td></tr></tbody></table>
 
-Seniors receiving their Passing Out Ceremony trophies and certificates from their FTs
+<p style="text-align: center"><strong>Seniors receiving their Passing Out Ceremony trophies and certificates from their FTs</strong></p>
 
   
+<p style="text-align: center"><strong>E-CCA Training Sessions </strong></p>
 
-  
-
-* * *
-
-  
-
-**E-CCA Training Sessions**  
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/10E-CCA%201.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![10. E-CCA 1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/10.%20E-CCA%201.png)
+<p style="text-align: center"><strong>Dancers practising during e-CCA training sessions</strong></p> 
 
-Dancers practising during e-CCA training sessions
 
+<p style="text-align: center"><strong>Breakout Room Activity (E-CCA)</strong></p>
+
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1121.98px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 545px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 545px; height: 340.722px;" class="ive_eobj_center" alt="10. E-CCA 2.png" src="/images/10E-CCA%202.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 545px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 545px; height: 336.391px;" class="ive_eobj_center" alt="10. E-CCA 3.png" src="/images/10E-CCA%203.png"></td></tr></tbody></table>
+<p style="text-align: center"><strong>Dancers doing various activities and discussions during breakout room sessions</strong></p>
+	
+<p style="text-align: center"><strong>Student-led Breakout Room Activity (E-CCA)</strong></p>
   
-
-* * *
-
-  
-
-**Breakout Room Activity (E-CCA)**  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1121.98px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 545px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 545px; height: 340.722px;" class="ive_eobj_center" alt="10. E-CCA 2.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/10.%20E-CCA%202.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 545px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 545px; height: 336.391px;" class="ive_eobj_center" alt="10. E-CCA 3.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/10.%20E-CCA%203.png"></td></tr></tbody></table>
-
-Dancers doing various activities and discussions during breakout room sessions
-
-  
-
-* * *
-
-  
-
-**Student-led Breakout Room Activity (E-CCA)**  
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/10E-CCA%204.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![10. E-CCA 4.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/10.%20E-CCA%204.png)
+<p style="text-align: center"><strong>Dance leaders conducting bonding activity using Mentimeter during one of the e-CCA sessions</strong></p> 
 
-Dance leaders conducting bonding activity using Mentimeter during one of the e-CCA sessions
+<p style="text-align: center"><strong>Activities & Competitions (2020)</strong></p>  
 
-  
-
-**Activities &amp; Competitions (2020)  
-**
-
-
------------------------------------------
-
-* * *
-
-**CCA Open House 2020**  
-
+<p style="text-align: center"><strong>CCA Open House 2020</strong></p>
 (The photos were taken before the circuit breaker measures were put in place.)
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/CCAOH_1.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![CCAOH_1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CCA%20Open%20House/CCAOH_1.png)
-
-JWSS IDC board prepared by the dancers.  
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
+<p style="text-align: center"><strong>JWSS IDC board prepared by the dancers.</strong></p> 
+<img style="width:500px" src="/images/CCAOH_2.png">
+<img style="width:500px" src="/images/CCAOH_3.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![CCAOH_2.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CCA%20Open%20House/CCAOH_2.png)
-<img style="width:500px" src="/images/ND_2.jpg">
+<p style="text-align: center"><strong>Interested secondary one students checking out the Dance booth.</strong></p> 
+<img style="width:500px" src="/images/CCAOH_4.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![CCAOH_3.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CCA%20Open%20House/CCAOH_3.png)
+<p style="text-align: center"><strong>A dancer promoting the club to a few interested secondary one students</strong></p> 
 
-Interested secondary one students checking out the Dance booth.  
+<p style="text-align: center"><strong>Chinese New Year Performance</strong></p>
 
-&nbsp;&nbsp;  
-<img style="width:500px" src="/images/ND_2.jpg">
+<p>(The photos were taken before the circuit breaker measures were put in place.)</p>
+  
+<img style="width:500px" src="/images/CNY_1.jpg">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![CCAOH_4.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CCA%20Open%20House/CCAOH_4.png)
-
-A dancer promoting the club to a few interested secondary one students.&nbsp;
-
-  
-
-* * *
-
-  
-
-### **Chinese New Year Performance**
-
-(The photos were taken before the circuit breaker measures were put in place.)
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/CNY_2.jpg">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![CNY_1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CNY%20Performance/CNY_1.jpg)
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/CNY_3.jpg">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![CNY_2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CNY%20Performance/CNY_2.jpg)
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
+<img style="width:500px" src="/images/CNY_4.jpg">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![CNY_3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CNY%20Performance/CNY_3.jpg)
-
-  
-<img style="width:500px" src="/images/ND_2.jpg">
-<br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![CNY_4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2020/CNY%20Performance/CNY_4.jpg)  
-The dancers, clad in red cheongsam top performing for the popular Da Do Hui Chun song during the JWSS Chinese New Year celebration concert.
-
-  
-
-* * *
-
-  
+<p style="text-align: center"><strong>The dancers, clad in red cheongsam top performing for the popular Da Do Hui Chun song during the JWSS Chinese New Year celebration concert.</strong></p> 
 
 <p style="text-align: center"><strong>Dance Camp 2020</strong></p>
 	<p>(The photos were taken before the circuit breaker measures were put in place.)</p>
