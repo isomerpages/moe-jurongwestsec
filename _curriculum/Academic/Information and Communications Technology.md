@@ -98,4 +98,48 @@ An important aspect of the Computer Education Framework is the relationship betw
 ![framework 1.png](/images/framework%201-1.png)
 
 ## Programme
-refer screenshots for programme
+<h4 style="color:purple" align="center">Animation and Game Making Competition 2020</h4>
+
+<p>The Animation and Game Making (Previously known as Media Computing (MEC)) Competition is an annual competition for Secondary students offering Computer Applications. It is organised by the Computer Education Unit, Curriculum Planning and Development Division. The objectives of the AGM Competition are to provide a platform to showcase students’ work, develop students’ interest in media design; and hone students’ communication and presentation skills.</p>  
+
+<p>Students are to create a game based on the theme, Adventure. We are proud to announce that Tan Li Chuan, 3T1 is awarded the Bronze Award for the Animation and Game Making Competition – Game Category.</p>
+
+  
+
+**Awards:**
+
+Tan Li Chuan, 3T1 is awarded the Bronze Award
+<br>
+<img src="/images/icta.png" 
+         style="width:600px"
+	/>
+<br>
+
+<h4 style="color:purple" align="center">NTU School of Computer Science and Engineering (SCSE) Python Workshop</h4>
+
+<p>The Python Programming Workshop for the Youth was organised by NTU Computer Science and Engineering Club, in partnership with Jurong West Secondary School. The program aimed at providing students from Jurong West Secondary School an exposure to modern computational thinking and cultivate their interest in Information Technology as well as providing opportunities for SCSE students to participate in community events. The students participated actively and benefited from the five weeks of training, which culminated in a competition and presentation.</p>
+
+<img src="/images/ictb.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/ictc.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/ictd.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/icte.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/ictf.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/ictg.png" 
+         style="width:600px"
+	/>
+<br>
