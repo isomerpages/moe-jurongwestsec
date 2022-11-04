@@ -4,7 +4,6 @@ permalink: /curriculum/academic/humanities/
 description: ""
 third_nav_title: Academic
 ---
-
 ## Humanities
 
 *   Teaching Staff
@@ -94,3 +93,51 @@ third_nav_title: Academic
 ![geography_framework.png](/images/geography_framework.png)
 
 ## Programme refer to screenshots
+<img src="/images/humana.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humanb.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humanc.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humand.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humane.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humanf.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humang.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humanh.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humani.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humanl.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humanm.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/humann.png" 
+         style="width:600px"
+	/>
+<br>
