@@ -214,7 +214,7 @@ Food and Consumer Education (FCE) is taken by all lower secondary students in JW
 <p>The FCE syllabus is designed to prepare students for the 21st Century. Hence, the 21st Century Competencies (21CC) has been integrated into the content, learning process and assessment. FCE is a relevant subject that provides students a foresight to prepare them for the evolving world.</p>
 
   
-<b>*Upper Secondary Programme:</b>  
+<b>Upper Secondary Programme:</b>  
   
 <p>Our upper secondary programme prepares students for their GCE O/N levels in Secondary 4. It is a comprehensive programme to familiarise students with coursework requirements.</p>
 
