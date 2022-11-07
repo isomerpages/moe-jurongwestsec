@@ -231,3 +231,53 @@ Food and Consumer Education (FCE) is taken by all lower secondary students in JW
 <b>Structure of Syllabus:</b>  
 
 <table class="iveo_table ives_tab_1 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; float: left; border: 1px solid rgb(234, 234, 234); width: 528px; height: 65px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 262px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Core areas of study</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 262px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">1. Food studies</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">2. Consumer studies</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Elective module</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 60px;">1. Nutrition &amp; Food Science<br style="margin: 0px; outline: 0px; padding: 0px;">2. Food Entrepreneurship<br style="margin: 0px; outline: 0px; padding: 0px;">3. FCE &amp; The Community&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+
+## Programme
+<img src="/images/cft1.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft2.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft3.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft4.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft5.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft6.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft7.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft8.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft9.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft10.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft11.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/cft12.png" 
+         style="width:600px"
+	/>
+<br>
