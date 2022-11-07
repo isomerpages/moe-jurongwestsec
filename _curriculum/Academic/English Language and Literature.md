@@ -102,4 +102,77 @@ The syllabus aims to **advance students’ language learning** and develop stu
 
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 39px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The study of Literature centres on literary response – the negotiation of meaning between readers and texts. This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner.&nbsp;</font></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment.&nbsp;</font></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The various layers of this framework are elaborated upon below, starting from the centre to the outermost layer.</font></p></td></tr></tbody></table>
 
-## Programme refer to screenshots
+## Programme 
+
+<img src="/images/englit1.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit2.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit3.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit4.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit5.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit6.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit7.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit8.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit9.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit10.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit11.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit12.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit13.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit14.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit15.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit16.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit17.png" 
+         style="width:600px"
+	/>
+<br>
+<img src="/images/englit18.png" 
+         style="width:600px"
+	/>
+<br>
