@@ -92,7 +92,7 @@ third_nav_title: Academic
 
 ![geography_framework.png](/images/geography_framework.png)
 
-## Programme refer to screenshots
+## Programme 
 <img src="/images/humana.png" 
          style="width:600px"
 	/>
