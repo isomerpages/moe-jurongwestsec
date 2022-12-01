@@ -15,7 +15,7 @@ A strong parent-school partnership is key to developing our students to their fu
 
   
 ![VMO.jpg](/images/VMO.jpg)  
-![SuperHero.jpg](/images/ParentSupportGroup(PSG)/SuperHero.jpg)
+![SuperHero.jpg](/images/SuperHero.jpg)
 
 ## Contact Us
 <style type="text/css">
