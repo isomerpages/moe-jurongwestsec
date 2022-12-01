@@ -184,13 +184,13 @@ third_nav_title: Subject Overview
     <td class="tg-3oug">P.E.</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a></td>
-    <td class="tg-baqh"><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1un_PHWpo84lJ7HA9PNPY46WI1OURthfh/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1p1dhpZDR-MvbYAI8oP-u8vyBKZeHNkQi/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/125ksKUv99ZDolnF6CdZn952mPQXXWbNM/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1iS_TRNTxB5xOSdKjtHZxEZeQFKwRKm7o/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1CCM9-9VjO3PiCoetVIZl4gXo1ugAkSsE/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/13NuA56ToLxJoH1nYU50mJ9WHF1nuGUr0/edit">Sem 1</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1FM8iqAK7ZasqnOJs4rBhliY96QqRMKR1/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1Kgm4Uh5lLUX0kk83_gCdeL6_WSpjBxa8/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1Kgm4Uh5lLUX0kk83_gCdeL6_WSpjBxa8/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1iqISZbW_-FD3PEX_kKlqxyVXgwMfRhzD/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1pFWlrCL9M2_LIA7wdDAsHg6Nvr8OqUEZ/edit">Sem 2</a></td>
   </tr>
 </tbody>
 </table>
