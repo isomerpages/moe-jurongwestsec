@@ -166,17 +166,17 @@ third_nav_title: Subject Overview
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
-    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1sgyHdSV5xc6yG-11BtKctVLVGU5e0Eo6/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1bR66ir1zRjXx9etLtxNwd2-x59L__4FB/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/15ojZstHQEsHVvZYrV3jB4naxNf7HMbt0/edit">Sem 1</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1kD-nqmS35IcB-HZWyZ859CwZYy3jGIfq/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1ZVcji3C6JKlfMkmg_67qLH76FPWGUbHy/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1-uG4BUSc2ooGbZpJKMSrHEtUI53GPBZO/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1Y0wmbBp6-VOuZEhRKHCBSG1aUrSevp42/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1YLGjz-SzfsZ65qC1nQ_HsoCi_onN3-Q2/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1Tr8gti7tZvbbrleiOdzx9y9lGm31VUZ0/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1yhvuQgM9nfhyRf4nKx4nrW2wizXTF84o/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1o_qeiQ0CXkl9Cu4IbsSwhlgfstlqMkaR/edit">Sem 2</a></td>
+    <td class="tg-baqh"><a href="https://docs.google.com/document/d/1lvxb-qf73woaQOlClshXNeOnGabwgSkN/edit">Sem 1</a><br><a href="https://docs.google.com/document/d/1z4Ra6EJ0O8cq1KLMpE9wDHyRJjKis_Y9/edit">Sem 2</a></td>
   </tr>
   <tr>
-    <td class="tg-3oug">History</td>
-    <td class="tg-3oug">Literature</td>
+    <td class="tg-3oug">CPA</td>
+    <td class="tg-3oug">Basic Chinese</td>
     <td class="tg-3oug">Art</td>
     <td class="tg-3oug">D&amp;T</td>
     <td class="tg-3oug">FCE</td>
@@ -184,13 +184,13 @@ third_nav_title: Subject Overview
     <td class="tg-3oug">P.E.</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Sem 1<br>Sem 2</td>
-    <td class="tg-baqh">Sem 1<br>Sem 2</td>
-    <td class="tg-baqh">Sem 1<br>Sem 2</td>
-    <td class="tg-baqh">Sem 1<br>Sem 2</td>
-    <td class="tg-baqh">Sem 1<br>Sem 2</td>
-    <td class="tg-baqh">Sem 1<br>Sem 2</td>
-    <td class="tg-baqh">Sem 1<br>Sem 2</td>
+    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
+    <td class="tg-baqh"><a href="">Sem 2</a></td>
+    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
+    <td class="tg-baqh"><a href="">Sem 1</a></td>
+    <td class="tg-baqh"><a href="">Sem 2</a></td>
+    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
+    <td class="tg-baqh"><a href="">Sem 1</a><br><a href="">Sem 2</a></td>
   </tr>
 </tbody>
 </table>
