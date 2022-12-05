@@ -104,4 +104,91 @@ third_nav_title: Subject Overview
   </tr>
 </tbody>
 </table>
-<a href="t">Sem 1</a><br><a href="t">Sem 2</a>
+
+<br><br><h4 style="color:red" align="center"> Secondary 3 (Normal Academic)</h4>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vswx{background-color:#fd6864;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-88nz{background-color:#FD6864;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 830px">
+<colgroup>
+<col style="width: 123px">
+<col style="width: 139px">
+<col style="width: 127px">
+<col style="width: 117px">
+<col style="width: 116px">
+<col style="width: 94px">
+<col style="width: 114px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-vswx">English Language</th>
+    <th class="tg-vswx">Chinese <br>Language</th>
+    <th class="tg-88nz">Malay <br>Language</th>
+    <th class="tg-88nz">Tamil <br>Language</th>
+    <th class="tg-vswx">Maths</th>
+    <th class="tg-88nz">Sci Chem</th>
+    <th class="tg-vswx">Social Studies</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a>
+</td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a>
+</td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a>
+</td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a>
+</td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a>
+</td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a>
+</td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+  </tr>
+  <tr>
+    <td class="tg-vswx">Pure Literature</td>
+    <td class="tg-vswx">Art</td>
+    <td class="tg-vswx">D&amp;T</td>
+    <td class="tg-88nz">P.E.</td>
+    <td class="tg-88nz">A. Maths</td>
+    <td class="tg-vswx">Sci Bio</td>
+    <td class="tg-vswx">Geography Elective</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+  </tr>
+  <tr>
+    <td class="tg-88nz"></td>
+    <td class="tg-88nz"></td>
+    <td class="tg-88nz"></td>
+    <td class="tg-88nz">ESS</td>
+    <td class="tg-88nz">POA</td>
+    <td class="tg-88nz">Sci Phy</td>
+    <td class="tg-88nz">History<br> Elective</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+    <td class="tg-c3ow"><a href="t">Sem 1</a><br><a href="t">Sem 2</a></td>
+  </tr>
+</tbody>
+</table>
