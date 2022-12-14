@@ -1563,23 +1563,16 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 <br>
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.333px;" class="ive_eobj_center" alt="2. SYF 2.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%202.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 356px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 236.909px;" class="ive_eobj_center" alt="2. SYF 3.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%203.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 233.853px;" class="ive_eobj_center" alt="2. SYF 4.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%204.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.333px;" class="ive_eobj_center" alt="2. SYF 2.jpg" src="/images/syf2.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 356px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 236.909px;" class="ive_eobj_center" alt="2. SYF 3.jpg" src="/images/syf3.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 233.853px;" class="ive_eobj_center" alt="2. SYF 4.jpg" src="/images/syf4.jpg"></td></tr></tbody></table>
 
 Team A SYF dancers performing during Arts Presentation 2021  
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.98px;" class="ive_eobj_center" alt="2. SYF 5.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%205.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 356px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 233.377px;" class="ive_eobj_center" alt="2. SYF 6.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%206.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 234.649px;" class="ive_eobj_center" alt="2. SYF 7.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%207.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.98px;" class="ive_eobj_center" alt="2. SYF 5.jpg" src="/images/syf5.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 356px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 233.377px;" class="ive_eobj_center"  src="/images/syf6.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 234.649px;" class="ive_eobj_center" src="/images/syf7.jpg"></td></tr></tbody></table>
 
 Team B SYF dancers performing during Arts Presentation 2021  
-
-  
-
-* * *
-
-  
-
-**JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance 2021**  
+JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance 2021
 
   
 <img style="width:500px" src="/images/3Speech Day 1.png">
@@ -1591,34 +1584,30 @@ Team B SYF dancers performing during Arts Presentation 2021
 <p style="text-align: center"><strong>Dance Camp 2021
 </strong></p>
 	
-<img style="width:500px" src="/images/ND_2.jpg">
+<img src="/images/dancecamp3.png" 
+         style="width:500px"
+	/>
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![4. Dance Camp 3.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%203.png)
+<b>Dancers stretching during the Hip Hop workshop (Dance Camp 2021)</b>
 
-Dancers stretching during the Hip Hop workshop (Dance Camp 2021)
+	
+<img src="/images/dancecamp2.png" 
+         style="width:500px"
+	/>
+<br>
+	<b>Dancers practising during the Hip Hop workshop (Dance Camp 2021)</b>
+
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 536px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 397.583px;" class="ive_eobj_center" alt="4. Dance Camp 3.png" src="/images/dancecamp3.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 536px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 398.393px;" class="ive_eobj_center" alt="4. Dance Camp 4.png" src="/images/dancecamp4.png"></td></tr></tbody></table>
+
+<b>Dancers practising during the Lyrical Dance workshop (Dance Camp 2021)</b>
 
   
-<img style="width:500px" src="/images/ND_2.jpg">
+<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px; height: 379px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 509px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 525.638px; height: 385.773px;" class="ive_eobj_center" alt="4. Dance Camp 5.png" src="/images/dancecamp5.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 563px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 541px; height: 405px;" class="ive_eobj_center" alt="4. Dance Camp 6.png" src="/images/dancecamp6.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+	<b>Dancers practising during the Makeup Workshop (Dance Camp 2021)</b>
+	
+<img style="width:500px" src="/images/dancecamp7.png">
 <br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![4. Dance Camp 2.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%202.png)
-
-Dancers practising during the Hip Hop workshop (Dance Camp 2021)![](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 536px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 397.583px;" class="ive_eobj_center" alt="4. Dance Camp 3.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%203.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 536px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 398.393px;" class="ive_eobj_center" alt="4. Dance Camp 4.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%204.png"></td></tr></tbody></table>
-
-Dancers practising during the Lyrical Dance workshop (Dance Camp 2021)
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px; height: 379px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 509px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 525.638px; height: 385.773px;" class="ive_eobj_center" alt="4. Dance Camp 5.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%205.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 563px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 541px; height: 405px;" class="ive_eobj_center" alt="4. Dance Camp 6.png" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%206.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-Dancers practising during the Makeup Workshop (Dance Camp 2021)
-<img style="width:500px" src="/images/ND_2.jpg">
-<br>
-<p style="text-align: center"><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.  </strong></p> 
-![4. Dance Camp 7.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/4.%20Dance%20Camp%207.png)Dancers practising during the Makeup Workshop (Dance Camp 2021)
+<p style="text-align: center"><strong>Dancers practising during the Makeup Workshop (Dance Camp 2021)</strong></p> 
 
 <p style="text-align: center"><strong>Dance Workshops by Alumni</strong></p>
 	
@@ -1626,8 +1615,6 @@ Dancers practising during the Makeup Workshop (Dance Camp 2021)
 <br>
 <p style="text-align: center"><strong>Dancers learning dance moves from Alumni seniors during the CCA sessions</strong></p> 
 
-
-  
 <p style="text-align: center"><strong>Secondary One Dance Audition 2021</strong></p>
 	
 <img style="width:500px" src="/images/6Sec%201%20Audition.png">
@@ -1748,8 +1735,6 @@ Dancers practising during the Makeup Workshop (Dance Camp 2021)
 <h4 style="color:purple" align="center">Teachers’ Day Performance Video
 </h4>
 	<p>(The photos were taken before the circuit breaker measures were put in place.)</p>
-
-![]Video to be converted to youtube(vhttps://jurongwestsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)  
 
 <br>
 <img style="width:500px" src="/images/TDP_2.png">
