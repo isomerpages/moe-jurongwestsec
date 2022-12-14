@@ -1022,11 +1022,13 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 </div></li></ul>
 
 <li>
+	
 <input type="checkbox" id="accordion3">
 <label for="accordion3"><h5 style="color:purple">English Language, Drama and Debating</h5></label>
 <div>
 <img src="/images/ELDD%20Website%20Main%20Pic.jpeg" style="width:500px">
 <br>
+	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -1277,7 +1279,7 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 <br>
 <img src="/images/el1.jpeg" style="width:500px">
 <br>
-<p>Five student debaters \[left to right: Chua Hong Xuan (4T1) Mao Misel Ananda Pertiwi (4E3), Wong Pei Jun (4E3), Tee Xinyi (4E3) and Jeff Cheah (4E3)\] from English Language Drama and Debating (ELDD) achieved 3rd place in the Online Singapore Secondary Schools Debating Championships. Wong Pei Jun and Jeff Cheah also received top accolades at the tournament by ranking 6th and 10th Best Speaker respectively in the tournament.</p><br>
+<p>Five student debaters left to right: Chua Hong Xuan (4T1) Mao Misel Ananda Pertiwi (4E3), Wong Pei Jun (4E3), Tee Xinyi (4E3) and Jeff Cheah (4E3) from English Language Drama and Debating (ELDD) achieved 3rd place in the Online Singapore Secondary Schools Debating Championships. Wong Pei Jun and Jeff Cheah also received top accolades at the tournament by ranking 6th and 10th Best Speaker respectively in the tournament.</p><br>
 <p>Due to safe distancing measures taken to combat COVID-19, the tournament was held on the Zoom platform from February to April. The debaters had an enriching and invaluable experience as they sparred with various schools on issues such as mandatory vaccinations during a pandemic, the impact of superhero narratives in the media, and the impact of televised singing competitions.</p><br>
 <p>Congratulations to the debaters for rising to the challenge and displaying excellence and resilience!</p>
 
@@ -1292,7 +1294,9 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 
 <table class="iveo_table ive_eobj_center ives_tab_1" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1103.96px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 549px;"><img src="/images/syf6.jpg" width="100%" alt="syf6.JPG" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 498px; height: 305px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 548px;"><img src="/images/syf2.jpg" width="100%" alt="syf2.JPG" class="ive_eobj_center" style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 540.703px; height: 307px;"></td></tr></tbody></table>
 
-![IMG_0629.JPG](/images/IMG_0629.jpg)  
+<img src="/images/IMG_0629.jpg"
+		 style="width:500px"
+		 />
 
 
 
@@ -1520,6 +1524,7 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 </div></li>
 	
 <li>
+	
 <input type="checkbox" id="accordion4">
 <label for="accordion4"><h5 style="color:purple">Modern Dance Club</h5></label>
 <div>
@@ -1549,18 +1554,13 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 
 <table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 893px; height: 28px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 443px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 477px; height: 296px;" class="ive_eobj_center" alt="1. Main Photo 1.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/1.%20Main%20Photo%201.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 442px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 446px; height: 296px;" class="ive_eobj_center" alt="1. Main Photo 2.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/1.%20Main%20Photo%202.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 479px; height: 297px;" class="ive_eobj_center" alt="1. Main Photo 3.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/1.%20Main%20Photo%203.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 446px; height: 296px;" class="ive_eobj_center" alt="1. Main Photo 4.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/1.%20Main%20Photo%204.jpg"></td></tr></tbody></table>
 
-  
+<b>Singapore Youth Festival Arts Presentation 2021</b>
 
-* * *
-
-  
-
-**Singapore Youth Festival Arts Presentation 2021**  
-
-![2. SYF 1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%201.png)
-
-SYF dancers posing after Arts Presentation 2021  
-
+<br>
+<img src="/images/syf1.png" 
+         style="width:500px"
+	/>
+<br>
   
 
 <table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1121.98px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.333px;" class="ive_eobj_center" alt="2. SYF 2.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%202.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 356px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 236.909px;" class="ive_eobj_center" alt="2. SYF 3.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%203.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 357px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 233.853px;" class="ive_eobj_center" alt="2. SYF 4.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/2.%20SYF%204.jpg"></td></tr></tbody></table>
