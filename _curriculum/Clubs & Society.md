@@ -184,7 +184,7 @@ description: ""
 <br>
 <p><strong>About Environmental Science Club</strong></p>
 <p>The JWSS Science Club is dedicated to enriching the science culture in Jurong West Secondary School as well as promoting environmental conservation and raising awareness to preserve the biodiversity of Singapore.</p>
-<p>Check us out on our Instagram:&nbsp;&nbsp;<a href="https://instagram.com/jwssesc?igshid=YmMyMTA2M2Y=">Link</a></p>
+<p>Check us out on our Instagram:<a href="https://instagram.com/jwssesc?igshid=YmMyMTA2M2Y=">Link</a></p>
 <br>
 <img src="/images/env2.png" 
          style="width:500px"
@@ -507,7 +507,6 @@ description: ""
 <p style="text-align: center"><strong>Singapore Science Buskers</strong></p> 
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1131.98px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 550px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="WhatsApp Image 2021-11-03 at 09.00.38 1.jpeg" width="100%" src="/images/WhatsApp%20Image%202021-11-03-1.jpeg">Students presenting their science experiment to the judges, Singapore Science Buskers competition, final round.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 550px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="WhatsApp Image 2021-11-03 at 09.00.38.jpeg" width="100%" src="/images/WhatsApp%20Image%202021-11-03-2.jpeg">Before presenting their science experiment to the judges in final round of Singapore Science Busker competition.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
 <br>
 
 <table>
@@ -538,13 +537,11 @@ description: ""
 <td></td>
 </tr>
 </tbody></table>
-
   
 <br>
 <img style="width:500px" src="/images/image003e.jpg">
 <br>
 <p style="text-align: center"><strong>Molecular Gastronomy Workshop</strong></p>
-
 
 <br>
 <img style="width:500px" src="/images/image004e.jpg">
@@ -557,7 +554,6 @@ description: ""
 <br>
 <p style="text-align: center"><strong>Race to Sustainability at Gardens by the Bay
 </strong></p>
-
 
 <br>
 <img style="width:500px" src="/images/image006e.jpg">
@@ -588,8 +584,6 @@ description: ""
 <br>
 <p style="text-align: center"><strong>Volcano Time at Science Buskers Festival  
 </strong></p>
-
-
 <br>
 <img style="width:500px" src="/images/image011e.jpg">
 <br>
@@ -629,7 +623,7 @@ description: ""
 
 <br>
 <img style="width:500px" src="/images/image018e.jpg">
-<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p>
+<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></div>
 </li>
 	
 <li>
