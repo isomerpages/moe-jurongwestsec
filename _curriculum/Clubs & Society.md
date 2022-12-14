@@ -625,7 +625,7 @@ description: ""
 <img style="width:500px" src="/images/image018e.jpg">
 <p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></div>
 </li>
-	
+
 <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h5 style="color:purple">Infocomm And Media Technology Club</h5></label>
