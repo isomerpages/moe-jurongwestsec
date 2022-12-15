@@ -102,11 +102,11 @@ At each semestral examinations (Mid-Year and End of Year), students who achieve 
 
 <p style="text-align:center;"><strong>Secondary Three students in the Principal's List for Semester 2 2016</strong></p>
 
-![Principal List 4E5N 2016 sem2.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principal%20List%204E5N%202016%20sem2.JPG)
+![Principal List 4E5N 2016 sem2.JPG](/images/Principal%20List%204E5N%202016%20sem2.jpg)
 
 <p style="text-align:center;"><strong>Secondary Four Express / Five Normal Academic students in the Principal's List for Semester 2 2016</strong></p>
 
-![Principal List 4N 2016 sem2.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principal%20List%204N%202016%20sem2.JPG)
+![Principal List 4N 2016 sem2.JPG](/images/Principal%20List%204N%202016%20sem2.jpg)
 
 <p style="text-align:center;"><strong>Secondary Four Normal Academic students in the Principal's List for Semester 2 2016</strong></p>
 
