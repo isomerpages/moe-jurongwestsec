@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: in the news
           description: Our family stories
-          url: /highlights/in-the-news
+          url: /highlights/
         - title: School Gallery
           description: Milestones & Celebrations
           url: /highlights/school-gallery
@@ -30,4 +30,3 @@ sections:
       button: find out more about us!
       url: /highlights/20th-anniversary-celebrations-2021
 ---
-
