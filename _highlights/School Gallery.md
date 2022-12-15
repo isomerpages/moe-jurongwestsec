@@ -12,7 +12,10 @@ description: ""
 
 #### February 2021
 
-![51115255593_5904ab3994_q.jpg](/images/51115255593_5904ab3994_q.jpg)[Chinese New Year Celebrations](https://www.flickr.com/photos/148465641@N05/albums/72157718925760454/with/51115255593/)  
+<img src="/images/51115255593_5904ab3994_q.jpg" 
+         style="width:400px"
+	/>
+[Chinese New Year Celebrations](https://www.flickr.com/photos/148465641@N05/albums/72157718925760454/with/51115255593/)  
 
 
 ### January 2021
