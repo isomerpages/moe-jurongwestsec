@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: in the news
           description: Our family stories
-          url: /highlights/
+          url: /highlights/gce-o-level-results-release-2022/
         - title: School Gallery
           description: Milestones & Celebrations
           url: /highlights/school-gallery
