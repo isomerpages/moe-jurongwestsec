@@ -3,9 +3,15 @@ title: JWSS Frontier Primary School Mentorship Programme
 permalink: /holistic-development/jwss-frontier-primary-school-mentorship-programme/
 description: ""
 ---
-![](/images/JWSS%20School%20Crest.png)
+<img src="/images/JWSS%20School%20Crest.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/fps.png" 
+         style="width:500px"
+	/>
+<br>
 
-![fps.png](/images/fps.png) 
 
 JWSS in collaboration with Frontier Primary School (FPS) piloted a new mentorship programme between our secondary 2 students and their primary 6 students. The JWSS-FPS mentorship programme lasted weekly from May till August 2019 and during this period, 8 students from our Talent Development Programme (JeWel Programme)&nbsp; mentored Primary 6 students from FPS.  
 
