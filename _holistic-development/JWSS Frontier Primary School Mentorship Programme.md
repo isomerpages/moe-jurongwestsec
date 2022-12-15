@@ -4,11 +4,11 @@ permalink: /holistic-development/jwss-frontier-primary-school-mentorship-program
 description: ""
 ---
 <img src="/images/JWSS%20School%20Crest.png" 
-         style="width:500px"
+         style="width:300px"
 	/>
 <br>
 <img src="/images/fps.png" 
-         style="width:500px"
+         style="width:300px"
 	/>
 <br>
 
