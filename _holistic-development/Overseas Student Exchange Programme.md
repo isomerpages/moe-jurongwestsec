@@ -208,4 +208,3 @@ On the 27th July 2016, Jurong West Secondary School Red Cross Youth hosted deleg
 **Mr Michael presenting a plaque to Mr Masaru Matsumoto the Director of Organisational Development Division,  
 Gunma Prefecture Chapter, Japanese Red Cross Society.**&nbsp;
 
-[Back to top](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/overseas-student-exchange-programme#top)
