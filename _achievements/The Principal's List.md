@@ -35,19 +35,19 @@ At each semestral examinations (Mid-Year and End of Year), students who achieve 
 
 <p style="text-align:center;"><strong>2018</strong></p>
 
-![PL_S1_Sem1_18.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/2018/PL_S1_Sem1_18.JPG)
+![PL_S1_Sem1_18.JPG](/images/pls1sem1.jpg)
 
 <p style="text-align:center;"><strong>Secondary One students in the Principal's List for Semester 1 2018</strong></p>
 
-![PL_S2_Sem1_18.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/2018/PL_S2_Sem1_18.JPG)
+![PL_S2_Sem1_18.JPG](/images/pls2sem1.jpg)
 
 <p style="text-align:center;"><strong>Secondary Two students in the Principal's List for Semester 1 2018</strong></p>
 
-![PL_S3_Sem1_18.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/2018/PL_S3_Sem1_18.JPG)
+![PL_S3_Sem1_18.JPG](/images/pls3sem1.jpg)
 
 <p style="text-align:center;"><strong>Secondary Three students in the Principal's List for Semester 1 2018</strong></p>
 
-![PL_S4_Sem1_18.JPG](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/2018/PL_S4_Sem1_18.JPG)
+![PL_S4_Sem1_18.JPG](/images/pls4sem1.jpg)
 
 <p style="text-align:center;"><strong>Secondary Four students in the Principal's List for Semester 1 2018</strong></p>
 
@@ -118,6 +118,7 @@ At each semestral examinations (Mid-Year and End of Year), students who achieve 
 
 <p style="text-align:center;"><strong>Secondary Two students in the Principal's List for Semester 1 2016
 </strong></p>
+
 ![](/images/Semester12016Sec3.jpg)
 
 <p style="text-align:center;"><strong>Secondary Three students in the Principal's List for Semester 1 2016 </strong></p>
