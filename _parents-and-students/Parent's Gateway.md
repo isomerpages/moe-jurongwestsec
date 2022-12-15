@@ -5,8 +5,10 @@ description: ""
 ---
 # Parents Gateway
 
+<img src="/images/Parents_Gateway_Logo.png" 
+         style="width:500px"
+	/>
 
-![Parents_Gateway_Logo.png](/images/Parents_Gateway_Logo.png)  
 
 Dear Parents,
 
