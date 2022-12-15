@@ -8,14 +8,18 @@ description: ""
 	/>
 
 ## Overview
- 
-![194821-facebook-like-button_original.jpg](/images/194821-facebook-like-button_original.jpg)
+<img src="/images/" 
+         style="width:500px"
+	/>194821-facebook-like-button_original.jpg
 
 A strong parent-school partnership is key to developing our students to their full potential and enabling them to fulfil their aspirations. To this end, the school has a very dedicated and supportive JWSS Parent Support Group which works very closely and in partnership with the school. In JWSS, we also strongly believe in offering parents a variety of ways and multiple platforms to work in collaboration with the school to deliver a quality holistic education for the students.
 
-  
-![VMO.jpg](/images/VMO.jpg)  
-![SuperHero.jpg](/images/SuperHero.jpg)
+ <img src="/images/VMO.jpg" 
+         style="width:500px"
+	/>
+	<img src="/images/SuperHero.jpg" 
+         style="width:500px"
+	/> 
 
 ## Contact Us
 <style type="text/css">
@@ -59,8 +63,11 @@ A strong parent-school partnership is key to developing our students to their fu
 
 You can sign up to join the PSG by filling in the registration form [here](https://docs.google.com/forms/d/e/1FAIpQLSc1SYIhN5i9OEqivH2d2NQKiWVGEl3YV0nwjnmHj_5LOG6IeA/viewform) !  
   
-Alternatively, you can also scan the QR code below ![PSG form.png](/images/PSG%20form.png)  
-Scan the above QR Code to join the PSG! (or visit http://tinyurl.com/JWSS-PSG)
+Alternatively, you can also scan the QR code below 
+<img src="/images/PSG%20form.png" 
+         style="width:500px"
+	/>
+Scan the above QR Code to join the PSG! (or visit [here](http://tinyurl.com/JWSS-PSG))
 
 <img src="/images/psg2.png" 
          style="width:500px"
