@@ -21,15 +21,15 @@ At each semestral examinations (Mid-Year and End of Year), students who achieve 
 
 <p style="text-align:center;"><strong>2019</strong></p>
 
-![1.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2019/ps%20list/1.png)
+![1.png](/images/1ppp.png)
 
 <p style="text-align:center;"><strong>Secondary One students in the Principal's List for Semester 2 2019</strong></p>
 
-![2.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2019/ps%20list/2.png)
+![2.png](/images/2ppp.png)
 
 <p style="text-align:center;"><strong>Secondary Two students in the Principal's List for Semester 2 2019</strong></p>
 
-![3.png](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2019/ps%20list/3.png)
+![3.png](/images/3ppp.png)
 
 <p style="text-align:center;"><strong>Secondary Three students in the Principal's List for Semester 2 2019</strong></p>
 
@@ -53,52 +53,52 @@ At each semestral examinations (Mid-Year and End of Year), students who achieve 
 
 <p style="text-align:center;"><strong>2017</strong></p>
 
-![Sec 1 2017.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/2017/Sec%201%202017.jpg)
+![Sec 1 2017.jpg](/images/sec12017.jpg)
 
 <p style="text-align:center;"><strong>Secondary One students in the Principal's List for Semester 2 2017</strong></p>   
 
   
 
-![Sec 2 2017.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/2017/Sec%202%202017.jpg)
+![Sec 2 2017.jpg](/images/Sec22017.jpg)
 
 <p style="text-align:center;"><strong>Secondary Two students in the Principal's List for Semester 2 2017 </strong></p>
 
   
 
-![Sec 3 2017.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/2017/Sec%203%202017.jpg)
+![Sec 3 2017.jpg](/images/Sec32017.jpg)
 
 <p style="text-align:center;"><strong>Secondary Three students in the Principal's List for Semester 2 2017</strong></p> 
 
   
 
-![Principallist2017Sem1Sec1.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principallist2017Sem1Sec1.jpg)
+![Principallist2017Sem1Sec1.jpg](/images/Principallist2017Sem1Sec1.jpg)
 
 <p style="text-align:center;"><strong>Secondary One students in the Principal's List for Semester 1 2017</strong></p>
 
-![Principallist2017Sem1Sec2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principallist2017Sem1Sec2.jpg)
+![Principallist2017Sem1Sec2.jpg](/images/Principallist2017Sem1Sec2.jpg)
 
 <p style="text-align:center;"><strong>Secondary Two students in the Principal's List for Semester 1 2017</strong></p>
 
-![Principallist2017Sem1Sec3.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principallist2017Sem1Sec3.jpg)
+![Principallist2017Sem1Sec3.jpg](/images/Principallist2017Sem1Sec3.jpg)
 
 <p style="text-align:center;"><strong>Secondary Three students in the Principal's List for Semester 1 2017</strong></p>
 
-![Principallist2017Sem1Sec4.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principallist2017Sem1Sec4.jpg)
+![Principallist2017Sem1Sec4.jpg](/images/Principallist2017Sem1Sec4.jpg)
 
 <p style="text-align:center;"><strong>Secondary Four and Five students in the Principal's List for Semester 1 2017</strong></p>
 
   
 <p style="text-align:center;"><strong>2016</strong></p>
 
-![Principal List Sec 1 2016 sem2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principal%20List%20Sec%201%202016%20sem2.jpg)
+![Principal List Sec 1 2016 sem2.jpg](/images/PrincipalListSec12016sem2.jpg)
 
 <p style="text-align:center;"><strong>Secondary One students in the Principal's List for Semester 2 2016</strong></p>
 
-![Principal List Sec 2 2016 sem2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principal%20List%20Sec%202%202016%20sem2.jpg)
+![Principal List Sec 2 2016 sem2.jpg](/images/PrincipalListSec22016sem2.jpg)
 
 <p style="text-align:center;"><strong>Secondary Two students in the Principal's List for Semester 2 2016</strong></p>
 
-![Principal List sec 3 2016 sem2.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Principal%20List%20sec%203%202016%20sem2.jpg)
+![Principal List sec 3 2016 sem2.jpg](/images/PrincipalListsec32016sem2.jpg)
 
 <p style="text-align:center;"><strong>Secondary Three students in the Principal's List for Semester 2 2016</strong></p>
 
@@ -110,18 +110,18 @@ At each semestral examinations (Mid-Year and End of Year), students who achieve 
 
 <p style="text-align:center;"><strong>Secondary Four Normal Academic students in the Principal's List for Semester 2 2016</strong></p>
 
-![](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Semester_1_2016_-_Sec1.jpg) 
+![](/images/Semester12016Sec1.jpg) 
 
 <p style="text-align:center;"><strong>Secondary One students in the Principal's List for Semester 1 2016 </strong></p>
 
-![](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Semester_1_2016_-_Sec2.jpg)
+![](/images/Semester12016Sec2.jpg)
 
 <p style="text-align:center;"><strong>Secondary Two students in the Principal's List for Semester 1 2016
 </strong></p>
-![](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Semester_1_2016_-_Sec3.jpg)
+![](/images/Semester12016Sec3.jpg)
 
 <p style="text-align:center;"><strong>Secondary Three students in the Principal's List for Semester 1 2016 </strong></p>
 
-![](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Achievements/The%20Principals%20List/Semester_1_2016_-_Sec45(1).jpg)
+![](/images/Semester12016Sec45.jpg)
 
 <p style="text-align:center;"><strong>Secondary Four and Five students in the Principal's List for Semester 1 2016</strong></p>
