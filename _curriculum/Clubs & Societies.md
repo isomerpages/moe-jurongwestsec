@@ -3,7 +3,6 @@ title: Clubs & Societies
 permalink: /curriculum/clubs-n-societies/
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -624,7 +623,7 @@ description: ""
 
 <br>
 <img style="width:500px" src="/images/image018e.jpg">
-<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></div>
+<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p>
 </li>
 
 <li>
