@@ -10,7 +10,7 @@ sections:
       background: /images/home2jwss.gif
       key_highlights:
         - title: in the news
-          description: Our family stories
+          description: Highlights/Our family Stories
           url: /highlights/gce-o-level-results-release-2022/
         - title: School Gallery
           description: Milestones & Celebrations
