@@ -99,4 +99,4 @@ The JeWel Challenge
 -------------------
 
   
-Please click [here](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/highlights/jewel-e-challenge-2021-results) to find out more about **_J_**e**_W_**el Challenge 2021, facilitated by our very own **_J_**e**_W_**el students.
+Please click [here](/highlights/jewel-e-challenge-2021-results/) to find out more about **_J_**e**_W_**el Challenge 2021, facilitated by our very own **_J_**e**_W_**el students.
