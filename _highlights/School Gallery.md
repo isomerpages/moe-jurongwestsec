@@ -68,9 +68,11 @@ description: ""
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157661671254328/with/37552122940/"><img src="/images/4E5NGraduationDay.jpg" style="width:400px"></a><p>4E & 5N Graduation Day</p>
 <b>August 2017</b>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157687246032046/"><img src="/images/NDP2017.jpg" style="width:400px"></a><p>National Day Celebrations</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157687246032046/"><img src="/images/NDP2017.jpg" style="width:400px"></a><p>Alumni Day</p><a href="https://www.flickr.com/photos/148465641@N05/albums/72157687246032046/"><img src="/images/NDP2017.jpg" style="width:400px"></a><p>Teacher'sl Day Celebrations</p><b>October 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
-			<b>October 2017</b>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157685026646731/with/36526387141/"><img src="/images/JWSSAlumniDay2017.jpg" style="width:400px"></a><p>Alumni Day</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686398908303"><img src="/images/TeachersDay2017.jpg" style="width:400px"></a><p>Teacher's Day Celebrations</p><b>July 2017</b>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Teacher's Day Celebrations</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Teacher's Day Celebrations</p><a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
+<b>June 2017</b>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
 			<b>October 2017</b>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
