@@ -45,31 +45,33 @@ The work attachment opportunities are open to students at the upper secondary le
 
 Students are invited to apply for the available work attachment opportunities and are selected to go on the work attachment based on certain criteria including passion for the work area and industry.
 
-Click&nbsp;[here](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme) to find out more about the [Student Work Attachment Programme (SWAP)](https://jurongwestsec.moe.edu.sg/distinctive-at-jwss/student-work-attachment-programme)&nbsp;at JWSS. // convert to jpg
+Click&nbsp;[here](/holistic-development/student-work-attachment-programme/) to find out more about the [Student Work Attachment Programme (SWAP)](/holistic-development/student-work-attachment-programme/)&nbsp;at JWSS. 
 
-![ECG2017 (1).jpg](/images/ECG2017%20(1).jpg)  
 
-![ECG2017 (2).JPG](/images/ECG2017%20(2).JPG)  
 
-![ECG2017 (3).JPG](/images/ECG2017%20(3).JPG)  
+![ECG2017 (1).jpg](/images/ECG20171.jpg)  
 
-![ECG2017 (4).JPG](/images/ECG2017%20(4).JPG)  
+![ECG2017 (2).JPG](/images/ECG20172.jpg)  
 
-![ECG2017 (5).JPG](/images/ECG2017%20(5).JPG)  
+![ECG2017 (3).JPG](/images/ECG20173.jpg)  
 
-![ECG2017 (6).JPG](/images/ECG2017%20(6).JPG)
+![ECG2017 (4).JPG](/images/ECG20174.jpg)  
 
-  
+![ECG2017 (5).JPG](/images/ECG20175.jpg)  
 
-![ECG2017p7(amended).JPG](/images/ECG2017p7(amended).JPG)
+![ECG2017 (6).JPG](/images/ECG20176.jpg)
 
   
 
-![ECG2017p8(amended).JPG](/images/ECG2017p8(amended).JPG)
+![ECG2017p7(amended).JPG](/images/ECG2017p7amended.jpg)
 
   
 
-![ECG2017p9(amended).JPG](/images/ECG2017p9(amended).JPG)
+![ECG2017p8(amended).JPG](/images/ECG2017p8amended.jpg)
+
+  
+
+![ECG2017p9(amended).JPG](/images/ECG2017p9amended.jpg)
 
   
 
@@ -84,7 +86,6 @@ As we slowly resume school activities this year, the school organised some ECG a
 
 ![01.PNG](/images/0101.png)
 
-* * *
 
   
 **Experience ITE Programme**  
@@ -101,9 +102,6 @@ As we slowly resume school activities this year, the school organised some ECG a
 
   
 
-  
-
-* * *
 
 Applied Learning Module at Singapore Polytechnic: Fundamentals of Robot Programming
 
