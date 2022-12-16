@@ -3,8 +3,6 @@ title: Textbooks and Uniforms
 permalink: /about-us/textbooks-and-uniforms/
 description: ""
 ---
-
-
 ### School Bookshop
 
 **Popular Book Company (Pte) Ltd**
@@ -21,7 +19,7 @@ Note: School uniform can be purchased from the school bookshop as well
 
 In view of the Safe Management Measures, please refer to the instructions on the purchase of textbooks and stationery
 
-[Bookshop.pdf](/files/Instructions for Purchase of Textbooks Stationery.pdf)   
+[Bookshop List](/files/Instructions%20for%20Purchase%20of%20Textbooks%20%20Stationery.pdf)
 
   
 
@@ -48,4 +46,4 @@ Email:  sales@khuniform.com.sg
 
 In view of the Safe Management Measures, please refer to the instructions on the purchase of school uniform  
 
-[Uniform.pdf](/files/Instructions for Purchase School Uniform.pdf)
+[Uniform List](/files/Instructions%20for%20Purchase%20of%20School%20Uniform.pdf)
