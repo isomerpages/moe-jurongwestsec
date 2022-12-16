@@ -8,9 +8,9 @@ description: ""
 	/>
 
 ## Overview
-<img src="/images/" 
+<img src="/images/194821-facebook-like-button_original.jpg" 
          style="width:500px"
-	/>194821-facebook-like-button_original.jpg
+	/>
 
 A strong parent-school partnership is key to developing our students to their full potential and enabling them to fulfil their aspirations. To this end, the school has a very dedicated and supportive JWSS Parent Support Group which works very closely and in partnership with the school. In JWSS, we also strongly believe in offering parents a variety of ways and multiple platforms to work in collaboration with the school to deliver a quality holistic education for the students.
 
