@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - Jewel E–Challenge 2021 results.md
       - 2022 GCE O–Level Results.md
       - 20th Anniversary Celebrations 2021.md
       - Student Graduation Certificate (Testimonial).md
@@ -13,4 +12,5 @@ collections:
       - Covid–19 Vaccination Exercise for Students.md
       - Identifying Covid–19 Symptoms.md
       - School Gallery.md
+      - Jewel E–Challenge 2021 results.md
       - Publish.md
