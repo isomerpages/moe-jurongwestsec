@@ -105,7 +105,9 @@ third_nav_title: Subject Overview
 </tbody>
 </table>
 
-<br><br><h4 style="color:red" align="center"> Secondary 3 (Normal Academic)</h4>
+<br>
+
+<h4 style="color:red" align="center"> Secondary 3 (Normal Academic)</h4>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -192,7 +194,9 @@ third_nav_title: Subject Overview
   </tr>
 </tbody>
 </table>
-<br><br><br><br><h4 style="color:red" align="center"> Secondary 3 (Normal Technical)</h4>
+<br><br><br>
+
+<h4 style="color:red" align="center"> Secondary 3 (Normal Technical)</h4>
 
 
 <style type="text/css">
