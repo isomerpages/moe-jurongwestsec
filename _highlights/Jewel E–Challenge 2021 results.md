@@ -28,7 +28,7 @@ Inspired by The Squid Games, participants are trapped in a room with only one wa
 Science JeWel Challenge: Can You Float? 
 ----------------------------------------
 
-#### Stranded on an offshore volcanic island, participants need to quickly find a way to leave the volcanic island before it erupts, destroying everything in its path. Participants manage to find some scraps from a nearby ship wreck and will need to make use of all materials available to them to build a flotation device to help ensure their escape from the island.
+Stranded on an offshore volcanic island, participants need to quickly find a way to leave the volcanic island before it erupts, destroying everything in its path. Participants manage to find some scraps from a nearby ship wreck and will need to make use of all materials available to them to build a flotation device to help ensure their escape from the island.
 
   
 
@@ -37,7 +37,7 @@ Science JeWel Challenge: Can You Float? 
 Math JeWel Challenge: The Tangram Challenge
 -------------------------------------------
 
-#### Students will need to put their creative juices to work in order to form keys to unlock various doors. The tangram is a dissection puzzle consisting of seven flat polygons called tans which are put together to form shapes. Students will have to make use of the puzzles to form shapes that will help them unlock each stage.
+Students will need to put their creative juices to work in order to form keys to unlock various doors. The tangram is a dissection puzzle consisting of seven flat polygons called tans which are put together to form shapes. Students will have to make use of the puzzles to form shapes that will help them unlock each stage.
 
   
   
