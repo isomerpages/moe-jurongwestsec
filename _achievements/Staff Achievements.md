@@ -167,20 +167,5 @@ description: ""
 <br>
 <img src="/images/staff33.png" 
          style="width:500px"
-	/>
-<br>
-<img src="/images/staff19.png" 
-         style="width:500px"
-	/>
-<br>
-<img src="/images/staff20.png" 
-         style="width:500px"
-	/>
-<br>
-<img src="/images/staff21.png" 
-         style="width:500px"
-	/>
-<br>
-<img src="/images/staff22.png" 
-         style="width:500px"
-	/>
+	/></div>
+</li>
