@@ -88,8 +88,7 @@ description: ""
 	
 	
 	
-	
-	</div>
+</div>
 </li>
 
 <li>
