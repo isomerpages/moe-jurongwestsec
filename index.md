@@ -17,7 +17,6 @@ sections:
           url: /highlights/school-gallery
   - infobar:
       title: GCE O-Level Results Release 2022
-      description: About a sentence worth of description here
       button: all the best!
       url: /highlights/gce-o-level-results-release-2022/
   - infobar:
