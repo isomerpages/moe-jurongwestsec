@@ -74,6 +74,113 @@ description: ""
 <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h5 style="color:purple">Achievements in 2019</h5></label><div>
-	d
-	dd
-	</div></li>
+<img src="/images/staff14.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff15.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff16.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff17.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff18.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff19.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff20.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff21.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff22.png" 
+         style="width:500px"
+	/>
+<br></div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4"><h5 style="color:purple">Achievements in 2018</h5></label><div>
+<img src="/images/staff23.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff24.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff25.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff26.png" 
+         style="width:500px"
+	/>
+<br>
+</div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5"><h5 style="color:purple">Achievements in 2017</h5></label><div>
+<img src="/images/staff27.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff28.png" 
+         style="width:500px"
+	/></div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"><h5 style="color:purple">Achievements in 2016</h5></label><div>
+<img src="/images/staff29.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff30.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff31.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff32.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff33.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff19.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff20.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff21.png" 
+         style="width:500px"
+	/>
+<br>
+<img src="/images/staff22.png" 
+         style="width:500px"
+	/>
