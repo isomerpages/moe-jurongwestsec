@@ -63,54 +63,66 @@ description: ""
 		<label for="accordion1"><h5 style="color:Purple">2017</h5></label>
     <div>
 			<b>November 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><h5 style="color:red" align="center">Open House</h5>
 <b>October 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157661671254328/with/37552122940/"><img src="/images/4E5NGraduationDay.jpg" style="width:400px"></a><p>4E & 5N Graduation Day</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157661671254328/with/37552122940/"><img src="/images/4E5NGraduationDay.jpg" style="width:400px"></a><h5 style="color:red" align="center">4E & 5N Graduation Day</h5>
 <b>August 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157687246032046/"><img src="/images/NDP2017.jpg" style="width:400px"></a><p>National Day Celebrations</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157685026646731/with/36526387141/"><img src="/images/JWSSAlumniDay2017.jpg" style="width:400px"></a><p>Alumni Day</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686398908303"><img src="/images/TeachersDay2017.jpg" style="width:400px"></a><p>Teacher's Day Celebrations</p><b>July 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157683807512543"><img src="/images/ComUGAwardWin2017.jpg" style="width:400px"></a><p>Combined UG Awards Winners</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157684218443040"><img src="/images/PeaMakConPr2017.jpg" style="width:400px"></a><p>Peacemaker Conference Presentation</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686947410735"><img src="/images/CrossCountry2017.jpg" style="width:400px"></a><p>Cross Country</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157687246032046/"><img src="/images/NDP2017.jpg" style="width:400px"></a>
+	
+<h5 style="color:red" align="center">National Day Celebrations</h5>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157685026646731/with/36526387141/"><img src="/images/JWSSAlumniDay2017.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Alumni Day</h5>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686398908303"><img src="/images/TeachersDay2017.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Teacher's Day Celebrations</h5>
+<b>July 2017</b>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157683807512543"><img src="/images/ComUGAwardWin2017.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Combined UG Awards Winners</h5>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157684218443040"><img src="/images/PeaMakConPr2017.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Peacemaker Conference Presentation</h5>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686947410735"><img src="/images/CrossCountry2017.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Cross Country</h5>
 <b>June 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686466639885"><img src="/images/LitSym2017.jpg" style="width:400px"></a><p>Literature Symposium</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686466639885"><img src="/images/LitSym2017.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Literature Symposium</h5>
 			<b>May 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157682520384960"><img src="/images/ECGDAY2017.jpg" style="width:400px"></a><p>ECG DAY 2017</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157682520384960"><img src="/images/ECGDAY2017.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">ECG DAY 2017</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157683716906694"><img src="/images/abbottdiscovery2017.jpg" style="width:400px"></a>
-<p>ABBOTT Operations Discovery</p>
+<h5 style="color:red" align="center">ABBOTT Operations Discovery</h5>
 			<b>April 2017</b>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157680311450641/with/33764997231/"><img src="/images/CCAAppreciationTeaFrontAlbum.jpg" style="width:400px"></a>
-<p>CCA Appreciation Tea and Uniformed  Groups Passing Out Parade</p>
+<h5 style="color:red" align="center">CCA Appreciation Tea and Uniformed  Groups Passing Out Parade</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157680325588191/with/33773037551/"><img src="/images/SpeechDayFrontAlbum.jpg" style="width:400px"></a>
-<p>Speech Day</p>
+<h5 style="color:red" align="center">Speech Day</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157679184465864/with/33178658193/"><img src="/images/StaffVIAFrontAlbum.jpg" style="width:400px"></a>
-<p>Staff VIA @ NTUC Nursing Home  
- (Jurong West)</p>
+<h5 style="color:red" align="center">Staff VIA @ NTUC Nursing Home (Jurong West)</h5>
 			<b>March 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157677371097534/"><img src="/images/3234120811462538d3a8dk.jpg" style="width:400px"></a><p>Arts Conversation with Eden Ang</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157677371097534/"><img src="/images/3234120811462538d3a8dk.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Arts Conversation with Eden Ang</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157679025576391/"><img src="/images/SCPresDisc2017AlbumFront.jpg" style="width:400px"></a>
-<p>Panel Discussion on the Student Council Executive Committee Election</p>
+<h5 style="color:red" align="center">Panel Discussion on the Student Council Executive Committee Election</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157678447618333/"><img src="/images/SportsDay2017AlbumFront.jpg" style="width:400px"></a>
-<p>Sports Day</p>
+<h5 style="color:red" align="center">Sports Day</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157680095737580/"><img src="/images/FrisbeeCarnivalAlbumFront.jpg" style="width:400px"></a>
-<p>Frisbee Carnival</p>
+<h5 style="color:red" align="center">Frisbee Carnival</h5>
 			<b>February 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679834459660"><img src="/images/CNYStaffLoHei2017AlbumFront.jpg" style="width:400px"></a><p>Chinese New Year Celebration - 'Lo Hei' with Staff</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679834459660"><img src="/images/CNYStaffLoHei2017AlbumFront.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Chinese New Year Celebration - 'Lo Hei' with Staff</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157681537905895"><img src="/images/Sec2StreamingBriefingAlbumFront.jpg" style="width:400px"></a>
-<p> Secondary Two Streaming Briefing</p>
+<h5 style="color:red" align="center">Secondary Two Streaming Briefing</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157679268558430"><img src="/images/TDD2017AlbumFront.jpg" style="width:400px"></a>
-<p>Total Defence Day Assembly Programme</p>
+<h5 style="color:red" align="center">Total Defence Day Assembly Programme</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157678172797453"><img src="/images/Sec45PMS2017AlbumFront.jpg" style="width:400px"></a>
-<p>Secondary Four and Five Meeting Parents Session</p>
+<h5 style="color:red" align="center">Secondary Four and Five Meeting Parents Session</h5>
 <b>January 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679146643652"><img src="/images/Sec1Registration2017aAlbumFront.jpg" style="width:400px"></a><p>Secondary One Registration</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679146643652"><img src="/images/Sec1Registration2017aAlbumFront.jpg" style="width:400px"></a>
+<h5 style="color:red" align="center">Secondary One Registration</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157678172075363"><img src="/images/Sec1OrientationCamp2017AlbumFront.jpg" style="width:400px"></a>
-<p> Secondary One Orientation Camp</p>
+<h5 style="color:red" align="center">Secondary One Orientation Camp</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157677371675364"><img src="/images/CCAOpenHouse2017AlbumFront.jpg" style="width:400px"></a>
-<p> Co-Curricular Activities Open House</p>
+<h5 style="color:red" align="center">Co-Curricular Activities Open House</h5>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157681436761406"><img src="/images/CNYCelebration2017AlbumFront.jpg" style="width:400px"></a>
-<p>Chinese New Year Celebration Assembly Programme</p>
+<h5 style="color:red" align="center">Chinese New Year Celebration Assembly Programme</h5>
 </div>
 </li>
 
