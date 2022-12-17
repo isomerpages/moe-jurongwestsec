@@ -16,6 +16,11 @@ sections:
           description: Milestones & Celebrations
           url: /highlights/school-gallery
   - infobar:
+      title: Announcements
+      description: Latest Updates can be found here!
+      button: read more
+      url: /highlights/announcements
+  - infobar:
       title: GCE O-Level Results Release 2022
       button: all the best!
       url: /highlights/gce-o-level-results-release-2022/
@@ -28,9 +33,4 @@ sections:
         allowfullscreen></iframe>
       button: find out more about us!
       url: /highlights/20th-anniversary-celebrations-2021
-  - infobar:
-      title: Announcements
-      description: Latest Updates can be found here!
-      button: read more
-      url: /highlights/announcements
 ---
