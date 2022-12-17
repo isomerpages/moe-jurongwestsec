@@ -100,10 +100,17 @@ description: ""
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157681537905895"><img src="/images/Sec2StreamingBriefingAlbumFront.jpg" style="width:400px"></a>
 <p> Secondary Two Streaming Briefing</p>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157679268558430"><img src="/images/TDD2017AlbumFront.jpg" style="width:400px"></a>
-<p>Sports Day</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157678172797453"><img src="/images/FrisbeeCarnivalAlbumFront.jpg" style="width:400px"></a>
-	
-	
+<p>Total Defence Day Assembly Programme</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157678172797453"><img src="/images/Sec45PMS2017AlbumFront.jpg" style="width:400px"></a>
+<p>Secondary Four and Five Meeting Parents Session</p>
+<b>January 2017</b>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679146643652"><img src="/images/Sec1Registration2017aAlbumFront.jpg" style="width:400px"></a><p>Secondary One Registration</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157678172075363"><img src="/images/Sec1OrientationCamp2017AlbumFront.jpg" style="width:400px"></a>
+<p> Secondary One Orientation Camp</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157677371675364"><img src="/images/CCAOpenHouse2017AlbumFront.jpg" style="width:400px"></a>
+<p> Co-Curricular Activities Open House</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157681436761406"><img src="/images/CNYCelebration2017AlbumFront.jpg" style="width:400px"></a>
+<p>Chinese New Year Celebration Assembly Programme</p>
 	
 </div>
 </li>
