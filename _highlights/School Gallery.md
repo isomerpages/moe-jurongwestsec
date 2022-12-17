@@ -88,10 +88,20 @@ description: ""
 <p>Staff VIA @ NTUC Nursing Home  
  (Jurong West)</p>
 			<b>March 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
-	
-	
-	
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157677371097534/"><img src="/images/3234120811462538d3a8dk.jpg" style="width:400px"></a><p>Arts Conversation with Eden Ang</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679025576391/"><img src="/images/SCPresDisc2017AlbumFront.jpg" style="width:400px"></a>
+<p>Panel Discussion on the Student Council Executive Committee Election</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157678447618333/"><img src="/images/SportsDay2017AlbumFront.jpg" style="width:400px"></a>
+<p>Sports Day</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157680095737580/"><img src="/images/FrisbeeCarnivalAlbumFront.jpg" style="width:400px"></a>
+<p>Frisbee Carnival</p>
+			<b>February 2017</b>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679834459660"><img src="/images/3234120811462538d3a8dk.jpg" style="width:400px"></a><p>Chinese New Year Celebration - 'Lo Hei' with Staff</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157681537905895"><img src="/images/SCPresDisc2017AlbumFront.jpg" style="width:400px"></a>
+<p>Panel Discussion on the Student Council Executive Committee Election</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679268558430"><img src="/images/SportsDay2017AlbumFront.jpg" style="width:400px"></a>
+<p>Sports Day</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157678172797453"><img src="/images/FrisbeeCarnivalAlbumFront.jpg" style="width:400px"></a>
 	
 	
 	
