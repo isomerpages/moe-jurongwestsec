@@ -96,10 +96,10 @@ description: ""
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157680095737580/"><img src="/images/FrisbeeCarnivalAlbumFront.jpg" style="width:400px"></a>
 <p>Frisbee Carnival</p>
 			<b>February 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679834459660"><img src="/images/3234120811462538d3a8dk.jpg" style="width:400px"></a><p>Chinese New Year Celebration - 'Lo Hei' with Staff</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157681537905895"><img src="/images/SCPresDisc2017AlbumFront.jpg" style="width:400px"></a>
-<p>Panel Discussion on the Student Council Executive Committee Election</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679268558430"><img src="/images/SportsDay2017AlbumFront.jpg" style="width:400px"></a>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679834459660"><img src="/images/CNYStaffLoHei2017AlbumFront.jpg" style="width:400px"></a><p>Chinese New Year Celebration - 'Lo Hei' with Staff</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157681537905895"><img src="/images/Sec2StreamingBriefingAlbumFront.jpg" style="width:400px"></a>
+<p> Secondary Two Streaming Briefing</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679268558430"><img src="/images/TDD2017AlbumFront.jpg" style="width:400px"></a>
 <p>Sports Day</p>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157678172797453"><img src="/images/FrisbeeCarnivalAlbumFront.jpg" style="width:400px"></a>
 	
