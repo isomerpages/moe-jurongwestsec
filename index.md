@@ -28,4 +28,9 @@ sections:
         allowfullscreen></iframe>
       button: find out more about us!
       url: /highlights/20th-anniversary-celebrations-2021
+  - infobar:
+      title: Announcements
+      description: Latest Updates can be found here!
+      button: read more
+      url: /highlights/announcements
 ---
