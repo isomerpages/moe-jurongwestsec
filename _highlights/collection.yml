@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - "Announcements: Latest Updates.md"
       - 2022 GCE O–Level Results.md
       - 20th Anniversary Celebrations 2021.md
       - School Gallery.md
