@@ -12,28 +12,13 @@ permalink: /terms-of-use/
 
 3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
 
+![N-Level-Release-19.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2018/N-Level-Release-19.jpg)
 
-#### **February 2017**
+![PSG_Appreciation_18.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2018/PSG_Appreciation_18.jpg)
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1087px; height: 223px;" class="ive_eobj_center iveo_table ives_tab_simple"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><br class="Apple-interchange-newline"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; cursor: pointer; display: block; width: 305px; height: 200px;" class="ive_eobj_center ive_clickable" alt="eco_fun_day_18.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2018/eco_fun_day_18.jpg"></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; cursor: pointer; display: block; width: 301px; height: 198px;" class="ive_eobj_center ive_clickable" alt="prom_night_18.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2018/prom_night_18.jpg"></td></tr></tbody></table>
 
-  
-  
-  
-  
-![CNYStaffLoHei2017AlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/CNYStaffLoHei2017AlbumFront.jpg)
+![OpenHse.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2018/OpenHse.jpg)
 
-![Sec2StreamingBriefingAlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/Sec2StreamingBriefingAlbumFront.jpg)  
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1087px; height: 223px;" class="ive_eobj_center iveo_table ives_tab_simple"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; cursor: pointer; display: block; width: 300px; height: 196px;" class="ive_eobj_center ive_clickable" alt="Mid-Autumn_18.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2018/Mid-Autumn_18.jpg"></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; cursor: pointer; display: block; width: 301px; height: 198px;" class="ive_eobj_center ive_clickable" alt="4nant_grad_18.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Gallery/2018/4nant_grad_18.jpg"></td></tr></tbody></table>
 
-![TDD2017AlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/TDD2017AlbumFront.jpg) ![TDD2017AlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/TDD2017AlbumFront.jpg) ![Sec45PMS2017AlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/Sec45PMS2017AlbumFront.jpg) Chinese New Year Celebration - 'Lo Hei' with Staff Secondary Two Streaming BriefingTotal Defence Day Assembly ProgrammeSecondary Four and Five Meeting Parents Session 
 
-####  **January 2017**
-
-    
-
-  
-
-![Sec1Registration2017aAlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/Sec1Registration2017aAlbumFront.jpg)  
-
-  
-
- ![Sec1OrientationCamp2017AlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/Sec1OrientationCamp2017AlbumFront.jpg) ![CCAOpenHouse2017AlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/CCAOpenHouse2017AlbumFront.jpg)![CNYCelebration2017AlbumFront.jpg](https://jurongwestsec.moe.edu.sg/qql/slot/u198/PhotoGallery/CNYCelebration2017AlbumFront.jpg)  
- Secondary One Registration Secondary One Orientation Camp Co-Curricular Activities Open HouseChinese New Year Celebration Assembly Programme
