@@ -70,17 +70,24 @@ description: ""
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157687246032046/"><img src="/images/NDP2017.jpg" style="width:400px"></a><p>National Day Celebrations</p>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157685026646731/with/36526387141/"><img src="/images/JWSSAlumniDay2017.jpg" style="width:400px"></a><p>Alumni Day</p>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157686398908303"><img src="/images/TeachersDay2017.jpg" style="width:400px"></a><p>Teacher's Day Celebrations</p><b>July 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Teacher's Day Celebrations</p>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Teacher's Day Celebrations</p><a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157683807512543"><img src="/images/ComUGAwardWin2017.jpg" style="width:400px"></a><p>Combined UG Awards Winners</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157684218443040"><img src="/images/PeaMakConPr2017.jpg" style="width:400px"></a><p>Peacemaker Conference Presentation</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686947410735"><img src="/images/CrossCountry2017.jpg" style="width:400px"></a><p>Cross Country</p>
 <b>June 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
-			<b>October 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
-			<b>October 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
-			<b>October 2017</b>
-<a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
-			<b>October 2017</b>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157686466639885"><img src="/images/LitSym2017.jpg" style="width:400px"></a><p>Literature Symposium</p>
+			<b>May 2017</b>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157682520384960"><img src="/images/ECGDAY2017.jpg" style="width:400px"></a><p>ECG DAY 2017</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157683716906694"><img src="/images/abbottdiscovery2017.jpg" style="width:400px"></a>
+<p>ABBOTT Operations Discovery</p>
+			<b>April 2017</b>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157680311450641/with/33764997231/"><img src="/images/CCAAppreciationTeaFrontAlbum.jpg" style="width:400px"></a>
+<p>CCA Appreciation Tea and Uniformed  Groups Passing Out Parade</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157680325588191/with/33773037551/"><img src="/images/SpeechDayFrontAlbum.jpg" style="width:400px"></a>
+<p>Speech Day</p>
+<a href="https://www.flickr.com/photos/148465641@N05/albums/72157679184465864/with/33178658193/"><img src="/images/StaffVIAFrontAlbum.jpg" style="width:400px"></a>
+<p>Staff VIA @ NTUC Nursing Home  
+ (Jurong West)</p>
+			<b>March 2017</b>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157689662962054/with/24786334718/"><img src="/images/EOYOpenHouse2017.jpg" style="width:400px"></a><p>Open House</p>
 	
 	
