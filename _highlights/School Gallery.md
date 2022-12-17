@@ -111,10 +111,9 @@ description: ""
 <p> Co-Curricular Activities Open House</p>
 <a href="https://www.flickr.com/photos/148465641@N05/albums/72157681436761406"><img src="/images/CNYCelebration2017AlbumFront.jpg" style="width:400px"></a>
 <p>Chinese New Year Celebration Assembly Programme</p>
-	
 </div>
 </li>
 
 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:purple">Achievements in 2020</h5></label><div>
+    <label for="accordion2"><h5 style="color:purple">2018</h5></label><div>
