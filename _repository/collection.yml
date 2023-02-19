@@ -2,6 +2,8 @@ collections:
   repository:
     output: true
     order:
+      - "Jurong West Sec & Hwa Chong Institution Collaboration: The HCI Boarding
+        Experience.md"
       - Covid–19 Vaccination Exercise for Students.md
       - Online Singapore Secondary Schools Debating Championships.md
       - JWSS Students Demonstrating Public Spiritedness.md
