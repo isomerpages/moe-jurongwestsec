@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - CCA/Uniformed Groups.md
       - CCA/Sports & Games.md
       - CCA/Performing Arts.md
       - CCA/Clubs & Societies.md
