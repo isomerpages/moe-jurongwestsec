@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic/.keep
-      - Academic/Teaching n Learning at JWSS.md
       - Academic/Academic Subjects.md
       - Academic/Craft and Technology.md
       - Academic/English Language and Literature.md
