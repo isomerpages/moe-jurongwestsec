@@ -21,10 +21,6 @@ sections:
       button: read more
       url: /highlights/announcements
   - infobar:
-      title: GCE O-Level Results Release 2022
-      button: all the best!
-      url: /highlights/gce-o-level-results-release-2022/
-  - infobar:
       subtitle: JWSS Story
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/vcQkl9n_H8o" title="YouTube video
@@ -33,4 +29,7 @@ sections:
         allowfullscreen></iframe>
       button: find out more about us!
       url: /highlights/20th-anniversary-celebrations-2021
+  - resources:
+      title: Highlights
+      subtitle: Highlights
 ---
