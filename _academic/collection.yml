@@ -2,5 +2,6 @@ collections:
   academic:
     output: true
     order:
+      - Craft and Technology.md
       - Academic Subjects.md
       - Teaching n Learning at JWSS.md
