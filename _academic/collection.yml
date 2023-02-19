@@ -2,14 +2,14 @@ collections:
   academic:
     output: true
     order:
-      - Promotion Criteria.md
-      - Science.md
-      - Physical Education.md
-      - Mother Tongue Languages.md
-      - Mathematics.md
-      - Information and Communications Technology.md
-      - Humanities.md
-      - English Language and Literature.md
-      - Craft and Technology.md
-      - Academic Subjects.md
       - Teaching n Learning at JWSS.md
+      - Academic Subjects.md
+      - Craft and Technology.md
+      - English Language and Literature.md
+      - Humanities.md
+      - Information and Communications Technology.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md
+      - Promotion Criteria.md
