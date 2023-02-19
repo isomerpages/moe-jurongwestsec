@@ -1,5 +1,5 @@
 collections:
-  test:
+  repository:
     output: true
     order:
       - 20th Anniversary Celebrations 2021.md
