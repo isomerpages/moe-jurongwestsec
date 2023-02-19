@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Academic/.keep
-      - Academic/Science.md
       - Academic/Promotion Criteria.md
