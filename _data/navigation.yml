@@ -2,15 +2,13 @@ logo: /images/JWSS School Crest.png
 links:
   - title: About Us
     collection: about-us
-  - title: Highlights
-    collection: highlights
-  - title: Curriculum
+  - title: Academic
     collection: curriculum
+  - title: CCAs
+    collection: cca
   - title: Achievements
     collection: achievements
   - title: Holistic Development
     collection: holistic-development
   - title: Parents & Students
     collection: parents-and-students
-  - title: CCAs
-    collection: cca
