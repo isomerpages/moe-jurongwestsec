@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic/.keep
-      - Academic/Humanities.md
       - Academic/Information and Communications Technology.md
       - Academic/Mathematics.md
       - Academic/Mother Tongue Languages.md
