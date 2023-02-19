@@ -2,5 +2,6 @@ collections:
   test:
     output: true
     order:
+      - Jewel E–Challenge 2021 results.md
       - School Gallery.md
       - MP Attachment Programme.md
