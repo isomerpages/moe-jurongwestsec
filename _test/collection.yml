@@ -2,6 +2,7 @@ collections:
   test:
     output: true
     order:
+      - 20th Anniversary Celebrations 2021.md
       - 2022 GCE O–Level Results.md
       - Identifying Covid–19 Symptoms.md
       - Publish.md
