@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic/.keep
-      - Academic/Mother Tongue Languages.md
       - Academic/Physical Education.md
       - Academic/Science.md
       - Academic/Promotion Criteria.md
