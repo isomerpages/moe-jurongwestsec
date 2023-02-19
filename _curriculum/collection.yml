@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - CCA/Performing Arts.md
       - CCA/Clubs & Societies.md
       - CCA/Co–Curricular Framework.md
       - CCA/.keep
