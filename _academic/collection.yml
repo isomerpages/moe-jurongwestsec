@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - English Language and Literature.md
       - Craft and Technology.md
       - Academic Subjects.md
       - Teaching n Learning at JWSS.md
