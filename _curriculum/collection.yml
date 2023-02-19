@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - CCA/Co–Curricular Framework.md
       - CCA/.keep
       - Academic/.keep
       - Academic/Teaching n Learning at JWSS.md
