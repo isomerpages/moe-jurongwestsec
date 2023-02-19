@@ -2,4 +2,5 @@ collections:
   academic:
     output: true
     order:
+      - Academic Subjects.md
       - Teaching n Learning at JWSS.md
