@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Information and Communications Technology.md
       - Humanities.md
       - English Language and Literature.md
       - Craft and Technology.md
