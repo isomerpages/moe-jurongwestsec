@@ -16,12 +16,9 @@ Sheung Leng and Shasha were also featured in Sentosa Development Corporation's I
   
 Below are some screengrabs from Sentosa Development Corporation's Instagram post.  
   
-  
-![swap1.png](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Highlights/2022/SWAP/swap1.png)  
-  
-![swap2.png](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Highlights/2022/SWAP/swap2.png)  
-![swap3.png](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Highlights/2022/SWAP/swap3.png)  
-  
+ ![](/images/Highlights/swap1.png)
+ ![](/images/Highlights/swap2.png)
+ ![](/images/Highlights/swap3.png)
   
   
   
