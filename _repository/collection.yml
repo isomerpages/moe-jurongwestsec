@@ -2,6 +2,7 @@ collections:
   repository:
     output: true
     order:
+      - JWSS Students Demonstrating Public Spiritedness.md
       - Happy Teacher's Day!.md
       - West Zone B Division Boys Volleyball Championship.md
       - Student Graduation Certificate (Testimonial).md
