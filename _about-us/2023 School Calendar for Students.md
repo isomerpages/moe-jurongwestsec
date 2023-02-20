@@ -3,7 +3,6 @@ title: 2023 School Calendar for Students
 permalink: /about-us/2023-school-calendar/
 description: ""
 ---
-
 ![](/images/JWSS%20School%20Crest.png)
 
-Click [here](/files/221003%20JWSS%20Calendar%202022%20-%20Student%20version%20for%20JWSS%20Website%20-%203%20Oct%202022.pdf) to download the 2022 School Calendar for Students
+Click [here](/files/About%20Us/School%20Calendar/2023%20JWSS%20%20Calendar%20-%20Student%20version%20310123.pdf) to download the 2023 School Calendar for Students
