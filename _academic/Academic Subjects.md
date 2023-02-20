@@ -3,7 +3,6 @@ title: Academic Subjects
 permalink: /curriculum/academic/subjects/
 description: ""
 ---
-
 ## Academic Subjects
 
 <p>One of the most important considerations in choosing a secondary school would be the subjects available to students at the upper secondary level given that secondary education is a 4-5 year journey. At the end of Secondary Two, in addition to compulsory subjects such as English Language and Elementary Mathematics amongst others, students would have to choose certain subjects they would like to offer at the upper secondary level leading to the GCE O Level Examinations or GCE N Level Examinations.</p><br>
@@ -16,4 +15,3 @@ description: ""
 	/>
 <br>
 
-/////links not found anymore////
