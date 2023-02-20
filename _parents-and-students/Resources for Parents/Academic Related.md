@@ -9,3 +9,4 @@ third_nav_title: Resources for Parents
 Dear Parents/ Guardians,  
   
 As Home-Based Learning will be implemented into our school's curriculum,  please find below, the HBL schedule for semester 1 of 2023 for your advanced planning if necessary.
+
