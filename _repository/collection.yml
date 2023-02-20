@@ -2,6 +2,7 @@ collections:
   repository:
     output: true
     order:
+      - Values in Action.md
       - Cyber Wellness.md
       - JWSS Frontier Primary School Mentorship Programme.md
       - "Jurong West Sec & Hwa Chong Institution Collaboration: The HCI Boarding
