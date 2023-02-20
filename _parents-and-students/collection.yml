@@ -1,0 +1,25 @@
+collections:
+  parents-and-students:
+    output: true
+    order:
+      - Portal for Staff & Students.md
+      - Parent's Gateway.md
+      - Letters to Parents/.keep
+      - Letters to Parents/Letters 2022.md
+      - Letters to Parents/Letters 2021.md
+      - Letters to Parents/Letters 2020.md
+      - Letters to Parents/Letters 2019.md
+      - Letters to Parents/Letters 2018.md
+      - Letters to Parents/Letters 2017.md
+      - Parent Support Group.md
+      - Class Form Teachers 2023.md
+      - Resources for Parents/.keep
+      - Resources for Parents/Secondary 1 Parents Engagement Session 2022.md
+      - Resources for Parents/Secondary 2 Parents Engagement Session 2021.md
+      - Resources for Parents/Academic Related.md
+      - Resources for Parents/Useful Reading.md
+      - Subject Overview/.keep
+      - Subject Overview/Secondary 1.md
+      - Subject Overview/Secondary 2.md
+      - Subject Overview/Secondary 3.md
+      - Subject Overview/Secondary 4 and 5.md

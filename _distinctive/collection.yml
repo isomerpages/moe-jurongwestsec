@@ -1,0 +1,25 @@
+collections:
+  distinctive:
+    output: true
+    order:
+      - Counselling.md
+      - Applied Learning Programme Alp at JWSS.md
+      - Arts & Aesthetics.md
+      - Character and Citizenship/.keep
+      - Character and Citizenship/CCE Introduction.md
+      - "Character and Citizenship/Professional Development for CCE:
+        facilitation workshop.md"
+      - Character and Citizenship/Values in Action.md
+      - Character and Citizenship/Cyber Wellness.md
+      - Cyber Wellness.md
+      - Enhanced Art Programme (EAP).md
+      - Full Subject–Based Banding (FSBB).md
+      - Higher Education and Career Guidance.md
+      - LLP Community and Youth Leadership.md
+      - Overseas Student Exchange Programme.md
+      - PDLP @ JWSS.md
+      - Physical and Mental Health.md
+      - Sexuality Education.md
+      - Student Work Attachment Programme.md
+      - The JeWel Programme (Talent Development).md
+      - Values in Action.md
