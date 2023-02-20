@@ -2,7 +2,9 @@
 title: Higher Education and Career Guidance
 permalink: /holistic-development/higher-education-and-career-guidance/
 description: ""
+third_nav_title: Character and Citizenship
 ---
+
 ## Importance of ECG
 
 _‘One of the key things that we need to do is for our students to graduate with a good understanding of their strengths, weaknesses, and interests. More informed choices will reduce the attrition from school to workplace.’_ <br>

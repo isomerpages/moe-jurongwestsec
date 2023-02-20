@@ -12,7 +12,7 @@ sections:
       title: Announcements
       description: Latest Updates can be found here!
       button: read more
-      url: /highlights/announcements
+      url: /announcements
   - infobar:
       subtitle: JWSS Story
       description: <iframe width="560" height="315"
