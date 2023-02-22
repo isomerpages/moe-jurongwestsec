@@ -5,7 +5,6 @@ description: ""
 ---
 ## English Language and Literature
 
-*
 *   Teaching Staff
 *   English Language
 *   Literature in English
