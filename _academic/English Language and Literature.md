@@ -223,7 +223,25 @@ The syllabus aims to **advance students’ language learning** and develop stu
 >   
 > Curriculum
 > 
-> <table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 154px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The aims of the Literature in English syllabus are to enable students to:&nbsp;</font></span></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"></p><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">discover the joys of reading Literature and become aware of new ways of perceiving the world around them&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">appreciate the aesthetic value of language&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">engage personally with a variety of texts and draw connections between self, texts and the world in order to develop intellectual, emotional, socio-cultural, and global awareness&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">articulate perceptive and analytical thinking when discussing and writing about literary texts&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">explore how the elements of different genres function in literary works to achieve specific effects; and&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">appreciate the importance of the contexts in which literary texts are written and understood.</font></li></ul><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"></p></td></tr></tbody></table>
+> <table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 154px;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px;">
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;">
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The aims of the Literature in English syllabus are to enable students to:&nbsp;</font></span></p>
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"></p>
+        <ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;">
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">discover the joys of reading Literature and become aware of new ways of perceiving the world around them&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">appreciate the aesthetic value of language&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">engage personally with a variety of texts and draw connections between self, texts and the world in order to develop intellectual, emotional, socio-cultural, and global awareness&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">articulate perceptive and analytical thinking when discussing and writing about literary texts&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">explore how the elements of different genres function in literary works to achieve specific effects; and&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">appreciate the importance of the contexts in which literary texts are written and understood.</font></li>
+        </ul>
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 > 
 > ![lit_areas_of_study_II.jpg](/images/lit_areas_of_study_II.jpg)
 > 
@@ -231,7 +249,17 @@ The syllabus aims to **advance students’ language learning** and develop stu
 > 
 >   
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 39px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The study of Literature centres on literary response – the negotiation of meaning between readers and texts. This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner.&nbsp;</font></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment.&nbsp;</font></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The various layers of this framework are elaborated upon below, starting from the centre to the outermost layer.</font></p></td></tr></tbody></table>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 39px;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px;">
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;">
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The study of Literature centres on literary response – the negotiation of meaning between readers and texts. This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner.&nbsp;</font></p>
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment.&nbsp;</font></p>
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The various layers of this framework are elaborated upon below, starting from the centre to the outermost layer.</font></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Programme 
 
@@ -272,14 +300,6 @@ The syllabus aims to **advance students’ language learning** and develop stu
 	/>
 <br>
 <img src="/images/englit10.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/englit11.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/englit12.png" 
          style="width:600px"
 	/>
 <br>
