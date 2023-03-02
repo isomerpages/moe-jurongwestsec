@@ -13,7 +13,6 @@ description: ""
 
 ## Teaching Staff
 
-
 ![](/images/Department%20Photos/Hum2023.png)
 
 <table class="ives_tab_kosong ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 791px; height: 502px;">
@@ -188,14 +187,6 @@ description: ""
 	/>
 <br>
 <img src="/images/humanc.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/humand.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/humane.png" 
          style="width:600px"
 	/>
 <br>
