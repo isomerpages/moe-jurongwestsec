@@ -107,8 +107,8 @@ description: ""
 </table>
 
 ## Social Studies
-  
-![Sec2NTLJNewater1.jpg](/images/Sec2NTLJNewater1.jpg)  
+
+![](/images/Sec2NTLJNewater1.jpg)
   
 <p>Subjects Offered</p>
   
