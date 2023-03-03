@@ -13,15 +13,101 @@ description: ""
 
 ## Teaching Staff
 
-
 ![](/images/Department%20Photos/Hum2023.png)
 
-<table class="ives_tab_kosong ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 791px; height: 502px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 51px;">01/</th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 229px;">Dr Nandakumar<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">HOD Humanities<br style="margin: 0px; outline: 0px; padding: 0px;">History<br style="margin: 0px; outline: 0px; padding: 0px;"></i></span></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 40px;"><b style="margin: 0px; outline: 0px; padding: 0px;">02</b><b style="margin: 0px; outline: 0px; padding: 0px;">/</b></td><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 222px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Rayner Goh</b><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">HOD Student Development<br style="margin: 0px; outline: 0px; padding: 0px;">Geography</i><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">&nbsp;</i><br style="margin: 0px; outline: 0px; padding: 0px;"></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 40px;"><b style="margin: 0px; outline: 0px; padding: 0px;">03</b><b style="margin: 0px; outline: 0px; padding: 0px;">/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 232px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Oh Peck Lin</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">School Staff Developer<br style="margin: 0px; outline: 0px; padding: 0px;">Geography<br style="margin: 0px; outline: 0px; padding: 0px;">Elements of Business Skills</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">04/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Rahmat Tirmizi Bin Juma'at</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Senior Teacher, Geography<br style="margin: 0px; outline: 0px; padding: 0px;">Geography<br style="margin: 0px; outline: 0px; padding: 0px;">English Language</i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">05</b><b style="margin: 0px; outline: 0px; padding: 0px;">/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Low Chi Arn, Benjamin&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Subject Head CCE (internal)</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">Music<br style="margin: 0px; outline: 0px; padding: 0px;"></i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">06/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yeo Chin Hwei</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Senior Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Physical Education</i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">07/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Mr P Vinoth<br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Geography<br style="margin: 0px; outline: 0px; padding: 0px;">Physical Education</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">08/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yew Yee Siang</b><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 700;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher</i><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 700;"><i style="margin: 0px; outline: 0px; padding: 0px;">Geography<br style="margin: 0px; outline: 0px; padding: 0px;"> Social Studies</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">09/</b><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Mustaqim Bin Mohamed</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">History<br style="margin: 0px; outline: 0px; padding: 0px;">Social Studies</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">10/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Tan Qiu Yan;</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Social Studies<br style="margin: 0px; outline: 0px; padding: 0px;">History</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">11/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;Erlinda Tanuwijaya</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Social Studies<br style="margin: 0px; outline: 0px; padding: 0px;">Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">12/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Darshini D/O Gunaseigaran</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">English Literature<br style="margin: 0px; outline: 0px; padding: 0px;">History</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">13/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Iman Nor Atiqah Binte Sofian</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;">English Language<br style="margin: 0px; outline: 0px; padding: 0px;">Social Studies</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">14/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Susan Liang Siew Geok</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;">English Literature<br style="margin: 0px; outline: 0px; padding: 0px;">History</i><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">15/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Jennifer Wu</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;">English Language<br style="margin: 0px; outline: 0px; padding: 0px;">Geography</i><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<table class="ives_tab_kosong ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 791px; height: 502px;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px;">
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 51px;">01/</th>
+      <th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 229px;">Dr Nandakumar<br style="margin: 0px; outline: 0px; padding: 0px;">
+      <span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">HOD Humanities<br style="margin: 0px; outline: 0px; padding: 0px;">
+      History<br style="margin: 0px; outline: 0px; padding: 0px;"></i></span></th>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 40px;"><b style="margin: 0px; outline: 0px; padding: 0px;">02</b><b style="margin: 0px; outline: 0px; padding: 0px;">/</b></td>
+      <th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 222px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Rayner Goh</b><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">
+      <i style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">HOD Student Development<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Geography</i><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">&nbsp;</i><br style="margin: 0px; outline: 0px; padding: 0px;"></th>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 40px;"><b style="margin: 0px; outline: 0px; padding: 0px;">03</b><b style="margin: 0px; outline: 0px; padding: 0px;">/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 232px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Oh Peck Lin</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">School Staff Developer<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Geography<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Elements of Business Skills</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">04/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Rahmat Tirmizi Bin Juma'at</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Senior Teacher, Geography<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Geography<br style="margin: 0px; outline: 0px; padding: 0px;">
+      English Language</i></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">05</b><b style="margin: 0px; outline: 0px; padding: 0px;">/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Low Chi Arn, Benjamin&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Subject Head CCE (internal)</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">
+      Music<br style="margin: 0px; outline: 0px; padding: 0px;"></i><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">06/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yeo Chin Hwei</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Senior Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Physical Education</i></td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">07/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr P Vinoth<br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Geography<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Physical Education</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">08/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yew Yee Siang</b><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 700;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Teacher</i><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 700;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Geography<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Social Studies</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">09/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Mustaqim Bin Mohamed</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">
+      History<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Social Studies</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">10/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Tan Qiu Yan;</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Social Studies<br style="margin: 0px; outline: 0px; padding: 0px;">
+      History</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">11/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;Erlinda Tanuwijaya</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Social Studies<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Mathematics</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">12/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Darshini D/O Gunaseigaran</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">
+      English Literature<br style="margin: 0px; outline: 0px; padding: 0px;">
+      History</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">13/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Iman Nor Atiqah Binte Sofian</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Teacher&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;">
+      English Language<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Social Studies</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">14/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Susan Liang Siew Geok</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Teacher&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;">
+      English Literature<br style="margin: 0px; outline: 0px; padding: 0px;">
+      History</i></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">15/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Jennifer Wu</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Teacher&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;">
+      English Language<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Geography</i></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Social Studies
 
-  
-![Sec2NTLJNewater1.jpg](/images/Sec2NTLJNewater1.jpg)  
+![](/images/Sec2NTLJNewater1.jpg)
   
 <p>Subjects Offered</p>
   
@@ -104,14 +190,6 @@ description: ""
          style="width:600px"
 	/>
 <br>
-<img src="/images/humand.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/humane.png" 
-         style="width:600px"
-	/>
-<br>
 <img src="/images/humanf.png" 
          style="width:600px"
 	/>
@@ -135,8 +213,3 @@ description: ""
 <img src="/images/humanm.png" 
          style="width:600px"
 	/>
-<br>
-<img src="/images/humann.png" 
-         style="width:600px"
-	/>
-<br>

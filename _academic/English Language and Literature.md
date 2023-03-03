@@ -5,7 +5,6 @@ description: ""
 ---
 ## English Language and Literature
 
-*
 *   Teaching Staff
 *   English Language
 *   Literature in English
@@ -17,7 +16,140 @@ description: ""
 ![](/images/Department%20Photos/EL2023.png)
   
 
-<table class="ives_tab_kosong ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 854.5px; height: 389px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 47px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-weight: 700; text-align: left;">01/</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 232px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Chin Siang Yee, Samantha</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">HOD English<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 43px;"><b style="margin: 0px; outline: 0px; padding: 0px;">02/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 240px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Ms&nbsp;<span>&nbsp;</span></b><b style="margin: 0px; outline: 0px; padding: 0px;">Zhang Zhi Hui, Orry</b><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Year Head 1<br style="margin: 0px; outline: 0px; padding: 0px;">English Literature</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Chemistry</i><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">03/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 232px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;Tay Shi Ying&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Subject Head English Language<br style="margin: 0px; outline: 0px; padding: 0px;">English Language<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">04/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></div><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></span></div><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></i><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Ms&nbsp;<span>&nbsp;</span></b><b style="margin: 0px; outline: 0px; padding: 0px;">Sandramathy d/o Idamban</b><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Senior Teacher, English<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">05/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></b><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px; font-style: normal; text-align: center;"></b><b style="margin: 0px; outline: 0px; padding: 0px;">Mr&nbsp;<span>&nbsp;</span></b><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">Rahmat Tirmizi Bin Juma'at</b></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Senior Teacher, Geography</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language<br style="margin: 0px; outline: 0px; padding: 0px;">Geography</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></div></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">06/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Ms Anne Roseline</b><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">English Language</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">07/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"></b><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms Darshini D/O Gunaseigaran</b><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px;">History</i></div></span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">08/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms<span>&nbsp;</span></b><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ng Ling Yee Domina</b><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Biology</i></div></span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">09/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Iman Nor Atiqah Binte Sofian</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;">English Language<br style="margin: 0px; outline: 0px; padding: 0px;">Social Studies</i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">10/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms&nbsp;<span>&nbsp;</span></b><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">Susan Liang</b></span><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px;">History</i></div></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">11/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Sandy Goh</b><br style="margin: 0px; outline: 0px; padding: 0px;"></span><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px;">English Literature</i></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">12/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Tan Ai Ling Majorie</b><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Flexi Adjunct Teacher</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"><i style="margin: 0px; outline: 0px; padding: 0px;"></i></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"></td></tr></tbody></table>
+<table class="ives_tab_kosong ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 854.5px; height: 389px;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px;">
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 47px;">
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;">
+          <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-weight: 700; text-align: left;">01/</span>
+        </div>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 232px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Chin Siang Yee, Samantha</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">HOD English<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 43px;"><b style="margin: 0px; outline: 0px; padding: 0px;">02/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 240px;">
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">
+          <b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Ms&nbsp;<span>&nbsp;</span></b><b style="margin: 0px; outline: 0px; padding: 0px;">Zhang Zhi Hui, Orry</b><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">
+          <i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Year Head 1<br style="margin: 0px; outline: 0px; padding: 0px;">
+          English Literature</i>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">
+          <i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Chemistry</i><br style="margin: 0px; outline: 0px; padding: 0px;">
+        </div>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">03/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 232px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp;Tay Shi Ying&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Subject Head English Language<br style="margin: 0px; outline: 0px; padding: 0px;">
+      English Language<br style="margin: 0px; outline: 0px; padding: 0px;"></i></td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;">
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;">
+          <b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">04/</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+        </div>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;">
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"></div><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Ms&nbsp;<span>&nbsp;</span></b><b style="margin: 0px; outline: 0px; padding: 0px;">Sandramathy d/o Idamban</b><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">
+        <i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Senior Teacher, English<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">05/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 60px;">
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">
+            <span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr&nbsp;<span>&nbsp;</span></b><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">Rahmat Tirmizi Bin Juma'at</b></span></span>
+          </div>
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">
+            <i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Senior Teacher, Geography</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language<br style="margin: 0px; outline: 0px; padding: 0px;">
+            Geography</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i>
+          </div>
+        </div>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">06/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Ms Anne Roseline</b><br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">
+      <i style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">
+      English Language</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">07/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;">
+        <b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms Darshini D/O Gunaseigaran</b>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;">
+          <span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i></span>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;">
+          <span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i></span>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;">
+          <span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px;">History</i></span>
+        </div>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">08/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
+        <b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms<span>&nbsp;</span></b><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ng Ling Yee Domina</b></span>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;">
+          <span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i></span>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;">
+          <span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i></span>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic; text-align: left;">
+          <span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Biology</i></span>
+        </div>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">09/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Iman Nor Atiqah Binte Sofian</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;">
+      English Language<br style="margin: 0px; outline: 0px; padding: 0px;">
+      Social Studies</i></td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">10/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;">
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;">
+          <b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms&nbsp;<span>&nbsp;</span></b><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">Susan Liang</b></span><br style="margin: 0px; outline: 0px; padding: 0px;">
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;">
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;">
+            <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i>
+          </div>
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;">
+            <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i>
+          </div>
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;">
+            <i style="margin: 0px; outline: 0px; padding: 0px;">History</i>
+          </div>
+        </div>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">11/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
+        <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Sandy Goh</b><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;">
+          <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</i>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;">
+          <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;">
+          <i style="margin: 0px; outline: 0px; padding: 0px;">English Literature</i>
+        </div>
+      </td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">12/</b></td>
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;">
+        <b style="margin: 0px; outline: 0px; padding: 0px;">Ms Tan Ai Ling Majorie</b><br style="margin: 0px; outline: 0px; padding: 0px;">
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;">
+          <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Flexi Adjunct Teacher</i>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;">
+          <i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">English Language</i>
+        </div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; font-style: italic;"></div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## English Language
 
@@ -91,7 +223,25 @@ The syllabus aims to **advance students’ language learning** and develop stu
 >   
 > Curriculum
 > 
-> <table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 154px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The aims of the Literature in English syllabus are to enable students to:&nbsp;</font></span></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"></p><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">discover the joys of reading Literature and become aware of new ways of perceiving the world around them&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">appreciate the aesthetic value of language&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">engage personally with a variety of texts and draw connections between self, texts and the world in order to develop intellectual, emotional, socio-cultural, and global awareness&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">articulate perceptive and analytical thinking when discussing and writing about literary texts&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">explore how the elements of different genres function in literary works to achieve specific effects; and&nbsp;</font></li><li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">appreciate the importance of the contexts in which literary texts are written and understood.</font></li></ul><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"></p></td></tr></tbody></table>
+> <table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 154px;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px;">
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;">
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The aims of the Literature in English syllabus are to enable students to:&nbsp;</font></span></p>
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"></p>
+        <ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;">
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">discover the joys of reading Literature and become aware of new ways of perceiving the world around them&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">appreciate the aesthetic value of language&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">engage personally with a variety of texts and draw connections between self, texts and the world in order to develop intellectual, emotional, socio-cultural, and global awareness&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">articulate perceptive and analytical thinking when discussing and writing about literary texts&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">explore how the elements of different genres function in literary works to achieve specific effects; and&nbsp;</font></li>
+          <li style="margin: 0px; outline: 0px; padding: 0px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">appreciate the importance of the contexts in which literary texts are written and understood.</font></li>
+        </ul>
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 > 
 > ![lit_areas_of_study_II.jpg](/images/lit_areas_of_study_II.jpg)
 > 
@@ -99,7 +249,17 @@ The syllabus aims to **advance students’ language learning** and develop stu
 > 
 >   
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 39px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The study of Literature centres on literary response – the negotiation of meaning between readers and texts. This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner.&nbsp;</font></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment.&nbsp;</font></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The various layers of this framework are elaborated upon below, starting from the centre to the outermost layer.</font></p></td></tr></tbody></table>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1005.78px; height: 39px;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px;">
+    <tr style="margin: 0px; outline: 0px; padding: 0px;">
+      <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 1005px;">
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The study of Literature centres on literary response – the negotiation of meaning between readers and texts. This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner.&nbsp;</font></p>
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment.&nbsp;</font></p>
+        <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;">The various layers of this framework are elaborated upon below, starting from the centre to the outermost layer.</font></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Programme 
 
@@ -140,14 +300,6 @@ The syllabus aims to **advance students’ language learning** and develop stu
 	/>
 <br>
 <img src="/images/englit10.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/englit11.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/englit12.png" 
          style="width:600px"
 	/>
 <br>
