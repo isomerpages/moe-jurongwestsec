@@ -3,6 +3,11 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**Collection of School Graduating Certificate (Testimonial) for students who graduated in 2022**  
+
+
+----------------------------------------------------
+
 **Home-Based Learning - 21 Jan 2023**  
 The school will be having our HBL on 21 February 2023. Parents can [click here](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Announcement/2023/HBL%20Schedule%20Sem%201%202023.pdf) to access the HBL Schedule for Semester 1.
 
