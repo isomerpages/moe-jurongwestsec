@@ -3,6 +3,16 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**Collection of School Graduating Certificate (Testimonial) for Express and Normal (Technical) students who graduated in 2022**  
+The School Graduating Certificate (Testimonial) for Express and Normal (Technical) students who graduated in 2022 is now ready for collection!
+
+Do note that an appointment must be made before collection. Click on the link below to book an appointment.
+https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
+
+For alumni who were from the Normal (Aademic) stream (both in Secondary 4 & 5), there will be a slight delay in the collection of your certificates. You will receive updates through your form teachers.
+
+----------------------------------------------------
+
 **Home-Based Learning - 21 Jan 2023**  
 The school will be having our HBL on 21 February 2023. Parents can [click here](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Announcement/2023/HBL%20Schedule%20Sem%201%202023.pdf) to access the HBL Schedule for Semester 1.
 
