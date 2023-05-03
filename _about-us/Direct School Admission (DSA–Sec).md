@@ -744,7 +744,7 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
     related to the talent they are selected for from year 1-4.
 </p>
 <p>
-    <strong>G ENQUIRIES </strong>
+	<strong><u>G. ENQUIRIES </u></strong>
     <strong></strong>
 </p>
 <p>
