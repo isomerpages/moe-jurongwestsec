@@ -30,10 +30,10 @@ description: ""
     opportunities for students to enhance their skills and pursue their
     passion.
 </p>
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <td valign="top" colspan="2" width="594">
+            <td width="594" colspan="2" valign="top">
                 <p>
                     JWSS offers DSA to students who display talent/passion in
                     the following areas:
@@ -41,7 +41,7 @@ description: ""
             </td>
         </tr>
         <tr>
-            <td valign="top" width="554">
+            <td width="554" valign="top">
                 <p>
                     <strong>Sports and Games</strong>
                 </p>
@@ -55,7 +55,7 @@ description: ""
 									<strong></strong></p><li><strong>Volleyball (Boys)</strong></li>
                 <p></p>
             </td>
-            <td valign="top" width="1080">
+            <td width="1080" valign="top">
                 <p>
                     Our Sports and Games have been making steady progress with
                     the most recent achievements being the school’s Basketball
@@ -68,7 +68,7 @@ description: ""
             </td>
         </tr>
         <tr>
-            <td valign="top" width="214">
+            <td width="214" valign="top">
                 <p>
                     <strong>Performing Arts</strong>
                     <br>
@@ -77,7 +77,7 @@ description: ""
 									<strong></strong></p><li><strong>Modern Dance</strong></li>
                 <p></p>
             </td>
-            <td valign="top" width="380">
+            <td width="380" valign="top">
                 <p>
                     Our Modern Dance CCA has been doing well at the Singapore
                     Youth Festival (SYF) Presentations winning Certificates of
@@ -86,7 +86,7 @@ description: ""
             </td>
         </tr>
         <tr>
-            <td valign="top" width="214">
+            <td width="214" valign="top">
                 <p>
                     <strong>Leadership and Uniformed Groups</strong>
                 </p>
@@ -94,7 +94,7 @@ description: ""
 									</p><li><strong>Leadership</strong></li>
                 <p></p>
             </td>
-            <td valign="top" width="380">
+            <td width="380" valign="top">
                 <p>
                     Our Student Leadership programme offers a wide range of
                     platforms for students to take on leadership roles in the
@@ -110,7 +110,7 @@ description: ""
             </td>
         </tr>
         <tr>
-            <td valign="top" width="214">
+            <td width="214" valign="top">
                 <p>
                     <strong>Leadership and Uniformed Groups</strong>
                 </p>
@@ -127,7 +127,7 @@ description: ""
 									</p><li><strong>Red Cross (Youth) </strong></li>
                 <p></p>
             </td>
-            <td valign="top" width="380">
+            <td width="380" valign="top">
                 <p>
                     JWSS is well known in the West for its highly established
                     Uniformed Groups (UGs) – NCC (Land), NPCC, BB and RCY which
@@ -153,7 +153,7 @@ description: ""
             </td>
         </tr>
         <tr>
-            <td valign="top" width="214">
+            <td width="214" valign="top">
                 <p>
                     <strong> </strong>
                 </p>
@@ -164,7 +164,7 @@ description: ""
                     </p><li><strong>Visual Arts</strong></li>
                 <p></p>
             </td>
-            <td valign="top" width="380">
+            <td width="380" valign="top">
                 <p>
                     The Applied Learning Programme (ALP) in JWSS focusses on
                     equipping students with ICT skills such as coding and app
@@ -207,16 +207,16 @@ description: ""
     Primary Six (P6) students eligible for Secondary One in 2024 may apply for Direct School Admission to Secondary One in JWSS based on their    <strong>holistic achievements and talents</strong> as well as the following
     criteria:
 </p>
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <td valign="top" width="285">
+            <td width="285" valign="top">
                 <p>
                     <strong>Talent Areas</strong>
                     <strong></strong>
                 </p>
             </td>
-            <td valign="top" width="909">
+            <td width="909" valign="top">
                 <p>
                     <strong>Criteria</strong>
                     <strong></strong>
@@ -224,7 +224,7 @@ description: ""
             </td>
         </tr>
         <tr>
-            <td valign="top" width="185">
+            <td width="185" valign="top">
                 <p>
                     <strong> </strong>
                 </p>
@@ -242,7 +242,7 @@ description: ""
                     <strong> </strong>
                 </p>
             </td>
-            <td valign="top" width="409">
+            <td width="409" valign="top">
                 <p>
 Students applying should satisfy                    <strong>at least two</strong> of the following:
                 </p>
@@ -276,7 +276,7 @@ Students applying should satisfy                    <strong>at least two</strong
             </li></td>
         </tr>
         <tr>
-            <td valign="top" width="185">
+            <td width="185" valign="top">
                 <p>
                     <strong> </strong>
                 </p>
@@ -284,7 +284,7 @@ Students applying should satisfy                    <strong>at least two</strong
                     <strong>Modern Dance</strong>
                 </p>
             </td>
-            <td valign="top" width="409">
+            <td width="409" valign="top">
                 <p>
 Students applying should satisfy                    <strong>at least two</strong> of the following:
                 </p>
@@ -315,12 +315,12 @@ Students applying should satisfy                    <strong>at least two</strong
             </li></td>
         </tr>
         <tr>
-            <td valign="top" width="185">
+            <td width="185" valign="top">
                 <p>
                     <strong>Leadership</strong>
                 </p>
             </td>
-            <td valign="top" width="409">
+            <td width="409" valign="top">
                 <p>
 Students applying should satisfy                    <strong>at least two</strong> of the following:
                 </p>
@@ -351,7 +351,7 @@ Students applying should satisfy                    <strong>at least two</strong
             </li></td>
         </tr>
         <tr>
-            <td valign="top" width="485">
+            <td width="485" valign="top">
                 <p>
                     <strong>National Cadet Corps (NCC) Land </strong>
                     <strong>(Boys only)</strong>
@@ -366,7 +366,7 @@ Students applying should satisfy                    <strong>at least two</strong
                     <strong>Red Cross (Youth) </strong>
                 </p>
             </td>
-            <td valign="top" width="1009">
+            <td width="1009" valign="top">
                 <p>
 Students applying should satisfy                    <strong>at least two</strong> of the following:
                 </p>
@@ -401,7 +401,7 @@ Students applying should satisfy                    <strong>at least two</strong
             </li></td>
         </tr>
         <tr>
-            <td valign="top" width="185">
+            <td width="185" valign="top">
                 <p>
                     <strong> </strong>
                 </p>
@@ -412,7 +412,7 @@ Students applying should satisfy                    <strong>at least two</strong
                     </p><li><strong>Visual Arts</strong>
                 <p></p>
             </li></td>
-            <td valign="top" width="409">
+            <td width="409" valign="top">
                 <p>
 Students applying should satisfy                    <strong>at least two</strong> of the following:
                 </p>
@@ -461,71 +461,71 @@ Students applying should satisfy                    <strong>at least two</strong
 <p>
     The timeline for the MOE DSA-Sec Exercise is as follows:
 </p>
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <td valign="top" width="130">
+            <td width="130" valign="top">
                 <p>
                     Application Stage
                 </p>
             </td>
-            <td valign="top" width="272">
+            <td width="272" valign="top">
                 <p>
                     Submission of online application
                 </p>
             </td>
-            <td valign="top" width="192">
+            <td width="192" valign="top">
                 <p>
                     4 May – 31 May 2023
                 </p>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="130">
+            <td width="130" valign="top">
                 <p>
                     Stage 1
                 </p>
             </td>
-            <td valign="top" width="272">
+            <td width="272" valign="top">
                 <p>
                     Selection Stage
                 </p>
             </td>
-            <td valign="top" width="192">
+            <td width="192" valign="top">
                 <p>
                     26 Jun – 11 Sep 2023
                 </p>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="130">
+            <td width="130" valign="top">
                 <p>
                     Stage 2
                 </p>
             </td>
-            <td valign="top" width="272">
+            <td width="272" valign="top">
                 <p>
                     Exercise School Preference Stage
                 </p>
             </td>
-            <td valign="top" width="192">
+            <td width="192" valign="top">
                 <p>
                     23 Oct – 27 Oct 2023
                 </p>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="130">
+            <td width="130" valign="top">
                 <p>
                     Stage 3
                 </p>
             </td>
-            <td valign="top" width="272">
+            <td width="272" valign="top">
                 <p>
                     Results Release Stage
                 </p>
             </td>
-            <td valign="top" width="192">
+            <td width="192" valign="top">
                 <p>
                     Late Nov
                 </p>
@@ -563,22 +563,22 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
     The details of the selection processes for each of the talent domain are as
     follows:
 </p>
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <td valign="top" width="191">
+            <td width="191" valign="top">
                 <p>
                     <strong>Talent Areas</strong>
                     <strong></strong>
                 </p>
             </td>
-            <td valign="top" width="174">
+            <td width="174" valign="top">
                 <p>
                     <strong>Selection Process</strong>
                     <strong></strong>
                 </p>
             </td>
-            <td valign="top" width="223">
+            <td width="223" valign="top">
                 <p>
                     <strong>Date &amp; Time</strong>
                     <strong></strong>
@@ -586,12 +586,12 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="191">
+            <td width="191" valign="top">
                 <p>
                     Basketball (Boys)
                 </p>
             </td>
-            <td valign="top" width="174">
+            <td width="174" valign="top">
                 <ul>
                     <li>
                         Sports Trials
@@ -605,12 +605,12 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="191">
+            <td width="191" valign="top">
                 <p>
                     Netball (Girls)
                 </p>
             </td>
-            <td valign="top" width="174">
+            <td width="174" valign="top">
                 <ul>
                     <li>
                         Sports Trials
@@ -624,12 +624,12 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="191">
+            <td width="191" valign="top">
                 <p>
                     Volleyball (Boys)
                 </p>
             </td>
-            <td valign="top" width="174">
+            <td width="174" valign="top">
                 <ul>
                     <li>
                         Sports Trials
@@ -643,12 +643,12 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="191">
+            <td width="191" valign="top">
                 <p>
                     Visual Art
                 </p>
             </td>
-            <td valign="top" width="174">
+            <td width="174" valign="top">
                 <ul>
                     <li>
                         Interview
@@ -665,12 +665,12 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="191">
+            <td width="191" valign="top">
                 <p>
                     Leadership, NCC (Land), NPCC, BB, RCY
                 </p>
             </td>
-            <td valign="top" width="174">
+            <td width="174" valign="top">
                 <ul>
                     <li>
                         Interview
@@ -684,7 +684,7 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="191">
+            <td width="191" valign="top">
                 <p>
                     Modern Dance
                 </p>
@@ -763,10 +763,10 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
     If you would like to have further details or require any clarification, you
     may contact any one of the following staff:
 </p>
-<table cellpadding="0" cellspacing="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <td valign="top" width="238">
+            <td width="238" valign="middle">
                 <p>
                     Mr Lee Kah Onn
                 </p>
@@ -777,12 +777,12 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
                     Physical Education and CCA
                 </p>
             </td>
-            <td valign="top" width="204">
+            <td width="204" valign="middle">
                 <p align="center">
                     lee_kah_onn@moe.edu.sg
                 </p>
             </td>
-            <td valign="top" rowspan="4" width="167">
+            <td width="167" rowspan="4" valign="middle">
                 <p align="center">
                     Telephone:
                 </p>
@@ -792,7 +792,7 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="238">
+            <td width="238" valign="middle">
                 <p>
                     Mr Syaifudean Selamat
                 </p>
@@ -803,14 +803,14 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
                     Physical Education and CCA
                 </p>
             </td>
-            <td valign="top" width="204">
+            <td width="204" valign="middle">
                 <p>
                     syaifudean_selamat@moe.edu.sg
                 </p>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="238">
+            <td width="238" valign="middle">
                 <p>
                     Ms Angela Sim
                 </p>
@@ -818,14 +818,14 @@ All shortlisted students will be informed latest by    <strong><u>7 Jul 2023</u>
                     Administrative Manager
                 </p>
             </td>
-            <td valign="top" rowspan="2" width="204">
+            <td width="204" rowspan="2" valign="middle">
                 <p align="center">
                     jwss@moe.edu.sg
                 </p>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="238">
+            <td width="238" valign="middle">
                 <p>
                     Mrs Yeoh-Tan Jiing Shyuan
                 </p>
