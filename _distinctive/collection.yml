@@ -2,7 +2,6 @@ collections:
   distinctive:
     output: true
     order:
-      - Special Educational Needs.md
       - Applied Learning Programme Alp at JWSS.md
       - Arts & Aesthetics.md
       - Character and Citizenship/.keep
@@ -20,5 +19,6 @@ collections:
       - Overseas Student Exchange Programme.md
       - PDLP @ JWSS.md
       - Physical and Mental Health.md
+      - Special Educational Needs.md
       - Student Work Attachment Programme.md
       - The JeWel Programme (Talent Development).md
