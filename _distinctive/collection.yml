@@ -2,6 +2,7 @@ collections:
   distinctive:
     output: true
     order:
+      - Special Educational Needs.md
       - Applied Learning Programme Alp at JWSS.md
       - Arts & Aesthetics.md
       - Character and Citizenship/.keep
