@@ -21,7 +21,7 @@ Apart from working closely with the Teachers, School Leaders and relevant School
 **Further enquiries**
 
 If you have any enquiries or need further clarifications on SEN related matters at JWSS, you can reach out to our SENO
-(Ms Nada) via the following; -
+(Ms Nada) via the following;
 
 o  [nada\_farzana\_zainal@schools.gov.sg](mailto:nada_farzana_zainal@schools.gov.sg)
 
