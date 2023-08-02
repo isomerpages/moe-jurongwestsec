@@ -5,4 +5,4 @@ description: ""
 ---
 ![](/images/JWSS%20School%20Crest.png)
 
-[Click Here](/files/About%20Us/School%20Calendar/2023%20jwss%20calendar%20jul.pdf) to download the 2023 School Calendar for Students
+[Click Here](/files/About%20Us/School%20Calendar/2023%20jwss%20calendar%20aug.pdf)  to download the 2023 School Calendar for Students
