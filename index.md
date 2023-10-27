@@ -8,6 +8,17 @@ notification: ""
 sections:
   - hero:
       background: /images/home2jwss.gif
+  - infopic:
+      title: Open House 2023
+      subtitle: JWSS Open house 2023
+      id: infopic
+      description: |-
+        25 November 2023
+        (9am - 1pm)
+      button: Register here!!
+      url: https://forms.gle/EcbuYtmri8de7mGeA
+      image: /images/open house 2023.jpg
+      alt: Open House 2023
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
