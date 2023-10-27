@@ -17,7 +17,7 @@ sections:
         (9am - 1pm)
       button: Register here!!
       url: https://forms.gle/EcbuYtmri8de7mGeA
-      image: /images/open house 2023.jpg
+      image: /images/Open House/open house 2023.jpg
       alt: Open House 2023
   - infobar:
       title: Announcements
