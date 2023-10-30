@@ -5,7 +5,7 @@ description: ""
 ---
 _Harnessing&nbsp;**Technology** in Authentic Contexts_
 
-  
+  ![](/images/ALP/smart%20nation%20skyline.jpg)
   
 
 ## Introduction
@@ -26,9 +26,7 @@ These authentic contexts allow for deeper and more meaningful learning as the st
 
 ### Our Two-Tier Approach
 
-<br>
-<img src="/images/ALP1.png" style="width:![](/images/picture2.png)500px">
-<br>
+![](/images/ALP/picture2.png)
 
 ALP @ JWSS is a two-tiered programme which uses Project Work as a platform to integrate existing aspects of the Art, English Language and InfoComm Technology curricula. In Secondary One and Two, students will be equipped with the relevant knowledge, skills, values and attitudes in three areas -&nbsp;**the visual arts**,&nbsp;**communication**&nbsp;and i**nfocomm technology**.  
   
