@@ -28,13 +28,11 @@ These authentic contexts allow for deeper and more meaningful learning as the st
 
 ![](/images/ALP/picture2.png)
 
-ALP @ JWSS is a two-tiered programme which uses Project Work as a platform to integrate existing aspects of the Art, English Language and InfoComm Technology curricula. In Secondary One and Two, students will be equipped with the relevant knowledge, skills, values and attitudes in three areas -&nbsp;**the visual arts**,&nbsp;**communication**&nbsp;and i**nfocomm technology**.  
+ALP @ JWSS is a two-tiered programme which uses Project Work as a platform to integrate existing aspects of the Art, English Language and InfoComm Technology curricula. In Secondary One and Two, students will be equipped with the relevant knowledge, skills, values and attitudes in these areas.
   
 As another exciting aspect of the ALP@JWSS, students have a choice to select the digital mode that they prefer to work with:&nbsp;  
-• Games Development with Augmented Reality (GD-AR),  
-• Web Application Development,  
-• Photography with Digital Manipulation,  
-• Stop-Motion Animation or  
+• Application Development with Augmented Reality (AD-AR),  
+• Mobile Application Development, or  
 • Micro:bits Physical Computing  
   
 Based on their choice, students undergo customised training to enable them to develop their product.  
@@ -45,20 +43,8 @@ Based on their choice, students undergo customised training to enable them to de
   
   
 
-### A Multitude of Opportunities in 2019
+### A Multitude of Opportunities
 
-In addition to the platforms above, 2019 saw more opportunities for our passionate advocates.&nbsp;  
-  
-ALP Showcase at Frontier Community Centre  
-On 16 November 2019, JWSS organised an event that:  
-• heightened awareness on social issues and engage the community in innovative ICT-based solutions (ALP)  
-• encourage green practices in the community as part of the efforts to save the environment.  
-  
-The residents viewed innovative ICT-based solutions to various social causes that our students are passionate about. Many of them even shared with us a social issue that they care about and would like to advocate!  
-  
-<br>
-<img src="/images/ALP2.png" style="width:500px">
-<br>
 
 ### ALP Presentation to Second Minister for Finance and Education
 
