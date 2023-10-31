@@ -3,11 +3,10 @@ title: Applied Learning Programme Alp at JWSS
 permalink: /holistic-development/applied-learning-programme-alp-at-jwss/
 description: ""
 ---
-_Harnessing&nbsp;**Technology**,&nbsp;**Communication**&nbsp;and the&nbsp;**Visual Arts**, in Authentic Contexts_
+_Harnessing&nbsp;**Technology** in Authentic Contexts_
 
+  ![](/images/ALP/smart%20nation%20skyline.jpg)
   
-  
-![smart-nation-skyline-banner.jpg](/images/smart-nation-skyline-banner.jpg)  
 
 ## Introduction
 
@@ -15,68 +14,37 @@ _Harnessing&nbsp;**Technology**,&nbsp;**Communication**&nbsp;and the&nbsp;**Visu
 Inundated with technology, we can choose to be the creators or the consumers – to control technology or to be controlled by technology. The pervasiveness of technology in many aspects of our lives is not something that requires reiteration. As described in the Smart Nation Initiative, “smartness” is not a measure of how advanced or complex the technology being adopted is, but how well a society uses technology to solve its problems and address existential challenges. In a digital age, technological disruptions are common and our daily experiences, due to the affordances of technology, are vastly different from the past. As such, we have to ride this wave such that we enable technology to work well for us and enrich our lives.  
   
 
-At Jurong West Secondary School, as part of the Applied Learning Programme (ALP), students are the creators of digital artefacts such as&nbsp;
+At Jurong West Secondary School, as part of the Applied Learning Programme (ALP), students are the creators of digital artefacts, to advocate the authentic context they are passionate about. These digital artefacts are:&nbsp;
 
-*   a short film with computer-generated imagery sharing upcycling tips,
-*   a mobile app advocating water-saving practices and&nbsp;
-*   a website with infographics and digital art discouraging gaming addiction.  
-    
+*   Digital posters,
+*  Applications which are mobile or Augmented Reality (AR) in nature,
+*   Solutions leveraging microcontrollers.  
 
-  
+ALP @ JWSS is designed to allow students to advocate ideas, create and present innovative ICT-based solutions to social issues. Harnessing technology, students embark on projects that require the application of design thinking and computational thinking as they connect knowledge across subject disciplines, stretch their imagination and apply knowledge to real-world problems.&nbsp;
 
-ALP @ JWSS is designed to allow students to advocate ideas and present innovative ICT-based solutions to social issues, integrating knowledge and skills of the InfoComm Technology (ICT), English Language and Art curricula at the application level. Harnessing technology, students embark on projects that require the application of critical and creative thinking skills as they connect knowledge across subject disciplines, stretch their imagination and apply knowledge to real-world problems.&nbsp;
-
-  
-
-These authentic contexts allow for deeper and more meaningful learning as the students explore and discuss issues that are relevant to them. Grounded in student-centricity, ALP @ JWSS also aims to allow students to discover their strengths and develop their passion in the English Language (communication), Visual Arts or Information and Communications Technology (ICT).
-
-  
-
-To make the experience an integrated and immersive one, ALP lessons are conducted during curriculum time using Project Work as a platform and are an extension of what the students learn during their English, as well as Art, lessons.
+These authentic contexts allow for deeper and more meaningful learning as the students explore and discuss issues that are relevant to them. Grounded in student-centricity, ALP @ JWSS also aims to allow students to discover their strengths and develop their passion to analyse and evaluate real-world issues and be co-creators of diverse and feasible solutions to contribute to their communities.
 
 ### Our Two-Tier Approach
 
-<br>
-<img src="/images/ALP1.png" 
-         style="width:500px"
-	/>
-<br>
+![](/images/ALP/picture2.png)
 
-ALP @ JWSS is a two-tiered programme which uses Project Work as a platform to integrate existing aspects of the Art, English Language and InfoComm Technology curricula. In Secondary One and Two, students will be equipped with the relevant knowledge, skills, values and attitudes in three areas -&nbsp;**the visual arts**,&nbsp;**communication**&nbsp;and i**nfocomm technology**.  
+ALP @ JWSS is a two-tiered programme which uses Project Work as a platform to integrate existing aspects of the Art, English Language and InfoComm Technology curricula. In Secondary One and Two, students will be equipped with the relevant knowledge, skills, values and attitudes in these areas.
   
 As another exciting aspect of the ALP@JWSS, students have a choice to select the digital mode that they prefer to work with:&nbsp;  
-• Games Development with Augmented Reality (GD-AR),  
-• Web Application Development,  
-• Photography with Digital Manipulation,  
-• Stop-Motion Animation or  
+• Application Development with Augmented Reality (AD-AR),  
+• Mobile Application Development, or  
 • Micro:bits Physical Computing  
   
 Based on their choice, students undergo customised training to enable them to develop their product.  
 <br>
-<img src="/images/ALP3.png" 
-         style="width:500px"
-	/>
+<img src="/images/ALP3.png" style="width:500px">
 <br>
 
   
   
 
-### A Multitude of Opportunities in 2019
+### A Multitude of Opportunities (2016 - 2022)
 
-In addition to the platforms above, 2019 saw more opportunities for our passionate advocates.&nbsp;  
-  
-ALP Showcase at Frontier Community Centre  
-On 16 November 2019, JWSS organised an event that:  
-• heightened awareness on social issues and engage the community in innovative ICT-based solutions (ALP)  
-• encourage green practices in the community as part of the efforts to save the environment.  
-  
-The residents viewed innovative ICT-based solutions to various social causes that our students are passionate about. Many of them even shared with us a social issue that they care about and would like to advocate!  
-  
-<br>
-<img src="/images/ALP2.png" 
-         style="width:500px"
-	/>
-<br>
 
 ### ALP Presentation to Second Minister for Finance and Education
 
@@ -96,17 +64,13 @@ In July, our students had the privilege of presenting their solutions to Second 
 At the Singapore Youth Festival Celebrations in July, students presented their solutions to the community as well as MP Dr Intan Azura Mokhtar and empowered the intergenerational crowd to apply elements of art and principles of design to advocate for a social cause that they are passionate about.  
   
 <br>
-<img src="/images/05_A.png" 
-         style="width:500px"
-	/>
+<img src="/images/05_A.png" style="width:500px">
 <br>
 
 With MP Dr Intan Azura Mokhtar after the presentation Awakening the Digital ARTvocate in You
 
   <br>
-<img src="/images/06_A.png" 
-         style="width:500px"
-	/>
+<img src="/images/06_A.png" style="width:500px">
 <br>
 
 The team demonstrating, to Dr Intan and the community, how the knowledge and skills of
