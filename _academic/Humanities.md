@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /curriculum/academic/humanities/
 description: ""
+variant: markdown
 ---
 ## Humanities
 
@@ -41,7 +42,7 @@ description: ""
       English Language</i></td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">05</b><b style="margin: 0px; outline: 0px; padding: 0px;">/</b></td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Low Chi Arn, Benjamin&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px;">
-      <i style="margin: 0px; outline: 0px; padding: 0px;">Subject Head CCE (internal)</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">
+      <i style="margin: 0px; outline: 0px; padding: 0px;">Subject Head CCE </i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">
       Music<br style="margin: 0px; outline: 0px; padding: 0px;"></i><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">06/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yeo Chin Hwei</b><br style="margin: 0px; outline: 0px; padding: 0px;">
@@ -119,17 +120,17 @@ description: ""
 
 <b>Curriculum</b>  
 
-<p>The aims of the syllabus are to enable students to:</p> 
+<p>The aims of the syllabus are to enable students to:</p>&nbsp;
 
 *   understand issues that affect the socio-economic development, the governance and the future of Singapore.
-*   learn from the experiences of other countries to build and sustain a politically viable, socially cohesive and economically vibrant Singapore. 
-*   develop thinking and process skills which are essential for lifelong and independent learning. 
-*   have a deep sense of shared destiny and national identity. 
-*   develop into citizens who have empathy towards others and will participate responsibly and sensibly in a multi-ethnic, multi-cultural and multi-religious society. 
+*   learn from the experiences of other countries to build and sustain a politically viable, socially cohesive and economically vibrant Singapore.&nbsp;
+*   develop thinking and process skills which are essential for lifelong and independent learning.&nbsp;
+*   have a deep sense of shared destiny and national identity.&nbsp;
+*   develop into citizens who have empathy towards others and will participate responsibly and sensibly in a multi-ethnic, multi-cultural and multi-religious society.&nbsp;
 *   develop into responsible citizens with a global perspective.
 
   
-<b>T & L Framework</b> 
+<b>T &amp; L Framework</b> 
 
 <p>The intended learning outcomes shown in the outermost circle frame the syllabus content and the six themes of the syllabus.</p>
 ![SS_framework.png](/images/SS_framework.png)
@@ -148,10 +149,10 @@ description: ""
 
 <p>History education in Singapore seeks to develop in students a critical appreciation of past human experiences and connections between the past and present.</p>
 
-<p>There are <b>seven qualities</b> of a History learner, which the History Syllabuses (from lower secondary to pre-university) aim to develop in our students. These seven qualities are further elaborated in the framework below.</p>  
+<p>There are&nbsp;<b>seven qualities</b>&nbsp;of a History learner, which the History Syllabuses (from lower secondary to pre-university) aim to develop in our students. These seven qualities are further elaborated in the framework below.</p>  
 
   
-<b>T & L Framework</b>  
+<b>T &amp; L Framework</b>  
 
 ![history_framework.png](/images/history_framework.png)
 
@@ -171,45 +172,27 @@ description: ""
 
 <p>Geography emphasises the integrative study of physical and human environments to enable students to gain a better understanding of their own space and other parts of the world.</p>
 
-<p>It also focuses on the interconnectedness among groups of people, and between people and their environment.</p> 
+<p>It also focuses on the interconnectedness among groups of people, and between people and their environment.</p>&nbsp;
 
-<b>T & L Framework</b>
+<b>T &amp; L Framework</b>
 
 ![geography_framework.png](/images/geography_framework.png)
 
 ## Programme 
-<img src="/images/humana.png" 
-         style="width:600px"
-	/>
+<img src="/images/humana.png" style="width:600px">
 <br>
-<img src="/images/humanb.png" 
-         style="width:600px"
-	/>
+<img src="/images/humanb.png" style="width:600px">
 <br>
-<img src="/images/humanc.png" 
-         style="width:600px"
-	/>
+<img src="/images/humanc.png" style="width:600px">
 <br>
-<img src="/images/humanf.png" 
-         style="width:600px"
-	/>
+<img src="/images/humanf.png" style="width:600px">
 <br>
-<img src="/images/humang.png" 
-         style="width:600px"
-	/>
+<img src="/images/humang.png" style="width:600px">
 <br>
-<img src="/images/humanh.png" 
-         style="width:600px"
-	/>
+<img src="/images/humanh.png" style="width:600px">
 <br>
-<img src="/images/humani.png" 
-         style="width:600px"
-	/>
+<img src="/images/humani.png" style="width:600px">
 <br>
-<img src="/images/humanl.png" 
-         style="width:600px"
-	/>
+<img src="/images/humanl.png" style="width:600px">
 <br>
-<img src="/images/humanm.png" 
-         style="width:600px"
-	/>
+<img src="/images/humanm.png" style="width:600px">
