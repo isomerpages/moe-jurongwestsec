@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Student Admission.md
       - Portal for Staff & Students.md
       - Parent's Gateway.md
       - Parent Support Group.md
