@@ -2,8 +2,8 @@ title: Jurong West Secondary School
 url: https://jurongwestsec.moe.edu.sg
 favicon: /images/VMV/jwss school crest.png
 colors:
-  primary-color: "#3f00aa"
-  secondary-color: "#ebebeb"
+  primary-color: "#000fa8"
+  secondary-color: "#0308ae"
   media-colors:
     - title: media-color-one
       color: "#201be0"
