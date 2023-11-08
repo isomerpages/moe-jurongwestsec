@@ -1,8 +1,10 @@
 ---
 layout: homepage
 title: Jurong West Secondary School
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+description: Established on 2 January 2001, Jurong West Secondary School is a
+  government Secondary School located at 61, Jurong West St 65, Singapore
+  648348.
+image: /images/VMV/jwss school crest.png
 permalink: /
 notification: ""
 sections:
