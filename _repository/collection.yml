@@ -2,6 +2,7 @@ collections:
   repository:
     output: true
     order:
+      - Alumni Achievements.md
       - The Principal's List.md
       - JWSS Colors Awards.md
       - Staff and Students Portal.md
