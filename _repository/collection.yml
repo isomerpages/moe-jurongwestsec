@@ -2,6 +2,7 @@ collections:
   repository:
     output: true
     order:
+      - Staff Achievements.md
       - Student Achievements.md
       - Alumni Achievements.md
       - The Principal's List.md
