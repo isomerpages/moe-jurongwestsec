@@ -2,6 +2,13 @@ collections:
   repository:
     output: true
     order:
+      - Academic Achievements.md
+      - CCA Achievements.md
+      - Staff Achievements.md
+      - Student Achievements.md
+      - Alumni Achievements.md
+      - The Principal's List.md
+      - JWSS Colors Awards.md
       - Staff and Students Portal.md
       - Values in Action.md
       - Cyber Wellness.md
