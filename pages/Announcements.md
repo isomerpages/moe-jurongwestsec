@@ -2,7 +2,16 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
+----------------------------------------------------
+
+**2024 Booklist for Secondary 2,3 and 4 students is now online**  
+
+2024 Booklist for Secondary 2,3 and 4 students can be found [HERE](https://www.jurongwestsec.moe.edu.sg/about-us/textbooks-and-uniforms/)
+
+----------------------------------------------------
+
 **Collection of School Graduating Certificate (Testimonial) for Express and Normal (Technical) students who graduated in 2022**  
 The School Graduating Certificate (Testimonial) for Express and Normal (Technical) students who graduated in 2022 is now ready for collection!
 
@@ -10,13 +19,3 @@ Do note that an appointment must be made before collection. Click on the link be
 https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
 
 For alumni who were from the Normal (Aademic) stream (both in Secondary 4 & 5), there will be a slight delay in the collection of your certificates. You will receive updates through your form teachers.
-
-----------------------------------------------------
-
-**Home-Based Learning - 21 Jan 2023**  
-The school will be having our HBL on 21 February 2023. Parents can [click here](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Announcement/2023/HBL%20Schedule%20Sem%201%202023.pdf) to access the HBL Schedule for Semester 1.
-
-----------------------------------------------------
-
-**Release of 2022 GCE O Level Results**  
-The 2022 GCE O-Level results will be released on **Tuesday, 12 January 2023**. Students are to be seated in the school hall by 1:50pm. Parents/guardians may accompany your child/ward to the school to collect their results. Students will be expected to observe the school rules in terms of attire, appearance and behaviour.
