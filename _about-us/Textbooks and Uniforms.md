@@ -8,7 +8,7 @@ variant: markdown
 
 **Pacific Bookstores**
 
-Telephone Number: 6254 7736  
+Telephone Number:   62623593
 
 Website: [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)
 
@@ -19,11 +19,11 @@ Note: School uniform can be purchased from the school bookshop as well
   
 **Book List for 2024**
 
+[Sec 2 Booklist](/files/About%20Us/BookList/2024_Sec_2_Booklist.pdf)
 
-
-
+[Sec 3 Booklist](/files/About%20Us/BookList/2024_Sec_3_Booklist.pdf)
   
-
+[Sec 4 Booklist](/files/About%20Us/BookList/2024_Sec_4_Booklist.pdf)
   
 
   
