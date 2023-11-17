@@ -2,24 +2,25 @@
 title: Textbooks and Uniforms
 permalink: /about-us/textbooks-and-uniforms/
 description: ""
+variant: markdown
 ---
 ### School Bookshop
 
-**Popular Book Company (Pte) Ltd**
+**Pacific Bookstores**
 
 Telephone Number: 6254 7736  
 
-Website: [www.popular.com.sg](http://www.popular.com.sg/)
+Website: [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)
 
 Opening hours : 7am - 3pm (Avoid lunchtime 12noon - 1pm)
 
 Note: School uniform can be purchased from the school bookshop as well
 
   
+**Book List for 2024**
 
-In view of the Safe Management Measures, please refer to the instructions on the purchase of textbooks and stationery
 
-[Bookshop List](/files/Instructions%20for%20Purchase%20of%20Textbooks%20%20Stationery.pdf)
+
 
   
 
