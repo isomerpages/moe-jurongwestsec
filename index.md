@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/home2jwss.gif
+      background: /images/Highlights/website_banner_v2.gif
   - infopic:
       title: Open House 2023
       subtitle: JWSS Open house 2023
