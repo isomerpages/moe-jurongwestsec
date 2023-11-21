@@ -159,6 +159,21 @@ Students will be expected to perform 2 practical activities consisting of:
 Activities for 2023
 -
 
+**10 March 2023: Annual Sports Day 2023**
+
+The eagerly awaited JWSS Annual Sports Day made its triumphant return at the Bukit Gombak Stadium this year, casting a sense of excitement and anticipation among the students. This particular event held profound significance for our Secondary 4 students, as it represented both their inaugural and farewell Sports Day experience at JWSS, owing to the disruptions caused by the Covid-19 pandemic.
+
+The event's primary goal was to provide students with an opportunity to engage in a range of Track &amp; Field events, pushing their personal boundaries and competing for the coveted Best Class Award. This fostered a vibrant yet competitive atmosphere at the stadium, with students vying for recognition and, of course, the ultimate bragging rights.
+
+But beyond the competition, the day celebrated the spirit of sportsmanship and camaraderie as students engaged in Inter-Class and Inter-CCA races. It was a chance for them to come together, cheer for their peers, and forge lasting bonds. Additionally, classes had the opportunity to strengthen their connections through fun-filled fringe activities, thoughtfully organized by our dedicated Sports Leaders.
+
+Not to be left out, teachers and members of the Parent Support Group (PSG) had their share of enjoyment during the Teachers’ Race segment. This event was a joyful culmination of the term, blending the values of sportsmanship and camaraderie with the celebration of the school year's conclusion.
+
+
+
+
+
+
 **25th May 2023: Cross Country**&nbsp;
 
 The highly anticipated JWSS Annual Cross Country Meet was held at the Singapore Sports Hub, for the second year in a row. Held on Thursday, June 25, 2023, JWSS students coursed through a 4km route for the boys and 3km route for the girls. Many stormed to the finishing line, challenging their personal best while basking in the ebullient atmosphere at the newly chosen venue for this year. Meanwhile, our teachers and school leaders also challenged themselves in the 1.5km staff race at the end of the day.
@@ -175,3 +190,4 @@ Loh Shi Xuan (4E4) and Yao Yanxi (2 Excellence) emerged victorious as the champi
 
 The staff race saw a major upset as last year’s champion and everyone’s favorite to win the race, Mr Lim Kiang Wee finished in second place behind his fellow Mathematics teacher, Mr Aloysius Aw! Coming in third place was Ms Tan Qiu Yan from the Humanities Department. Mathematics department also walked away as the overall champion department of 2023.
 
+![](/images/PE%20Dept/crosscountry2023.png)
