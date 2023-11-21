@@ -170,7 +170,7 @@ But beyond the competition, the day celebrated the spirit of sportsmanship and c
 Not to be left out, teachers and members of the Parent Support Group (PSG) had their share of enjoyment during the Teachers’ Race segment. This event was a joyful culmination of the term, blending the values of sportsmanship and camaraderie with the celebration of the school year's conclusion.
 
 
-
+![](/images/PE%20Dept/sportsday2023.png)
 
 
 
