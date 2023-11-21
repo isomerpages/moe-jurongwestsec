@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /curriculum/academic/physical-education/
 description: ""
+variant: markdown
 ---
 ## Physical Education
 
@@ -19,7 +20,7 @@ description: ""
     <tr style="margin: 0px; outline: 0px; padding: 0px;">
       <th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 41px;">01/</th>
       <th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 221px;">Mr Lee Kah Onn<br style="margin: 0px; outline: 0px; padding: 0px;">
-      <span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">HOD Physical Education & Co-Curricular Activities<br style="margin: 0px; outline: 0px; padding: 0px;">
+      <span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">HOD Physical Education &amp; Co-Curricular Activities<br style="margin: 0px; outline: 0px; padding: 0px;">
       Physical Education<br style="margin: 0px; outline: 0px; padding: 0px;"></i></span></th>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 41px;"><b style="margin: 0px; outline: 0px; padding: 0px;">02/</b></td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 266px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Yeo Chin Hwei</b><br style="margin: 0px; outline: 0px; padding: 0px;">
@@ -92,7 +93,7 @@ The purpose of physical education (PE) is to enable students to demonstrate indi
 
   
 
-**Exercise and Sports Science Curriculum Outline**  
+**Exercise and Sports Science Curriculum Outline**&nbsp;&nbsp;
 
 <u>The Exercise and Sports Science (ESS) O-Level Elective subject will be offered to Secondary 3 Express and Normal Academic Students. The objectives of ESS are as follow:</u>  
 
@@ -102,9 +103,9 @@ The purpose of physical education (PE) is to enable students to demonstrate indi
 
 3) Understand the benefits and risks associated with physical exercise
 
-4) Examine issues related to sports from sociocultural perspectives 
+4) Examine issues related to sports from sociocultural perspectives&nbsp;
 
-The subject consists of a **Theory** component and a **Practical** component as shown below
+The subject consists of a&nbsp;**Theory**&nbsp;component and a&nbsp;**Practical**&nbsp;component as shown below
 
 ![01.png](/images/PE2.png)
 
@@ -127,85 +128,66 @@ Subjects Offered:<br>
 
 **Curriculum**
 <br>
-JWSS will be offering Exercise & Sports Science (ESS) to selected students in Secondary 3 Express and Normal Academic classes. ESS is an interdisciplinary subject where students will be grounded in the sub-disciplines of sports science with an understanding of sociology in relation to sports.<br>
+JWSS will be offering Exercise &amp; Sports Science (ESS) to selected students in Secondary 3 Express and Normal Academic classes. ESS is an interdisciplinary subject where students will be grounded in the sub-disciplines of sports science with an understanding of sociology in relation to sports.<br>
 
   
-The aims of the syllabus are for students to: 
+The aims of the syllabus are for students to:&nbsp;
 
-*   Acquire and apply the knowledge in exercise physiology, biomechanics, and sports psychology to analyse, evaluate and improve practical performances in physical exercises and sports; 
-*   Develop the movement concepts and motor skills needed to be proficient in the performance of a team and an individual / dual1 sport; 
-*   Understand the benefits and risks associated with physical exercise and sports to manage personal participation in physical activities; and 
+*   Acquire and apply the knowledge in exercise physiology, biomechanics, and sports psychology to analyse, evaluate and improve practical performances in physical exercises and sports;&nbsp;
+*   Develop the movement concepts and motor skills needed to be proficient in the performance of a team and an individual / dual1&nbsp;sport;&nbsp;
+*   Understand the benefits and risks associated with physical exercise and sports to manage personal participation in physical activities; and&nbsp;
 *   Examine issues related to sports and participation in physical activities from socio-cultural and global perspectives.<br>
     
 
   
 
-The subject consists of **two components**:    
+The subject consists of&nbsp;**two components**:&nbsp; &nbsp;&nbsp;
 
 1.  Theory Component (40%) comprising 5 Areas of Study
-2.  Practical Component (60%) comprising 2 practical activities.<br> 
+2.  Practical Component (60%) comprising 2 practical activities.<br>&nbsp;
 
   
 
 Students will be expected to perform 2 practical activities consisting of:
 
-1.  One Individual/ Dual Sport such as Track & Field, Cross Country Running, Swimming or badminton (singles/doubles) **AND** 
+1.  One Individual/ Dual Sport such as Track &amp; Field, Cross Country Running, Swimming or badminton (singles/doubles)&nbsp;**AND**&nbsp;
 2.  One Team Sport such as Basketball, Floorball, Hockey, Netball, Volleyball
   
 ![ESS2.png](/images/ESS2.png)
 
-<img src="/images/PE4.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE5.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE6.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE7.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE8.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE9.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE10.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE11.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE12.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE13.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE14.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE15.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE16.png" 
-         style="width:600px"
-	/>
-<br>
-<img src="/images/PE17.png" 
-         style="width:600px"
-	/>
+
+Activities for 2023
+-
+
+**10 March 2023: Annual Sports Day 2023**
+
+The eagerly awaited JWSS Annual Sports Day made its triumphant return at the Bukit Gombak Stadium this year, casting a sense of excitement and anticipation among the students. This particular event held profound significance for our Secondary 4 students, as it represented both their inaugural and farewell Sports Day experience at JWSS, owing to the disruptions caused by the Covid-19 pandemic.
+
+The event's primary goal was to provide students with an opportunity to engage in a range of Track &amp; Field events, pushing their personal boundaries and competing for the coveted Best Class Award. This fostered a vibrant yet competitive atmosphere at the stadium, with students vying for recognition and, of course, the ultimate bragging rights.
+
+But beyond the competition, the day celebrated the spirit of sportsmanship and camaraderie as students engaged in Inter-Class and Inter-CCA races. It was a chance for them to come together, cheer for their peers, and forge lasting bonds. Additionally, classes had the opportunity to strengthen their connections through fun-filled fringe activities, thoughtfully organized by our dedicated Sports Leaders.
+
+Not to be left out, teachers and members of the Parent Support Group (PSG) had their share of enjoyment during the Teachers’ Race segment. This event was a joyful culmination of the term, blending the values of sportsmanship and camaraderie with the celebration of the school year's conclusion.
+
+
+![](/images/PE%20Dept/sportsday2023.png)
+
+
+
+**25th May 2023: Cross Country**&nbsp;
+
+The highly anticipated JWSS Annual Cross Country Meet was held at the Singapore Sports Hub, for the second year in a row. Held on Thursday, June 25, 2023, JWSS students coursed through a 4km route for the boys and 3km route for the girls. Many stormed to the finishing line, challenging their personal best while basking in the ebullient atmosphere at the newly chosen venue for this year. Meanwhile, our teachers and school leaders also challenged themselves in the 1.5km staff race at the end of the day.
+
+**Boys’ results**
+
+Mohammad Hamim (3 Care) and Rafi Saifan (2 Respect) emerged victorious as the champions of the upper sec boys and lower sec boys respectively. Balamurugan Nanmaaran (3 Resilience) and Shanmugam Jayashudhan (2 Integrity) finished second place, while Kumaraguru Gowtham (4E2) and Zhan Yingrui (2 Care) finished 3rd in the upper sec boys and lower sec boys categories respectively. The team events were won by class 2 Respect for the lower secondary level and 4E2 for the upper secondary level.
+
+**Girls’ results**&nbsp;
+
+Loh Shi Xuan (4E4) and Yao Yanxi (2 Excellence) emerged victorious as the champions for the upper sec girls and the lower sec girls categories respectively. Sheryn Law (4E4) and Balakrishnan Haripriya (2 Integrity) finished in second place, while Tan Yu Ying (4E2) and Shirvani Sivakumar (2 Innovation) finished in third place in the upper sec girls and lower sec girls categories respectively. The team events were won by class 2 Care for the lower secondary level and 4E4 for the upper secondary level.
+
+**Staff race**
+
+The staff race saw a major upset as last year’s champion and everyone’s favorite to win the race, Mr Lim Kiang Wee finished in second place behind his fellow Mathematics teacher, Mr Aloysius Aw! Coming in third place was Ms Tan Qiu Yan from the Humanities Department. Mathematics department also walked away as the overall champion department of 2023.
+
+![](/images/PE%20Dept/crosscountry2023.png)
