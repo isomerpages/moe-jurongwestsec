@@ -14,12 +14,11 @@ sections:
       title: GCE N-Level Results Release 2023
       subtitle: GCE N-Level 2023
       id: infopic
-      description: "GCE N-level 2023 results will be released on 18 December 2023. All
-        students receiving their results are to be seated by 1.50pm in the
-        school hall. "
+      description: GCE N-level 2023 results will be released on 18 December 2023.
       button: Click here for more information
       url: test
       alt: Image alt text
+      image: /images/Results Release/GCENLevel2023.jpg
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
