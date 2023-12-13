@@ -16,7 +16,7 @@ sections:
       id: infopic
       description: The GCE N-Level results will be released on Monday, 18 December 2023.
       button: Click here for more information
-      url: https://jurongwestsec.moe.edu.sg/gcenlevel2023/
+      url: /gcenlevel2023/
       alt: Image alt text
       image: /images/Results Release/GCENLevel2023.jpg
   - infobar:
