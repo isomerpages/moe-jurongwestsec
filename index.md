@@ -11,16 +11,14 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
-      title: Open House 2023
-      subtitle: JWSS Open house 2023
+      title: GCE N-Level Results Release 2023
+      subtitle: GCE N-Level 2023
       id: infopic
-      description: |-
-        25 November 2023
-        (9am - 1pm)
-      button: Register here!!
-      url: https://forms.gle/EcbuYtmri8de7mGeA
-      image: /images/Open House/open house 2023.jpg
-      alt: Open House 2023
+      description: The GCE N-Level results will be released on Monday, 18 December 2023.
+      button: Click here for more information
+      url: https://jurongwestsec.moe.edu.sg/gcenlevel2023/
+      alt: Image alt text
+      image: /images/Results Release/GCENLevel2023.jpg
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
