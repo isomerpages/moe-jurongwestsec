@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Code of Conduct.md
       - Principal's Message.md
       - School Information.md
       - School Advisory Committee.md
@@ -18,5 +17,6 @@ collections:
       - Financial Assistance Scheme.md
       - School Safety SOP.md
       - 2023 School Calendar for Students.md
+      - Code of Conduct.md
       - School Yearbooks.md
       - Contact Us.md
