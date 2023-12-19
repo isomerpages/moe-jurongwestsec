@@ -17,7 +17,7 @@ sections:
       description: A very warm welcome to all our new 2024 Secondary One students and
         parents!
       button: Click here for more information
-      url: /seconereg/
+      url: /sec1reg2023/
       image: /images/Sec One Registration/sec1reg2023.jpg
       alt: Image alt text
   - infopic:
