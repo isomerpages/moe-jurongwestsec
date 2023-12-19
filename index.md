@@ -18,7 +18,7 @@ sections:
         parents!
       button: Click here for more information
       url: /sec1reg2023/
-      image: /images/Sec One Registration/sec1reg2023.jpg
+      image: /images/Sec One Registration/sec1reg2024.jpg
       alt: Image alt text
   - infopic:
       title: GCE N-Level Results Release 2023
