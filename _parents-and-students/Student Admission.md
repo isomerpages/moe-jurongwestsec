@@ -1,15 +1,7 @@
 ---
 title: Student Admission
 permalink: /parents-and-students/student-admission/
-variant: markdown
+variant: tiptap
 description: Student Admission
 ---
-# Student Admission
-
-* Transfer Request for Secondary 2 to Secondary 5,                                             
-[Click Here](https://form.gov.sg/635b8dcacf04370012859a91)
-
-
-
-* Transfer Request for Secondary 1  
-[Click Here](https://form.gov.sg/635f2ac03f5046001290ef8d)
+<h1>Student Admission</h1><p>Transfer Request for Secondary 2 to Secondary 5, please <a href="https://form.gov.sg/635b8dcacf04370012859a91" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></p><p></p>
