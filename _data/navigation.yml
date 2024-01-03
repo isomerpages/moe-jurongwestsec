@@ -1,0 +1,12 @@
+logo: /images/JWSS School Crest.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: ACADEMIC
+    collection: academic
+  - title: CCAs
+    collection: cca
+  - title: Distinctive
+    collection: distinctive
+  - title: Parents & Students
+    collection: parents-and-students

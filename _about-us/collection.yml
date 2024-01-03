@@ -1,0 +1,22 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Information.md
+      - School Advisory Committee.md
+      - School Management Committee.md
+      - Executive and Administrative Staff.md
+      - Direct School Admission (DSA–Sec).md
+      - JWSS Student Council/.keep
+      - JWSS Student Council/JWSS CCA Leaders.md
+      - JWSS Student Council/JWSS Class Committee.md
+      - JWSS Student Council/JWSS Student Ambassadors.md
+      - JWSS Student Council/JWSS Student Council.md
+      - Textbooks and Uniforms.md
+      - Financial Assistance Scheme.md
+      - School Safety SOP.md
+      - 2023 School Calendar for Students.md
+      - Code of Conduct.md
+      - School Yearbooks.md
+      - Contact Us.md
