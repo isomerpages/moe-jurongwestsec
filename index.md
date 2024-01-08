@@ -18,7 +18,7 @@ sections:
       button: Click here for more information
       url: /gcenlevel2023/
       alt: Image alt text
-      image: /images/Results Release/GCENLevel2023.jpg
+      image: /images/Results Release/Picture1.png
   - infopic:
       title: 2024 Secondary One Registration
       subtitle: 2024 Secondary One intake
