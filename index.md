@@ -16,7 +16,7 @@ sections:
       id: infopic
       description: The GCE O-Level results will be released on Thursday, 11 January 2024.
       button: Click here for more information
-      url: /gcenlevel2023/
+      url: /gceolevel2024/
       alt: Image alt text
       image: /images/Results Release/Picture1.png
   - infopic:
