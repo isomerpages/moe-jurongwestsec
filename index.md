@@ -11,10 +11,11 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
-      title: GCE O-Level Results Release 2024
+      title: GCE O-Level 2023 Results Release
       subtitle: GCE O-Level 2023
       id: infopic
-      description: The GCE O-Level results will be released on Thursday, 11 January 2024.
+      description: The GCE O-Level 2023 results will be released on Thursday, 11
+        January 2024.
       button: Click here for more information
       url: /gceolevel2024/
       alt: Image alt text
