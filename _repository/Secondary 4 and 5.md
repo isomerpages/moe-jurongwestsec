@@ -2,7 +2,6 @@
 title: Secondary 4 and 5
 permalink: /parents-and-students/subject-overview/sec-4-5/
 description: ""
-third_nav_title: Subject Overview
 ---
 <h3 style="line-height: 35.2px; text-align: center;"><font style="line-height: 38.4px;" size="6">2023 Subject Overview for Secondary 4 &amp; 5 Students</font></h3>
 <div>

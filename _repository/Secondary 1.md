@@ -2,7 +2,6 @@
 title: Secondary 1
 permalink: /parents-and-students/subject-overview/secondary-1/
 description: ""
-third_nav_title: Subject Overview
 ---
 <div style="text-align: center;">
   <h3 style="line-height: 35.2px; text-transform: none;"><font size="6">2023 Subject Overview for Secondary 1 Students

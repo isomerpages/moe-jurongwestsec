@@ -2,6 +2,11 @@ collections:
   repository:
     output: true
     order:
+      - Secondary 4 and 5.md
+      - Secondary 3.md
+      - Secondary 2.md
+      - Secondary 1.md
+      - Subject Overviews.md
       - Academic Achievements.md
       - CCA Achievements.md
       - Staff Achievements.md

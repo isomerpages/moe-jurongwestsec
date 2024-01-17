@@ -2,7 +2,6 @@
 title: Secondary 2
 permalink: /parents-and-students/subject-overview/secondary-2/
 description: ""
-third_nav_title: Subject Overview
 ---
 <div style="line-height: 19.6px; text-align: center;">
   <h3 style="line-height: 35.2px;">
