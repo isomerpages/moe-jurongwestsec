@@ -2,41 +2,6 @@
 title: School Yearbooks
 permalink: /about-us/school-yearbooks/
 description: ""
+variant: tiptap
 ---
-2021
-----
-
-  
-
-![YB2021.png](/images/YB2021.png)
-
-  
-
-[Click here](https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Media/Yearbook/2021/Jurong%20West%20Secondary%20School%20Yearbook%202021.pdf) for the pdf version of our School Yearbook 2021  
-**file exceeds 5mb**
-  
-
-2019 / 2020
------------
-
-  
-  
-  
-![JWSSYB2020.png](/images/JWSSYB2020.png)
-
-  
-
-[Click here](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Media/Yearbook/2020/Jurong%20West%20Sec%20Yearbook%20201920.pdf) for the pdf version of our School Yearbook 2019/2020
-**file exceeds 5mb**
-  
-  
-
-2018
-----
-
-![Picture1.png](/images/Picture1.png)  
-
-  
-
-[Click here](https://jurongwestsec.moe.edu.sg/qql/slot/u198/Media/Yearbook/JWSS%20E-Yearbook%202018.pdf) for the pdf version of our School Yearbook 2018 
-**file exceeds 5mb**
+<h2>2023</h2><h2>2022</h2><p></p><h2>2021</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="YB2021.png" src="/images/YB2021.png"></div><p><a href="https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Media/Yearbook/2021/Jurong%20West%20Secondary%20School%20Yearbook%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for the pdf version of our School Yearbook 2021<br><strong>file exceeds 5mb</strong></p><h2>2019 / 2020</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JWSSYB2020.png" src="/images/JWSSYB2020.png"></div><p><a href="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Media/Yearbook/2020/Jurong%20West%20Sec%20Yearbook%20201920.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for the pdf version of our School Yearbook 2019/2020 <strong>file exceeds 5mb</strong></p><h2>2018</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Picture1.png" src="/images/Picture1.png"></div><p><a href="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Media/Yearbook/JWSS%20E-Yearbook%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for the pdf version of our School Yearbook 2018 <strong>file exceeds 5mb</strong></p>
