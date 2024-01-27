@@ -24,19 +24,19 @@ variant: tiptap
 <p><strong>02</strong>/</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Melissa Chan Kar Mun</strong>
-<br><em>HOD Character &amp; Citizenship Education<br>Chemistry</em>
+<p><strong>Ms Melissa Chan Kar Mun</strong> 
+<br><em>HOD Character &amp; Citizenship Education<br>Chemistry</em> 
 <br>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>03/</strong>
+<p><strong>03/</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Ling Yee Domina</strong>
-<br><em>Subject Head, Biology<br>Biology<br>English Language<br></em>
+<p><strong>Ms Ng Ling Yee Domina</strong> 
+<br><em>Subject Head, Biology<br>Biology<br>English Language<br></em> 
 <br>
 </p>
 </td>
@@ -50,7 +50,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Huzaini Bin Alwi</strong>
+<p><strong>Mr Huzaini Bin Alwi</strong> 
 <br><em>Subject Head, Data Management<br>Physics<br></em>
 </p>
 </td>
@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Salinah Zhu</strong>
+<p><strong>Mrs Salinah Zhu</strong> 
 <br><em>Subject Head, Student Management<br>Physics</em>
 </p>
 </td>
@@ -68,8 +68,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Alvin Liew Shao Chuan</strong>
-<br><em>Teacher<br>Chemistry</em>
+<p><strong>Mr Alvin Liew Shao Chuan</strong> 
+<br><em>Teacher<br>Chemistry</em> 
 <br>
 </p>
 </td>
@@ -83,7 +83,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ang Geok Xing</strong>
+<p><strong>Ms Ang Geok Xing</strong> 
 <br><em>Teacher<br>Biology</em>
 </p>
 </td>
@@ -92,7 +92,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kek Poh Khee</strong>
+<p><strong>Ms Kek Poh Khee</strong> 
 <br><em>Teacher<br>Chemistry</em>
 </p>
 </td>
@@ -101,8 +101,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Pui Li Xian</strong>
-<br><em>Teacher<br>Biology</em>
+<p><strong>Ms Pui Li Xian</strong> 
+<br><em>Teacher<br>Biology</em> 
 <br>
 </p>
 </td>
@@ -116,7 +116,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Juliana Binte Adaham</strong>
+<p><strong>Ms&nbsp;Juliana Binte Adaham</strong> 
 <br><em>Teacher<br>Chemistry<br></em>
 </p>
 </td>
@@ -125,18 +125,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ridzwana Begum</strong>
-<br><em>Teacher<br>Chemistry<br>Biology</em>
+<p><strong>Ms Ridzwana Begum</strong> 
+<br><em>Teacher<br>Chemistry<br>Biology</em> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12/</strong>
+<p><strong>12/</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Farizah Binte Esman</strong>
+<p><strong>Ms Farizah Binte Esman</strong> 
 <br><em>Teacher<br>Chemistry Computing<br>Computer Applications</em>
 </p>
 </td>
@@ -192,7 +192,7 @@ variant: tiptap
 </p>
 <p><strong><u><br></u></strong>
 </p>
-<p><strong><u>Subjects Offered<br></u></strong>
+<p><strong><u>Subjects Offered<br></u></strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -560,11 +560,11 @@ Science is the vehicle that spurs thinking.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>
-<br><strong>Activities 2022<br></strong>
+<br><strong>Activities 2022<br></strong> 
 <br>
 </p>
 <hr>
-<p><strong>Science Competitions 2022 </strong>
+<p><strong>Science Competitions 2022</strong>
 </p>
 <p></p>
 <p>JWSS students have represented the school in numerous science competitions
@@ -586,14 +586,14 @@ of the respective scientific fields.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci Dept/Science2024/photo1672157673.jpeg">
 </div>
-<p><em>Chen Yang Yan (3E1) receiving her SJPO certificate from Ms Tan on Recognition &amp; Celebration Day. </em>
+<p><em>Chen Yang Yan (3E1) receiving her SJPO certificate from Ms Tan on Recognition &amp; Celebration Day.</em>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci Dept/Science2024/photo1672157648.jpeg">
 </div>
-<p><em>Wong Wei Ren Aviv (3E1) receiving his SJChO certificate from Ms Tan on Recognition &amp; Celebration Day. </em>
+<p><em>Wong Wei Ren Aviv (3E1) receiving his SJChO certificate from Ms Tan on Recognition &amp; Celebration Day.</em>
 </p>
 <p></p>
 <p></p>
@@ -646,7 +646,7 @@ of the respective scientific fields.</p>
 <p></p>
 <p></p>
 <p>
-<br><strong>Post-Weighted Assessment (WA2) – Sec 1 Lower Secondary Science Integrative Activity</strong>
+<br><strong>Post-Weighted Assessment (WA2) – Sec 1 Lower Secondary Science Integrative Activity</strong> 
 <br>
 <br>Our Secondary 1 students extended their classroom learning on concepts
 learnt in Diversity of Materials using Separation Techniques by engaging
@@ -758,7 +758,7 @@ device.
 <p><strong>Activities 2021<br><br></strong>
 </p>
 <hr>
-<p><strong><br>Singapore Junior Biology Olympiad (SJBO) 2021</strong>
+<p><strong><br>Singapore Junior Biology Olympiad (SJBO) 2021</strong> 
 <br>
 <br>The Singapore Junior Biology Olympiad (SJBO) provides a platform for Secondary
 3 to 4 students to challenge themselves further in the area of Biology,
@@ -806,7 +806,7 @@ received the Bronze Award in the Singapore Junior Biology Olympiad 2021.
 <p><strong><br></strong>
 </p>
 <hr>
-<p><strong><br>Science JeWel 2021</strong>
+<p><strong><br>Science JeWel 2021</strong> 
 <br>
 <br>1. Applied Sciences Programme
 <br>
@@ -1051,7 +1051,7 @@ in Singapore Youth Science Fair 2021.
 <br><strong><br></strong>
 </p>
 <hr>
-<p><strong><br>Post Exam (EYE) – Sec 1 Lower Secondary Science Integrative Activity</strong>
+<p><strong><br>Post Exam (EYE) – Sec 1 Lower Secondary Science Integrative Activity</strong> 
 <br>
 <br>Our Secondary 1 students extended their classroom learning on concepts
 learnt in Diversity of Materials using Separation Techniques by engaging
@@ -1169,7 +1169,7 @@ device.</p>
 <br><strong><br></strong>
 </p>
 <hr>
-<p><strong><br>Ignite Skills Challenge 2021&nbsp;<br></strong>
+<p><strong><br>Ignite Skills Challenge 2021&nbsp;<br></strong> 
 <br>Ignite Skills Challenge 2021 is an annual competition that introduces
 students to technical skills and fosters deeper understanding of courses
 offered by ITE.
