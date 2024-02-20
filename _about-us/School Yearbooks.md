@@ -4,4 +4,27 @@ permalink: /about-us/school-yearbooks/
 description: ""
 variant: tiptap
 ---
-<h2>2023</h2><p></p><a class="isomer-image-wrapper" href="https://issuu.com/avantgardemediaarts/docs/jurong_west_sec_e-yearbook_2023_full_book_-_12_j?fr=sZWNkZDY0MDU0OTI"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Yearbook/yearbook2023.png"></a><h2>2022</h2><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Yearbook/yearbook2022.png"></div><h2>2021</h2><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="YB2021.png" src="/images/YB2021.png"></div><p><a href="https://jurongwestsec-moe-edu-sg-admin.cwp.sg/qql/slot/u198/Media/Yearbook/2021/Jurong%20West%20Secondary%20School%20Yearbook%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for the pdf version of our School Yearbook 2021<br></p><h2>2019 / 2020</h2><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="JWSSYB2020.png" src="/images/JWSSYB2020.png"></div><p><a href="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Media/Yearbook/2020/Jurong%20West%20Sec%20Yearbook%20201920.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for the pdf version of our School Yearbook 2019/2020</p><h2>2018</h2><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="Picture1.png" src="/images/Picture1.png"></div><p><a href="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Media/Yearbook/JWSS%20E-Yearbook%202018.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for the pdf version of our School Yearbook 2018</p>
+<h2>2023 - <a href="https://drive.google.com/file/d/1SkDlO7HeSeuTkpM6HRgEiSwsiPJjW-EZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></h2>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook/2023YB.png">
+</div>
+<h2>2022 - <a href="https://drive.google.com/file/d/1KOeixfN4O0BMLBEpqJIgriU0LErxOUg6/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook/yearbook2022.png">
+</div>
+<p></p>
+<h2>2021 - <a href="https://drive.google.com/file/d/1XTr37MsUkUfBEw8BrhLiLWGc4nyJiff9/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook/2021YB.png">
+</div>
+<p></p>
+<h2>2019/2020 - <a href="https://drive.google.com/file/d/1X7TCjuF8m-FstBgNfh0XQpZi3YeoGDo_/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yearbook/2020YB.png">
+</div>
+<p></p>
