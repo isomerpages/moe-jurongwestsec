@@ -40,7 +40,7 @@ sexuality.</p>
 </p>
 <h2><strong>Key Messages</strong></h2>
 <p>
-<br><strong>The key messages of Sexuality Education are:</strong>
+<br><strong>The key messages of Sexuality Education are:</strong> 
 <br>
 <br>
 </p>
@@ -934,7 +934,7 @@ to the school office by 19 January 2024.</p>
 Additionally, for Secondary 3 parents on Parent’s Gateway (PG), please
 acknowledge receipt of letter on eTeens programme via PG by 19 January
 2024. Parents who wished to opt their children out of eTeens Programme
-in 2024 would have completed the online Opt-out Form at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6594bf997fd1790011a7f5db</a>
+in 2024 would have completed the online Opt-out Form at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6594bf997fd1790011a7f5db</a> 
 <a href="https://form.gov.sg/5ff80139a42e5400120f2621&nbsp;by%2020%20January%202022" rel="noopener noreferrer nofollow" target="_blank">&nbsp;by 19 January 202</a>4.</p>
 <p>&nbsp;</p>
 <p>Parents not on PG, and who wish to opt their children out of the&nbsp;<strong>eTeens programme&nbsp;</strong>will
