@@ -7,5 +7,5 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JWSS%20School%20Crest.png">
 </div>
-<p><a href="/files/About Us/School Calendar/2024_JWSS__Calendar_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> to
+<p><a href="/files/About Us/School Calendar/2024_JWSS_Calendar_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
 download the 2024 School Calendar for Students</p>
