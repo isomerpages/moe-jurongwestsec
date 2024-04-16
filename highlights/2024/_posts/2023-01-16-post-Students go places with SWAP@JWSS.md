@@ -1,10 +1,11 @@
 ---
-title: JWSS Students go places with SWAP
+title: Students go places with SWAP@JWSS
 permalink: /highlights/2023/jwss-students-go-places-with-swap/
-date: 2023-01-20
+date: 2023-01-16
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 SWAP @ JWSS - Sentosa Development Corporation
 ------
