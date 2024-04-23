@@ -559,6 +559,431 @@ Science is the vehicle that spurs thinking.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Activities 2023</strong>
+</p>
+<p></p>
+<p><strong>Science Competitions 2023</strong>
+</p>
+<p></p>
+<p><strong><u>STEM Playground</u></strong>
+</p>
+<p>To immerse our lower secondary students in STEM (Science, Technology,
+Engineering, and Mathematics) activities, they eagerly took part in the
+STEM Playground, a collaborative effort organized by the Singapore Science
+Centre, the Ministry of Education (MOE), and the James Dyson Foundation.</p>
+<p>&nbsp;</p>
+<p>The primary challenge presented to these students was the construction
+of a self-supporting bridge capable of withstanding a 1kg load, using a
+limited set of resources: 50 satay sticks, rubber bands, and tape. In response,
+our students showcased their remarkable commitment to learning, readily
+embracing creative challenges. They ventured into a realm of diverse designs
+and tirelessly refined their bridge structures, persistently striving for
+optimal solutions. This experience not only enriched their STEM knowledge
+but also instilled a profound sense of creativity and problem-solving acumen.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stem_Playground_Prototype.jpg">
+</div>
+<p>&nbsp;&nbsp;</p>
+<p></p>
+<p><strong><u>Science Olympiads</u></strong>
+</p>
+<p>Our upper secondary students enthusiastically engaged in the Singapore
+Junior Chemistry Olympiad (SJChO), Singapore Junior Biology Olympiad (SJBO),
+and Singapore Junior Physics Olympiad (SJPO). These esteemed Science Olympiads
+serve as an invaluable platform for our students to push the boundaries
+of their scientific knowledge in their respective fields. They willingly
+accepted the challenge, demonstrating their passion for and dedication
+to the sciences.</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Singapore Junior Biology Olympiad</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rachel Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim Jia Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Randilyn Liau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Singapore Junior Chemistry Olympiad</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rachel Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Singapore Junior Physics Olympiad</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shen Ziru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rachel Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choi Yuk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Chit Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shirin Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Woo Kin Nishi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cedrik Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fedora Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Joshua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Singapore Physics League</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kelly Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soon Kai De</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Joshua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shen Ziru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Woo Kin Nishi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cedrik Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Geng Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aviv Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clarence Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong><u>ICAS Science Assessment</u></strong>
+</p>
+<p>The International Competitions and Assessments for Schools (ICAS) is a
+prestigious assessment program known for its rigorous examinations covering
+various subjects. Our lower secondary students recently took part in the
+ICAS Science Assessment and have showcased remarkable achievements. Collectively,
+JWSS students secured an impressive tally of results, including 3 Distinctions,
+9 Credits, and 5 Merits. These accomplishments underscore our students'
+dedication to academic excellence and their commendable performance in
+the realm of science.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Celeste Teo Sui En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Naomi Kuwardoyo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Passion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shiva Kris Chandrashekaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Passion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>
+<br>3 Distinctions, 9 Credits and 5 Merits.</p>
+<p></p>
+<hr>
+<p></p>
+<p></p>
+<p></p>
 <p>
 <br><strong>Activities 2022<br></strong> 
 <br>
