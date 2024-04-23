@@ -42,7 +42,7 @@ areas:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Netball (Girls)</strong>
+<p><strong>Volleyball (Boys)</strong>
 </p>
 </li>
 </ul>
@@ -50,7 +50,7 @@ areas:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Volleyball (Boys)</strong>
+<p><strong>Netball (Girls)</strong>
 </p>
 </li>
 </ul>
@@ -59,9 +59,11 @@ areas:</p>
 <td rowspan="1" colspan="1">
 <p>Our Sports and Games have been making steady progress with the most recent
 achievements being the school’s Basketball boys achieving West Zone Top
-4 Placing in 2018 and Volleyball boys achieving West Zone Top 4 Placings
-since 2018. Our Netball Girls have also been performing consistently to
-attain Top 8 placings within the West Zone Inter-School Competition.</p>
+4 Placing in 2018 and 2023.&nbsp; Volleyball boys achieved West Zone Top
+4 Placings since 2015 and has attained National Top 8 Placing for C Boys
+in 2022 and National Top 4 Placing for C Boys in 2023 . Our Netball Girls
+have also been performing consistently to attain Top 8 Placings within
+the West Zone Inter-School Competition.</p>
 </td>
 </tr>
 <tr>
@@ -79,9 +81,8 @@ attain Top 8 placings within the West Zone Inter-School Competition.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Modern Dance CCA has been doing well at the Singapore Youth Festival
-(SYF) Presentations winning Certificates of Achievement consistently over
-the years.</p>
+<p>Our Modern Dance CCA has also been doing well at the Singapore Youth Festival
+(SYF) Presentations, winning Certificates of Achievement over the years.</p>
 </td>
 </tr>
 <tr>
