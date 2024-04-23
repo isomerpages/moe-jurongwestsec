@@ -103,9 +103,9 @@ the West Zone Inter-School Competition.</p>
 students to take on leadership roles in the school. JWSS Student Leaders
 are exposed to numerous highly customised developmental opportunities such
 as the Leadership Training Camp, Community Youth Leadership Projects, Public
-Speaking Workshops, CCA opportunities and Overseas Student Leaders Exchange
-Programmes which enable them to shine as confident, competent and caring
-leaders who will make a positive impact in school and the community.</p>
+Speaking Workshops and CCA Leadership opportunities which enable them to
+shine as confident, competent, and caring leaders who will make a positive
+impact in school and the community.</p>
 </td>
 </tr>
 <tr>
