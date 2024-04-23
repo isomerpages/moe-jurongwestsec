@@ -147,13 +147,16 @@ impact in school and the community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JWSS is well known in the West for its highly established Uniformed Groups
-(UGs) – NCC (Land), NPCC, BB and RCY which have been achieving numerous
-Gold Awards over the last 10 years.</p>
+(UGs) – NCC (Land), NPCC, Boys’ Brigade and Red Cross (Youth) which have
+been achieving numerous awards over the years. Notably, NPCC and NCC (Land)
+have received the Gold/Distinction awards since 2005 and 2006, respectively.
+In addition to the annual Gold/Distinction awards, Boys’ Brigade also received
+the High Distinction award in 2023.</p>
 <p>The UGs develop our students’ leadership potential in various ways. Leadership
 development courses impart to students the basics of leading others. They
 are regularly given opportunities to take on leadership roles, such as
 organising camps and events, and purposefully designing activities to help
-their juniors grow as individuals. The UGs also has a strong culture of
+their juniors grow as individuals. The UGs also have a strong culture of
 mentorship, wherein senior members exercise care and concern for their
 juniors and nurture them to be leaders of character.</p>
 <p>As UG cadets, students will be developed to be confident leaders and inspire
