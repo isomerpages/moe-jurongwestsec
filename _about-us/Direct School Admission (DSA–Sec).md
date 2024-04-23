@@ -178,19 +178,18 @@ others to make a positive impact to the society and the nation.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Applied Learning Programme (ALP) in JWSS focusses on equipping students
-with ICT skills such as coding and app creation, knowledge of design principles
-in areas such as webpage creation as well as communication skills such
-as persuasive speaking. Students use these knowledge and skills to create
-innovative ICT-based solutions for real life issues in the community.</p>
-<p>JWSS is one of only 2 secondary schools in the west to offer the Enhanced
+<p>JWSS is one of only 2 Secondary Schools in the West offering the Enhanced
 Art Programme (EAP) to artistically talented students. The EAP is a 2-year
-upper secondary programme that aims to expose students to different art
-media, creative processes, professions and practices in the arts and creative
-industries, while providing in-depth development of students in selected
-art practices which will enable them to further their passion in fields
-of art, design and multimedia. Students will be expected to take up membership
-in the Art Club CCA upon joining JWSS.</p>
+Upper Secondary Programme designed to expose students to various art media,
+creative processes, professions and practices in the arts and creative
+industries. It provides in-depth development of students in selected art
+practices enabling them to further their passion in fields of art, design,
+and multimedia.</p>
+<p>In addition to the EAP, JWSS also organizes a biennial Art Exhibition
+hosted in public spaces featuring artworks prepared by our students to
+showcase their creative talents and development.</p>
+<p>Upon joining JWSS, students will be expected to become members of the
+Art Club CCA.</p>
 </td>
 </tr>
 </tbody>
