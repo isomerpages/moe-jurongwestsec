@@ -595,6 +595,6 @@ you may contact any one of the following staff:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>We would like to wish you all the best in your DSA Application. </strong>
+<p><strong>We would like to wish you all the best in your DSA Application.</strong>
 </p>
 <p>&nbsp;</p>
