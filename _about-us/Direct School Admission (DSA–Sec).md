@@ -365,7 +365,7 @@ up membership in Art Club CCA.</p>
 <p>Submission of online application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May – 3 June 2024</p>
+<p>7 May – 3 June 2024 (3pm)</p>
 </td>
 </tr>
 <tr>
@@ -408,7 +408,8 @@ up membership in Art Club CCA.</p>
 <p>Centralised DSA-Sec Application Process:</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024 to 3
-June 2024. For more details, please refer to MOE website –&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+June 2024 (3pm). For more details, please refer to MOE website –&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p></p>
 <p><strong><u>E. SELECTION PROCESS BY SCHOOL</u></strong>
 </p>
