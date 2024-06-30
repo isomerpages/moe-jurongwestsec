@@ -48,7 +48,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Kah Onn</strong>
-<br><em>Year Head (Lower Secondary)</em>
+<br><strong><em>Year Head (Lower Secondary)</em></strong>
 <br>
 </p>
 </td>
