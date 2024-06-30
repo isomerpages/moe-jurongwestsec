@@ -2,164 +2,1012 @@
 title: Mother Tongue Languages
 permalink: /curriculum/academic/mother-tongue-languages/
 description: ""
+variant: tiptap
 ---
-
-## Teaching Staff
-
-![MT.jpg](/images/MT.jpg)  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 893px; height: 757px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 25px;">01/</th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 266px;">Mr Choy Chee Ping<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">HOD Mother Tongue Languages<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Literature<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language</i></span></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 28px;">02/</th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 240px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Zubir Bin Ali</b><br style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">Subject Head, Malay Language<br style="margin: 0px; outline: 0px; padding: 0px;">Malay Language</i><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 39px;"><b style="margin: 0px; outline: 0px; padding: 0px;">03/</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 295px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Yasmin Hussein</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Subject Head, Character &amp; Citizenship Education</i><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Malay Language<br style="margin: 0px; outline: 0px; padding: 0px;">Malay Literature</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">04/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mdm Magahletchimi d/o Amarthalingam</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">ST Tamil Language<br style="margin: 0px; outline: 0px; padding: 0px;">Tamil Language<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Moral Education</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">05/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lim Lan Theen</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language</i><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">06/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Lim Meiqi Maggie</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Chinese Literature</i><i style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></i></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">07/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Sii Yiw Ching Molly</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Chinese Literature</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">08/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mdm Zhang Lixia</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language</i><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">09/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mdm Zhu Qingyun</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">10/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Duan Linxin<br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Literature</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">11/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Ravindran Arul Jothi</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Tamil Language<br style="margin: 0px; outline: 0px; padding: 0px;">Tamil Literature</i><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">12/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mdm Karpagam Manickavasagam&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Tamil Language<br style="margin: 0px; outline: 0px; padding: 0px;">Tamil Literature</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">13/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Rajamanickam Thandavamurthy&nbsp;</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Tamil Language</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">14/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Nurulhuda Binte Ahmad</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Malay Language<br style="margin: 0px; outline: 0px; padding: 0px;">Malay Literature</i><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">15/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Nur Sherlyn Mohamad Salim</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Malay Language<br style="margin: 0px; outline: 0px; padding: 0px;"></i><i style="margin: 0px; outline: 0px; padding: 0px;">Malay Literature</i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">16/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Siti Aisah Binte Sak Yok<br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;">Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Malay Language</i><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right;"><b style="margin: 0px; outline: 0px; padding: 0px;">17/</b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Ganesh Kumar</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Tamil Language</i><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">18/</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Lee Lay Teng</b><br style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Contract Adjunct Teacher<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language</i><b style="margin: 0px; outline: 0px; padding: 0px;"></b><i style="margin: 0px; outline: 0px; padding: 0px;"></i></td></tr></tbody></table>
-
-## Chinese Language
-
-![chinese.jpg](/images/chinese.jpg)  
-  
-  
-Subjects Offered  
-  
-
-*   Higher Chinese Language
-*   Chinese Language (Express)
-*   Chinese Language (NA)
-*   Basic Chinese Language (NT)
-
-**Overview**  
+<h2>Teaching Staff</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MT.jpg" src="/images/MT.jpg">
+</div>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>01/</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Choy Chee Ping
+<br><em>HOD Mother Tongue Languages<br>Chinese Literature<br>Chinese Language</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>02/</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Mr Zubir Bin Ali</strong>
+<br><em>Subject Head, Malay Language<br>Malay Language</em><strong><br></strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>03/</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Yasmin Hussein</strong>
+<br><strong><em>Year Head (Upper Secondary)</em><br><em>Malay Language</em></strong><em><br></em><strong><em>Malay Literature</em></strong>
 <br>
-Objectives in MTL Teaching:
-
-  
-
-*   To allow students to learn MTL to as high a level as they are able to.
-*   To recognise the different starting points of our learners and customise MTL teaching for the different group.
-
-  
-
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>04/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Magahletchimi d/o Amarthalingam</strong>
+<br><em>ST Tamil Language<br>Tamil Language<br>Moral Education</em>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>05/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Lan Theen</strong>
+<br><em>Teacher<br>Chinese Language</em>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>06/</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Meiqi Maggie</strong>
+<br><em>Teacher<br>Chinese Language<br>Chinese Literature<br></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>07/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Sii Yiw Ching Molly</strong>
+<br><em>Teacher<br>Chinese Language<br>Chinese Literature</em>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>08/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Zhang Lixia</strong>
+<br><em>Teacher<br>Chinese Language</em><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>09/</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Zhu Qingyun</strong>
+<br><em>Teacher<br>Chinese Language</em>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Duan Linxin<br></strong><em>Teacher<br>Chinese Language<br>Chinese Literature</em>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ravindran Arul Jothi</strong>
+<br><em>Teacher<br>Tamil Language<br>Tamil Literature</em>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>12/</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Karpagam Manickavasagam&nbsp;</strong>
+<br><em>Teacher<br>Tamil Language<br>Tamil Literature</em>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>13/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Rajamanickam Thandavamurthy&nbsp;</strong>
+<br><em>Teacher<br>Tamil Language</em>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>14/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nurulhuda Binte Ahmad</strong>
+<br><em>Teacher<br>Malay Language<br>Malay Literature</em>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15/</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nur Sherlyn Mohamad Salim</strong>
+<br><em>Teacher<br>Malay Language<br>Malay Literature</em>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>16/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Siti Aisah Binte Sak Yok<br></strong><em>Teacher<br>Malay Language</em><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>17/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ganesh Kumar</strong>
+<br><em>Tamil Language</em><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>18/</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Lay Teng</strong>
+<br><em>Contract Adjunct Teacher<br>Chinese Language</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Chinese Language</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="chinese.jpg" src="/images/chinese.jpg">
+</div>
+<p>Subjects Offered</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Higher Chinese Language</p>
+</li>
+<li>
+<p>Chinese Language (Express)</p>
+</li>
+<li>
+<p>Chinese Language (NA)</p>
+</li>
+<li>
+<p>Basic Chinese Language (NT)</p>
+</li>
+</ul>
+<p><strong>Overview</strong>
+<br>
+<br>Objectives in MTL Teaching:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To allow students to learn MTL to as high a level as they are able to.</p>
+</li>
+<li>
+<p>To recognise the different starting points of our learners and customise
+MTL teaching for the different group.</p>
+</li>
+</ul>
 <p>The<strong>3 Cs</strong>&nbsp;in MTL learning:&nbsp;<strong>Communication</strong>,&nbsp;<strong>Culture</strong>&nbsp;and&nbsp;<strong>Connection</strong>.</p>
-<p><strong>Communication</strong>&nbsp;– A key outcome is for our students to be able&nbsp;to think critically and communicate their ideas confidently, in both written and spoken&nbsp;forms. Proficiency in both MTL and EL will equip them with the tools they need to present&nbsp;their ideas with impact, thereby contributing to confidence-building. It is an essential 21st&nbsp;Century competency that will give our young a competitive edge in a globalised world.</p>
-<p><strong>Culture</strong>&nbsp;- Culture and language are closely linked. This close relationship makes language&nbsp;a vehicle for the transmission of values and beliefs that are shaped by the culture of the&nbsp;society. MTL education at the national level therefore strengthens bonding within each&nbsp;community, and reinforces the individual’s sense of cultural heritage. For our ablest learners,&nbsp;some of whom will become our future teachers and journalists, MTL is a useful vehicle for&nbsp;achieving a deeper appreciation of culture, history and values, because the essence of much&nbsp;cultural inheritance (namely traditions, customs, philosophy and literature) is best imbibed&nbsp;in its original language form. For the majority, MTL will enable a better understanding of&nbsp;Chinese/Malay/Tamil culture in the context of Singapore and Asia.</p>
-<p><strong>Connection</strong>&nbsp;- As more Singaporeans seek out opportunities to work or study overseas,&nbsp;proficiency in both MTL and EL, and the knowledge of the cultures associated with these&nbsp;languages, gives them a distinct edge in understanding other mindsets. It facilitates their&nbsp;transition into new environments, and makes it easier for them to understand other cultures&nbsp;in relation to their own.</p>
-
-
-  
-
-## Curriculum (CL)  
-The Syllabus Framework is shown below.  
-  
-![](/images/chineseoverview.jpg)
-
-## Malay Language
-![malay unit.png](/images/malay%20unit.png)  
-  
-  
-Subjects Offered  
-
-*   Higher Malay Language
-*   Malay Language (Express)
-*   Malay&nbsp;Language (NA)
-*   Basic Malay&nbsp;Language (NT)
-
-**Overview**<br> 
-
-Objectives in MTL Teaching:
-
-  
-
-*   To allow students to learn MTL to as high a level as they are able to.
-*   To recognise the different starting points of our learners and customise MTL teaching for the different group.
-
-  
-
+<p><strong>Communication</strong>&nbsp;– A key outcome is for our students
+to be able&nbsp;to think critically and communicate their ideas confidently,
+in both written and spoken&nbsp;forms. Proficiency in both MTL and EL will
+equip them with the tools they need to present&nbsp;their ideas with impact,
+thereby contributing to confidence-building. It is an essential 21st&nbsp;Century
+competency that will give our young a competitive edge in a globalised
+world.</p>
+<p><strong>Culture</strong>&nbsp;- Culture and language are closely linked.
+This close relationship makes language&nbsp;a vehicle for the transmission
+of values and beliefs that are shaped by the culture of the&nbsp;society.
+MTL education at the national level therefore strengthens bonding within
+each&nbsp;community, and reinforces the individual’s sense of cultural
+heritage. For our ablest learners,&nbsp;some of whom will become our future
+teachers and journalists, MTL is a useful vehicle for&nbsp;achieving a
+deeper appreciation of culture, history and values, because the essence
+of much&nbsp;cultural inheritance (namely traditions, customs, philosophy
+and literature) is best imbibed&nbsp;in its original language form. For
+the majority, MTL will enable a better understanding of&nbsp;Chinese/Malay/Tamil
+culture in the context of Singapore and Asia.</p>
+<p><strong>Connection</strong>&nbsp;- As more Singaporeans seek out opportunities
+to work or study overseas,&nbsp;proficiency in both MTL and EL, and the
+knowledge of the cultures associated with these&nbsp;languages, gives them
+a distinct edge in understanding other mindsets. It facilitates their&nbsp;transition
+into new environments, and makes it easier for them to understand other
+cultures&nbsp;in relation to their own.</p>
+<h2>Curriculum (CL)</h2>
+<p>The Syllabus Framework is shown below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chineseoverview.jpg">
+</div>
+<h2>Malay Language</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="malay unit.png" src="/images/malay%20unit.png">
+</div>
+<p>Subjects Offered</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Higher Malay Language</p>
+</li>
+<li>
+<p>Malay Language (Express)</p>
+</li>
+<li>
+<p>Malay&nbsp;Language (NA)</p>
+</li>
+<li>
+<p>Basic Malay&nbsp;Language (NT)</p>
+</li>
+</ul>
+<p><strong>Overview</strong>
+<br>
+</p>
+<p>Objectives in MTL Teaching:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To allow students to learn MTL to as high a level as they are able to.</p>
+</li>
+<li>
+<p>To recognise the different starting points of our learners and customise
+MTL teaching for the different group.</p>
+</li>
+</ul>
 <p>The&nbsp;<strong>3 Cs</strong>&nbsp;in MTL learning:&nbsp;<strong>Communication</strong>,&nbsp;<strong>Culture</strong>&nbsp;and&nbsp;<strong>Connection</strong>.</p>
-<p><strong>Communication</strong>&nbsp;– A key outcome is for our students to be able&nbsp;to think critically and communicate their ideas confidently, in both written and spoken&nbsp;forms. Proficiency in both MTL and EL will equip them with the tools they need to present&nbsp;their ideas with impact, thereby contributing to confidence-building. It is an essential 21st&nbsp;Century competency that will give our young a competitive edge in a globalised world.</p>
-<p><strong>Culture</strong>&nbsp;- Culture and language are closely linked. This close relationship makes language&nbsp;a vehicle for the transmission of values and beliefs that are shaped by the culture of the&nbsp;society. MTL education at the national level therefore strengthens bonding within each&nbsp;community, and reinforces the individual’s sense of cultural heritage. For our ablest learners,&nbsp;some of whom will become our future teachers and journalists, MTL is a useful vehicle for&nbsp;achieving a deeper appreciation of culture, history and values, because the essence of much&nbsp;cultural inheritance (namely traditions, customs, philosophy and literature) is best imbibed&nbsp;in its original language form. For the majority, MTL will enable a better understanding of&nbsp;Chinese/Malay/Tamil culture in the context of Singapore and Asia.</p>
-<p><strong>Connection</strong>&nbsp;- As more Singaporeans seek out opportunities to work or study overseas,&nbsp;proficiency in both MTL and EL, and the knowledge of the cultures associated with these&nbsp;languages, gives them a distinct edge in understanding other mindsets. It facilitates their&nbsp;transition into new environments, and makes it easier for them to understand other cultures&nbsp;in relation to their own.</p>
-
-  
-
-## Curriculum (ML)  
-The Syllabus Framework is shown below.  
-![ML Curriculum.png](/images/ML%20Curriculum.png)
-
-# Tamil Language
-  
-![tamil.jpg](/images/tamil.jpg)  
+<p><strong>Communication</strong>&nbsp;– A key outcome is for our students
+to be able&nbsp;to think critically and communicate their ideas confidently,
+in both written and spoken&nbsp;forms. Proficiency in both MTL and EL will
+equip them with the tools they need to present&nbsp;their ideas with impact,
+thereby contributing to confidence-building. It is an essential 21st&nbsp;Century
+competency that will give our young a competitive edge in a globalised
+world.</p>
+<p><strong>Culture</strong>&nbsp;- Culture and language are closely linked.
+This close relationship makes language&nbsp;a vehicle for the transmission
+of values and beliefs that are shaped by the culture of the&nbsp;society.
+MTL education at the national level therefore strengthens bonding within
+each&nbsp;community, and reinforces the individual’s sense of cultural
+heritage. For our ablest learners,&nbsp;some of whom will become our future
+teachers and journalists, MTL is a useful vehicle for&nbsp;achieving a
+deeper appreciation of culture, history and values, because the essence
+of much&nbsp;cultural inheritance (namely traditions, customs, philosophy
+and literature) is best imbibed&nbsp;in its original language form. For
+the majority, MTL will enable a better understanding of&nbsp;Chinese/Malay/Tamil
+culture in the context of Singapore and Asia.</p>
+<p><strong>Connection</strong>&nbsp;- As more Singaporeans seek out opportunities
+to work or study overseas,&nbsp;proficiency in both MTL and EL, and the
+knowledge of the cultures associated with these&nbsp;languages, gives them
+a distinct edge in understanding other mindsets. It facilitates their&nbsp;transition
+into new environments, and makes it easier for them to understand other
+cultures&nbsp;in relation to their own.</p>
+<h2>Curriculum (ML)</h2>
+<p>The Syllabus Framework is shown below.
 <br>
-Subjects Offered:<br>  
-  
-
-*   Higher Tamil Language
-*   Tamil&nbsp;Language (Express)
-*   Tamil&nbsp;Language (NA)
-*   Basic Tamil&nbsp;Language (NT)
-
-**Overview**<br>
-Objectives in MTL Teaching:
-
-  
-
-*   To allow students to learn MTL to as high a level as they are able to.
-*   To recognise the different starting points of our learners and customise MTL teaching for the different group.
-
-  
-
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ML Curriculum.png" src="/images/ML%20Curriculum.png">
+</div>
+<h1>Tamil Language</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="tamil.jpg" src="/images/tamil.jpg">
+</div>
+<p>
+<br>
+<br>Subjects Offered:
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Higher Tamil Language</p>
+</li>
+<li>
+<p>Tamil&nbsp;Language (Express)</p>
+</li>
+<li>
+<p>Tamil&nbsp;Language (NA)</p>
+</li>
+<li>
+<p>Basic Tamil&nbsp;Language (NT)</p>
+</li>
+</ul>
+<p><strong>Overview</strong>
+<br>Objectives in MTL Teaching:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To allow students to learn MTL to as high a level as they are able to.</p>
+</li>
+<li>
+<p>To recognise the different starting points of our learners and customise
+MTL teaching for the different group.</p>
+</li>
+</ul>
 <p>The&nbsp;<strong>3 Cs</strong>&nbsp;in MTL learning:&nbsp;<strong>Communication</strong>,&nbsp;<strong>Culture</strong>&nbsp;and&nbsp;<strong>Connection</strong>.</p>
-<p><strong>Communication</strong>&nbsp;– A key outcome is for our students to be able&nbsp;to think critically and communicate their ideas confidently, in both written and spoken&nbsp;forms. Proficiency in both MTL and EL will equip them with the tools they need to present&nbsp;their ideas with impact, thereby contributing to confidence-building. It is an essential 21st&nbsp;Century competency that will give our young a competitive edge in a globalised world.</p>
-<p><strong>Culture</strong>&nbsp;- Culture and language are closely linked. This close relationship makes language&nbsp;a vehicle for the transmission of values and beliefs that are shaped by the culture of the&nbsp;society. MTL education at the national level therefore strengthens bonding within each&nbsp;community, and reinforces the individual’s sense of cultural heritage. For our ablest learners,&nbsp;some of whom will become our future teachers and journalists, MTL is a useful vehicle for&nbsp;achieving a deeper appreciation of culture, history and values, because the essence of much&nbsp;cultural inheritance (namely traditions, customs, philosophy and literature) is best imbibed&nbsp;in its original language form. For the majority, MTL will enable a better understanding of&nbsp;Chinese/Malay/Tamil culture in the context of Singapore and Asia.</p>
-<p><strong>Connection</strong>&nbsp;- As more Singaporeans seek out opportunities to work or study overseas,&nbsp;proficiency in both MTL and EL, and the knowledge of the cultures associated with these&nbsp;languages, gives them a distinct edge in understanding other mindsets. It facilitates their&nbsp;transition into new environments, and makes it easier for them to understand other cultures&nbsp;in relation to their own.</p>
-
-  
-
-## Curriculum (TL)  
- The Syllabus Framework is shown below.  
-  
-![TL_Framework.PNG](/images/TL_Framework.png)  
-
-
-# Programme
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1164.67px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 1090px;"><h3 style="margin: 0px; outline: 0px; padding: 0px; min-height: 1em; font-family: Arial; font-weight: 500; line-height: 17.6px; color: rgb(7, 8, 75); font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">Mother Tongue Languages (MTL) Fortnight 2022</u></b></font></h3><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif">This year’s theme, titled, “Tradition Arts and Culture” highlights a variety of traditions and customary practices, with special focus on appreciating the beauty of our Mother Tongue languages through the hands-on craft infused cultural activities. The objectives of the programme includes kindling students' interest in their MT language through novel and exciting ways and building teamwork within classmates from different background and learn beyond classrooms and school.</font></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif">The specially curated week-long showcase hopes to inspire joy and most importantly, a culture of care through the celebrations of our customs and traditions. Our Mother tongue teachers have designed creative activities to cater to the interest of different groups and levels of students which include traditional hands-on arts and craft activities, e book creation and engaging and fun language games.&nbsp;</font><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1017px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 490px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 490px; height: 397px;" class="ive_eobj_center" alt="01.jpg" src="/images/mtl01.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 527px; height: 397px;" class="ive_eobj_center" alt="02.jpg" src="/images/mtl02.jpg"></td></tr></tbody></table>This year, MTL Fortnight 2022 was launched in our school hall with our school leaders, Ms Tan, Mrs Lau and Mr Michael Chan on 24 February with an amazing cultural dance performances by the Chinese, Malay and Tamil units. The “Gong”, is an ancient Chinese instrument, used during grand processions. We were honored to have Ms Tan to officiate the opening of the event by hitting the Gong thrice.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><h3 style="margin: 0px; outline: 0px; padding: 0px; min-height: 1em; font-family: Arial; font-weight: 500; line-height: 17.6px; color: rgb(7, 8, 75); font-size: 16px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">CHINESE LANGUAGE ACTIVITIES</u></b></font></h3><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></u></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 943px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 404px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 404px; height: 335px;" class="ive_eobj_center" alt="03.jpg" src="/images/mtl03.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 539px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 506px; height: 335px;" class="ive_eobj_center" alt="04.jpg" src="/images/mtl04.jpg"></td></tr></tbody></table></u></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif">In-class experience for Sec 1 CL students -<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">Chopsticks Lantern Cultural Activity</b></font></span></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></span></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif">An in class arts and cultural experience for students to immerse themselves in the making of lanterns using chopsticks in its most creative manner.</font><br style="margin: 0px; outline: 0px; padding: 0px;"></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 807px; height: 387px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 473px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 469px; height: 379px;" class="ive_eobj_center" alt="05.jpg" src="/images/mtl05.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 333px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 329px; height: 342px;" class="ive_eobj_center" alt="06.jpg" src="/images/mtl06.jpg"></td></tr></tbody></table></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif">Secondary 2 Cl students were given an in-class experience to immerse themselves in the Chinese ink painting and understand the difference between<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">Calligraphy and Ink Painting</b><br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 679px; height: 453px;" class="iveo_table ives_tab_zen ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 299px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 292px; height: 425px;" class="ive_eobj_center" alt="07.jpg" src="/images/mtl07.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 372px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 368px; height: 418px;" class="ive_eobj_center" alt="08.jpg" src="/images/mtl08.jpg"></td></tr></tbody></table></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;">The art of seal engraving is a cornerstone of Chinese fine arts.</b><br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px;">Sec 3 CL Students immersed in the experience of carving out their unique seal</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; font-weight: bold;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" face="Arial"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">MALAY LANGUAGE ACTIVITIES</u></b></font></span><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></u></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: small; font-family: arial, sans-serif;"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 716px; height: 328px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 418px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 414px; height: 319px;" class="ive_eobj_center" alt="09.png" src="/images/mtl09.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 292px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 288px; height: 322px;" class="ive_eobj_center" alt="10.png" src="/images/mtl10.png"></td></tr></tbody></table></span></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif">In class experience for Sec 1 ML students to immerse themselves in the Malay culture. Students participating in the<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">Wayang Culit workshop</b><span>&nbsp;</span>and showcasing the traditional Malay Arts shadow puppet showcase performance</font><br style="margin: 0px; outline: 0px; padding: 0px;"></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></u></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 837px; height: 384px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 320px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 316px; height: 372px;" class="ive_eobj_center" alt="11.png" src="/images/mtl11.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 511px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 507px; height: 375px;" class="ive_eobj_center" alt="12.png" src="/images/mtl12.png"></td></tr></tbody></table></u></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: small; font-family: arial, sans-serif;">&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif">In-class unique experience for the Sec 3 ML students to immerse themselves and understand more about the<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">different abstracts and creative designs of the Malay delicacies and pastries.</b></font></span><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" face="Arial"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">TAMIL LANGUAGE ACTIVITIES</u></b></font></span><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></u></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" face="Arial"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></u></b></font></span></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" face="Arial"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 784px; height: 299px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 405px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 401px; height: 307px;" class="ive_eobj_center" alt="13.png" src="/images/mtl13.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 423px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 419px; height: 309px;" class="ive_eobj_center" alt="14.png" src="/images/mtl14.png"></td></tr></tbody></table></u></b></font></span></font></div></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: arial, sans-serif; font-size: small; background-color: initial;">In-class experience for Sec 1 TL to appreciate<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">the art of flower tying</b>. Flowers symbolize peace and prosperity and play an important part in the decoration of traditional indian ceremonies.</span><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 1088px; height: 235px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 404px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 400px; height: 236px;" class="ive_eobj_center" alt="15.jpg" src="/images/mtl15.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 367px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 363px; height: 233px;" class="ive_eobj_center" alt="16.jpg" src="/images/mtl16.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 375px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 371px; height: 235px;" class="ive_eobj_center" alt="17.jpg" src="/images/mtl17.jpg"></td></tr></tbody></table>An interesting in-class experience for the Sec 1 TL students immerse themselves in Tamil movie songs with meaningful lyrics. Students had the opportunity to showcase their performance through the<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">Lip-Sync battle</b>, where students coordinated their lips movement in line with the lyrics of the movie songs.<br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 845.938px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 271px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 270px; height: 336px;" class="ive_eobj_center" alt="18.png" src="/images/mtl18.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 574px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 538px; height: 330px;" class="ive_eobj_center" alt="19.png" src="/images/mtl19.png"></td></tr></tbody></table>An unique hands on experience for the Sec 2 TL students to appreciate<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">Indian pottery art made using clay</b>. Cooking food in earthenware is a healthy option in Indian tradition. Through this activity, students also learnt the medicinal and artistic aspect of using clay.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 696px; height: 236px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 338px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="20.png" src="/images/mtl20.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 359px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="21.png" src="/images/mtl21.png"></td></tr></tbody></table>In-class experience for Sec 2 TL students being engrossed in the<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">arts of learning and applying the rules of the Tamil traditional mind stretching games</b><span>&nbsp;</span>like “Thayam” and “Pallanguli” and had fun moments competing with their team mates.<br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 899px; height: 296px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 513px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 509px; height: 314px;" class="ive_eobj_center" alt="22.png" src="/images/mtl22.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 381px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="23.png" src="/images/mtl23.png"></td></tr></tbody></table>In- class experience for the Sec 3 TL students to immerse themselves in the art of modern<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">“Mangala” plate decoration</b>. Auspicious items, also known as “mangala items” are placed in these decorative plates during traditional ceremonies.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 15.6px;" size="2" face="arial, sans-serif"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" color="#000000"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 539px; height: 299px;" class="ive_eobj_center" alt="24.png" src="/images/mtl24.png"></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: arial, sans-serif; font-size: small; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">A peek at a Sec 3 TL student’s e book creation</b>. An opportunity for students to inspire themselves to become writers of the future and develop their creativity and language use by creating interesting traditional stories and poems through the interactive e-book.&nbsp;</span><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: arial, sans-serif; font-size: small; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><h3 style="margin: 0px; outline: 0px; padding: 0px; min-height: 1em; font-family: Arial; font-weight: 500; line-height: 17.6px; color: rgb(7, 8, 75); font-size: 16px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">2022 JWSS MTL FORTNIGHT SHOWCASE</u></b></font></h3></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><font style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.6px;" size="4" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></u></b></font></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 657px; height: 297px;" class="ive_eobj_center" alt="25.png" width="100%" src="/images/mtl25.png"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: arial, sans-serif; font-size: small; background-color: initial;">The beautiful, colourful and attractive artefacts done by our students for the various hands on activities and photographs of our students in action were displayed as a booth showcase at the Cybercafe with posters on 11 March 2022.</span><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td></tr></tbody></table>
-
-
-
-### Mother Tongue Languages (MTL) Fortnight 2021
-
-<p>This year’s theme, titled, “Ties that Bind” showcases a variety of customs and traditions in Singapore, with special focus on our harmonious living environment through the beauty of our Mother Tongue language. The specially curated week-long showcase hopes to inspire joy and most importantly, a culture of care through the celebrations of our customs and traditions.</p>  
-
-<p>Apart from exploring our mini museum in the learning hive, our MTL Fortnight teachers have also designed targeted activities for different groups and levels of students which includes poetry writing, colouring, video making and level-wide song dedication.</p>
-
-![Image 01.jpeg](/images/mtlImage%2001.jpeg)
-
-<p>MTL Fortnight Opening Ceremony – Our vice-principals, Mrs Lau and Mr Chan cutting the ribbon to officiate the opening of MTL Fortnight 2021. The cutting of the ribbon symbolizes the 'opening' of something new, much like when a ribbon is cut from a nicely packaged gift before unwrapping. It builds anticipation with the promise of something exciting for everyone to ignite and immerse in our upcoming Mother Tongue Languages activities!</p>
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 1147.67px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 535px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 451px; height: 338px;" class="ive_eobj_center" alt="Image 02.jpg" width="100%" src="/images/Image%2002.jpg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Exploring Our Mini Exhibition in the Learning Hive - We have the luxury of seeing these exhibitions in the comfort of our own school!</span><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center; width: 536px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 426px; height: 319px;" class="ive_eobj_center" alt="Image 03.jpg" src="/images/Image%2003.jpg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">The Chinese Showcase – Uncover the dos and don’ts behind a cultural experience namely housewarming and wedding.</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 04.jpeg" width="100%" src="/images/Image%2004%20(1).jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">The Malay Showcase – The intricate paraphernalia behind a cultural event in the Malay society.</span><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 05.jpeg" width="100%" src="/images/Image%2005(1).jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">The Indian Showcase – Elegant and extravagant, the Indian cultural elements in this showcase highlights its meaningful significance.</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" class="ive_eobj_left" alt="Image 06.jpeg" width="100%" src="/images/Image%2006.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">Chinese Language Quiz – Students fervently attempting the quiz while experiencing the showcase.</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" class="ive_eobj_left" alt="Image 07.jpeg" width="100%" src="/images/Image%2007.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">Chinese Auspicious culture – An in-class experience to discover the wonders of Chinese Auspicious Culture -</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 08.jpeg" width="100%" src="/images/Image%2008(1).jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">Chinese Auspicious culture – A student designing an angbao with auspicious words and symbols</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535px;" class="ive_eobj_center" alt="Image 9.jpeg" src="/images/Image%209.jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">In-class experience for Sec 1 ML students - Secondary 1 to Secondary 3 students partake in different cultural activities to immerse themselves in the Malay culture. Secondary 1 students were given an in-class experience to analyse the interrelationship between flowers and Malay culture through songs, drawings and poetry. They identified various types of flowers that help to preserve the Malay culture whilst learning about its preservation in modern day, urban environment.</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" class="ive_eobj_center" alt="Image 10.jpeg" width="100%" src="/images/Image%2010(1).jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">A peek at decorative motifs in ML culture for Sec 2 students - Secondary 2 students took part in a mindfulness session through colouring of Hari Raya greeting cards. The greeting cards, which reflected decorative motifs, allowed students to identify features in Malay heritage such as orchids, ketupat and batik. Students took the chance to show their use of flamboyant cultural colour palette in a level-based competition, which promised them exciting prizes.</span></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 428px; height: 320px;" class="ive_eobj_center" alt="Image 11_A.jpeg" width="100%" src="/images/Image%2011_A.jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">Origami folding session for Sec 3 ML students - Secondary 3 students engaged in an origami-folding session related to Malay cultural costumes and outfit. The students folded intricate pieces of the Malay headgear, Tanjak, while learning the value of patience and embodying the traditions embodied in the practice of creating.</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 484px;" class="ive_eobj_center" alt="Image 12.jpeg" width="100%" src="/images/Image%2012.jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">TL Show and Tell – Students eagerly sharing about the traditional costume in the Indian society</span><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 602px; height: 372px;" class="ive_eobj_center" alt="Image 13.JPG" width="100%" src="/images/Image%2013.jpg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal; background-color: initial;">&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;">Rangoli Art – Having a go at Rangoli Art, a type of decoration usually drawn on the ground or sidewalk in front of a house.</span><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 1130.67px; height: 607.932px;" class="ive_eobj_center" alt="Image 14.jpeg" width="100%" src="/images/Image%2014.jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 400;"><br style="margin: 0px; outline: 0px; padding: 0px;">We hope that our students have gained a deeper insight into their own culture and learn to appreciate them better. May these activities also raise our awareness on values and practicality of conversing in our own MTL in a real world context</span><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-###  Chinese New Year Celebration 2021
-
-On 11 Feb 2021 (Thursday), the MTL Department organised the annual Chinese New Year Celebration on New Year’s Eve.<br> 
-
-This was indeed a unique experience for all JWSS staff and students. Even though we were not able to celebrate in the hall like previous years due to the pandemic, but it was still memorable as we were able to celebrate in class with meaningful classroom activities. Some of the activities that were done include: making of sky lantern, writing wishes for our COVID-19 frontliners, donating items for the hampers which were given to school cleaners and the elderly from the NTUC Health Senior Activity Centre (Taman Jurong).<br>
-<img src="/images/image15.png" 
-         style="width:600px"
-	/>
+<p><strong>Communication</strong>&nbsp;– A key outcome is for our students
+to be able&nbsp;to think critically and communicate their ideas confidently,
+in both written and spoken&nbsp;forms. Proficiency in both MTL and EL will
+equip them with the tools they need to present&nbsp;their ideas with impact,
+thereby contributing to confidence-building. It is an essential 21st&nbsp;Century
+competency that will give our young a competitive edge in a globalised
+world.</p>
+<p><strong>Culture</strong>&nbsp;- Culture and language are closely linked.
+This close relationship makes language&nbsp;a vehicle for the transmission
+of values and beliefs that are shaped by the culture of the&nbsp;society.
+MTL education at the national level therefore strengthens bonding within
+each&nbsp;community, and reinforces the individual’s sense of cultural
+heritage. For our ablest learners,&nbsp;some of whom will become our future
+teachers and journalists, MTL is a useful vehicle for&nbsp;achieving a
+deeper appreciation of culture, history and values, because the essence
+of much&nbsp;cultural inheritance (namely traditions, customs, philosophy
+and literature) is best imbibed&nbsp;in its original language form. For
+the majority, MTL will enable a better understanding of&nbsp;Chinese/Malay/Tamil
+culture in the context of Singapore and Asia.</p>
+<p><strong>Connection</strong>&nbsp;- As more Singaporeans seek out opportunities
+to work or study overseas,&nbsp;proficiency in both MTL and EL, and the
+knowledge of the cultures associated with these&nbsp;languages, gives them
+a distinct edge in understanding other mindsets. It facilitates their&nbsp;transition
+into new environments, and makes it easier for them to understand other
+cultures&nbsp;in relation to their own.</p>
+<h2>Curriculum (TL)</h2>
+<p>The Syllabus Framework is shown below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TL_Framework.PNG" src="/images/TL_Framework.png">
+</div>
+<h1>Programme</h1>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong><u>Mother Tongue Languages (MTL) Fortnight 2022</u></strong></h3>
+<p>
 <br>
-<img src="/images/image15.png" 
-         style="width:600px"
-	/>
+</p>
+<p>This year’s theme, titled, “Tradition Arts and Culture” highlights a variety
+of traditions and customary practices, with special focus on appreciating
+the beauty of our Mother Tongue languages through the hands-on craft infused
+cultural activities. The objectives of the programme includes kindling
+students' interest in their MT language through novel and exciting ways
+and building teamwork within classmates from different background and learn
+beyond classrooms and school.</p>
+<p>
 <br>
-<img src="/images/image15.png" 
-         style="width:600px"
-	/>
+</p>
+<p>The specially curated week-long showcase hopes to inspire joy and most
+importantly, a culture of care through the celebrations of our customs
+and traditions. Our Mother tongue teachers have designed creative activities
+to cater to the interest of different groups and levels of students which
+include traditional hands-on arts and craft activities, e book creation
+and engaging and fun language games.&nbsp;
 <br>
-<img src="/images/image15.png" 
-         style="width:600px"
-	/>
+</p>
+<p>
 <br>
-<img src="/images/image15.png" 
-         style="width:600px"
-	/>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 490px; height: 397px;" height="auto" width="100%" alt="01.jpg" src="/images/mtl01.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 527px; height: 397px;" height="auto" width="100%" alt="02.jpg" src="/images/mtl02.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>This year, MTL Fortnight 2022 was launched in our school hall with our
+school leaders, Ms Tan, Mrs Lau and Mr Michael Chan on 24 February with
+an amazing cultural dance performances by the Chinese, Malay and Tamil
+units. The “Gong”, is an ancient Chinese instrument, used during grand
+processions. We were honored to have Ms Tan to officiate the opening of
+the event by hitting the Gong thrice.&nbsp;
 <br>
-<img src="/images/image20.png" 
-         style="width:600px"
-	/>
 <br>
+</p>
+<h3><strong><u>CHINESE LANGUAGE ACTIVITIES</u></strong></h3>
+<p><strong><u><br></u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 404px; height: 335px;" height="auto" width="100%" alt="03.jpg" src="/images/mtl03.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 506px; height: 335px;" height="auto" width="100%" alt="04.jpg" src="/images/mtl04.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In-class experience for Sec 1 CL students -&nbsp;<strong>Chopsticks Lantern Cultural Activity</strong>
+</p>
+<p>
+<br>
+</p>
+<p>An in class arts and cultural experience for students to immerse themselves
+in the making of lanterns using chopsticks in its most creative manner.
+<br>
+</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 469px; height: 379px;" height="auto" width="100%" alt="05.jpg" src="/images/mtl05.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 329px; height: 342px;" height="auto" width="100%" alt="06.jpg" src="/images/mtl06.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Secondary 2 Cl students were given an in-class experience to immerse themselves
+in the Chinese ink painting and understand the difference between&nbsp;<strong>Calligraphy and Ink Painting</strong>
+<br>
+</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 292px; height: 425px;" height="auto" width="100%" alt="07.jpg" src="/images/mtl07.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 368px; height: 418px;" height="auto" width="100%" alt="08.jpg" src="/images/mtl08.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The art of seal engraving is a cornerstone of Chinese fine arts.</strong>
+<br>
+</p>
+<p><strong><br></strong>
+</p>
+<p>Sec 3 CL Students immersed in the experience of carving out their unique
+seal</p>
+<p><strong><br></strong>
+</p>
+<p><strong><u>MALAY LANGUAGE ACTIVITIES<br></u></strong>
+</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 414px; height: 319px;" height="auto" width="100%" alt="09.png" src="/images/mtl09.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 288px; height: 322px;" height="auto" width="100%" alt="10.png" src="/images/mtl10.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In class experience for Sec 1 ML students to immerse themselves in the
+Malay culture. Students participating in the&nbsp;<strong>Wayang Culit workshop</strong>&nbsp;and
+showcasing the traditional Malay Arts shadow puppet showcase performance
+<br>
+</p>
+<p><strong><u><br></u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 316px; height: 372px;" height="auto" width="100%" alt="11.png" src="/images/mtl11.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 507px; height: 375px;" height="auto" width="100%" alt="12.png" src="/images/mtl12.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;In-class unique experience for the Sec 3 ML students to immerse
+themselves and understand more about the&nbsp;<strong>different abstracts and creative designs of the Malay delicacies and pastries.</strong>
+<br>
+</p>
+<p>
+<br>
+</p>
+<p><strong><u>TAMIL LANGUAGE ACTIVITIES<br></u></strong>
+</p>
+<p><strong><u><br></u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 401px; height: 307px;" height="auto" width="100%" alt="13.png" src="/images/mtl13.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 419px; height: 309px;" height="auto" width="100%" alt="14.png" src="/images/mtl14.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In-class experience for Sec 1 TL to appreciate&nbsp;<strong>the art of flower tying</strong>.
+Flowers symbolize peace and prosperity and play an important part in the
+decoration of traditional indian ceremonies.
+<br>
+</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 400px; height: 236px;" height="auto" width="100%" alt="15.jpg" src="/images/mtl15.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 363px; height: 233px;" height="auto" width="100%" alt="16.jpg" src="/images/mtl16.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 371px; height: 235px;" height="auto" width="100%" alt="17.jpg" src="/images/mtl17.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>An interesting in-class experience for the Sec 1 TL students immerse themselves
+in Tamil movie songs with meaningful lyrics. Students had the opportunity
+to showcase their performance through the&nbsp;<strong>Lip-Sync battle</strong>,
+where students coordinated their lips movement in line with the lyrics
+of the movie songs.
+<br>
+</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 270px; height: 336px;" height="auto" width="100%" alt="18.png" src="/images/mtl18.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 538px; height: 330px;" height="auto" width="100%" alt="19.png" src="/images/mtl19.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>An unique hands on experience for the Sec 2 TL students to appreciate&nbsp;<strong>Indian pottery art made using clay</strong>.
+Cooking food in earthenware is a healthy option in Indian tradition. Through
+this activity, students also learnt the medicinal and artistic aspect of
+using clay.&nbsp;
+<br>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="20.png" src="/images/mtl20.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="21.png" src="/images/mtl21.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In-class experience for Sec 2 TL students being engrossed in the&nbsp;<strong>arts of learning and applying the rules of the Tamil traditional mind stretching games</strong>&nbsp;like
+“Thayam” and “Pallanguli” and had fun moments competing with their team
+mates.
+<br>
+</p>
+<p>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 509px; height: 314px;" height="auto" width="100%" alt="22.png" src="/images/mtl22.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="23.png" src="/images/mtl23.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In- class experience for the Sec 3 TL students to immerse themselves in
+the art of modern&nbsp;<strong>“Mangala” plate decoration</strong>. Auspicious
+items, also known as “mangala items” are placed in these decorative plates
+during traditional ceremonies.&nbsp;
+<br>
+</p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 539px; height: 299px;" height="auto" width="100%" alt="24.png" src="/images/mtl24.png">
+</div>
+<p><strong>A peek at a Sec 3 TL student’s e book creation</strong>. An opportunity
+for students to inspire themselves to become writers of the future and
+develop their creativity and language use by creating interesting traditional
+stories and poems through the interactive e-book.&nbsp;
+<br>
+</p>
+<p>
+<br>
+</p>
+<h3><strong><u>2022 JWSS MTL FORTNIGHT SHOWCASE</u></strong></h3>
+<p><strong><u><br></u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 657px; height: 297px;" height="auto" width="100%" alt="25.png" src="/images/mtl25.png">
+</div>
+<p>
+<br>
+</p>
+<p>The beautiful, colourful and attractive artefacts done by our students
+for the various hands on activities and photographs of our students in
+action were displayed as a booth showcase at the Cybercafe with posters
+on 11 March 2022.
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Mother Tongue Languages (MTL) Fortnight 2021</h3>
+<p>This year’s theme, titled, “Ties that Bind” showcases a variety of customs
+and traditions in Singapore, with special focus on our harmonious living
+environment through the beauty of our Mother Tongue language. The specially
+curated week-long showcase hopes to inspire joy and most importantly, a
+culture of care through the celebrations of our customs and traditions.</p>
+<p>Apart from exploring our mini museum in the learning hive, our MTL Fortnight
+teachers have also designed targeted activities for different groups and
+levels of students which includes poetry writing, colouring, video making
+and level-wide song dedication.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image 01.jpeg" src="/images/mtlImage%2001.jpeg">
+</div>
+<p>MTL Fortnight Opening Ceremony – Our vice-principals, Mrs Lau and Mr Chan
+cutting the ribbon to officiate the opening of MTL Fortnight 2021. The
+cutting of the ribbon symbolizes the 'opening' of something new, much like
+when a ribbon is cut from a nicely packaged gift before unwrapping. It
+builds anticipation with the promise of something exciting for everyone
+to ignite and immerse in our upcoming Mother Tongue Languages activities!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 451px; height: 338px;" height="auto" width="100%" alt="Image 02.jpg" src="/images/Image%2002.jpg">
+</div>
+<p>Exploring Our Mini Exhibition in the Learning Hive - We have the luxury
+of seeing these exhibitions in the comfort of our own school!
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 426px; height: 319px;" height="auto" width="100%" alt="Image 03.jpg" src="/images/Image%2003.jpg">
+</div>
+<p>The Chinese Showcase – Uncover the dos and don’ts behind a cultural experience
+namely housewarming and wedding.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 04.jpeg" src="/images/Image%2004%20(1).jpeg">
+</div>
+<p>The Malay Showcase – The intricate paraphernalia behind a cultural event
+in the Malay society.
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 05.jpeg" src="/images/Image%2005(1).jpeg">
+</div>
+<p>The Indian Showcase – Elegant and extravagant, the Indian cultural elements
+in this showcase highlights its meaningful significance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" height="auto" width="100%" alt="Image 06.jpeg" src="/images/Image%2006.jpeg">
+</div>
+<p>
+<br>Chinese Language Quiz – Students fervently attempting the quiz while experiencing
+the showcase.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" height="auto" width="100%" alt="Image 07.jpeg" src="/images/Image%2007.jpeg">
+</div>
+<p>
+<br>Chinese Auspicious culture – An in-class experience to discover the wonders
+of Chinese Auspicious Culture -</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 08.jpeg" src="/images/Image%2008(1).jpeg">
+</div>
+<p>Chinese Auspicious culture – A student designing an angbao with auspicious
+words and symbols</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535px;" height="auto" width="100%" alt="Image 9.jpeg" src="/images/Image%209.jpeg">
+</div>
+<p>In-class experience for Sec 1 ML students - Secondary 1 to Secondary 3
+students partake in different cultural activities to immerse themselves
+in the Malay culture. Secondary 1 students were given an in-class experience
+to analyse the interrelationship between flowers and Malay culture through
+songs, drawings and poetry. They identified various types of flowers that
+help to preserve the Malay culture whilst learning about its preservation
+in modern day, urban environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 10.jpeg" src="/images/Image%2010(1).jpeg">
+</div>
+<p>A peek at decorative motifs in ML culture for Sec 2 students - Secondary
+2 students took part in a mindfulness session through colouring of Hari
+Raya greeting cards. The greeting cards, which reflected decorative motifs,
+allowed students to identify features in Malay heritage such as orchids,
+ketupat and batik. Students took the chance to show their use of flamboyant
+cultural colour palette in a level-based competition, which promised them
+exciting prizes.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 428px; height: 320px;" height="auto" width="100%" alt="Image 11_A.jpeg" src="/images/Image%2011_A.jpeg">
+</div>
+<p>Origami folding session for Sec 3 ML students - Secondary 3 students engaged
+in an origami-folding session related to Malay cultural costumes and outfit.
+The students folded intricate pieces of the Malay headgear, Tanjak, while
+learning the value of patience and embodying the traditions embodied in
+the practice of creating.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 484px;" height="auto" width="100%" alt="Image 12.jpeg" src="/images/Image%2012.jpeg">
+</div>
+<p>TL Show and Tell – Students eagerly sharing about the traditional costume
+in the Indian society
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 602px; height: 372px;" height="auto" width="100%" alt="Image 13.JPG" src="/images/Image%2013.jpg">
+</div>
+<p>&nbsp;&nbsp;Rangoli Art – Having a go at Rangoli Art, a type of decoration
+usually drawn on the ground or sidewalk in front of a house.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 1130.67px; height: 607.932px;" height="auto" width="100%" alt="Image 14.jpeg" src="/images/Image%2014.jpeg">
+</div>
+<p>
+<br>We hope that our students have gained a deeper insight into their own
+culture and learn to appreciate them better. May these activities also
+raise our awareness on values and practicality of conversing in our own
+MTL in a real world context
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Chinese New Year Celebration 2021</h3>
+<p>On 11 Feb 2021 (Thursday), the MTL Department organised the annual Chinese
+New Year Celebration on New Year’s Eve.
+<br>
+</p>
+<p>This was indeed a unique experience for all JWSS staff and students. Even
+though we were not able to celebrate in the hall like previous years due
+to the pandemic, but it was still memorable as we were able to celebrate
+in class with meaningful classroom activities. Some of the activities that
+were done include: making of sky lantern, writing wishes for our COVID-19
+frontliners, donating items for the hampers which were given to school
+cleaners and the elderly from the NTUC Health Senior Activity Centre (Taman
+Jurong).
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/image20.png">
+</div>
+<p>
+<br>
+</p>
