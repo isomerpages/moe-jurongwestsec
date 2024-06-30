@@ -231,8 +231,8 @@ variant: tiptap
 <p>18/</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Ms/Mr</strong> 
-<br><em>AYH (Sec 3)</em>
+<p><strong>Mrs Keira Seow </strong>
+<br><em>SH Student Leadership </em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
