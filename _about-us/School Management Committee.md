@@ -232,7 +232,7 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Keira Seow </strong>
-<br><em>SH Student Leadership </em>
+<br><em>SH Student Leadership</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
