@@ -175,9 +175,9 @@ variant: tiptap
 </p>
 <p><em>Teacher</em>
 </p>
-<p><em>English Language </em>
+<p><em>English Language</em>
 </p>
-<p><em>English Literature </em>
+<p><em>English Literature</em>
 </p>
 </td>
 </tr>
