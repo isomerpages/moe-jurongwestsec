@@ -105,7 +105,7 @@ variant: tiptap
 </p>
 <p><em>Teacher</em>
 </p>
-<p><em>English Language</em>
+<p><em>English Literature</em>
 </p>
 <p><em>History</em>
 </p>
