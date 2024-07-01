@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Yeo Chin Hwei</strong>
-<br><em>Senior Teacher<br>Physical Education<br>History<br></em>
+<br><em>Senior Teacher<br>Physical Education<br></em>
 </p>
 </td>
 </tr>
