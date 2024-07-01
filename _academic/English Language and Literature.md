@@ -50,9 +50,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms&nbsp;&nbsp;Junaidah</strong>
-<br><em>Lead Teacher<br>English Literature</em>
-</p>
-<p><em>Chemistry</em>
+<br><em>Lead Teacher<br>English Language </em>
 <br>
 </p>
 </td>
