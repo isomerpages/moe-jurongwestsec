@@ -53,7 +53,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Durgadevi</strong>
-<br><em>Teacher </em>
+<br><em>Teacher</em>
 </p>
 <p><em>Tamil Language<br>Tamil Literature</em>
 <br>
