@@ -165,7 +165,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Yew Yee Siang</strong>
-<br><em>Teacher&nbsp;<br>Geography<br>Social Studies </em>
+<br><em>Teacher&nbsp;<br>Geography<br>Social Studies</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
