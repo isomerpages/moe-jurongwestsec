@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Teaching Staff</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MT.jpg" src="/images/MT.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/MTL.png">
 </div>
 <table style="minWidth: 150px">
 <colgroup>
@@ -51,8 +52,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Magahletchimi d/o Amarthalingam</strong>
-<br><em>ST Tamil Language<br>Tamil Language<br>Moral Education</em>
+<p><strong>Ms Durgadevi</strong>
+<br><em>Teacher </em>
+</p>
+<p><em>Tamil Language<br>Tamil Literature</em>
 <br>
 </p>
 </td>
@@ -115,7 +118,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Duan Linxin<br></strong><em>Teacher<br>Chinese Language<br>Chinese Literature</em>
+<p><strong>Mr Muhammad Shafarie bin Abdul Manan<br></strong><em>Teacher<br>Malay Language<br>Malay Literature</em>
 <br>
 </p>
 </td>
