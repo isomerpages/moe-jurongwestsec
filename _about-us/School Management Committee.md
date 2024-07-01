@@ -5,11 +5,19 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SMC2024" src="/images/Department%20Photos/SMC2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/SMC.png">
 </div>
 <p><strong>[ SCHOOL LEADERS ]</strong>
 </p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -44,7 +52,15 @@ variant: tiptap
 </table>
 <p><strong>[ SCHOOL STAFF DEVELOPER / HEADS OF DEPARTMENTS / YEAR HEADS ]</strong>
 </p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -89,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chia Yanzhong,&nbsp;Dennis&nbsp;</strong> 
+<p><strong>Ms Angeline Kiew Mee Ling</strong> 
 <br><em>HOD Educational Technology</em>
 </p>
 </td>
@@ -192,7 +208,15 @@ variant: tiptap
 </table>
 <p><strong>[ SUBJECT HEADS / ASSISTANT YEAR HEADS ]</strong>
 </p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -207,8 +231,8 @@ variant: tiptap
 <p>18/</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Eliza Tan</strong> 
-<br><em>AYH (Sec 3)</em>
+<p><strong>Mrs Keira Seow </strong>
+<br><em>SH Student Leadership</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,8 +319,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ho Liyi</strong> 
-<br><em>SH Science</em>
+<p><strong>Ms Kek Poh Khee</strong> 
+<br><em>SH Chemistry</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -313,7 +337,15 @@ variant: tiptap
 </table>
 <p><strong>[ ADMINISTRATION MANAGER / OPERATION MANAGERS ]</strong>
 </p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -330,7 +362,7 @@ variant: tiptap
 <p>30/</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mr New Lam Heng</strong> 
+<p><strong>Mr Lim Kian Huat</strong> 
 <br>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -338,9 +370,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Hoo Kap Yoong</strong> 
-<br><em>Operations Manager</em>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
