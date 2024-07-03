@@ -11,6 +11,15 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: School Graduating Certificate
+      subtitle: Add an image and text
+      id: infopic
+      description: Alumni who graduated in 2023 may reserve a slot to collect their
+        SGC from the school general office.
+      button: click here to reserve your slot now!
+      url: https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
+      alt: Image alt text
+  - infopic:
       title: GCE O-Level 2023 Results Release
       subtitle: GCE O-Level 2023
       id: infopic
