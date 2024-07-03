@@ -12,10 +12,8 @@ variant: markdown
 
 ----------------------------------------------------
 
-**Collection of School Graduating Certificate (Testimonial) for Express and Normal (Technical) students who graduated in 2022**  
-The School Graduating Certificate (Testimonial) for Express and Normal (Technical) students who graduated in 2022 is now ready for collection!
+**Collection of School Graduating Certificate (Testimonial) for all students who graduated in 2023**  
+The School Graduating Certificate (Testimonial) for all students who graduated in 2023 is now ready for collection!
 
 Do note that an appointment must be made before collection. Click on the link below to book an appointment.
 https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
-
-For alumni who were from the Normal (Aademic) stream (both in Secondary 4 & 5), there will be a slight delay in the collection of your certificates. You will receive updates through your form teachers.
