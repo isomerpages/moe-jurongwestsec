@@ -19,6 +19,7 @@ sections:
       button: click here to reserve your slot now!
       url: https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
       alt: Image alt text
+      image: /images/Highlights/SGC.jpg
   - infopic:
       title: GCE O-Level 2023 Results Release
       subtitle: GCE O-Level 2023
