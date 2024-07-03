@@ -11,8 +11,8 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
-      title: School Graduating Certificate
-      subtitle: Add an image and text
+      title: School Graduating Certificate (SGC)
+      subtitle: School Graduating Certificate
       id: infopic
       description: Alumni who graduated in 2023 may reserve a slot to collect their
         SGC from the school general office.
