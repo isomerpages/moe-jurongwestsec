@@ -320,7 +320,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Kek Poh Khee</strong> 
-<br><em>SH Chemistry (Internal) </em>
+<br><em>SH Chemistry (Internal)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
