@@ -106,7 +106,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Angeline Kiew Mee Ling</strong> 
-<br><em>HOD Educational Technology</em>
+<br><em>HOD Educational Technology (Internal)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -320,7 +320,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Kek Poh Khee</strong> 
-<br><em>SH Chemistry</em>
+<br><em>SH Chemistry (Internal) </em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
