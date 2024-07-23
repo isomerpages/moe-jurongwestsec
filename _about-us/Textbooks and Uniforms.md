@@ -29,6 +29,5 @@ variant: tiptap
 <p>Telephone Number:&nbsp;6479 6811</p>
 <p>Fax&nbsp;Number: 6474 4037</p>
 <p>Website:&nbsp; khuniform.com</p>
-<p>Email:&nbsp; sales@khuniform.com.sg</p>
-<p><a href="/files/Instructions%20for%20Purchase%20of%20School%20Uniform.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform List</a>
+<p>Email:&nbsp; <a href="mailto:sales@khuniform.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com.sg</a> 
 </p>
