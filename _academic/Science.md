@@ -5,11 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h1>Teaching Staff</h1>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci Dept/Science2024/Science_Dept.png">
 </div>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -83,8 +91,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ang Geok Xing</strong> 
-<br><em>Teacher<br>Biology</em>
+<p><strong>Ms Lim Li Ying</strong> 
+<br><em>Teacher<br>Chemistry</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,8 +124,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Juliana Binte Adaham</strong> 
-<br><em>Teacher<br>Chemistry<br></em>
+<p><strong>Mr Chew Wei Sheng</strong> 
+<br><em>Teacher<br>Chemistry Mathematics<br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +186,10 @@ variant: tiptap
 </tbody>
 </table>
 <h1>Overview</h1>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -307,7 +318,13 @@ Science is the vehicle that spurs thinking.</p>
 </table>
 <h1>Programme</h1>
 <h4>Achievements</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -555,7 +572,10 @@ Science is the vehicle that spurs thinking.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -597,7 +617,12 @@ to the sciences.</p>
 <p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -925,7 +950,12 @@ JWSS students secured an impressive tally of results, including 3 Distinctions,
 9 Credits, and 5 Merits. These accomplishments underscore our students'
 dedication to academic excellence and their commendable performance in
 the realm of science.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1108,7 +1138,12 @@ students.&nbsp;
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1176,7 +1211,10 @@ device.
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1205,7 +1243,11 @@ received the Bronze Award in the Singapore Junior Biology Olympiad 2021.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1241,7 +1283,11 @@ to real-world applications.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1262,7 +1308,11 @@ extracting DNA from a simulated crime scene to identify a criminal.&nbsp;
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1284,7 +1334,11 @@ techniques used by forensics scientists for analyzing blood which shed
 light on how an attack happened at a crime scene.
 <br><strong><br></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1319,7 +1373,11 @@ activities, students were introduced to some ideas relating to viruses,
 immunology and cardiology.
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1339,7 +1397,11 @@ immunology and cardiology.
 <br>Applied Food Sciences and Molecular Gastronomy
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1363,7 +1425,11 @@ sliced apples looking the freshest.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1393,7 +1459,11 @@ build, and program robots with different functions.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1417,7 +1487,11 @@ these knowledge to build a safe.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1440,7 +1514,11 @@ these knowledge to build a safe.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1501,7 +1579,10 @@ uploaded onto SLS.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1623,7 +1704,11 @@ and had an enriching learning experience.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1653,7 +1738,10 @@ and had an enriching learning experience.
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1704,7 +1792,11 @@ and the design of the boats.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1724,7 +1816,11 @@ and the design of the boats.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

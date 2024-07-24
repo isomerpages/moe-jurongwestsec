@@ -480,12 +480,14 @@ as follows:</p>
 <p>Visual Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interview</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visual Arts Task</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interview and Visual Arts
+Task</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Jul 24 (Fri) from 3.30pm</p>
+<p><s>12 Jul 24 (Fri) from 3.30pm</s>
+</p>
 <p>17 Jul 24 (Wed) from 3.30pm</p>
+<p>*24 Jul 24 (Wed) from 3.30pm (updated)</p>
 </td>
 </tr>
 <tr>
@@ -512,8 +514,9 @@ as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong>
+<p><strong>*change in selection date</strong>
 </p>
+<p></p>
 <p><strong><u>F. RELEASE OF OUTCOME OF DSA-SEC EXERCISE</u></strong>
 </p>
 <p>All applicants would be informed of their selection outcome by <strong><u>12 Sep 2024</u></strong> [i.e.
