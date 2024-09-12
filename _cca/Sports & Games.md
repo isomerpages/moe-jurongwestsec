@@ -2809,10 +2809,48 @@ and fitness through stamina building and exercise.</p>
 and camaraderie among members.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; instil a healthy competitive spirit
 and striving for excellence, on and off the field.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CCA Updates/Photo_31_7_24__3_48_12_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CCA Updates/frisbee.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/uf2.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>UPA(S) INTER-SCHOOL UNDER-17 ULTIMATE FRISBEE COMPETITION</u>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> Placing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
