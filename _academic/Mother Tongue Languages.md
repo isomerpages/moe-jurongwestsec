@@ -409,6 +409,11 @@ cultures&nbsp;in relation to their own.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <h4><strong><u>MOTHER TONGUE LANGUAGES (MTL) FORTNIGHT 2024</u></strong></h4>
 <p></p>
 <p>Join us in embracing the spirit of celebration as we unveil the theme
@@ -423,29 +428,111 @@ talented students, our respected Principal, Ms. Tan, inaugurated the event
 by unveiling a mystery box and signing a framed poster contained within,
 marking the official commencement of MTL Fortnight 2024.</p>
 <p>&nbsp;</p>
-<p>(Insert images A1, A2, A3, A4 &amp; A5)</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A5.jpg">
+</div>
+<p></p>
+<p></p>
 <p>Here are some highlights of the various activities that took place during
 the MTL Fortnight programme.</p>
 <p>&nbsp;</p>
 <p><strong><u>CHINESE LANGUAGE UNIT ACTIVITIES</u></strong>
 </p>
 <p>&nbsp;</p>
-<p>(Insert images B1, B2, B3 &amp; B4 with captions)</p>
-<p>&nbsp;</p>
-<p>(Insert images C1, C2, C3 &amp; C4 with captions)</p>
-<p>&nbsp;</p>
-<p>(Insert images D1, D2 &amp; D3 with captions)</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B1.jpg">
+</div>
+<p>&nbsp;Secondary 1 CL students made Chinese reunion dishes using air dry
+clay</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C1.jpg">
+</div>
+<p>&nbsp;Secondary 2 CL students made DIY dragons</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D3.png">
+</div>
+<p>Secondary 3 CL students were able to better appreciate tea and the etiquette
+of drinking tea</p>
+<p></p>
 <p>&nbsp;</p>
 <p><strong><u>MALAY LANGUAGE UNIT ACTIVITIES</u></strong>
 </p>
 <p>&nbsp;</p>
-<p>(Insert images E1, E2, E3 &amp; E4 with captions)</p>
-<p>&nbsp;</p>
-<p>(Insert images F1, F2, F3 &amp; F4 with captions)</p>
-<p>&nbsp;</p>
-<p>(Insert images G1, G2, G3 &amp; G4 with captions)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E4.jpg">
+</div>
+<p>Secondary 1 ML students made traditional Malay food using air dry clay</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F4.jpg">
+</div>
+<p>Secondary 2 ML students learned the steps to <em>tarian</em>  <em>joget </em>in
+a Malay traditional dance workshop</p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><u>TAMIL LANGUAGE UNIT ACTIVITIES</u></strong>
