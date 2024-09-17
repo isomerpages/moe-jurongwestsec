@@ -672,7 +672,50 @@ performances from Modern Dance and Choir. The celebration concluded with
 a mass sing-along of CNY songs and the symbolic lighting of “balloon firecrackers”
 by the Principal, Ms. Tan Ming Ming, bringing the event to a joyful close.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A.png">
+</div>
+<p>The Lion Dance performance captivated the audience, setting the festive
+tone for the celebration.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B.png">
+</div>
+<p>Our Choir students led a lively sing-along with classic Lunar New Year
+tunes, getting everyone involved!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C.jpg">
+</div>
+<p>Modern Dance students lit up the stage with their energetic performance,
+adding to the joyous atmosphere.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D.png">
+</div>
+<p>The "balloon firecrackers" moment marked the grand climax of the celebration!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E.png">
+</div>
+<p>Students presented hampers as heartfelt tokens of appreciation to our
+hardworking cleaners and security guards.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F.jpg">
+</div>
+<p>Students eagerly tried their hand at crafting Spring Festival couplets.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G.jpg">
+</div>
+<p>Students and teachers worked together to wrap hampers for the appreciation
+gifts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/H.jpg">
+</div>
+<p>The creative dragon head crafted by our talented students stole the show!</p>
 <p></p>
 <p></p>
 <h3><strong><u>Mother Tongue Languages (MTL) Fortnight 2022</u></strong></h3>
