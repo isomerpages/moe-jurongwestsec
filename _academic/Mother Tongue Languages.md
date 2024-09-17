@@ -652,6 +652,29 @@ the MTL Department do hope that we will be able to foster a greater love
 for the different MTL and cultures in the school.</p>
 <p></p>
 <p></p>
+<h4><strong><u>Lunar New Year Celebration 2024</u></strong></h4>
+<p></p>
+<p>The MTL Department organised the annual Lunar New Year celebration on
+9 February 2024, featuring activities that immersed everyone in the festivities
+while deepening their understanding of the cultural significance of Lunar
+New Year.</p>
+<p>&nbsp;</p>
+<p>Secondary 1 students crafted festive foods from various ethnicities using
+air-dry clay, while Secondary 2 students created DIY dragon heads from
+recycled materials, learning about dragons' symbolism. Secondary 3 students
+explored the origins of Spring Festival couplets and crafted their own,
+and Secondary 4 and 5 students wrapped hampers as tokens of appreciation
+for the cleaners and security guards, spreading the festive joy of the
+New Year.</p>
+<p>&nbsp;</p>
+<p>The hall event began with a lively lion dance, followed by captivating
+performances from Modern Dance and Choir. The celebration concluded with
+a mass sing-along of CNY songs and the symbolic lighting of “balloon firecrackers”
+by the Principal, Ms. Tan Ming Ming, bringing the event to a joyful close.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3><strong><u>Mother Tongue Languages (MTL) Fortnight 2022</u></strong></h3>
 <p>
 <br>
