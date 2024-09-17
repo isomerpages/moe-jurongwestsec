@@ -533,18 +533,62 @@ of drinking tea</p>
 a Malay traditional dance workshop</p>
 <p></p>
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G4.jpg">
+</div>
+<p>Secondary 3 ML students participated in a <em>Silat </em>workshop</p>
+<p></p>
 <p><strong><u>TAMIL LANGUAGE UNIT ACTIVITIES</u></strong>
 </p>
 <p>&nbsp;</p>
-<p>(Insert images H1, H2, H3 &amp; H4 with captions)</p>
-<p>&nbsp;</p>
-<p>(Insert images I1, I2, I3 &amp; I4 with captions)</p>
-<p>&nbsp;</p>
-<p>(Insert images J1, J2 &amp; J3 with captions)</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/H1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/H2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/H3.jpg">
+</div>
+<p>Secondary 1 TL students made traditional Indian food using air dry clay</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I4.jpg">
+</div>
+<p>Secondary 2 TL students decorated traditional oil lamps</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/J1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/J2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/J3.png">
+</div>
+<p>Secondary 3 TL students tied flower garlands</p>
+<p></p>
 <p><strong><u>MTL BOOK FAIR</u></strong>
 </p>
 <p><strong><u>&nbsp;</u></strong>
@@ -1183,3 +1227,4 @@ Jurong).
 <p>
 <br>
 </p>
+<p></p>
