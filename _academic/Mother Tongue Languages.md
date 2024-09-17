@@ -408,6 +408,88 @@ cultures&nbsp;in relation to their own.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<h4><strong><u>MOTHER TONGUE LANGUAGES (MTL) FORTNIGHT 2024</u></strong></h4>
+<p></p>
+<p>Join us in embracing the spirit of celebration as we unveil the theme
+for this year's MTL Fortnight programme, <em>Let’s Celebrate!</em> This theme
+was selected to coincide with the commencement of the programme, which
+aligns with the festive spirit of Lunar New Year. In addition, it was an
+opportune moment for students to engage in activities that illuminate the
+diverse cultural celebrations and festivals from the three different MTL.</p>
+<p>The programme kicked off with an exciting skit and captivating performances
+on 7<sup>th</sup> February 2024. Following the impressive showcase by our
+talented students, our respected Principal, Ms. Tan, inaugurated the event
+by unveiling a mystery box and signing a framed poster contained within,
+marking the official commencement of MTL Fortnight 2024.</p>
+<p>&nbsp;</p>
+<p>(Insert images A1, A2, A3, A4 &amp; A5)</p>
+<p>&nbsp;</p>
+<p>Here are some highlights of the various activities that took place during
+the MTL Fortnight programme.</p>
+<p>&nbsp;</p>
+<p><strong><u>CHINESE LANGUAGE UNIT ACTIVITIES</u></strong>
+</p>
+<p>&nbsp;</p>
+<p>(Insert images B1, B2, B3 &amp; B4 with captions)</p>
+<p>&nbsp;</p>
+<p>(Insert images C1, C2, C3 &amp; C4 with captions)</p>
+<p>&nbsp;</p>
+<p>(Insert images D1, D2 &amp; D3 with captions)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>MALAY LANGUAGE UNIT ACTIVITIES</u></strong>
+</p>
+<p>&nbsp;</p>
+<p>(Insert images E1, E2, E3 &amp; E4 with captions)</p>
+<p>&nbsp;</p>
+<p>(Insert images F1, F2, F3 &amp; F4 with captions)</p>
+<p>&nbsp;</p>
+<p>(Insert images G1, G2, G3 &amp; G4 with captions)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>TAMIL LANGUAGE UNIT ACTIVITIES</u></strong>
+</p>
+<p>&nbsp;</p>
+<p>(Insert images H1, H2, H3 &amp; H4 with captions)</p>
+<p>&nbsp;</p>
+<p>(Insert images I1, I2, I3 &amp; I4 with captions)</p>
+<p>&nbsp;</p>
+<p>(Insert images J1, J2 &amp; J3 with captions)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>MTL BOOK FAIR</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>(Insert images K1, K2, K3 &amp; K4)</p>
+<p>&nbsp;</p>
+<p>This year, we cordially invited book vendors specialising in a rich variety
+of MTL texts, covering a broad spectrum of genres to captivate the diverse
+interests of our students and staff alike.</p>
+<p>&nbsp;</p>
+<p><strong><u>MTL FORTNIGHT SHOWCASE</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>For this year’s MTL Fortnight Showcase, our dedicated team of teachers
+put together an exciting programme that featured student facilitations,
+and interactive activities that highlighted the beauty and importance of
+preserving the richness of the different cultural heritage. These activities
+are linked to the theme <em>Let’s Celebrate!</em>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>(Insert images L1, L2, L3, L4, L5, L6, L7 &amp; L8)</p>
+<p>&nbsp;</p>
+<p>After partaking in the various engaging hands-on activities, participants
+even got a chance to bring home some sweet treats too! Through such a showcase,
+the MTL Department do hope that we will be able to foster a greater love
+for the different MTL and cultures in the school.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3><strong><u>Mother Tongue Languages (MTL) Fortnight 2022</u></strong></h3>
 <p>
 <br>
