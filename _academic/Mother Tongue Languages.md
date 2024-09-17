@@ -591,9 +591,19 @@ a Malay traditional dance workshop</p>
 <p></p>
 <p><strong><u>MTL BOOK FAIR</u></strong>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>(Insert images K1, K2, K3 &amp; K4)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/K1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/K2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/K3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/K4.jpg">
+</div>
 <p>&nbsp;</p>
 <p>This year, we cordially invited book vendors specialising in a rich variety
 of MTL texts, covering a broad spectrum of genres to captivate the diverse
@@ -1224,7 +1234,4 @@ Jurong).
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/image20.png">
 </div>
-<p>
-<br>
-</p>
 <p></p>
