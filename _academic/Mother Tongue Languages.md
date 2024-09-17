@@ -619,16 +619,37 @@ and interactive activities that highlighted the beauty and importance of
 preserving the richness of the different cultural heritage. These activities
 are linked to the theme <em>Let’s Celebrate!</em>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>(Insert images L1, L2, L3, L4, L5, L6, L7 &amp; L8)</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L8.jpg">
+</div>
 <p>&nbsp;</p>
 <p>After partaking in the various engaging hands-on activities, participants
 even got a chance to bring home some sweet treats too! Through such a showcase,
 the MTL Department do hope that we will be able to foster a greater love
 for the different MTL and cultures in the school.</p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <h3><strong><u>Mother Tongue Languages (MTL) Fortnight 2022</u></strong></h3>
