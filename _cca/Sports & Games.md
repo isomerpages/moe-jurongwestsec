@@ -923,138 +923,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/floorball5.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/floorball12.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Hockey</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Netball</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Ultimate Frisbee</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Volleyball</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-<li>
-<p><a href="#basketball" rel="noopener noreferrer nofollow" target="_blank">Basketball</a>
-</p>
-</li>
-<li>
-<p><a href="#floorball" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
-</p>
-</li>
-<li>
-<p><a href="#hockey" rel="noopener noreferrer nofollow" target="_blank">Hockey</a>
-</p>
-</li>
-<li>
-<p><a href="#netball" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
-</p>
-</li>
-<li>
-<p><a href="#frisbee" rel="noopener noreferrer nofollow" target="_blank">Ultimate Frisbee</a>
-</p>
-</li>
-<li>
-<p><a href="#volleyball" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a>
-</p>
-</li>
-</ol>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<h4>Activities &amp; Events (2019)</h4>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball6.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball7.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball8.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball9.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball10.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball11.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball12.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball13.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball14.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/floorball15.png">
-</div>
-<p><a href="#up" rel="noopener noreferrer nofollow" target="_blank">back to top of the page</a>
-</p>
-<h3>Hockey</h3>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/HockeyBoys.jpg">
-</div>
-<p>
-<br>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1113,13 +989,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mustaqim Mohamed (Teacher-In-Charge)
-<br>Mr Yip Kwan Guan(OIC)
-<br>Mr Muhammad Illyas Abdussamad</p>
+<p>Mr Mustaqim Mohamed (OIC)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/HockeyBoys.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -1159,697 +1036,63 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Bowl Champion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division Bowl Runner up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Plate 1st Runner up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division Plate Runner up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Bowl 1st Runner up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division Plate 1st Runner up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2014</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2014</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2013</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2013</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2012</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division 2nd Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2012</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2011</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division 2nd Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2011</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division 1st Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2010</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division 1st Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2010</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division 4th Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2009</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division 3rd Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2009</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division 2nd Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2008</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division 3rd Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2008</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division Champion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2007</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division 3rd Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2007</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division 3rd Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2005</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division 1st Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2005</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Hockey Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'C' Division 1st Runner Up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2003</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>List of Activities</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Activity
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2020 - 2021
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training Sessions via Zoom and Face-to-Face</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jan-Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training cum Team Bonding Camp in JWSS
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Virtual Team Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Activity
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2019
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Outreach Programme at Frontier Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>November</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National ‘C’ Division Championship
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June - July</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training cum Team bonding Camp in JWSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National ‘B’ Division Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>January - April</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Activity
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2018
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Overseas Immersion Trip to Malacca</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>November</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Holiday Trainings
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June/ November</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National ‘C’ Division Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>July to August</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National ‘B’ Division Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>February to April</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training cum Team bonding Camp in JWSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Open House</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>January</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/hockey1.png">
-</div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/hockey2.png">
-</div>
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/hockey3.png">
 </div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/hockey4.png">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/hockey5.png">
-</div>
-<p>
-<br><a href="#up" rel="noopener noreferrer nofollow" target="_blank">back to top of the page</a>
-</p>
-<h3>Netball</h3>
+</details>
+<details class="isomer-details">
+<summary>Netball</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/netball1.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/netball2.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/netball3.png">
 </div>
-<p>
-<br>
-</p>
-<h4>Netball 2021</h4>
-<p>Usually, our Netballers participate in various competitions and carnivals
-throughout the year. However, due to the pandemic, National School Games
-(NSG) and other competitions were cancelled. Despite the setback, Netball
-teachers and student leaders planned meaningful activities for Netballers
-to stay fit and ready for future challengers.</p>
-<p>&nbsp;</p>
-<p>As a replacement for NSG, Netball student leaders conducted the Intra-CCA
-4v4 Netball League and Netball Skills Challenge. This motivated the students
-to come for training and hone their skills in the game. In order to stay
-ahead in the game, our coach conducted online netball session via Zoom
-during the Heightened Alert Phase period. The girls did physical training
-and ball handling activities at home. In addition, to keep the team spirit
-high and bond tight, Netball Student Leaders also organised team bonding
-activities every term. Netballers really look forward to take part in these
-fun activities!</p>
-<p>2021 Highlights</p>
-<ul>
-<li>
-<p>&nbsp; CCA Open House</p>
-</li>
-<li>
-<p>&nbsp; Intra-CCA 4v4 Netball Tournament</p>
-</li>
-<li>
-<p>&nbsp; Netball Skills Challenge</p>
-</li>
-<li>
-<p>&nbsp; Appreciation Tea for Sec 4 and 5 Netballers</p>
-</li>
-<li>
-<p>&nbsp; Termly Team Bonding Activities</p>
-</li>
-<li>
-<p>&nbsp; e-CCA via Zoom</p>
-</li>
-<li>
-<p>Holiday Engagement – Netball Virtual Run</p>
-</li>
-<li>
-<p>Holiday Engagement – Planks Challenge</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/netball4.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/netball5.png">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball6.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball7.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball8.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball9.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball10.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball11.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball12.png">
-</div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/netball13.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/netball14.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/netball1.png">
 </div>
-<p>
-<br><a href="#up" rel="noopener noreferrer nofollow" target="_blank">back to top of the page</a>
-</p>
-<h3>2024-2025 Ultimate Frisbee</h3>
+<p></p>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Ultimate Frisbee</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h3>Ultimate Frisbee</h3>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/uf1.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p>At JWSS, our CCA objectives are to</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; teach and enhance the fundamental
 skills of Ultimate Frisbee, including strategic gameplay.</p>
@@ -1901,149 +1144,48 @@ and striving for excellence, on and off the field.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/uf3.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/uf4.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/uf5.png">
 </div>
-<p>
-<br><a href="#up" rel="noopener noreferrer nofollow" target="_blank">back to top of the page</a>
-</p>
-<h3>Volleyball</h3>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Volleyball</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/volleyball1.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/volleyball2.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/volleyball3.png">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball4.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball5.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball6.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball7.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball8.png">
-</div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/volleyball9.png">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball10.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball11.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball12.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball13.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball14.png">
-</div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/volleyball15.png">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball16.png">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball17.png">
+</details>
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball18.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball19.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball20.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/volleyball21.png">
-</div>
+<p></p>
 <p></p>
