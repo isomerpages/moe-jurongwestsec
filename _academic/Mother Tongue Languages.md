@@ -408,6 +408,316 @@ cultures&nbsp;in relation to their own.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<h4><strong><u>MOTHER TONGUE LANGUAGES (MTL) FORTNIGHT 2024</u></strong></h4>
+<p></p>
+<p>Join us in embracing the spirit of celebration as we unveil the theme
+for this year's MTL Fortnight programme, <em>Let’s Celebrate!</em> This theme
+was selected to coincide with the commencement of the programme, which
+aligns with the festive spirit of Lunar New Year. In addition, it was an
+opportune moment for students to engage in activities that illuminate the
+diverse cultural celebrations and festivals from the three different MTL.</p>
+<p>The programme kicked off with an exciting skit and captivating performances
+on 7<sup>th</sup> February 2024. Following the impressive showcase by our
+talented students, our respected Principal, Ms. Tan, inaugurated the event
+by unveiling a mystery box and signing a framed poster contained within,
+marking the official commencement of MTL Fortnight 2024.</p>
+<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A5.jpg">
+</div>
+<p></p>
+<p></p>
+<p>Here are some highlights of the various activities that took place during
+the MTL Fortnight programme.</p>
+<p>&nbsp;</p>
+<p><strong><u>CHINESE LANGUAGE UNIT ACTIVITIES</u></strong>
+</p>
+<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B1.jpg">
+</div>
+<p>&nbsp;Secondary 1 CL students made Chinese reunion dishes using air dry
+clay</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C1.jpg">
+</div>
+<p>&nbsp;Secondary 2 CL students made DIY dragons</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D3.png">
+</div>
+<p>Secondary 3 CL students were able to better appreciate tea and the etiquette
+of drinking tea</p>
+<p></p>
+<p>&nbsp;</p>
+<p><strong><u>MALAY LANGUAGE UNIT ACTIVITIES</u></strong>
+</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E4.jpg">
+</div>
+<p>Secondary 1 ML students made traditional Malay food using air dry clay</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F4.jpg">
+</div>
+<p>Secondary 2 ML students learned the steps to <em>tarian</em>  <em>joget </em>in
+a Malay traditional dance workshop</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G4.jpg">
+</div>
+<p>Secondary 3 ML students participated in a <em>Silat </em>workshop</p>
+<p></p>
+<p><strong><u>TAMIL LANGUAGE UNIT ACTIVITIES</u></strong>
+</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/H1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/H2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/H3.jpg">
+</div>
+<p>Secondary 1 TL students made traditional Indian food using air dry clay</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I4.jpg">
+</div>
+<p>Secondary 2 TL students decorated traditional oil lamps</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/J1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/J2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/J3.png">
+</div>
+<p>Secondary 3 TL students tied flower garlands</p>
+<p></p>
+<p><strong><u>MTL BOOK FAIR</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/K1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/K2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/K3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/K4.jpg">
+</div>
+<p>&nbsp;</p>
+<p>This year, we cordially invited book vendors specialising in a rich variety
+of MTL texts, covering a broad spectrum of genres to captivate the diverse
+interests of our students and staff alike.</p>
+<p>&nbsp;</p>
+<p><strong><u>MTL FORTNIGHT SHOWCASE</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>For this year’s MTL Fortnight Showcase, our dedicated team of teachers
+put together an exciting programme that featured student facilitations,
+and interactive activities that highlighted the beauty and importance of
+preserving the richness of the different cultural heritage. These activities
+are linked to the theme <em>Let’s Celebrate!</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/L8.jpg">
+</div>
+<p>&nbsp;</p>
+<p>After partaking in the various engaging hands-on activities, participants
+even got a chance to bring home some sweet treats too! Through such a showcase,
+the MTL Department do hope that we will be able to foster a greater love
+for the different MTL and cultures in the school.</p>
+<p></p>
+<p></p>
+<h4><strong><u>Lunar New Year Celebration 2024</u></strong></h4>
+<p></p>
+<p>The MTL Department organised the annual Lunar New Year celebration on
+9 February 2024, featuring activities that immersed everyone in the festivities
+while deepening their understanding of the cultural significance of Lunar
+New Year.</p>
+<p>&nbsp;</p>
+<p>Secondary 1 students crafted festive foods from various ethnicities using
+air-dry clay, while Secondary 2 students created DIY dragon heads from
+recycled materials, learning about dragons' symbolism. Secondary 3 students
+explored the origins of Spring Festival couplets and crafted their own,
+and Secondary 4 and 5 students wrapped hampers as tokens of appreciation
+for the cleaners and security guards, spreading the festive joy of the
+New Year.</p>
+<p>&nbsp;</p>
+<p>The hall event began with a lively lion dance, followed by captivating
+performances from Modern Dance and Choir. The celebration concluded with
+a mass sing-along of CNY songs and the symbolic lighting of “balloon firecrackers”
+by the Principal, Ms. Tan Ming Ming, bringing the event to a joyful close.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A.png">
+</div>
+<p>The Lion Dance performance captivated the audience, setting the festive
+tone for the celebration.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B.png">
+</div>
+<p>Our Choir students led a lively sing-along with classic Lunar New Year
+tunes, getting everyone involved!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C.jpg">
+</div>
+<p>Modern Dance students lit up the stage with their energetic performance,
+adding to the joyous atmosphere.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D.png">
+</div>
+<p>The "balloon firecrackers" moment marked the grand climax of the celebration!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/E.png">
+</div>
+<p>Students presented hampers as heartfelt tokens of appreciation to our
+hardworking cleaners and security guards.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F.jpg">
+</div>
+<p>Students eagerly tried their hand at crafting Spring Festival couplets.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G.jpg">
+</div>
+<p>Students and teachers worked together to wrap hampers for the appreciation
+gifts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/H.jpg">
+</div>
+<p>The creative dragon head crafted by our talented students stole the show!</p>
+<p></p>
+<p></p>
 <h3><strong><u>Mother Tongue Languages (MTL) Fortnight 2022</u></strong></h3>
 <p>
 <br>
@@ -1011,6 +1321,4 @@ Jurong).
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/image20.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
