@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Badminton</summary>
+<summary>Badminton (Boys and Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -304,7 +304,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Basketball</summary>
+<summary>Basketball (Boys and Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h3>Basketball</h3>
 <div class="isomer-image-wrapper">
@@ -748,7 +748,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Floorball</summary>
+<summary>Floorball (Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -929,7 +929,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Hockey</summary>
+<summary>Hockey (Boys)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -1053,7 +1053,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Netball</summary>
+<summary>Netball (Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -1086,7 +1086,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ultimate Frisbee</summary>
+<summary>Ultimate Frisbee (Boys and Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CCA Updates/Photo_31_7_24__3_48_12_PM.jpg">
@@ -1155,7 +1155,7 @@ and striving for excellence, on and off the field.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Volleyball</summary>
+<summary>Volleyball (Boys)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/volleyball1.png">
