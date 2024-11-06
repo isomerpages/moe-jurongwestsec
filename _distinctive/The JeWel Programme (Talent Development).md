@@ -16,12 +16,13 @@ Development Programme (TDP), the JeWel Programme.&nbsp;</p>
 as well as academic results in specific subjects.</p>
 <h2>Objectives</h2>
 <p></p>
-<p></p>
+<p>&lt;photos&gt;</p>
 <h2>Approach</h2>
 <p>The JeWel Programme&nbsp;emphasises the<strong> interconnectedness</strong> of
 the traits of a <strong>Learner, Thinker, and Leader</strong>.</p>
 <p>It provides platforms and opportunities for students to develop <strong>future-ready competencies </strong>to <strong>lead themselves and others </strong>whilst
 allowing them to <strong>pursue their talent in the respective domains</strong>.</p>
+<p>&lt;photos&gt;</p>
 <h2>How JeWel Programme Prepares Students for the Future</h2>
 <p>The programme is designed to allow students to discover their interest
 and further develop their talent, so they are in good stead to pursue their
@@ -50,7 +51,7 @@ enrichment in one of the four domains – <strong>Innovation, Communication, Phy
 Supporting the development in these four domains are – English Language,
 Mathematics, Science, Aesthetics, Craft and Technology, and Physical Education
 departments.</p>
-<p></p>
+<p>&lt;photos&gt;</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The programmes are <strong>inquiry-driven</strong> and <strong>hands-on</strong>,
 allowing students to deepen their learning in advanced topics through <strong>customised trainings</strong> and <strong>collaborative group work</strong>.
 By working on <strong>authentic tasks</strong> which are situated in <strong>real-world contexts</strong>,
@@ -72,7 +73,7 @@ and leadership competencies.</p>
 <h3>Sports JeWel Highlights</h3>
 <p>&lt;photos&gt;</p>
 <h3>Aesthetics JeWel Highlights</h3>
-<p></p>
+<p>&lt;photos&gt;</p>
 <p></p>
 <p></p>
 <p></p>
