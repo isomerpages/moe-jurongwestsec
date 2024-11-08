@@ -30,16 +30,6 @@ sections:
       url: /gceolevel2024/
       alt: Image alt text
       image: /images/Results Release/Picture1.png
-  - infopic:
-      title: 2024 Secondary One Registration
-      subtitle: 2024 Secondary One intake
-      id: infopic
-      description: A very warm welcome to all our new 2024 Secondary One students and
-        parents!
-      button: Click here for more information
-      url: /seconereg/
-      image: /images/Sec One Registration/sec1reg2024.jpg
-      alt: Image alt text
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
