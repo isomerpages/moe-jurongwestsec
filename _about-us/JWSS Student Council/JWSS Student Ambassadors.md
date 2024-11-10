@@ -5,8 +5,6 @@ description: ""
 third_nav_title: JWSS Student Council
 variant: tiptap
 ---
-<p></p>
-<p></p>
 <h1>Overview</h1>
 <p>We believe that every Student Ambassador can contribute as a community
 youth leader beyond the school. Fuelled by passion and centred on values,
@@ -61,4 +59,23 @@ Competencies)</p>
 to 5.30pm.</p>
 <p>Primary School Student Leaders who are keen to contribute to Student Ambassadors
 may also check out our <strong>DSA Leadership</strong> webpage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SA/A__Blood_Donation_Drive.jpg">
+</div>
+<p>Students engaging the public on the importance of Blood Donation</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SA/B__Engaging_the_school_in_Sustainability_Sharing.jpg">
+</div>
+<p>Students engaging the school in Sustainability Education</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SA/C__Student_Leaders.jpg">
+</div>
+<p>Student Ambassador EXCO leading peers in project discussions</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SA/D__Engaging_the_school_in_Cyberwellness_Talks.jpg">
+</div>
+<p>Student Ambassadors engaging the school in Cyberwellness Talks</p>
 <p></p>
