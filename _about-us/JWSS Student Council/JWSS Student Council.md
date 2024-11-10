@@ -3,155 +3,88 @@ title: JWSS Student Council
 permalink: /about-us/jwss-student-council/student-council/
 description: ""
 third_nav_title: JWSS Student Council
+variant: tiptap
 ---
-![](/images/JWSS%20SC%202019.jpg)
-
-Overview
---------
-
-  
-At the apex of Student Leadership in JWSS, our Student Councillors (SCs) represent the student population and serve as the vital link between the students and the school management for the continuous improvement of&nbsp;**student welfare**,&nbsp;**school programmes**&nbsp;and&nbsp;**infrastructure**.
-
-Vision
-------
-
-**Dare**&nbsp;to&nbsp;**LEAD**,&nbsp;**SERVE**&nbsp;and&nbsp;**INSPIRE**  
-
-Emblem
-------
-
-  
-![image 2.jpg](/images/image 2.jpg)  
-The&nbsp;**olive branch**&nbsp;represents the SCs as caring leaders who are humble and willing to serve the school.  
-  
-The&nbsp;**gryphon**, a traditional symbol of leadership for centuries, is a mythical creature that possesses an eagle’s agility and speed combined with a lion’s strength and courage. It reflects our SCs’ confidence and competency in embodying leadership.  
-  
-The&nbsp;**five stars**&nbsp;represent our school values – respect, resilience, integrity, care and excellence.  
-
-Leadership Framework
---------------------
-
-  
-At the end of their 4 years of leadership journey, the SCs will have grown in their capacity to lead others with competence and&nbsp;care,&nbsp;and influence their peers to bring about a positive change to the school and society through meaningful collaborations.  
-  
-![image 3.jpg](/images/image 3.jpg)  
-Refer to&nbsp;[https://jurongwestsec.moe.edu.sg/character-development/student-leadership](https://jurongwestsec.moe.edu.sg/character-development/student-leadership)&nbsp;for more details of our Student Leadership Framework.
-
-Developmental Programmes
-------------------------
-
-  
-SCs are given opportunities to train and develop their leadership skills through leading and representing the student body in various internal and external programmes. Some of which include the following:  
-  
-![image 4.png](/images/image 4.png)  
-  
-
-Student Council-Led Events
---------------------------
-
-  
-Our SCs also promote a vibrant school culture for all students through organising events including:  
-  
-![image004.gif](/images/image004.gif)  
-  
-
-Organisational Structure
-------------------------
-
-  
-
-**Student Council Teacher Advisors**  
-
-Ms Nur Sherlyn Mahamad Salim (OIC)  
-
-Ms Ng Ling Yee Domina (2IC)
-
-Ms Pui Li Xian
-
-Ms Ridzwana Begum
-
-  
-
-  
-![01.jpg](/images/01.jpg)  
-
-  
-
-Highlights
-----------
-
-**22nd Student Council Presidential Elections 2022**
-
-  
-
-![A.png](/images/A.png)
-
-  
-
-The 22nd Student Council Presidential Election was conducted successfully from February to March 2022. The seven presidential candidates demonstrated strong communication skills and leadership competencies as they eloquently answered the common issues that were raised by both teachers and students during the panel discussion that was streamed live on Zoom.
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 805px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 399px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394.99px; height: 199.748px;" class="ive_eobj_center" alt="B.png" src="/images/B-01.png"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 398px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394.01px; height: 187.59px;" class="ive_eobj_center" alt="C.png" src="/images/C-01.png"></td></tr></tbody></table>
-
-  
-
-Randilyn Liau Fang Xian, 3-E2 was eventually appointed as the President-Elect while Huda Inaiyah Binte Mohamed Nizzan, 3-E3 and Julian Tan Wei Heng, 3-E2 were appointed as the Vice-Presidents-Elect.&nbsp;
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 805px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 399px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394.99px; height: 296.476px;" class="ive_eobj_center" alt="D.jpg" src="/images/D-01.jpg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 398px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394.01px; height: 295.725px;" class="ive_eobj_center" alt="D.jpg" src="/images/D.jpg"></td></tr></tbody></table>
-
-  
-
-We would like to thank both staff and students of JWSS for the unwavering support and motivation during the election process.&nbsp;
-
-  
-
-* * *
-
-  
-
-**Student Leaders' Appointment and Student Council Investiture 2022**
-
-  
-
-The Student Leaders’ Appointment and Student Council Investiture Ceremony 2022 was held on 26 May in the school hall, to celebrate the contributions of outgoing CCA student leaders, Student Ambassadors (SA) and Student Councillors (SC) to the school community. In addition, it served as a platform where incoming student leaders were appointed and given due recognition by the school.&nbsp;
-
-  
-
-![F-01.JPG](/images/F-01.JPG)
-
-  
-
-The Investiture started with a speech by our school principal, Ms Tan Ming Ming, who spoke about what a leader is and what leadership entails. In particular, she highlighted the importance of both “Personal Leadership” and “Positional Leadership”. Next, the incoming student leaders showcased their CCA groups through various presentations, while the outgoing CCA student leaders, SA and SC presented symbolic items to their respective successors to represent the handover of the leadership reins. The newly appointed student leaders then took the Student Leaders’ Pledge and committed themselves to continuing the long tradition of exemplary student leadership demonstrated by their predecessors. The Investiture concluded with a speech by the 22nd Student Council President Randilyn Liau from 3E2, who wished all incoming student leaders a wonderful learning journey ahead as they continue their transformation into leaders who aspire to serve and inspire the school community to the best of their abilities.
-
-  
-
-* * *
-
-  
-
-**Student Council Engagement Session 2022**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 805px;" class="iveo_table ive_eobj_center ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 399px;"><img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" class="ive_eobj_left" alt="G.jpeg" width="100%" src="/images/G-01.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 398px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 393.958px; height: 177px;" class="ive_eobj_center" alt="H-01.jpeg" width="100%" src="/images/H.jpeg"></td></tr></tbody></table>
-
-  
-
-The Student Council Engagement Day was successfully held during the June holidays on Thursday, 2 June 2022 in the school hall. The objectives of the SC Engagement Day are to facilitate bonding within the Student Council and to allow aspiring Secondary 1 and Secondary 2 Student Council to be aware of the leadership opportunities to develop their character as a Student Council.  
-
-  
-
-* * *
-
-  
-
-**Student Council Meeting 2022**
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); width: 805px;" class="ive_eobj_center iveo_table ives_tab_zen"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 399px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394.99px; height: 178px;" class="ive_eobj_center" alt="I.jpeg" width="100%" src="/images/I.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 398px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394.01px; height: 177px;" class="ive_eobj_center" alt="J.jpeg" width="100%" src="/images/J-01.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394.99px; height: 178px;" class="ive_eobj_center" alt="K.jpeg" width="100%" src="/images/K.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; width: 60px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394.01px; height: 177px;" class="ive_eobj_center" alt="L.jpeg" width="100%" src="/images/L-01.jpeg"></td></tr></tbody></table>
-
-  
-
-The Student Council Meetings are held on every Thursdays from 3.45pm to 5pm. The SC Executive Committee (EXCO) members will spearhead the SC meetings under the supervision of the SC Teacher Advisors. During the weekly meeting, the SCs are heavily involved in the discussion of the upcoming school events such as Teachers’ Day, Prom Nite and Open Mic.
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture1.jpg">
+</div>
+<p>Our Student Council Family</p>
+<h1>Overview</h1>
+<p>At the apex of Student Leadership in JWSS, our Student Councillors (SCs)
+represent the student population and serve as the vital link between the
+students and the school management. It seeks to improve student welfare
+and school experience, as well as influence school culture positively and
+reach out to external partners such as our Parent Support Group, the Alumni
+and the community. Through the various initiatives and programmes, the
+Student Council aim to grow innovative leaders, who exercise moral courage
+and thought leadership.</p>
+<h1>Vision</h1>
+<p>Dare to Lead, Serve and Inspire</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture2.png">
+</div>
+<p>The key-shaped competencies that all students of JWSS, especially the
+Student Councillors, will be developed in.</p>
+<h1>Leadership Training</h1>
+<p>Student Councillors will receive training in the Leadership Challenge
+(Kouzes and Posner) 5 practices and 10 commitments, namely:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Model the Way</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage the Heart</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Challenge the Process</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enabling Others to Act</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inspire a Shared Vision</p>
+<p>In addition, Student Councillors receive specialized training in the following
+areas (non-exhaustive):</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Critical thinking skills: Proposal
+planning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communication skills: Public Speaking,
+Active Listening</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration skills: Facilitation,
+Stakeholder Engagement</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital and Information Skill: Presentation
+Slides, Videography, Use of Generative AI</p>
+<h1>Leadership Platforms</h1>
+<p>Student Councillors are involved in the planning of school projects and
+have platforms all year round to practise their leadership. Such platforms
+include:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers’ Day</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JWSS Busking</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leaders’ Investiture</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Morning Assembly Quote of the Day</p>
+<p>Through these platforms, Student Councillors are given the opportunity
+to plan proposals, engage with the school and school management, so that
+they can make a positive difference to their peers, the school and the
+community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture3.jpg">
+</div>
+<p>Student Councillors engaging teachers in simple games during Teachers’
+Day week</p>
+<h1>Student Councillors Recognition</h1>
+<p>Outstanding Student Councillors could be awarded:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE EAGLES Award (Leadership)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE EAGLES Award (Service)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE EAGLES Award (21<sup>st</sup> Century
+Competencies)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Edusave Character Award</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JWSS Most Outstanding Students Award</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JWSS CCA Colours Award</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture4.jpg">
+</div>
+<p>Student Councillors being recognized during the JWSS Student Leaders Investiture</p>
+<h1>Other Details</h1>
+<p>Student Council meetings typically meet on <strong>Tuesdays</strong> from
+3.40pm to 5.30pm.</p>
+<p>Primary School Student Leaders who are keen to contribute to Student Council
+may also check out our <strong>DSA Leadership</strong> webpage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture5.jpg">
+</div>
+<p>President and Vice President of Student Council sharing school’s initiative
+during Youth Day</p>
+<p></p>
+<p></p>
+<p></p>
