@@ -1596,47 +1596,69 @@ remote control cars!</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/03.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Guest talks from Media Industry Specialists</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/01it.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Our inaugural TAMIYA x IMTC Mega Race Event 2022</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/02it.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Winners of our LEGO x IMTC Minifigs Photo Contest 2022</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/02it2.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Our 2020 HBL Toy Photography Challenge</strong>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Introduction to Mini-Drones in July 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Hot Wheel Unboxing Video Challenge in April 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>IMTC March Camp 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p></p>
