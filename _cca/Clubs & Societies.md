@@ -1432,7 +1432,7 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>EXCO Members</p>
+<p><strong>2024/2025 </strong>EXCO Members</p>
 </th>
 </tr>
 <tr>
@@ -1440,7 +1440,7 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 <p>Director of PA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xania Chen (3E1)</p>
+<p>Khoo Yee Jye (3IN)</p>
 </td>
 </tr>
 <tr>
@@ -1448,7 +1448,7 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 <p>Director of Photography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Insyirah (3N2)</p>
+<p>Lim De Fu (3RT)</p>
 </td>
 </tr>
 <tr>
@@ -1456,7 +1456,7 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 <p>Director of Infocomm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kimberly Tan (3E3)</p>
+<p>Muhammed Malaiki Bin Hisham (3CE)</p>
 </td>
 </tr>
 </tbody>
