@@ -19,6 +19,9 @@ variant: tiptap
 <p>Geography</p>
 </li>
 <li>
+<p>Principles of Accounts</p>
+</li>
+<li>
 <p>Programme</p>
 </li>
 </ul>
