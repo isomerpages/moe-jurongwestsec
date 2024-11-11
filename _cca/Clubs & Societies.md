@@ -1587,8 +1587,8 @@ standard.</p>
 <p>We are charged with capturing all of the school's important moments.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>We edit videos, dj-ing and even create different artifacts like remote
-control cars.</p>
+<p>We edit videos, learn dj-ing and even create different artifacts like
+remote control cars!</p>
 </td>
 </tr>
 </tbody>
