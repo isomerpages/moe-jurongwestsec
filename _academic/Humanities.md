@@ -455,7 +455,7 @@ the starting of a business and incorporates basic accounting concepts.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture6.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -473,7 +473,28 @@ the starting of a business and incorporates basic accounting concepts.</p>
 and Financial Literacy. They get to apply their POA knowledge in the context
 of Financial Literacy and also learn about the key Financial Literacy concepts
 and the importance of planning ahead.</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture9.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong><u>POA Quest</u></strong>
 </p>
 <p>Through this competition, our secondary four POA students have a chance
