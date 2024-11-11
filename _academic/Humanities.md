@@ -348,3 +348,116 @@ between people and their environment.</p>
 <img style="width:600px" height="auto" width="100%" src="/images/humanm.png">
 </div>
 <p></p>
+<p></p>
+<p><strong>Subject Offered: Principles of Accounts</strong>
+</p>
+<p><strong>Curriculum</strong>
+</p>
+<p>Principles of Accounts (POA) is designed to provide students with a meaningful
+basic introduction to financial accounting and to develop an appreciation
+of the discipline of accounting. It is grounded in preparing, communicating
+and using financial information, and appreciating the need for ethical
+conduct. The subject places emphasis on the understanding and application
+of accounting knowledge to develop lifelong skills and values that will
+be of value in the increasingly complex world of business.</p>
+<p>This subject forms part of a broad-based education to equip students with
+strong fundamentals for future learning.</p>
+<p>In line with the framework of learning Principles of Accounts as an important
+foundation subject, our department organises a series of enrichment activities
+to stimulate students' interest and inquisitiveness towards the subject.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>POA Enrichment and Competitions</strong>
+</p>
+<p><strong><u>POA Learning Journey to ShopBack</u></strong>
+<br>Principles of Accounts (POA) students gained exclusive backdoor access
+and experienced real-life actions behind ShopBack, a successful homegrown
+start-up that won a slew of entrepreneurship awards for its creativity
+and innovation in Fintech.
+<br>
+<br>Students interacted with key personnel from the company and witnessed
+the application of various financial and accounting concepts in real-life
+context through the company’s cashback reward programme available across
+Asia-Pacific with over 5 million members on its platform.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;&nbsp; &nbsp; &nbsp;</p>
+<p><strong><u>POA Learning Journey to the Marina Bay Financial Centre</u></strong>
+<br>Secondary 3 Express students went on a learning journey to Marina Bay
+Financial Centre. As it was their first visit to Marina Bay Financial Centre,
+the students were excited and eager to explore the various landmarks as
+they followed their teachers to the respective stations. At each station,
+the students were tasked to complete a series of accounting questions in
+teams. Many of them put in their best effort to complete the task within
+the given time, determined to win a prize for their team!</p>
+<p>&nbsp;</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>Build Your Own Business (BYOB) Game Board Challenge</u></strong>
+</p>
+<p>POA students had a day of fun and excitement when they participated in
+the BYOB Game Board Challenge organised by Republic Polytechnic.&nbsp;
+Students attended a one-day accounting workshop before they&nbsp;pit&nbsp;their
+newfound knowledge against other schools in a board game that simulates
+the starting of a business and incorporates basic accounting concepts.</p>
+<p>&nbsp;</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>National Financial Literacy Challenge &amp; National Accounting Challenge</u></strong>
+</p>
+<p>This challenge allows POA students to observe the relevance between POA
+and Financial Literacy. They get to apply their POA knowledge in the context
+of Financial Literacy and also learn about the key Financial Literacy concepts
+and the importance of planning ahead.</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong><u>POA Quest</u></strong>
+</p>
+<p>Through this competition, our secondary four POA students have a chance
+to ascertain their mastery in the POA and apply their POA knowledge and
+concepts through gamification. The POA Quest has definitely deepen their
+interest for the subject.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>National Cashflow Competition @ Nanyang Technological University</u></strong>
+</p>
+<p>This competition is organised by the Investment Interactive Club at Nanyang
+Technological University, sponsored by the Institute for Financial Literacy.&nbsp;
+It is an interactive and fun-filled competition which allows students to
+understand more about the working world. POA Students learnt about the
+various education and career pathways, sustainable economic literacy concepts,
+income tax, CPF as well as tips about wealth management and smart investing
+through this experience.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>ACCTRAORDINARY with Accounting Avengers @ Nanyang Polytechnic&nbsp;</u></strong>
+</p>
+<p><em>ACCTraordinary</em> is an engaging and informative outreach event organised
+by the polytechnics and ITE to promote the field of Accountancy. POA Students
+get to listen to the Keynote Speech by Minister Indranee, in which her
+speech provides an insightful overview of the accounting profession, along
+with the future plans for accounting pathways. These insights will be valuable
+when guiding students about the role of accountants and the steps they
+can take to pursue a career in this field.</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp;</p>
+<p></p>
