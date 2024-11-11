@@ -389,17 +389,25 @@ Asia-Pacific with over 5 million members on its platform.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture2.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture3.jpg">
+</div>
 </th>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp; &nbsp; &nbsp;</p>
 <p><strong><u>POA Learning Journey to the Marina Bay Financial Centre</u></strong>
 <br>Secondary 3 Express students went on a learning journey to Marina Bay
 Financial Centre. As it was their first visit to Marina Bay Financial Centre,
@@ -408,9 +416,28 @@ they followed their teachers to the respective stations. At each station,
 the students were tasked to complete a series of accounting questions in
 teams. Many of them put in their best effort to complete the task within
 the given time, determined to win a prize for their team!</p>
-<p>&nbsp;</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture5.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Build Your Own Business (BYOB) Game Board Challenge</u></strong>
 </p>
 <p>POA students had a day of fun and excitement when they participated in
@@ -418,10 +445,28 @@ the BYOB Game Board Challenge organised by Republic Polytechnic.&nbsp;
 Students attended a one-day accounting workshop before they&nbsp;pit&nbsp;their
 newfound knowledge against other schools in a board game that simulates
 the starting of a business and incorporates basic accounting concepts.</p>
-<p>&nbsp;</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture6.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture7.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong><u>National Financial Literacy Challenge &amp; National Accounting Challenge</u></strong>
 </p>
 <p>This challenge allows POA students to observe the relevance between POA
