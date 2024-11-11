@@ -352,8 +352,7 @@ between people and their environment.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong>Subject Offered: Principles of Accounts</strong>
-</p>
+<h2>Principles of Accounts</h2>
 <p><strong>Curriculum</strong>
 </p>
 <p>Principles of Accounts (POA) is designed to provide students with a meaningful
