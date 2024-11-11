@@ -11,6 +11,16 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: OPEN HOUSE 2024
+      subtitle: JWSS Open House 2024
+      id: infopic
+      description: JWSS will be having our Open House 2024 on 16 Nov 2024 from 9am -
+        1pm.   Do register your attendance at the link below!
+      button: Click here to register
+      url: https://go.gov.sg/2024jwssopenhouse-register
+      alt: Image alt text
+      image: /images/Open House/openhousebanner.png
+  - infopic:
       title: School Graduating Certificate (SGC)
       subtitle: School Graduating Certificate
       id: infopic
