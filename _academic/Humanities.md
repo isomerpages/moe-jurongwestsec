@@ -501,10 +501,28 @@ and the importance of planning ahead.</p>
 to ascertain their mastery in the POA and apply their POA knowledge and
 concepts through gamification. The POA Quest has definitely deepen their
 interest for the subject.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture11.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>National Cashflow Competition @ Nanyang Technological University</u></strong>
 </p>
 <p>This competition is organised by the Investment Interactive Club at Nanyang
@@ -514,8 +532,28 @@ understand more about the working world. POA Students learnt about the
 various education and career pathways, sustainable economic literacy concepts,
 income tax, CPF as well as tips about wealth management and smart investing
 through this experience.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture13.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>ACCTRAORDINARY with Accounting Avengers @ Nanyang Polytechnic&nbsp;</u></strong>
 </p>
 <p><em>ACCTraordinary</em> is an engaging and informative outreach event organised
@@ -525,5 +563,27 @@ speech provides an insightful overview of the accounting profession, along
 with the future plans for accounting pathways. These insights will be valuable
 when guiding students about the role of accountants and the steps they
 can take to pursue a career in this field.</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture15.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp; &nbsp;&nbsp;</p>
 <p></p>
