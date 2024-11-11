@@ -1505,12 +1505,12 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 <p>Activity</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2021</p>
+<p>2024</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec AV.IT Camp</p>
+<p>March IMTC Camp</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March</p>
@@ -1526,6 +1526,14 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>IMDA Digital Media Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Our School, Our Story MOE Photo Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1537,99 +1545,7 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 <p>Singapore Young Photographers Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HCI F1 Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Media Industry Talk</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>September</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Flickr x LEGO Photo Contest 2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>November</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Activity
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2020
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PUB #mytakeonwater Photo Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>January</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Sec AVIT Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AVIT HBL Photo Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April to July</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Our School Our Story MOE Photo Exhibition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April to August</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Young Photographer Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June to August</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Smithsonian Magazine Photo Contest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>September to November</p>
+<p>August</p>
 </td>
 </tr>
 </tbody>
