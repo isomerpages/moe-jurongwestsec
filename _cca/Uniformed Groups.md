@@ -391,8 +391,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>
-<br>
+<br><strong>Achievements</strong>
 </p>
 <p>
 <br>
