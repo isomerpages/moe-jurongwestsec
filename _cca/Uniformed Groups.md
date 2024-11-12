@@ -363,9 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>CCA Open House</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>January</p>
@@ -373,9 +371,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>BB Day Commemoration</p>
-<p>&nbsp;</p>
+<p>&nbsp;BB Day Commemoration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>January</p>
@@ -383,9 +379,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>BB Week Fundraising</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March</p>
@@ -393,9 +387,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Secondary 1 Induction and Leadership Camp</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March</p>
