@@ -4,25 +4,19 @@ permalink: /curriculum/clubs-n-societies/
 description: ""
 variant: tiptap
 ---
-<ul>
-<li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<h5>Art Club</h5>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Art Club</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>About Art Club</strong>
 </p>
 <p>The Art Club provides the opportunity and space where creativity thinking
 is realised. It is a value–centred CCA where every JWSS art club member
 is a passionate advocate for arts.</p>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/art.jpg">
 </div>
+<p></p>
 <h4>CCA Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -40,9 +34,7 @@ is a passionate advocate for arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Artistry 1, 2
-<br>
-</p>
+<p>Artistry 1, 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday 3.30 pm to 5.30 pm</p>
@@ -50,6 +42,7 @@ is a passionate advocate for arts.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>Organisation Chart</h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -63,17 +56,13 @@ is a passionate advocate for arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sua Kerbie (OIC)
-<br>Mr Quek Jia Liang (2IC)
-<br>Ms Erlinda Tanuwijaya
-<br>Mdm Angeline Kiew Mee Ling</p>
+<p>Mr Faizal bin Abdul Aziz (OIC)
+<br>Ms Angelene Ho Jia Qian(2IC)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -104,7 +93,9 @@ is a passionate advocate for arts.</p>
 </tr>
 </tbody>
 </table>
-<h4>Highlights in 2021</h4>
+<p></p>
+<h4>Highlights in Art Club</h4>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Live On Competition by National Organ Transplant Uni</p>
@@ -122,17 +113,13 @@ is a passionate advocate for arts.</p>
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 220px; height: 310px;" height="auto" width="100%" alt="A.png" src="/images/AAA.png">
 </div>
 <p>5th Place
-<br>Student Artist: Gan Jing Wen (1 Passion’21)
-<br>
-</p>
+<br>Student Artist: Gan Jing Wen (1 Passion’21)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 321px; height: 234px;" height="auto" width="100%" alt="B.jpg" src="/images/BBB.jpg">
 </div>
-<p>Student Artist: Soh Yu Han (2E4’21)
-<br>
-</p>
+<p>Student Artist: Soh Yu Han (2E4’21)</p>
 </td>
 </tr>
 <tr>
@@ -141,18 +128,14 @@ is a passionate advocate for arts.</p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 222px; height: 312px;" height="auto" width="100%" alt="C.jpg" src="/images/CCC.jpg">
 </div>
-<p>Student Artist: Jean Yeo Zi Jun (3E3’21)
-<br>
-</p>
+<p>Student Artist: Jean Yeo Zi Jun (3E3’21)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 217px; height: 307px;" height="auto" width="100%" alt="D.JPG" src="/images/DDD.JPG">
 </div>
-<p>Student Artist: Cheryl Ang Suhartono (3E3’21)
-<br>
-</p>
+<p>Student Artist: Cheryl Ang Suhartono (3E3’21)</p>
 </td>
 </tr>
 <tr>
@@ -160,17 +143,13 @@ is a passionate advocate for arts.</p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 222px; height: 377px;" height="auto" width="100%" alt="E 1.jpg" src="/images/E1.jpg">
 </div>
-<p>Student Artist: Herfina Binte Dulkifli (1 Care’21)
-<br>
-</p>
+<p>Student Artist: Herfina Binte Dulkifli (1 Care’21)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 372px; height: 243px;" height="auto" width="100%" alt="F.JPG" src="/images/FFF.jpg">
 </div>
-<p>Student Artist: Pang Shi Han Crystal (1 Curiosity’21)
-<br>
-</p>
+<p>Student Artist: Pang Shi Han Crystal (1 Curiosity’21)</p>
 </td>
 </tr>
 </tbody>
@@ -189,12 +168,10 @@ is a passionate advocate for arts.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Student Artist: Cheryl Ang Suhartono (3E3’21)<br></strong><a href="https://cherylangs.wixsite.com/my-site/selected-works" rel="noopener noreferrer nofollow" target="_blank">https://cherylangs.wixsite.com/my-site/selected-works</a>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Artist: Ashurah Binte Sofyan (3E3’21)<br></strong><a href="https://ashurahandthewhales.wixsite.com/my-site" rel="noopener noreferrer nofollow" target="_blank">https://ashurahandthewhales.wixsite.com/my-site</a>
-<br>
 </p>
 </td>
 </tr>
@@ -202,13 +179,11 @@ is a passionate advocate for arts.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Student Artist: Nur Syarafana Binte Sulasi (2E1’21)</strong>
 <br><a href="https://arah1902.wixsite.com/my-site" rel="noopener noreferrer nofollow" target="_blank">https://arah1902.wixsite.com/my-site</a>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Artist: Tan Kai Ting, Kes (2E1’21)</strong>
 <br><a href="https://kestan07.wixsite.com/my-site-1" rel="noopener noreferrer nofollow" target="_blank">https://kestan07.wixsite.com/my-site-1</a>
-<br>
 </p>
 </td>
 </tr>
@@ -216,13 +191,11 @@ is a passionate advocate for arts.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Student Artist: Valerie Tay Yujie (1 Integrity’21)</strong>
 <br><a href="https://valerietay08.wixsite.com/my-site" rel="noopener noreferrer nofollow" target="_blank">https://valerietay08.wixsite.com/my-site</a>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Student Artist: Putri Hana Sufia Binte Karudin (1 Integrity’21)</strong>
 <br><a href="https://putrihanasufia.wixsite.com/my-site" rel="noopener noreferrer nofollow" target="_blank">https://putrihanasufia.wixsite.com/my-site</a>
-<br>
 </p>
 </td>
 </tr>
@@ -237,9 +210,7 @@ is a passionate advocate for arts.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="407" width="406" alt="B.jpg" src="/images/B1.jpg">
 </div>
@@ -283,22 +254,17 @@ is a passionate advocate for arts.</p>
 </div>
 <p>
 <br>MERIT AWARD
-<br>Student Artist: Naomi Balqis Binte Norizal (2N1’20)
-<br>
-</p>
+<br>Student Artist: Naomi Balqis Binte Norizal (2N1’20)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 454px; height: 464px;" height="auto" width="100%" alt="G.jpg" src="/images/GGG.jpg">
 </div>
 <p>
-<br>Student Artist: Clarisse Chia Wen Hui (1E4’20)
-<br>
-</p>
+<br>Student Artist: Clarisse Chia Wen Hui (1E4’20)</p>
 </td>
 </tr>
 <tr>
@@ -324,9 +290,7 @@ is a passionate advocate for arts.</p>
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 419px; height: 561px;" height="auto" width="100%" alt="J.jpg" src="/images/J1.jpg">
 </div>
 <p>
-<br>Student Artist: Nur Kamelia Binte Zainudin (3E4’20)
-<br>
-</p>
+<br>Student Artist: Nur Kamelia Binte Zainudin (3E4’20)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -349,208 +313,33 @@ is a passionate advocate for arts.</p>
 </div>
 <p>
 <br>Student Artist: Naomi Balqis Binte Norizal (2N1’20)</p>
-<h4>Activities &amp; Competitions 2019</h4>
-<p>1. 'Wire Sculpture'; Workshop</p>
-<p>Art Club organised a day of fun through the modeling of wires into sculptures.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="3d1b518d-9c8f-451e-ad6e-1b2be9706e6d.jpg" src="/images/3d1b518d-9c8f-451e-ad6e-1b2be9706e6d.jpg&quot;">
+<p></p>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="01082c5c-3b4d-43be-998b-09529e3d47c7.jpg" src="/images/01082c5c-3b4d-43be-998b-09529e3d47c7.jpg">
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="70bcad72-d793-427f-a432-6951cb4d1668.jpg" src="/images/70bcad72-d793-427f-a432-6951cb4d1668.jpg">
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="ed9d6370-889a-476e-8efc-38385a5e52a9.jpg" src="/images/ed9d6370-889a-476e-8efc-38385a5e52a9.jpg">
+</details>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>2. Passion Art Festival 2019</p>
-<p>Students from the Art Club participated in the Passion Art Festival 2019
-by setting up booths to teach the community how to design and make badges</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="969d3cfe-0d2d-4f96-81bb-55809e634627.jpg" src="/images/969d3cfe-0d2d-4f96-81bb-55809e634627.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="96be0178-6ef7-410c-8dea-4acc363a830a.jpg" src="/images/96be0178-6ef7-410c-8dea-4acc363a830a.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="b64e7166-3096-4456-a2c7-d92798f32606.jpg" src="/images/b64e7166-3096-4456-a2c7-d92798f32606.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="bb3cc02d-246e-416c-a93e-07e4a3bc3b08.jpg" src="/images/bb3cc02d-246e-416c-a93e-07e4a3bc3b08.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>1. National Day Observance and Carnival</p>
-<p>Our students participated in the 2019 National Day Observance at Bukit
-Batok East and joined in the Carnival</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 410px; height: 306px;" height="auto" width="100%" alt="026880d9-6126-4734-a871-c8d3895aa505.jpg" src="/images/026880d9-6126-4734-a871-c8d3895aa505.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" height="auto" width="100%" alt="2dd760ca-b874-4da8-a29f-608928e6868b.jpg" src="/images/2dd760ca-b874-4da8-a29f-608928e6868b.jpg">
-</div>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 412px; height: 549px;" height="auto" width="100%" alt="7fa8ca1b-0989-4b72-9a6f-feb73b653459.jpg" src="/images/7fa8ca1b-0989-4b72-9a6f-feb73b653459.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 411px; height: 547px;" height="auto" width="100%" alt="9cd7abb6-4c4d-44f1-a585-2ed7cb695393.jpg" src="/images/9cd7abb6-4c4d-44f1-a585-2ed7cb695393.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Activities &amp; Competitions 2018<br>1. 'Glow in the Dark' Clay Making Workshop</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Students learnt from Ms Corine, grassroots volunteer at the Taman Jurong Zone D Residents' Committee to create Terrarium using jump clay.</strong>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 363px; height: 505px;" height="auto" width="100%" alt="artclub1.jpg" src="/images/artclub1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 394px; height: 504px;" height="auto" width="100%" alt="artclub2.jpg" src="/images/artclub2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 358px; height: 308px;" height="auto" width="100%" alt="artclub3.jpg" src="/images/artclub3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 396px; height: 312px;" height="auto" width="100%" alt="artclub4.jpg" src="/images/artclub4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 356px; height: 318px;" height="auto" width="100%" alt="artclub5.jpg" src="/images/artclub5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 396px; height: 319px;" height="auto" width="100%" alt="artclub6.jpg" src="/images/artclub6.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2. Passion Art Festival</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Art Club members collaborated with Taman Jurong CC in creating and presenting the ‘Enchanted Garden’ clay art works to elderly in the PassionArts Festival. They engaged the residents in hand and face painting during the event.<br></strong>
-<br><a href="https://www.dropbox.com/l/scl/AAAsZMG0uEJSCVKOGLHrH_7XeJVeMllIBkI" rel="noopener noreferrer nofollow" target="">https://www.dropbox.com/l/scl/AAAsZMG0uEJSCVKOGLHrH_7XeJVeMllIBkI</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 389px; height: 272px;" height="auto" width="100%" alt="artclub7.jpg" src="/images/artclub7.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 386px; height: 274px;" height="auto" width="100%" alt="artclub8.jpg" src="/images/artclub8.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 392px; height: 292px;" height="auto" width="100%" alt="artclub9.jpg" src="/images/artclub9.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 383px; height: 292px;" height="auto" width="100%" alt="artclub10.jpg" src="/images/artclub10.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>3. Unlock creativity through digital doodling &amp; painting workshop</h4>
+<h4></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -590,7 +379,7 @@ Batok East and joined in the Carnival</p>
 </tr>
 </tbody>
 </table>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h5>Environmental Science Club</h5>
@@ -1678,5 +1467,5 @@ remote control cars!</p>
 </tbody>
 </table>
 </li>
-</ul>
+</ol>
 <p></p>
