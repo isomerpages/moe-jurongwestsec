@@ -371,7 +371,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;BB Day Commemoration</p>
+<p>BB Day Commemoration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>January</p>
@@ -491,27 +491,141 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Activity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA Open House&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Day Commemoration&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Week Fundraising&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 Induction and Leadership Camp&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Enrolment Parade and Dedication Service&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Speech Day Parade&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UG Passing Out Parade (POP)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Blaze&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Promotion Ceremony&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Exchange (Life@JW) &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>JWSS National Day Parade</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>BB Character Quest</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>BB Cares</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>BB Adventure Camp</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>BB Share-a-Gift</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>December</p>
 </td>
 </tr>
 </tbody>
