@@ -580,9 +580,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>JWSS National Day Parade</p>
-<p>&nbsp;</p>
+<p>JWSS National Day Parade&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>August</p>
@@ -590,9 +588,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>BB Character Quest</p>
-<p>&nbsp;</p>
+<p>BB Character Quest&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>September</p>
@@ -639,6 +635,4 @@ variant: tiptap
 <p>
 <br>
 </p>
-<p>
-<br>
-</p>
+<p></p>
