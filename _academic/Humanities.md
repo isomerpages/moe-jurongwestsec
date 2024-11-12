@@ -19,6 +19,9 @@ variant: tiptap
 <p>Geography</p>
 </li>
 <li>
+<p>Principles of Accounts</p>
+</li>
+<li>
 <p>Programme</p>
 </li>
 </ul>
@@ -349,8 +352,7 @@ between people and their environment.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong>Subject Offered: Principles of Accounts</strong>
-</p>
+<h2>Principles of Accounts</h2>
 <p><strong>Curriculum</strong>
 </p>
 <p>Principles of Accounts (POA) is designed to provide students with a meaningful
@@ -389,17 +391,25 @@ Asia-Pacific with over 5 million members on its platform.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture2.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture3.jpg">
+</div>
 </th>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp; &nbsp; &nbsp;</p>
 <p><strong><u>POA Learning Journey to the Marina Bay Financial Centre</u></strong>
 <br>Secondary 3 Express students went on a learning journey to Marina Bay
 Financial Centre. As it was their first visit to Marina Bay Financial Centre,
@@ -408,9 +418,28 @@ they followed their teachers to the respective stations. At each station,
 the students were tasked to complete a series of accounting questions in
 teams. Many of them put in their best effort to complete the task within
 the given time, determined to win a prize for their team!</p>
-<p>&nbsp;</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture5.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Build Your Own Business (BYOB) Game Board Challenge</u></strong>
 </p>
 <p>POA students had a day of fun and excitement when they participated in
@@ -418,27 +447,84 @@ the BYOB Game Board Challenge organised by Republic Polytechnic.&nbsp;
 Students attended a one-day accounting workshop before they&nbsp;pit&nbsp;their
 newfound knowledge against other schools in a board game that simulates
 the starting of a business and incorporates basic accounting concepts.</p>
-<p>&nbsp;</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture6.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture7.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong><u>National Financial Literacy Challenge &amp; National Accounting Challenge</u></strong>
 </p>
 <p>This challenge allows POA students to observe the relevance between POA
 and Financial Literacy. They get to apply their POA knowledge in the context
 of Financial Literacy and also learn about the key Financial Literacy concepts
 and the importance of planning ahead.</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture9.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong><u>POA Quest</u></strong>
 </p>
 <p>Through this competition, our secondary four POA students have a chance
 to ascertain their mastery in the POA and apply their POA knowledge and
 concepts through gamification. The POA Quest has definitely deepen their
 interest for the subject.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture11.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>National Cashflow Competition @ Nanyang Technological University</u></strong>
 </p>
 <p>This competition is organised by the Investment Interactive Club at Nanyang
@@ -448,8 +534,28 @@ understand more about the working world. POA Students learnt about the
 various education and career pathways, sustainable economic literacy concepts,
 income tax, CPF as well as tips about wealth management and smart investing
 through this experience.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture13.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>ACCTRAORDINARY with Accounting Avengers @ Nanyang Polytechnic&nbsp;</u></strong>
 </p>
 <p><em>ACCTraordinary</em> is an engaging and informative outreach event organised
@@ -459,5 +565,27 @@ speech provides an insightful overview of the accounting profession, along
 with the future plans for accounting pathways. These insights will be valuable
 when guiding students about the role of accountants and the steps they
 can take to pursue a career in this field.</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/POA/Picture15.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp; &nbsp;&nbsp;</p>
 <p></p>
