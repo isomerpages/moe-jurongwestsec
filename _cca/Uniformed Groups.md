@@ -395,9 +395,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>BB Enrolment Parade and Dedication Service</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March</p>
@@ -405,9 +403,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>JWSS Speech Day Parade</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March</p>
@@ -415,9 +411,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>UG Passing Out Parade (POP)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>April</p>
@@ -425,9 +419,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>BB Blaze</p>
-<p>&nbsp;</p>
+<p>BB Blaze&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>April</p>
@@ -435,9 +427,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>BB Promotion Ceremony</p>
-<p>&nbsp;</p>
+<p>BB Promotion Ceremony&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May</p>
@@ -445,9 +435,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>CCA Exchange (Life @ JW)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May</p>
