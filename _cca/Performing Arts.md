@@ -403,322 +403,213 @@ officers.</p>
 <details class="isomer-details">
 <summary>Modern Dance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/Dance%20Website%20Cover%20Photo.jpg">
+</div>
+<p></p>
+<p><strong>About Modern Dance Club</strong>
+</p>
+<p>The Modern Dance Club has been established since the founding of the school
+and consists of about 80 dancers who are passionate about learning different
+dance genres.</p>
+<p>The dancers take part in various performances and competitions like the
+Singapore Youth Festival,&nbsp; the Yellowren Dance Showcase and the Anti-Drug
+Danceworks Competition. In addition, the dancers also perform in various
+community related events activities like Tree Planting Day and National
+Day celebrations.</p>
+<p>Our dancers are also given opportunity to visit our neighbouring countries
+as part of overseas school immersion programme. Different batches of dancers
+have visited countries like Indonesia, Vietnam, Malaysia, Thailand and
+Hong Kong through the school’s overseas trip.</p>
+<p></p>
+<h4>Objectives</h4>
+<ul>
+<li>
+<p>to expose the dancers to different dance genres.</p>
+</li>
+<li>
+<p>to build strong leadership and teamwork among the dancers.</p>
+</li>
+<li>
+<p>to provide a platform for dancers to portray their talents and leadership
+skills.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/syf1.png">
+</div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.333px;" height="auto" width="100%" alt="2. SYF 2.jpg" src="/images/syf2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 236.909px;" height="auto" width="100%" alt="2. SYF 3.jpg" src="/images/syf3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 233.853px;" height="auto" width="100%" alt="2. SYF 4.jpg" src="/images/syf4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Team A SYF dancers performing during Arts Presentation</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.98px;" height="auto" width="100%" alt="2. SYF 5.jpg" src="/images/syf5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 233.377px;" height="auto" width="100%" src="/images/syf6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 234.649px;" height="auto" width="100%" src="/images/syf7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Team B SYF dancers performing during Arts Presentation</p>
+<p>
+<br>JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance</p>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/3Speech Day 1.png">
+</div>
+<p></p>
+<p><strong>The 20th Anniversary &amp; Speech and Prize Giving Day performers posing after the event</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 461px; height: 300px;" height="auto" width="100%" alt="3. Speech Day 2.png" src="/images/3Speech%20Day%202.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 439px; height: 301px;" height="auto" width="100%" alt="3. Speech Day 3.png" src="/images/3Speech%20Day%203.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Dance Camp</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/dancecamp3.png">
+</div>
+<p>
+<br><strong>Dancers stretching during the Hip Hop workshop (Dance Camp)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/dancecamp2.png">
+</div>
+<p>
+<br><strong>Dancers practising during the Hip Hop workshop (Dance Camp)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 397.583px;" height="auto" width="100%" alt="4. Dance Camp 3.png" src="/images/dancecamp3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 398.393px;" height="auto" width="100%" alt="4. Dance Camp 4.png" src="/images/dancecamp4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Dancers practising during the Lyrical Dance workshop (Dance Camp)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 525.638px; height: 385.773px;" height="auto" width="100%" alt="4. Dance Camp 5.png" src="/images/dancecamp5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 541px; height: 405px;" height="auto" width="100%" alt="4. Dance Camp 6.png" src="/images/dancecamp6.png">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Dancers practising during the Makeup Workshop (Dance Camp)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/dancecamp7.png">
+</div>
+<p></p>
+<p><strong>Dancers practising during the Makeup Workshop (Dance Camp)</strong>
+</p>
+<p><strong>Dance Workshops by Alumni</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/5Alumni.png">
+</div>
+<p></p>
+<p><strong>Dancers learning dance moves from Alumni seniors during the CCA sessions</strong>
+</p>
+<p><strong>Secondary One Dance Audition</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:500px" height="auto" width="100%" src="/images/6Sec%201%20Audition.png">
+</div>
 <p></p>
 </div>
 </details>
-</div>
-<p></p>
-<p>
-<br>
-</p>
-<h4></h4>
-<h4></h4>
-<h4></h4>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/GCB.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>NATIONAL DAY E-CONCERT – In a special performing arts segment, the band members put together a piece by playing to the tune of ‘One People, One Nation, One Singapore</strong>
-</p>
-<h4>Activities &amp; Competitions (2019)</h4>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic04.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>CCA OPEN HOUSE - Alumni joining us for CCA Open House to support their fellow juniors and share their insights on the reasons why Band truly makes an excellent CCA choice</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic05.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>BAND CAMP - Band Members displaying their creative talent in designing other than playing their instruments. Other than sectionals and practices to prepare for SYF, Band Camp aims to provide an opportunity for members to bond through games and activities.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic06.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>MUSIC EXCHANGE AT WOODGROVE - The trumpet section getting useful pointers on the importance of proper embouchure, which allows them to play their instrument at full range with a full, clear tone and without any strain to their muscles.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic07.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>MUSIC EXCHANGE AT XINMIN – JWSS Symphonic Band &nbsp;listened on as fellow musicians present their SYF set piece, Festival on Earth by Lee Jin Jun. Music Exchanges provide a good chance for band members to develop critical listening skills with an aim to improve instrumental tone quality and awareness towards other instruments in band as well.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic08.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>MUSIC EXCHANGE AT XINMIN - The SYF team is ready to give their best on the SYF stage after gaining useful pointers and exposure from fellow musicians of their age. This definitely makes them feel extremely thrilled to be a part of the band movement in Singapore.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic09.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION 2019–Captured just minutes before entering the SYF Hall!</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic10.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION 2019 –The continual journey of self-improvement and the friendship formed among JWSS Symphonic Band members throughout preparing for SYF makes all the hard work worthwhile!</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic11.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>JWSS SPEECH DAY REHEARSAL – Melodious tunes for the audience to enjoy during the concert segment.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic12.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>JWSS SPEECH DAY – Our very own student conductor, Izzati Majinin (4N1) helming the parade segment.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic13.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>PERFORMING ARTS MORNING ASSEMBLY SHOWCASE – A special showcase from the Band for their schoolmates to brighten their day!</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic15.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic16.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>SENIORS’ FAREWELL – Trusty Band Majors, Izzati and Kyle Anne, are always there for the Band members whenever they needed guidance.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic17.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>SENIORS’ FAREWELL – Trusty Band Majors, Izzati and Kyle Anne, are always there for the Band members whenever they needed guidance.&nbsp;With every outgoing JWSB cohort, goodbyes do not get any easier. With every passing batch too, seniors never fail to reaffirm the reasons why all the juniors should stay on and push through challenging times in Band. All the best, seniors!</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic18.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic19.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>JWSS ANNUAL NATIONAL DAY PARADE – Newly-minted Band Major and Student Conductor, Iffah Haziqah, leading the Band in the parade segment. Definitely not an easy task but she does it exceedingly well under the guidance of our instructor, Mr Vincent Lee and the strong support from all the band members.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic20.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –JWSS Symphonic Band embark on this journey which aims&nbsp;for students to interact through planned programs and school immersion activities conducted at local schools, improve students’ musical skills through exchange and sectionals sessions with local counterparts and foster camaraderie, cross-cultural interaction and bonding among fellow musicians from Bangkok.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic21.jpg">
-</div>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic22.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>OVERSEAS IMMERSION TRIP TO BANGKOK, THAILAND –The Grand Palace of Thailand and The Rattanakosin Exhibition Hall were two iconic places in Bangkok which allow students to immerse themselves in the Thai way of life and understand their utmost respect for The King</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic23.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic24.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Band members face up to the challenge of painting their puppet meticulously at Tookkatoon Thai Puppet Museum. Besides learning about the history of Thai Puppetry, students witness the delicate process of making traditional Thai puppets and get to enjoy a mesmerizing Thai Puppet Show.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic25.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Band members spent a wonderful night in Thai style with authentic Thai cuisine, Traditional Thai dance and live music at Nopparat Thai Classical Dance and Dinner Restaurant.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic26.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>A shot at Paper Ranger, Thailand. JWSB members doing their part for the community by threading, piecing and folding used one-side papers together to make a notebook for the needy children in the rural areas. In total, our overseas team of 23 made and designed 52 notebooks!</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic27.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The gracious students and staff of Horwang School. The minute we entered their school compounds, we were received so warmly, it made us feel at home.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic28.jpg">
-</div>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic29.jpg">
-</div>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic30.jpg">
-</div>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic31.jpg">
-</div>
-<p>
-<br>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>English Language, Drama and Debating</p>
+<details class="isomer-details">
+<summary>English Language, Drama and Debating</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/ELDD%20Website%20Main%20Pic.jpeg">
 </div>
-<p>
-<br>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -777,7 +668,6 @@ officers.</p>
 <p>Ms Sandramathy (OIC)
 <br>Ms Cheryl Lim (2IC)
 <br>Ms Samantha Chin
-<br>Ms Faizal Bin Abdul Aziz
 <br>
 </p>
 </td>
@@ -954,151 +844,6 @@ officers.</p>
 </tr>
 </tbody>
 </table>
-<h4>Activities</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competition
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JWSS 21st Speech &amp; Prize Giving Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>March Bonding Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships (Division III)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Debate Association’s Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>e-CCA Open House</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>March Bonding Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Division III Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Debate Association’s Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hua Yi Debate Invitational</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JWSS 20th Speech &amp; Prize Giving Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Day Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Title: 3rd Place in the Online Singapore Secondary Schools Debating Championships (Division III)</h4>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/el1.jpeg">
-</div>
-<p>
-<br>
-</p>
-<p>Five student debaters left to right: Chua Hong Xuan (4T1) Mao Misel Ananda
-Pertiwi (4E3), Wong Pei Jun (4E3), Tee Xinyi (4E3) and Jeff Cheah (4E3)
-from English Language Drama and Debating (ELDD) achieved 3rd place in the
-Online Singapore Secondary Schools Debating Championships. Wong Pei Jun
-and Jeff Cheah also received top accolades at the tournament by ranking
-6th and 10th Best Speaker respectively in the tournament.</p>
-<p>
-<br>
-</p>
-<p>Due to safe distancing measures taken to combat COVID-19, the tournament
-was held on the Zoom platform from February to April. The debaters had
-an enriching and invaluable experience as they sparred with various schools
-on issues such as mandatory vaccinations during a pandemic, the impact
-of superhero narratives in the media, and the impact of televised singing
-competitions.</p>
-<p>
-<br>
-</p>
-<p>Congratulations to the debaters for rising to the challenge and displaying
-excellence and resilience!</p>
 <h4>SYF Preparation</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1133,15 +878,11 @@ excellence and resilience!</p>
 </tbody>
 </table>
 <h4>SYF Performance: Pruned</h4>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/syf5.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1228,435 +969,16 @@ excellence and resilience!</p>
 </table>
 <p>Our annual March drama and bonding camp was filled with intense drama
 rehearsals, exciting games and quiet moments of reflection.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/f1.jpg">
+<p></p>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Due to the pandemic, we had to innovate and come up with ways to engage
-the school during the National Day celebrations. We did dramatic readings
-of local poems that expressed our love for the nation.</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/A1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/A2-0.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/A3.jpg">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>We performed a skit and set up a booth during CCA Open House</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/B1-0.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/B3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/B2.jpg">
-</div>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>We participated in the Hua Yi Invitational Debate and had a valuable experience sparring with teams from various schools</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/B5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/B7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/B6.jpg">
-</div>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>We emerged as the Top 4 teams in the Singapore Secondary Schools Debating Championships. The intense preparations definitely paid off!</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/C11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/C22.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/C33.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/C44.jpg">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Our annual March drama and bonding camp was filled with exciting games.
-The seniors also had intensive preparations for the upcoming SYF while
-the juniors prepared for the Speech Day performance.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/D4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/D2-0.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/D1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/D3.jpg">
-</div>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>We were a bundle of nerves on the day of our first ever SYF showcase.
-We did our best and were awarded the Certificate of Accomplishment!</p>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/E2-0.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/E1-0.jpg">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>The team made their final touch ups to the props for the Speech Day performance.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/F1-0.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:200px" height="auto" width="100%" src="/images/F2-0.jpg">
-</div>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>We bade farewell to our Secondary 4 seniors at the CCA Appreciation Tea.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 379px; height: 306px;" height="auto" width="100%" alt="eldds1.jpg" src="/images/eldds1.jpg">
-</div>
-<p><strong>CCA Open House Performance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 428px; height: 306px;" height="auto" width="100%" alt="eldds2.jpg" src="/images/eldds2.jpg">
-</div>
-<p><strong>ELDDS Members promoting the CCA Booth during the Open House</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 380px; height: 285px;" height="auto" width="100%" alt="eldds3.jpg" src="/images/eldds3.jpg">
-</div>
-<p><strong>Debaters at the Singapore Secondary Schools<br>Debating Championships</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 426px; height: 289px;" height="auto" width="100%" alt="eldds4.jpg" src="/images/eldds4.jpg">
-</div>
-<p><strong>'The Karung Guni Boy' performance at the<br>Asian Festival of Children's Content</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 817px; height: 526px;" height="auto" width="100%" alt="eldds5.jpg" src="/images/eldds5.jpg">
-</div>
-<p><strong>ELDDS members watching the theatre production 'Those Who Can't, Teach'</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 379px; height: 295px;" height="auto" width="100%" alt="eldds6.jpg" src="/images/eldds6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 422px; height: 296px;" height="auto" width="100%" alt="eldds7.jpg" src="/images/eldds7.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Debate Friendly Competition with Fuhua Secondary School</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="eldds8.jpg" src="/images/eldds8.jpg">
-</div>
-<p><strong>Trying out Opera make up and costume during the Hong Kong Cultural Immersion Trip</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</li>
-<li>
-<p>Modern Dance Club</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Dance%20Website%20Cover%20Photo.jpg">
+</details>
 </div>
 <p>
 <br>
 </p>
-<p><strong>About Modern Dance Club</strong>
-<br>
-</p>
-<p>The Modern Dance Club has been established since the founding of the school
-and consists of about 80 dancers who are passionate about learning different
-dance genres.</p>
-<p>The dancers take part in various performances and competitions like the
-Singapore Youth Festival,&nbsp; the Yellowren Dance Showcase and the Anti-Drug
-Danceworks Competition. In addition, the dancers also perform in various
-community related events activities like Tree Planting Day and National
-Day celebrations.</p>
-<p>Our dancers are also given opportunity to visit our neighbouring countries
-as part of overseas school immersion programme. Different batches of dancers
-have visited countries like Indonesia, Vietnam, Malaysia, Thailand and
-Hong Kong through the school’s overseas trip.</p>
-<h4>Objectives</h4>
-<ul>
-<li>
-<p>to expose the dancers to different dance genres.</p>
-</li>
-<li>
-<p>to build strong leadership and teamwork among the dancers.</p>
-</li>
-<li>
-<p>to provide a platform for dancers to portray their talents and leadership
-skills.</p>
-</li>
-</ul>
-<h4>Activities &amp; Competitions (2021)</h4>
-<p><strong>JWSS Modern Dance 2021</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 477px; height: 296px;" height="auto" width="100%" alt="1. Main Photo 1.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/1.%20Main%20Photo%201.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 446px; height: 296px;" height="auto" width="100%" alt="1. Main Photo 2.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/1.%20Main%20Photo%202.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 479px; height: 297px;" height="auto" width="100%" alt="1. Main Photo 3.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/1.%20Main%20Photo%203.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 446px; height: 296px;" height="auto" width="100%" alt="1. Main Photo 4.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Co-Curricular%20Activities/Performing%20Arts/International%20Dance%20Club/2021/1.%20Main%20Photo%204.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Singapore Youth Festival Arts Presentation 2021</strong>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
@@ -2263,6 +1585,4 @@ place.)</p>
 </p>
 <p><strong>All the P6 students trying the choreography taught by the dancers in unison.</strong>
 </p>
-</li>
-</ol>
 <p></p>
