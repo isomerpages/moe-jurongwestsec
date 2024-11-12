@@ -19,7 +19,7 @@ sections:
       button: Click here to register
       url: https://go.gov.sg/2024jwssopenhouse-register
       alt: Image alt text
-      image: /images/Open House/openhousebannerfinal.png
+      image: /images/Open House/2024_Open_House_Banner_final.jpg
   - infopic:
       title: School Graduating Certificate (SGC)
       subtitle: School Graduating Certificate
