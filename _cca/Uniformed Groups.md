@@ -443,9 +443,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>JWSS National Day Parade</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>August</p>
@@ -453,9 +451,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>BB Character Quest</p>
-<p>&nbsp;</p>
+<p>BB Character Quest&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>August</p>
@@ -463,9 +459,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>BB Cares</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>October</p>
@@ -473,9 +467,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>BB Adventure Camp</p>
-<p>&nbsp;</p>
+<p>&nbsp;BB Adventure Camp</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>October</p>
@@ -483,9 +475,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>BB Share-a-Gift</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>December</p>
