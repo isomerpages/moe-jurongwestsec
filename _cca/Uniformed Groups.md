@@ -620,7 +620,93 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
+<hr>
+<p><strong>Activities &amp; Competitions (2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture2.jpg">
+</div>
+<p>BB Week Fundraising</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture3.jpg">
+</div>
+<p>Induction and Leadership Camp</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture4.jpg">
+</div>
+<p>Enrolment Parade</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture5.jpg">
+</div>
+<p>BB Blaze</p>
+<hr>
+<p><strong>Activities &amp; Competitions (2023)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture7.jpg">
+</div>
+<p>BB Combined Schools Adventure Camp&nbsp;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture9.jpg">
+</div>
+<p>Sports and Games Challenge – Nerf Battle @ Canberra Secondary School</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture11.jpg">
+</div>
+<p>BB Cares – Kayak and Clean</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture13.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture14.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>BB Induction Camp – Outdoor Hike</p>
+<p><strong>&nbsp;</strong>
 <br>
 </p>
 <p>
