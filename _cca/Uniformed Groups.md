@@ -596,9 +596,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>BB Cares</p>
-<p>&nbsp;</p>
+<p>BB Cares&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>October</p>
@@ -635,4 +633,3 @@ variant: tiptap
 <p>
 <br>
 </p>
-<p></p>
