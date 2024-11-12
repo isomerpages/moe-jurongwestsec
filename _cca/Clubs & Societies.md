@@ -1618,7 +1618,7 @@ remote control cars!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Introduction to Mini-Drones in July 2024</p>
+<p>Introduction to Mini-Drones as part of IMTC training</p>
 </td>
 </tr>
 </tbody>
@@ -1645,7 +1645,7 @@ remote control cars!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Hot Wheel Unboxing Video Challenge in April 2024</p>
+<p>Hot Wheel Unboxing Video Challenge</p>
 </td>
 </tr>
 </tbody>
@@ -1672,7 +1672,7 @@ remote control cars!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>IMTC March Camp 2024</p>
+<p>Annual IMTC Camp</p>
 </td>
 </tr>
 </tbody>
