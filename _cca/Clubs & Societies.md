@@ -201,7 +201,7 @@ is a passionate advocate for arts.</p>
 </tr>
 </tbody>
 </table>
-<h4>Highlights in 2020 The Singapore Youth Festival (SYF) 2020</h4>
+<h4>Highlights in The Singapore Youth Festival (SYF)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -317,94 +317,25 @@ is a passionate advocate for arts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Environmental Science Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<h4></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>In this program, students focus on exercising the creative side of their minds through concept exploration, mind stimulation, creative visual expression, group interaction as well as exposure to how to make good use of the innovative digital imaging software program. The artwork created by students were given to teachers as an appreciation Teachers’ Day gift.</strong>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 389px; height: 517px;" height="auto" width="100%" alt="artclub11.jpg" src="/images/artclub11.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 390px; height: 518px;" height="auto" width="100%" alt="artclub12.jpg" src="/images/artclub12.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 389px; height: 518px;" height="auto" width="100%" alt="artclub13.jpg" src="/images/artclub13.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 390px; height: 518px;" height="auto" width="100%" alt="artclub14.jpg" src="/images/artclub14.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<ol data-tight="true" class="tight">
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<h5>Environmental Science Club</h5>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/env1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>About Environmental Science Club</strong>
 </p>
 <p>The JWSS Science Club is dedicated to enriching the science culture in
 Jurong West Secondary School as well as promoting environmental conservation
 and raising awareness to preserve the biodiversity of Singapore.</p>
+<p></p>
 <p>Check us out on our Instagram:<a href="https://instagram.com/jwssesc?igshid=YmMyMTA2M2Y=" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/env2.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -458,9 +389,8 @@ and raising awareness to preserve the biodiversity of Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Li Yi (OIC)
-<br>Mr Nar Soon Keong
-<br>Ms Molly Sii Yiw Ching</p>
+<p>Ms Domina Ng (OIC)
+<br>Mr Huzaini (2IC)</p>
 </td>
 </tr>
 </tbody>
@@ -495,344 +425,7 @@ and raising awareness to preserve the biodiversity of Singapore.</p>
 </tr>
 </tbody>
 </table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Young Sustainability Champion Badge Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>36 members obtained the YSC badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Young Sustainability Champion Mentorship Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 member shortlisted</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Science Buskers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 teams selected for finals</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gardens by the Bay Ambassadors Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 members obtained Tier 2 Badge
-<br>6 members obtained Tier 1 badge
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gardens by the Bay Ambassadors Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 members awarded Tier 1 Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gardens by the Bay Ambassadors Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 members awarded Tier 1 Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Toy Design Competition 2017 - Automata Category</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>List of Activities</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Activity
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2020
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Safety Starts With Me Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>January – March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>E-CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science Buskers Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>July</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Relaunch of The Science Times</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>I am a Climate Changer Poster Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October – December</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Climate Questionnaire Quiz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October – December</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Activity
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2019
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Safety Starts With Me Competition by Workplace Safety &amp; Health Council</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>January - February</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Molecular Gastronomy Workshop at Science Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science Buskers Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April - July</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tree Planting for International Day of Biological Diversity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tower Building Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>July</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tier 1 &amp; Tier 2 training for GBTB Ambassadors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>August and November</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Race to Sustainability at GBTB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Annular Solar Eclipse Viewing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>December</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Activity
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2018
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Safety Starts With Me Competition by Workplace Safety &amp; Health Council</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>January - February</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Daycamp at Gardens by the Bay (GBTB)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students' Science Magic Show</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April - July</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tree Planting for International Day of Biological Diversity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training in GBTB Ambassadors Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>August</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Race to Sustainability at GBTB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hosting Sec 2 Learning Journey to GBTB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VIA Outreach at Pioneer Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>November</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <h4>Our Publication</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -857,7 +450,7 @@ Please click here to read <a href="https://jwssthesciencetimes.wordpress.com/" r
 </tr>
 </tbody>
 </table>
-<h4>Highlights of 2021</h4>
+<h4>Highlights of Environmental Science Club</h4>
 <p><strong>Singapore Science Buskers</strong>
 </p>
 <table style="minWidth: 50px">
@@ -872,25 +465,19 @@ Please click here to read <a href="https://jwssthesciencetimes.wordpress.com/" r
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="WhatsApp Image 2021-11-03 at 09.00.38 1.jpeg" src="/images/WhatsApp%20Image%202021-11-03-1.jpeg">
 </div>
 <p>Students presenting their science experiment to the judges, Singapore
-Science Buskers competition, final round.
-<br>
-</p>
+Science Buskers competition, final round.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="WhatsApp Image 2021-11-03 at 09.00.38.jpeg" src="/images/WhatsApp%20Image%202021-11-03-2.jpeg">
 </div>
 <p>Before presenting their science experiment to the judges in final round
-of Singapore Science Busker competition.
-<br>
-</p>
+of Singapore Science Busker competition.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -975,183 +562,124 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image003e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Molecular Gastronomy Workshop</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image004e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Engaging Parents during CCA Open House</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image005e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Race to Sustainability at Gardens by the Bay</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image006e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Tremendous competition at the Race to Sustainability</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image007e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Presenting to the Judges at Science Buskers Festival</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image008e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Science Magic at Science Buskers Festival</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image009e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Entertaining the Judges at Science Buskers Festival</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image010e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Volcano Time at Science Buskers Festival</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image011e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Gardens by the Bay Ambassador on duty</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image012e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Helping out at the Gardens by the Bay</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image013e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Tower Building Competition</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image014e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Setting up the Tower</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image015e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Final touches to the Tower</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image016e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>The winning Tower!</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image017e.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Tree Planting in JWSS</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/image018e.jpg">
 </div>
 <p><strong>Commemorating International Day of Biological Diversity</strong>
 </p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<h5>Infocomm And Media Technology Club</h5>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Infocomm and Media Technology Club (IMTC)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h5></h5>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/Splash01.png">
 </div>
@@ -1163,7 +691,7 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>CCA Schedule</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -1186,9 +714,7 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -1349,9 +875,7 @@ were busy creating posters and science demo videos during E-CCA sessions</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 136px; height: 199px;" height="auto" width="100%" alt="logoAudio.png" src="/images/logoAudio.png">
 </div>
@@ -1382,9 +906,7 @@ remote control cars!</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1466,6 +988,15 @@ remote control cars!</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ol>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h5></h5>
 <p></p>
