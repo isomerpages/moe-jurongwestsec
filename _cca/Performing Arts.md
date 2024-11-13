@@ -1218,8 +1218,7 @@ for members to hone their leadership skills and enhance their self-confidence.</
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND2.png">
 </div>
 <p>SYF Presentation 2023</p>
-<p></p>
-<h4>Holistic Activities and Programmes</h4>
+<h4><strong>Holistic Activities and Programmes</strong></h4>
 <p>Our Concert Band offers students a vibrant environment to explore their
 musical talents, develop skills, and build lasting friendships. With a
 focus on fostering passion, dedication, and musical excellence, our band
@@ -1239,9 +1238,7 @@ musicians in action to inspire them in their own musical journeys.</p>
 </div>
 <p><em>Learning Journey @Esplanade</em>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<h4>Team Bonding and VIA</h4>
+<h4><strong>Team Bonding and VIA</strong></h4>
 <p>Our annual band camp is a transformative experience focusing on character
 building, resilience, and teamwork. The camp helps students develop a positive
 mindset, a sense of responsibility, and a deeper connection to the band,
@@ -1267,7 +1264,7 @@ brings the community together in a shared spirit of pride and celebration.</p>
 </div>
 <p><em>Performance for Pioneer National Day Dinner 2024 at Frontier CC</em>
 </p>
-<h4>Memorable moments</h4>
+<h4><strong>Memorable moments</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND5.jpg">
 </div>
