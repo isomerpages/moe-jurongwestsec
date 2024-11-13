@@ -6,13 +6,13 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Choir</summary>
+<summary>English Language Debate and Drama</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Choirphoto.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD1.jpg">
 </div>
-<p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -21,31 +21,468 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p><strong>CCA Schedule</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mondays and Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:30 – 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AVA Room 1 and 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sandramarthy (Teacher IC)</p>
+<p>Ms Sharon Tan</p>
+<p>Ms Zamiara</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coaches / Instructors</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Debate – Mr Ho Wey Kean</p>
+<p>Drama – Mr Wong Kwang Han</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Trisha Aliyah Ang Naidu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Irfan Nordin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice- President (Debate)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crisostomo Yvonne Erich Bagiao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Well-Being IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Jing Yi Andraia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity and Outreach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janell Lee Gei Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics and Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yao Jiahuizi</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Achievements</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary School Debating Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 10 Speaker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary School Debating Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 20 Speaker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>List of Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Watching a Debate Exchange</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mar - Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech Day Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ReadFest! Escape Room Game</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Debate Workshop at ACJC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mid-year Debate Invitationals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Watching Drama – Hard Mode by Checkpoint Theatre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 November</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD2.jpg">
+</div>
+<p><em>Our drama team on 19 October 2024</em>
+</p>
+<h4>Activities &amp; Competitions</h4>
+<p>A chance for our team to showcase our talents&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD4.jpg">
+</div>
 </th>
 </tr>
+</tbody>
+</table>
+<p><em>School based performances in 2024</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Venue</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD5.jpg">
+</div>
+<p><em>Our junior team of actors and debaters out for Drama performance in Oct</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day One</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD6.jpg">
+</div>
+<p><em>Appreciation to the outgoing team of actors and debators</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Team Bonding and VIA</h4>
+<p>Besides our drama and debate activities, our team also had exciting team
+building activities through sports and games.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD7.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day Two</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD8.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<em>Our team of actors and debaters getting actively involved in sports</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD9.jpg">
+</div>
+<p><em>Getting to know each other</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD10.jpg">
+</div>
+<p><em>Drama training</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Choir</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir1.jpg">
+</div>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mondays</p>
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>3.00 to 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p>Choir Room</p>
 </td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Organisation Chart</strong>&nbsp;</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Monday 3.45 pm - 6.15 pm</p>
+<p><strong>Teachers-In-Charge</strong>
+</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday 3.45 pm - 6.15 pm</p>
+<p>Siti Aisah Binte Sak Yok (I/C)</p>
+<p>Benjamin Low Chi Arn (2 I/C)</p>
+<p>Molly Sii Yiw Ching</p>
 </td>
 </tr>
 </tbody>
@@ -56,32 +493,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Organisation Chart</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
+<p><strong>Coaches / Instructors</strong>
+</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Benjamin Low Chi Arn (OIC)
-<br>Mdm Siti Aisah (2 IC)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Instructors</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -98,111 +513,86 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Executive Committee</p>
-</th>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Atifah Insyirah (3N3)</p>
+<p>Ada Lua Yu Yin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Presidents</p>
+<p>Vice-president</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kimberly Tan (3E1)
-<br>Rey Edgar Ho (3E2)</p>
+<p>Chang Zheng Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Warric Chua Ming You</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Administrative Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Steffie Kuan Yan Teng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nibedita Talukdar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Welfare Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Xin Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joshua Mohan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistance Logistics Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yap Jing Xuan, Adeline</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Conductor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anburaj Valentina</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>Activities &amp; Competitions</h4>
-<p><strong>SYF Arts Presentation</strong>
-</p>
-<p>On 12 April, the Jurong West Concert Band (JWCB) participated in the annual
-Singapore Youth Festival (SYF) Arts Presentation. This was the event of
-the year for all Performing Arts CCAs as they had the opportunity to showcase
-their talents. Having to receive feedback virtually and practise without
-their fellow bandmates, this was an event that built resilience and adaptability
-in the JWCB students. Despite these challenges, the JWCB managed to secure
-a Certificate of Accomplishment for their hard work</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; text-align: center; width: 527px; height: 395px;" height="auto" width="100%" alt="01.jpg" src="/images/01choir.jpg">
-</div>
-<p>The JWSS Choir with Mr Benjamin Low, teacher-in-charge, during CCA Open
-House.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; text-align: center; width: 528px; height: 395px;" height="auto" width="100%" alt="02.jpg" src="/images/02choir.jpg">
-</div>
-<p>Our Sec 4 seniors writing notes of appreciation to one another during
-our Seniors' Appreciation Tea</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; text-align: center; width: 534px; height: 707px;" height="auto" width="100%" alt="03.jpg" src="/images/03choir.jpg">
-</div>
-<p>During the CCA camp in March, the Choir invited the JWSS Red Cross to
-teach our Choir First Aid.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; text-align: center; width: 527px; height: 392px;" height="auto" width="100%" alt="04.jpg" src="/images/04choir.jpg">
-</div>
-<p>The Choir performing A Million Dreams, with choreography, during the Speech
-Day.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; text-align: center; width: 519px; height: 388px;" height="auto" width="100%" alt="05.jpg" src="/images/05choir.jpg">
-</div>
-<p>The Choir posing for a photo, after a successful performance, during the
-Speech Day.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; text-align: center; width: 512px; height: 382px;" height="auto" width="100%" alt="06.jpg" src="/images/06choir.jpg">
-</div>
-<p>The JWSS Choir was filming One Singapore, with choreography, for the school’s
-National Day Celebration.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Concert Band</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Image A_Speech Day_2.jpg">
-</div>
+<h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -211,31 +601,312 @@ National Day Celebration.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p><strong>CCA Schedule</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day One</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day Two</p>
+<p><strong>Year</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Provision</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>List of Activities</strong></h4>
+<p>Our school choir is a vibrant and dynamic group dedicated to nurturing
+young voices and fostering a deep appreciation for music. Through a comprehensive
+programme, students are given numerous opportunities to hone their vocal
+and performance skills. Each year, the choir participates in the CCA Open
+House, welcoming new members and showcasing their talents.</p>
+<p>The annual Choir Camp further strengthens teamwork and vocal techniques,
+while exchange programmes with other schools provide an enriching experience,
+exposing students to diverse musical styles and friendships.</p>
+<p>Our choir members participate in unique learning experiences, including
+masterclass sessions with renowned vocal coaches to deepen their understanding
+of choral techniques. Performance opportunities abound, with students taking
+center stage at both school events, such as National Day, and community
+events at Pioneer Community Club. They proudly represent our school at
+prestigious events like Voices of Singapore, sharing their voices with
+the wider community.</p>
+<p>Committed to giving back, the choir engages in Values in Action (VIA)
+initiatives, such as performances at Pancare Medical Centre, where students
+use their talents to bring joy to others. These experiences nurture not
+only musical ability but also empathy, teamwork, and resilience, creating
+confident individuals who contribute meaningfully to their community.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Values-In-Action At Pancare Medical @ West</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir Annual Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Voices of Singapore (VOS) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exchange Program with other schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Master Class Program</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech &amp; Prize Giving Day Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Appreciation Tea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Celebration at Pioneer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Day – Bonding Activity (Bowling)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4>Choir Enriching and Challenging Activities</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir2.jpg">
+</div>
+<p>Master Class Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir3.jpg">
+</div>
+<p>CCA DAY – Bowling</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir4.jpg">
+</div>
+<p><em>Collaboration between Choir and Concert Band for National Day performance&nbsp;</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir5.jpg">
+</div>
+<p>CCA Day – Learning Journey to Peranakan Museum</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Concert Band</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND1.png">
+</div>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>3.00 pm - 6.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p>Band Room</p>
 </td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Monday 3.45 pm - 6.15 pm</p>
+<p><strong>Teachers-In-Charge</strong>
+</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday 3.45 pm - 6.15 pm</p>
+<p>Ms Erlinda Tanuwijaya (I/C)</p>
+<p>Mdm Zhang Lixia (2I/C)</p>
+<p>Mr Chong Chee Nian</p>
 </td>
 </tr>
 </tbody>
@@ -246,37 +917,16 @@ National Day Celebration.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Organisation Chart</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
+<p><strong>Coaches / Instructors</strong>
+</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zhang Lixia (OIC)
-<br>Mdm Ravindran Arul Jothi
-<br>Ms Jennifer Wu</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Instructors</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Lee</p>
+<p>Mr&nbsp;Ronnie Quek</p>
+<p>Mrs Chua Yue Ai Chuan</p>
 </td>
 </tr>
 </tbody>
@@ -288,16 +938,9 @@ National Day Celebration.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Executive Committee</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Band Major</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soon Kai De (3E2))</p>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -305,142 +948,74 @@ National Day Celebration.</p>
 <p>Band Major (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hayden Siah Seng Tat (3E1)</p>
+<p>Kaeden Zou Yankai</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Band Major (Admin)</p>
+<p>Band Major (Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chloe Tay Xin Ying (3E4)
-<br>
-</p>
+<p>Siow Ai Min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quartermaster</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Claire Lim Yee Xuen, Zhuang Huihui, Lily Amani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aniq Naufal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recreational Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Aisyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian and Wardrobe Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Wan Yee, Bryan Toong Wei Jie, Chee Rui Feng Nate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kai Wen, Lim Yi Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Secondary Support Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prisshaa Advanti</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>At&nbsp; Jurong West Secondary School Concert Band, we aim to:</strong>
+<p><strong>At Jurong West Secondary School Concert Band, we aim to:</strong>
 </p>
-<p>Develop and nurture the fundamental skills necessary to perform a repertoire
-of a symphonic nature for various occasions,foster camaraderie and teamwork
-among our members through planned programmes and activities, and create
-opportunities for members to hone their leadership skills and enhance their
-self-confidence</p>
-<p></p>
-<h4>Activities &amp; Competitions</h4>
-<p><strong>YF Arts Presentation</strong>
-</p>
-<p>On 12 April, the Jurong West Concert Band (JWCB) participated in the annual
-Singapore Youth Festival (SYF) Arts Presentation. This was the event of
-the year for all Performing Arts CCA as they had the opportunity to showcase
-their talents. After many gruelling months of practice compounded by the
-difficulties put forth by the COVID-19 pandemic, the JWCB overcame all
-odds to put on their best performance of the year which was a rendition
-of Aston Overture. Having to receive feedback virtually and practise without
-their fellow bandmates, this was an event that built resilience and adaptability
-in the JWCB students. Despite these challenges, the JWCB managed to secure
-a Certificate of Accomplishment for their hard work.</p>
-<p>Our band students enjoying a spot of lunch before preparing for the SYF
-Presentation.</p>
-<p></p>
-<h4>Activities &amp; Competitions</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic01.jpg">
-</div>
-<p></p>
-<p><strong>20th ROTA COMMANDER COURSE (RCC) COMMISSIONING PARADE REHEARSAL</strong>
-</p>
-<p>Held at Civil Defence Academy, JWSS Symphonic Band is once again hounoured
-to be a part of this milestone event for the 20th&nbsp;RCC commissioned
-officers.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic02.jpg">
-</div>
-<p></p>
-<p><strong>A shot with the Guest-of-Honour, Ms Sun Xue Ling, Senior Parliamentary Secretary, Ministry of Home Affairs and Ministry of National Development during reception session.</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/symphonic03.jpg">
-</div>
-<p></p>
-<p><strong>WEEKLY PRACTICE SESSIONS IN THE BAND ROOM- The newly refurbished flooring creates an even more conducive environment for our weekly practice sessions.</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ACB.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/BCB.jpeg">
-</div>
-<p></p>
-<p><strong>CNY CONCERT PERFORMANCE - Ushering in the new year with familiar CNY tunes, smiles and red packets.</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CCB.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/DCB.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ECB.jpg">
-</div>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Modern Dance</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Dance%20Website%20Cover%20Photo.jpg">
-</div>
-<p></p>
-<p><strong>About Modern Dance Club</strong>
-</p>
-<p>The Modern Dance Club has been established since the founding of the school
-and consists of about 80 dancers who are passionate about learning different
-dance genres.</p>
-<p>The dancers take part in various performances and competitions like the
-Singapore Youth Festival,&nbsp; the Yellowren Dance Showcase and the Anti-Drug
-Danceworks Competition. In addition, the dancers also perform in various
-community related events activities like Tree Planting Day and National
-Day celebrations.</p>
-<p>Our dancers are also given opportunity to visit our neighbouring countries
-as part of overseas school immersion programme. Different batches of dancers
-have visited countries like Indonesia, Vietnam, Malaysia, Thailand and
-Hong Kong through the school’s overseas trip.</p>
-<p></p>
-<h4>Objectives</h4>
-<ul>
-<li>
-<p>to expose the dancers to different dance genres.</p>
-</li>
-<li>
-<p>to build strong leadership and teamwork among the dancers.</p>
-</li>
-<li>
-<p>to provide a platform for dancers to portray their talents and leadership
-skills.</p>
-</li>
-</ul>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/syf1.png">
-</div>
-<p></p>
+<p>Develop and nurture the fundamental skills necessary to perform a symphonic
+repertoire for various occasions, foster camaraderie and teamwork among
+our members through planned programmes and activities and create opportunities
+for members to hone their leadership skills and enhance their self-confidence.</p>
+<h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -450,352 +1025,38 @@ skills.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.333px;" height="auto" width="100%" alt="2. SYF 2.jpg" src="/images/syf2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 236.909px;" height="auto" width="100%" alt="2. SYF 3.jpg" src="/images/syf3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 233.853px;" height="auto" width="100%" alt="2. SYF 4.jpg" src="/images/syf4.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Team A SYF dancers performing during Arts Presentation</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.98px;" height="auto" width="100%" alt="2. SYF 5.jpg" src="/images/syf5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 233.377px;" height="auto" width="100%" src="/images/syf6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 234.649px;" height="auto" width="100%" src="/images/syf7.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Team B SYF dancers performing during Arts Presentation</p>
-<p>
-<br>JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/3Speech Day 1.png">
-</div>
-<p></p>
-<p><strong>The 20th Anniversary &amp; Speech and Prize Giving Day performers posing after the event</strong>
+<p><strong>Competition</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 461px; height: 300px;" height="auto" width="100%" alt="3. Speech Day 2.png" src="/images/3Speech%20Day%202.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 439px; height: 301px;" height="auto" width="100%" alt="3. Speech Day 3.png" src="/images/3Speech%20Day%203.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Dance Camp</strong>
+<p><strong>Achievement</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/dancecamp3.png">
-</div>
-<p>
-<br><strong>Dancers stretching during the Hip Hop workshop (Dance Camp)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/dancecamp2.png">
-</div>
-<p>
-<br><strong>Dancers practising during the Hip Hop workshop (Dance Camp)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 397.583px;" height="auto" width="100%" alt="4. Dance Camp 3.png" src="/images/dancecamp3.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 398.393px;" height="auto" width="100%" alt="4. Dance Camp 4.png" src="/images/dancecamp4.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Dancers practising during the Lyrical Dance workshop (Dance Camp)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 525.638px; height: 385.773px;" height="auto" width="100%" alt="4. Dance Camp 5.png" src="/images/dancecamp5.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 541px; height: 405px;" height="auto" width="100%" alt="4. Dance Camp 6.png" src="/images/dancecamp6.png">
-</div>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Dancers practising during the Makeup Workshop (Dance Camp)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/dancecamp7.png">
-</div>
-<p></p>
-<p><strong>Dancers practising during the Makeup Workshop (Dance Camp)</strong>
-</p>
-<p><strong>Dance Workshops by Alumni</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/5Alumni.png">
-</div>
-<p></p>
-<p><strong>Dancers learning dance moves from Alumni seniors during the CCA sessions</strong>
-</p>
-<p><strong>Secondary One Dance Audition</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/6Sec%201%20Audition.png">
-</div>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>English Language, Drama and Debating</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ELDD%20Website%20Main%20Pic.jpeg">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p><strong>CCA Schedule</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training Venue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Day One</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Day Two</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Learning Hive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday 3.45 pm - 6.15 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday 3.45 pm - 6.15 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Organisation Chart</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sandramathy (OIC)
-<br>Ms Cheryl Lim (2IC)
-<br>Ms Samantha Chin
-<br>
+<p><strong>Year</strong>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Instructor</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debate: Mr Leuven Lee
-<br>Drama: Ms Jaclyn Magdalene Rajendran</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Executive Committee</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>President</p>
+<p>SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Naomi Lim Hai Tong (3E2)</p>
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Presidents</p>
+<p>SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rohini D/O Terence(SEC 3E2)
-<br>Keneshaarai D/O Perumal (3E4)
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships (Division III)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 20 Speaker Awards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
+<p>Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships (Division III)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Place &amp; Top 20 Speaker Awards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Division III Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 4 (Semi-Finalists) &amp; Top 20 Speaker Awards</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Debate Association Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17th Ranked Speaker of Tournament (Silver Division)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
 </td>
 </tr>
 <tr>
@@ -811,10 +1072,417 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships (Division III)</p>
+<p>SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 4 (Semi-Finalists)</p>
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>List of Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>January</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary One Orientation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>January</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journey to Esplanade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>January</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual Band Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>March</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>March</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary Four Farewell</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>April</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Exchange Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>May</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA Project @ Pioneer National Day Dinner 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>August</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual JWSS National Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>August</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>November</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND2.png">
+</div>
+<p>SYF Presentation 2023</p>
+<h4><strong>Holistic Activities and Programmes</strong></h4>
+<p>Our Concert Band offers students a vibrant environment to explore their
+musical talents, develop skills, and build lasting friendships. With a
+focus on fostering passion, dedication, and musical excellence, our band
+program is designed to nurture students’ growth as musicians and individuals.</p>
+<p>Each year, our students have opportunities to perform, starting with the
+CCA Open House, where they showcase their talents to new students and parents.
+Our students also perform for the school’s Speech Day and National Day
+Parade. Once every two years, they will participate in the Singapore Youth
+Festival presentation. These performances build confidence and provide
+a platform to demonstrate the hard work put into each practice session.</p>
+<p>We believe in experiential learning, so it is a regular affair for band
+members to attend concerts and learning journey to witness professional
+musicians in action to inspire them in their own musical journeys.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND3.png">
+</div>
+<p><em>Learning Journey @Esplanade</em>
+</p>
+<h4><strong>Team Bonding and VIA</strong></h4>
+<p>Our annual band camp is a transformative experience focusing on character
+building, resilience, and teamwork. The camp helps students develop a positive
+mindset, a sense of responsibility, and a deeper connection to the band,
+creating lifelong memories and invaluable skills.</p>
+<p>In a unique CCA exchange, our band members also had the chance to interact
+with the school’s volleyball team through fun team-building games and activities.
+This session allowed students from both CCAs to learn from one another
+and strengthen bonds across different groups. Band members introduced various
+musical instruments to the volleyball team, sparking curiosity and giving
+them a taste of the skills and dedication that go into our performances.
+This exchange emphasized collaboration, understanding, and the joy of exploring
+new interests together.</p>
+<p>As part of our commitment to engaging with the community, our Concert
+Band is honored to perform at local events, such as the Pioneer National
+Day Dinner. This year, our talented band members contributed to the National
+Day celebrations by collaborating with the Choir, showcasing patriotic
+tunes and uplifting performances for the residents of Pioneer. This event
+not only allows our students to share their passion for music but also
+brings the community together in a shared spirit of pride and celebration.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND4.jpg">
+</div>
+<p><em>Performance for Pioneer National Day Dinner 2024 at Frontier CC</em>
+</p>
+<h4><strong>Memorable moments</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND5.jpg">
+</div>
+<p><em>Farewell Party for the outgoing seniors</em>
+</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Modern Dance</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance1.jpg">
+</div>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>3.30 to 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Dance Studio</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhu Qingyun (I/C)</p>
+<p>Ms Nurulhuda Bte Ahmad (2 I/C)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coaches / Instructors</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kay Lee Su Ping</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEEANN CHONG QI TONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President Admin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR SYAFIQAH BINTE MASDUKI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOH YU XIN</p>
+<p>SHIRVANI SIVAKUMAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President Welfare</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALY GOH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec1 Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLARA TAN LE XUAN</p>
+<p>CHAN MING ZHUANG, MICHELLE</p>
+<p>LEE HUI YAN, CHLOE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec2 Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YONG KAI JING</p>
+<p>JOY TAN HUI EN</p>
+<p>KHOO YEE RUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YUAN JIAXIN</p>
+<p>TANG SHUYANG</p>
+<p>NURUL ALEESHA BINTE ABDUL NASIR</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
@@ -822,29 +1490,157 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships (Division III)</p>
+<p>SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 8 (Quarter-Finalists) &amp; Top 20 Speakers</p>
+<p>Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2018</p>
+<p>2017</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Evergreen Debate Invitational</p>
+<p>SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Runner Up</p>
+<p>Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2018</p>
+<p>2015</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>SYF Preparation</h4>
+<h4><strong>List of Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 CCA trials</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance Annual Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Exchange Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech &amp; Prize Giving Day Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Appreciation Tea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pioneer National Day Dinner Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS National Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Day – Bonding Activity and Jazz Dance Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Prom Night Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Activities &amp; Competitions</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance2.png">
+</div>
+<p><em>Singapore Youth Festival Arts Presentation</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -854,735 +1650,84 @@ skills.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535.99px; height: 399px;" height="auto" width="100%" alt="3.jpeg" src="images/3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance3.jpg">
 </div>
+<p><em>Chinese New Year Celebration</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535.99px; height: 399px;" height="auto" width="100%" alt="4.jpeg" src="/images/4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance4.jpg">
 </div>
+<p><em>CCA Open House</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 301px; height: 400px;" height="auto" width="100%" alt="5.jpeg" src="/images/5.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance5.jpg">
 </div>
+<p><em>Make up Workshop</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535.99px; height: 399px;" height="auto" width="100%" alt="2.jpeg" src="/images/2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance6.jpg">
 </div>
+<p><em>Jazz workshop</em>
+</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>SYF Performance: Pruned</h4>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance7.jpg">
+</div>
+<p><em>CCA Exchange Day</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance8.jpg">
+</div>
+<p><em>Hosting students from China</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance9.jpg">
+</div>
+<p><em>JWSS Speech Day</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance10.jpg">
+</div>
+<p><em>Pioneer National Day Dinner</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance11.jpg">
+</div>
+<p><em>Dance Exchange Programme</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/syf5.jpg">
-</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 498px; height: 305px;" height="auto" width="100%" alt="syf6.JPG" src="/images/syf6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 540.703px; height: 307px;" height="auto" width="100%" alt="syf2.JPG" src="/images/syf2.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/IMG_0629.jpg">
-</div>
-<h4>March Bonding Camp</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 389px; height: 292px;" height="auto" width="100%" alt="32.jpg" src="/images/32.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 397px; height: 294px;" height="auto" width="100%" alt="31.jpg" src="/images/31.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/b1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/c1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/dd1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ee1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Our annual March drama and bonding camp was filled with intense drama
-rehearsals, exciting games and quiet moments of reflection.</p>
 <p></p>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/syf1.png">
-</div>
-<p>
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.333px;" height="auto" width="100%" alt="2. SYF 2.jpg" src="/images/syf2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 236.909px;" height="auto" width="100%" alt="2. SYF 3.jpg" src="/images/syf3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 233.853px;" height="auto" width="100%" alt="2. SYF 4.jpg" src="/images/syf4.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Team A SYF dancers performing during Arts Presentation 2021</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.461px; height: 235.98px;" height="auto" width="100%" alt="2. SYF 5.jpg" src="/images/syf5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 366.432px; height: 233.377px;" height="auto" width="100%" src="/images/syf6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 367.487px; height: 234.649px;" height="auto" width="100%" src="/images/syf7.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Team B SYF dancers performing during Arts Presentation 2021
-<br>JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance 2021</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/3Speech Day 1.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The 20th Anniversary &amp; Speech and Prize Giving Day performers posing after the event</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 461px; height: 300px;" height="auto" width="100%" alt="3. Speech Day 2.png" src="/images/3Speech%20Day%202.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 439px; height: 301px;" height="auto" width="100%" alt="3. Speech Day 3.png" src="/images/3Speech%20Day%203.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Dance Camp 2021</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/dancecamp3.png">
-</div>
-<p>
-<br><strong>Dancers stretching during the Hip Hop workshop (Dance Camp 2021)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/dancecamp2.png">
-</div>
-<p>
-<br><strong>Dancers practising during the Hip Hop workshop (Dance Camp 2021)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 397.583px;" height="auto" width="100%" alt="4. Dance Camp 3.png" src="/images/dancecamp3.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 398.393px;" height="auto" width="100%" alt="4. Dance Camp 4.png" src="/images/dancecamp4.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Dancers practising during the Lyrical Dance workshop (Dance Camp 2021)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 525.638px; height: 385.773px;" height="auto" width="100%" alt="4. Dance Camp 5.png" src="/images/dancecamp5.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 541px; height: 405px;" height="auto" width="100%" alt="4. Dance Camp 6.png" src="/images/dancecamp6.png">
-</div>
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Dancers practising during the Makeup Workshop (Dance Camp 2021)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/dancecamp7.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Dancers practising during the Makeup Workshop (Dance Camp 2021)</strong>
-</p>
-<p><strong>Dance Workshops by Alumni</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/5Alumni.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Dancers learning dance moves from Alumni seniors during the CCA sessions</strong>
-</p>
-<p><strong>Secondary One Dance Audition 2021</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/6Sec%201%20Audition.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Secondary One students participating in Dance Audition 2021</strong>
-</p>
-<p><strong>Theatre Staging and Production Workshop</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 553.516px; height: 295.16px;" height="auto" width="100%" alt="7. Theatre Workshop 1.png" src="/images/7Theatre%20Workshop%201.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 442px; height: 300px;" height="auto" width="100%" alt="7. Theatre Workshop 2.png" src="/images/7Theatre%20Workshop%202.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>CCA Appreciation Tea 2021</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/8Appreciation%20Tea.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Secondary Four seniors posing with the appreciation gifts received from juniors</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 356.992px; height: 237.227px;" height="auto" width="100%" alt="9. Passing Out Ceremony 1.png" src="/images/9Passing%20Out%20Ceremony%201.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 355.99px; height: 374.451px;" height="auto" width="100%" alt="9. Passing Out Ceremony 2.png" src="/images/9Passing%20Out%20Ceremony%202.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 299px; height: 397px;" height="auto" width="100%" alt="9. Passing Out Ceremony 3.png" src="/images/9Passing%20Out%20Ceremony%203.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Seniors receiving their Passing Out Ceremony trophies and certificates from their FTs</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 337px; height: 268px;" height="auto" width="100%" alt="9. Passing Out Ceremony 4.png" src="/images/9Passing%20Out%20Ceremony%204.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 320px; height: 295px;" height="auto" width="100%" alt="9. Passing Out Ceremony 5.png" src="/images/9Passing%20Out%20Ceremony%205.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 236px; height: 292px;" height="auto" width="100%" alt="9. Passing Out Ceremony 6.png" src="/images/9Passing%20Out%20Ceremony%206.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Seniors receiving their Passing Out Ceremony trophies and certificates from their FTs</strong>
-</p>
-<p><strong>E-CCA Training Sessions</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/10E-CCA%201.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Dancers practising during e-CCA training sessions</strong>
-</p>
-<p><strong>Breakout Room Activity (E-CCA)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 545px; height: 340.722px;" height="auto" width="100%" alt="10. E-CCA 2.png" src="/images/10E-CCA%202.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 545px; height: 336.391px;" height="auto" width="100%" alt="10. E-CCA 3.png" src="/images/10E-CCA%203.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Dancers doing various activities and discussions during breakout room sessions</strong>
-</p>
-<p><strong>Student-led Breakout Room Activity (E-CCA)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/10E-CCA%204.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Dance leaders conducting bonding activity using Mentimeter during one of the e-CCA sessions</strong>
-</p>
-<p><strong>Activities &amp; Competitions (2020)</strong>
-</p>
-<p><strong>CCA Open House 2020</strong>
-</p>
-<p>(The photos were taken before the circuit breaker measures were put in
-place.)</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CCAOH_1.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>JWSS IDC board prepared by the dancers.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CCAOH_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CCAOH_3.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Interested secondary one students checking out the Dance booth.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CCAOH_4.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>A dancer promoting the club to a few interested secondary one students</strong>
-</p>
-<p><strong>Chinese New Year Performance</strong>
-</p>
-<p>(The photos were taken before the circuit breaker measures were put in
-place.)</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CNY_1.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CNY_2.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CNY_3.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/CNY_4.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers, clad in red cheongsam top performing for the popular Da Do Hui Chun song during the JWSS Chinese New Year celebration concert.</strong>
-</p>
-<p><strong>Dance Camp 2020</strong>
-</p>
-<p>(The photos were taken before the circuit breaker measures were put in
-place.)</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/DC_1.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/DC_2.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/DC_3.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/DC_4.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The new secondary one dancers spending quality time bonding with their seniors during the Secondary One Orientation programme.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/DC_5.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers building their flexibility and strength during the Tumbling workshop.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/DC_6.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers posing for a photo with their Tumbling workshop instructors.</strong>
-</p>
-<h4>National Day Performance Video (Zoom)</h4>
-<p>(The photos were taken before the circuit breaker measures were put in
-place.)</p>
-<p>///Video to be converted to///</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ND_1.jpg">
-</div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ND_2.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers conveying their National Day wishes to their teachers and fellow schoolmates via Zoom.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ND_3.jpg">
-</div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ND_4.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers coming together to do a Zoom performance for Singapore, United as One song.</strong>
-</p>
-<h4>Teachers’ Day Performance Video</h4>
-<p>(The photos were taken before the circuit breaker measures were put in
-place.)</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/TDP_2.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/TDP_2.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/TDP_3.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/TDP_4.png">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The senior dancers coming together to do a video performance for the Teachers’ Day concert.</strong>
-</p>
-<h4>Activities &amp; Competitions (2019)</h4>
-<h4>Singapore Youth Festival Arts Presentation 2019</h4>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/danceSFY_Team.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>SYF dancers posing together before leaving for the Arts Presentation.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/BDW_1.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>SYF dancers waiting patiently for their turn to perform.</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ssntT6qCamM"></iframe>
-</div>
-<h4>Ballroom Dance Workshop</h4>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/BDW_1.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers posing together with the Instructor, Ms Lorencia.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/BDW_2.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers going through theory lessons.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/BDW_3.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers trying some ballroom dance techniques taught.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/BDW_4.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The Instructor demonstrating a particular technique with the help of one of the dancers.</strong>
-</p>
-<h4>VIA Programme at Frontier Primary School</h4>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Frontier_1.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>The dancers doing a demonstration for the P6 students before teaching them the choreography.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Frontier_2.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>A dancer helping one of the P6 students with her steps.</strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Frontier_3.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>All the P6 students trying the choreography taught by the dancers in unison.</strong>
-</p>
 <p></p>

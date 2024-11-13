@@ -205,20 +205,508 @@ variant: tiptap
 </div>
 </details>
 </div>
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Year</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;JM Fraser</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JM Fraser</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold (High Distinction)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JM Fraser</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JM Fraser</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Competitions</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Year</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Boys’ Brigade Blaze</p>
+<p>Boys’ Brigade Character Quest&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade Blaze</p>
+<p>Boys’ Brigade Character Quest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade Blaze</p>
+<p>Boys’ Brigade Character Quest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade Character Quest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>List of Activities</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Activity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Day Commemoration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Week Fundraising</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 Induction and Leadership Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Enrolment Parade and Dedication Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Speech Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UG Passing Out Parade (POP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Blaze&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Promotion Ceremony&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Exchange (Life @ JW)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS National Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Character Quest&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Cares</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Adventure Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Share-a-Gift</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>December</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p>
-<br>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Activity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Day Commemoration&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Week Fundraising&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 Induction and Leadership Camp&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Enrolment Parade and Dedication Service&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Speech Day Parade&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UG Passing Out Parade (POP)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Blaze&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Promotion Ceremony&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Exchange (Life@JW) &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS National Day Parade&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Character Quest&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Cares&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Adventure Camp&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Share-a-Gift&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>December</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Activities &amp; Competitions (2024)</strong>
 </p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture2.jpg">
+</div>
+<p>BB Week Fundraising</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture3.jpg">
+</div>
+<p>Induction and Leadership Camp</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture4.jpg">
+</div>
+<p>Enrolment Parade</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture5.jpg">
+</div>
+<p>BB Blaze</p>
+<hr>
+<p><strong>Activities &amp; Competitions (2023)</strong>
 </p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture7.jpg">
+</div>
+<p>BB Combined Schools Adventure Camp&nbsp;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture9.jpg">
+</div>
+<p>Sports and Games Challenge – Nerf Battle @ Canberra Secondary School</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture11.jpg">
+</div>
+<p>BB Cares – Kayak and Clean</p>
+<p><strong>&nbsp;</strong>
 </p>
-<p>
-<br>
-</p>
-<p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture13.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture14.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>BB Induction Camp – Outdoor Hike</p>
+<p><strong>&nbsp;</strong>
 <br>
 </p>
 <p>
