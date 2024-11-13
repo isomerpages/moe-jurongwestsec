@@ -905,7 +905,7 @@ confident individuals who contribute meaningfully to their community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Erlinda Tanuwijaya (I/C)</p>
-<p>Mdm Zhang Lixia (2<sup>nd</sup> I/C)</p>
+<p>Mdm Zhang Lixia (2I/C)</p>
 <p>Mr Chong Chee Nian</p>
 </td>
 </tr>
