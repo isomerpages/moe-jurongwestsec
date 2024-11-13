@@ -320,7 +320,9 @@ is a passionate advocate for arts.</p>
 <summary>Environmental Science Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>[insert photo ESC1]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC1.jpg">
+</div>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -662,8 +664,10 @@ is a passionate advocate for arts.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p>[insert photo ESC2]</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC2.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -677,75 +681,42 @@ is a passionate advocate for arts.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>Activities &amp; Competitions</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>[insert photo ESC 3]</p>
+<h4><strong>Activities &amp; Competitions</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC3.jpg">
+</div>
 <p>Sharing on Plastic Waste Management with rest of the school</p>
-<p>&nbsp;</p>
-<p><em>[insert photo ESC4]</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC4.jpg">
+</div>
 <p><em>National STEM Championship Qualifying Round</em>
 </p>
-<p>&nbsp;</p>
-<p><em>[insert photo ESC5]</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC5.jpg">
+</div>
 <p><em>Preparing for National Robotics Challenge 2024</em>
 </p>
-<p>[insert photo esc6]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC6.jpg">
+</div>
 <p>National Robotics Challenge 2024</p>
-<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><em>&nbsp;</em>
-</p>
-<p>&nbsp;</p>
-<p>Team Bonding &amp; Learning Journey</p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>[insert photo ESC7]</p>
-<p></p>
+<h4><strong>Team Bonding &amp; Learning Journey</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC7.jpg">
+</div>
 <p>CCA Exchange Day</p>
-<p>[insert photo ESC8]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC8.jpg">
+</div>
 <p>Robotics sessions</p>
-<p>[insert photo ESC9]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC9.jpg">
+</div>
 <p>Learning Journey on Sustainability at NUS Ridgeview Residential College</p>
-<p>[insert photo ESC10]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ESC/ESC10.jpg">
+</div>
 <p>Bonding activities during CCA Day</p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[JM Chai1]</a>Can keep it within the last 10 years</p>
-<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[JM Chai2]</a>To refer to Student Development Plan,
-activities that are unique to the CCA, to include CCA Camp.</p>
-<p>&nbsp;</p>
-<p>To include 1 to 4 pictures per activity, it can be from 2023 to 2024</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
