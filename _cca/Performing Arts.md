@@ -825,7 +825,6 @@ confident individuals who contribute meaningfully to their community.</p>
 </table>
 <p>&nbsp;</p>
 <h4>Choir Enriching and Challenging Activities</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir2.jpg">
 </div>
