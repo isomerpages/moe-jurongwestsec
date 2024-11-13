@@ -8,10 +8,11 @@ variant: tiptap
 <details class="isomer-details">
 <summary>English Language Debate and Drama</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>[ELDD1]</strong>
-</p>
-<p><strong>CCA Schedule</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD1.jpg">
+</div>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -46,9 +47,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Organisation Chart</strong>
-</p>
+<h4>&nbsp;<strong>Organisation Chart</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -69,7 +68,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -89,7 +87,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -152,9 +149,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Achievements</strong>
-</p>
+<h4>&nbsp;<strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -209,98 +204,9 @@ variant: tiptap
 <p>2024</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2014</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h2><strong>List of Activities</strong></h2>
+<h4>&nbsp;<strong>List of Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -409,17 +315,36 @@ variant: tiptap
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p>[ELDD 2]</p>
-<p></p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD2.jpg">
+</div>
+<p><em>Our drama team on 19 October 2024</em>
 </p>
-<p>&nbsp;</p>
-<p>Activities &amp; Competitions</p>
-<p>A chance for our team to showcase our talents</p>
-<p>[ELDD 3 &amp; 4]</p>
+<h4>Activities &amp; Competitions</h4>
 <p></p>
-<h2>&nbsp;</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD4.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>A chance for our team to showcase our talents&nbsp;</p>
 <h2>[eldd5&amp;6]</h2>
 <p></p>
 <p></p>
