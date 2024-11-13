@@ -324,15 +324,25 @@ from the army.</p>
 <p>Cadets engaged in an indoor air rifle shoot in preparation for their Live
 Range shooting using the SAR-21 rifle next year.</p>
 <p>&nbsp;</p>
-<p>[INSERT PHOTO NCC5]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC5.png">
+</div>
 <p>Cadets playing the Guardians of the City card game to develop a deeper
 understanding of Singapore’s security threats and the part we play in keeping
 Singapore safe and secure.</p>
-<p>[INSERT PHOTO NCC6]</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC6.png">
+</div>
 <p>Cadets taking part in the inter-school NCC Sports Championship, where
 they engaged in friendly competition with cadets from other schools.</p>
 <p>&nbsp;</p>
-<p>[INSERT PHOTO NCC7]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC7.png">
+</div>
 <p>Cadets displaying their choreography during the NCC Free Style Drill Competition.</p>
 <hr>
 <p></p>
@@ -1012,9 +1022,4 @@ they engaged in friendly competition with cadets from other schools.</p>
 <p><strong>&nbsp;</strong>
 <br>
 </p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p></p>
