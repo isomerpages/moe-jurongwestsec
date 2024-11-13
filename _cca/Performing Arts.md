@@ -370,7 +370,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h4>Team Bonding and VIA</h4>
 <p>Besides our drama and debate activities, our team also had exciting team
 building activities through sports and games.</p>
