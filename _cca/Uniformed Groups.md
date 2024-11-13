@@ -797,7 +797,7 @@ they engaged in friendly competition with cadets from other schools.</p>
 <p>NPCC Enhanced Crime Scene Investigation</p>
 <p></p>
 <p>&nbsp;</p>
-<p>&nbsp; <strong>Adventure Awaits: Camps &amp; Outdoor Experience</strong>
+<p><strong>Adventure Awaits: Camps &amp; Outdoor Experience</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC5.jpg">
