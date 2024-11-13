@@ -8,30 +8,333 @@ variant: tiptap
 <details class="isomer-details">
 <summary>National Cadet Corps (NCC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>National Cadet Corps (NCC)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC_Photo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC1.png">
 </div>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>CCA Schedule</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30 – 5.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Parade Square</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Organisation Chart</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LTA(NCC) Chua Wang Zhi</p>
+<p>2LT (NCC) Yew Yee Siang</p>
+<p>LTA (NCC) Liew Shao Chuan Alvin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Sergeant Major</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YOU QIYONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Sergeant Major</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAUFF BIN HAIRUL AZHAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Company Sergeant Major (Junior Cadet)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMAD RIDHWAN BIN MUSTAFFA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Company Sergeant Major (Senior Cadet)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRUZO NATHANIEL CLYDE BIGLAEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Company Sergeant Major (Cadet Leader)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANNADORAI NITHILAN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Activities</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><strong>List of Activities</strong></h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Camp STEEL (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January – March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Technical Handling (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February – July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC SAR-21 Live Firing (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February – July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS NCC Annual Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Affirmation Ceremony (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Free Style Drill Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May – June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Specialist Assessment (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March – June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Camp FORGE (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Senior Specialist Leadership Course (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July – September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Sports Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July – September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CPR-AED Training (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Orienteering Competition (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Overseas Trip / Exchange Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p>
+<br>
+</p>
+<p>&nbsp;</p>
+<p><strong>Students’ Achievement</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC_info.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc02.png">
-</div>
-<p></p>
+<p>MSG(NCC) Amirun Zaqy bin Muhammad Fazeli receiving the Outstanding Cadet
+Award from Commandant NCC LTC Ong Siong Beng. The NCC Outstanding Cadet
+Award (OCA) is the highest award attainable by our Secondary 4 Senior Cadet
+Leaders. It recognises these Cadets for their leadership skills and contribution
+to their units.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>Activities &amp; Competitions</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc04.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC3.png">
 </div>
+<p>As part of the Secondary One Affirmation Ceremony at NCC HQ, cadets had
+the opportunity to have a close look and handle various types of weapons
+from the army.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc05.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC4.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc06.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc07.png">
-</div>
+<p>Cadets engaged in an indoor air rifle shoot in preparation for their Live
+Range shooting using the SAR-21 rifle next year.</p>
+<p>&nbsp;</p>
+<p>[INSERT PHOTO NCC5]</p>
+<p>Cadets playing the Guardians of the City card game to develop a deeper
+understanding of Singapore’s security threats and the part we play in keeping
+Singapore safe and secure.</p>
+<p>[INSERT PHOTO NCC6]</p>
+<p>Cadets taking part in the inter-school NCC Sports Championship, where
+they engaged in friendly competition with cadets from other schools.</p>
+<p>&nbsp;</p>
+<p>[INSERT PHOTO NCC7]</p>
+<p>Cadets displaying their choreography during the NCC Free Style Drill Competition.</p>
+<hr>
 <p></p>
 </div>
 </details>
