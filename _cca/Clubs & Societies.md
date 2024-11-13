@@ -319,23 +319,9 @@ is a passionate advocate for arts.</p>
 <details class="isomer-details">
 <summary>Environmental Science Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/env1.jpg">
-</div>
 <p></p>
-<p><strong>About Environmental Science Club</strong>
-</p>
-<p>The JWSS Science Club is dedicated to enriching the science culture in
-Jurong West Secondary School as well as promoting environmental conservation
-and raising awareness to preserve the biodiversity of Singapore.</p>
-<p></p>
-<p>Check us out on our Instagram:<a href="https://instagram.com/jwssesc?igshid=YmMyMTA2M2Y=" rel="noopener noreferrer nofollow" target="_blank">Link</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/env2.png">
-</div>
-<p></p>
+<p>[insert photo ESC1]</p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -344,30 +330,390 @@ and raising awareness to preserve the biodiversity of Singapore.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p>CCA Schedule</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Training Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Meeting Day One</p>
+<p><strong>Training Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Meeting Day Two</p>
+<p><strong>Training Venue (s)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level 1 Chemistry Lab</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday 3.45 pm - 6.00 pm</p>
+<p>2.30 – 5 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected days for competition</p>
+<p>Discovery Lab</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Domina Ng</p>
+<p>Mr Huzaini Alwi</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anne Lohita</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice- President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Then Zhi Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Director od STEM Events</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aubrey Ng Zhen Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Director of Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shao Yufei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Director of Publicity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allystina Edora Kwan Binte Zaifry</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Achievements</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Climate Crisis Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Robotics Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Science Buskers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Science Buskers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Young Sustainability Champion Badge Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36 members obtained the YSC badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Science Buskers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 teams selected for finals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gardens by the Bay Ambassadors Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 members obtained Tier 2 Badge</p>
+<p>6 members obtained Tier 1 badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gardens by the Bay Ambassadors Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 members awarded Tier 1 Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gardens by the Bay Ambassadors Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 members awarded Tier 1 Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Toy Design Competition 2017 - Automata Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>List of Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Climate Crisis Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February - April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March ESC Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journey to NUS Ridgeview Residential College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Science Buskers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April - July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Robotics Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March - September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p>[insert photo ESC2]</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Students receiving the Climate Crisis Challenge Merit Award for Top 15 nationwide</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
+<br>
+</p>
+<p>&nbsp;</p>
+<p>Activities &amp; Competitions</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>[insert photo ESC 3]</p>
+<p>Sharing on Plastic Waste Management with rest of the school</p>
+<p>&nbsp;</p>
+<p><em>[insert photo ESC4]</em>
+</p>
+<p><em>National STEM Championship Qualifying Round</em>
+</p>
+<p>&nbsp;</p>
+<p><em>[insert photo ESC5]</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Preparing for National Robotics Challenge 2024</em>
+</p>
+<p>[insert photo esc6]</p>
+<p>National Robotics Challenge 2024</p>
+<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><em>&nbsp;</em>
+</p>
+<p>&nbsp;</p>
+<p>Team Bonding &amp; Learning Journey</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -378,301 +724,27 @@ and raising awareness to preserve the biodiversity of Singapore.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Organisation Chart</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Domina Ng (OIC)
-<br>Mr Huzaini (2IC)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>EXCO Members</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hanmugasundaram Anushree (3E3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Presidents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Xin Fang (3E4)
-<br>Shen Ziru (3E2)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>[insert photo ESC7]</p>
 <p></p>
-<h4>Our Publication</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="122" width="747" alt="TheSciTimes.JPG" src="/images/TheSciTimes.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>The CCA publishes its own online science magazine, The Science Times,
-which reports on various club activities.
-<br>All the articles are written, edited and compiled by the student members.
-Please click here to read <a href="https://jwssthesciencetimes.wordpress.com/" rel="noopener noreferrer" target="_blank">The Science Times</a>!</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Highlights of Environmental Science Club</h4>
-<p><strong>Singapore Science Buskers</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="WhatsApp Image 2021-11-03 at 09.00.38 1.jpeg" src="/images/WhatsApp%20Image%202021-11-03-1.jpeg">
-</div>
-<p>Students presenting their science experiment to the judges, Singapore
-Science Buskers competition, final round.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="WhatsApp Image 2021-11-03 at 09.00.38.jpeg" src="/images/WhatsApp%20Image%202021-11-03-2.jpeg">
-</div>
-<p>Before presenting their science experiment to the judges in final round
-of Singapore Science Busker competition.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A.jpg" src="images/A2.jpg">
-</div>
-<p>Molecular Gastronomy Workshop</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="B.jpg" src="/images/B2.jpg">
-</div>
-<p>Engaging potential members and parents during CCA Open House</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="C.jpg" src="/images/C2.jpg">
-</div>
-<p>Race to Sustainability at Gardens by the Bay</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="D.jpg" src="/images/D2.jpg">
-</div>
-<p>Presenting to the Judges at Science Buskers Festival</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="E.jpg" src="/images/E2.jpg">
-</div>
-<p>Gardens by the Bay Ambassador on duty</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="F.jpg" src="/images/F2.jpg">
-</div>
-<p>Hosting the Sec 1s during the Orientation Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="G.jpg" src="/images/G2.jpg">
-</div>
-<p>Tree Planting in JWSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="H.jpg" src="/images/H2.jpg">
-</div>
-<p>The winning Tower in Tower Building Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="I.jpg" src="/images/I2.jpg">
-</div>
-<p>In the Covid-19 Phase 1 &amp; 2 Re-opening after Circuit Breaker, members
-were busy creating posters and science demo videos during E-CCA sessions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image003e.jpg">
-</div>
-<p></p>
-<p><strong>Molecular Gastronomy Workshop</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image004e.jpg">
-</div>
-<p></p>
-<p><strong>Engaging Parents during CCA Open House</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image005e.jpg">
-</div>
-<p></p>
-<p><strong>Race to Sustainability at Gardens by the Bay</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image006e.jpg">
-</div>
-<p></p>
-<p><strong>Tremendous competition at the Race to Sustainability</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image007e.jpg">
-</div>
-<p></p>
-<p><strong>Presenting to the Judges at Science Buskers Festival</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image008e.jpg">
-</div>
-<p></p>
-<p><strong>Science Magic at Science Buskers Festival</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image009e.jpg">
-</div>
-<p></p>
-<p><strong>Entertaining the Judges at Science Buskers Festival</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image010e.jpg">
-</div>
-<p></p>
-<p><strong>Volcano Time at Science Buskers Festival</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image011e.jpg">
-</div>
-<p></p>
-<p><strong>Gardens by the Bay Ambassador on duty</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image012e.jpg">
-</div>
-<p></p>
-<p><strong>Helping out at the Gardens by the Bay</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image013e.jpg">
-</div>
-<p></p>
-<p><strong>Tower Building Competition</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image014e.jpg">
-</div>
-<p></p>
-<p><strong>Setting up the Tower</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image015e.jpg">
-</div>
-<p></p>
-<p><strong>Final touches to the Tower</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image016e.jpg">
-</div>
-<p></p>
-<p><strong>The winning Tower!</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image017e.jpg">
-</div>
-<p></p>
-<p><strong>Tree Planting in JWSS</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/image018e.jpg">
-</div>
-<p><strong>Commemorating International Day of Biological Diversity</strong>
-</p>
+<p>CCA Exchange Day</p>
+<p>[insert photo ESC8]</p>
+<p>Robotics sessions</p>
+<p>[insert photo ESC9]</p>
+<p>Learning Journey on Sustainability at NUS Ridgeview Residential College</p>
+<p>[insert photo ESC10]</p>
+<p>Bonding activities during CCA Day</p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[JM Chai1]</a>Can keep it within the last 10 years</p>
+<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[JM Chai2]</a>To refer to Student Development Plan,
+activities that are unique to the CCA, to include CCA Camp.</p>
+<p>&nbsp;</p>
+<p>To include 1 to 4 pictures per activity, it can be from 2023 to 2024</p>
 <p></p>
 </div>
 </details>
