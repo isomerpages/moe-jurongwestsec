@@ -844,19 +844,451 @@ Crime Prevention Messages</p>
 <details class="isomer-details">
 <summary>Red Cross Youth</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/redcross1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/redcross2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/redcross3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/redcross4.png">
-</div>
+<p>Red Cross Youth</p>
+<p><em>[insert photo RCY1]</em>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>CCA Schedule</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.45 – 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Room 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Organisation Chart</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Karpagam (OIC)</p>
+<p>Ms Maggie Lim (2IC)</p>
+<p>Mrs Alicia Tan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RIANNE NG GEIK TENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG TIANQI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson (External)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PUTRI ALEEYA BINTE MHD RAIZAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN RONG XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VERLYN OU JIA EN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Excellent Unit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019 - 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior and Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Disaster Risk Reduction Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ambassodor of Blood Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior and Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior and Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Disaster Risk Reduction Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ambassodor of Blood Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior and Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><strong>List of Activities</strong></h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold Modular Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February/August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual Unit Bonding Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Leader Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uniformed Group Passing Out Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drones Workgroup 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Footdrill Enrichment Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>World Red Cross Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Duty during JWSS Cross Country and Sports Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cadet-link activity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Specialist Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS National Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blood Donor Recruitment Drive @ Westgate Mall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Competitions</p>
+<p>The Red Cross Youth HQ hosts annual competitions to enhance cadets' skills
+in first aid, disaster management, and leadership.</p>
+<p><strong>[INSERT PHOTO RCY2]</strong>
+</p>
+<p>Cadet receives an award after delivering a compelling presentation advocating
+for blood donation.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Activities</p>
+<p><strong>Annual Unit Camp</strong>
+</p>
+<p>The annual camp aims to build relationship and foster stronger bonds among
+cadets through team bonding games. Cadets also participated in First Aid
+Training to prepare for the upcoming First Aid Championship. Organized
+by the incoming Secondary Three leaders, the camp served as a valuable
+opportunity for these leaders to develop their leadership skills and enhance
+collaboration with both peers and juniors.</p>
+<p>[INSERT PHOTO RCY3]</p>
+<p>Our very own JWSS RCY talent show!</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Cadet-Link Activity</strong>
+</p>
+<p>We collaborated with the Red Cross Links at Frontier Primary School, providing
+our cadets with a valuable opportunity to share their first aid and foot
+drill expertise with the younger Links, fostering skills and mentorship
+across age groups.</p>
+<p>[INSERT PHOTO RCY4]</p>
+<h1>Blood Donor Recruitment Drive @ Westgate Mall</h1>
+<p>Each year, our unit collaborates with the JWSS Student Ambassadors on
+a blood donation drive, encouraging the public to donate by highlighting
+the vital importance of blood donation and dispelling common myths surrounding
+it.</p>
+<p>[INSERT PHOTO RCY5]</p>
+<h1>Standard First Aid Course</h1>
+<p>The Standard First Aid Course is held for our Secondary Two cadets every
+year as part of their badge work.</p>
+<p>[INSERT PHOTO RCY6]</p>
+<h1>Speech Day and National Day Parade  </h1>
+<p>Every year, our cadets join other Uniformed Groups in the Speech Day and
+National Day Parade. Though the training is demanding, it instills resilience,
+grit, and discipline, shaping them into determined and dedicated individuals.</p>
+<h2>[INSERT PHOTO RCY7]</h2>
 <p></p>
+<h2>&nbsp;</h2>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
