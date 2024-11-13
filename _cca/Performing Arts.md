@@ -849,6 +849,431 @@ confident individuals who contribute meaningfully to their community.</p>
 <summary>Concert Band</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND1.png">
+</div>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>3.00 pm - 6.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Band Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Erlinda Tanuwijaya (I/C)</p>
+<p>Mdm Zhang Lixia (2<sup>nd</sup> I/C)</p>
+<p>Mr Chong Chee Nian</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coaches / Instructors</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Lee</p>
+<p>Mr&nbsp;Ronnie Quek</p>
+<p>Mrs Chua Yue Ai Chuan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Band Major (Music)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kaeden Zou Yankai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Band Major (Discipline)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siow Ai Min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quartermaster</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Claire Lim Yee Xuen, Zhuang Huihui, Lily Amani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aniq Naufal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recreational Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Aisyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian and Wardrobe Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Wan Yee, Bryan Toong Wei Jie, Chee Rui Feng Nate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kai Wen, Lim Yi Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Secondary Support Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prisshaa Advanti</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>At Jurong West Secondary School Concert Band, we aim to:</strong>
+</p>
+<p>Develop and nurture the fundamental skills necessary to perform a symphonic
+repertoire for various occasions, foster camaraderie and teamwork among
+our members through planned programmes and activities and create opportunities
+for members to hone their leadership skills and enhance their self-confidence.</p>
+<h4><strong>Achievements</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>List of Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>January</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary One Orientation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>January</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journey to Esplanade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>January</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual Band Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>March</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>March</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary Four Farewell</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>April</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Exchange Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>May</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA Project @ Pioneer National Day Dinner 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>August</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual JWSS National Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>August</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>November</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND2.png">
+</div>
+<p>SYF Presentation 2023</p>
+<p></p>
+<h4>Holistic Activities and Programmes</h4>
+<p>Our Concert Band offers students a vibrant environment to explore their
+musical talents, develop skills, and build lasting friendships. With a
+focus on fostering passion, dedication, and musical excellence, our band
+program is designed to nurture students’ growth as musicians and individuals.</p>
+<p>Each year, our students have opportunities to perform, starting with the
+CCA Open House, where they showcase their talents to new students and parents.
+Our students also perform for the school’s Speech Day and National Day
+Parade. Once every two years, they will participate in the Singapore Youth
+Festival presentation. These performances build confidence and provide
+a platform to demonstrate the hard work put into each practice session.</p>
+<p>We believe in experiential learning, so it is a regular affair for band
+members to attend concerts and learning journey to witness professional
+musicians in action to inspire them in their own musical journeys.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND3.png">
+</div>
+<p><em>Learning Journey @Esplanade</em>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<h4>Team Bonding and VIA</h4>
+<p>Our annual band camp is a transformative experience focusing on character
+building, resilience, and teamwork. The camp helps students develop a positive
+mindset, a sense of responsibility, and a deeper connection to the band,
+creating lifelong memories and invaluable skills.</p>
+<p>In a unique CCA exchange, our band members also had the chance to interact
+with the school’s volleyball team through fun team-building games and activities.
+This session allowed students from both CCAs to learn from one another
+and strengthen bonds across different groups. Band members introduced various
+musical instruments to the volleyball team, sparking curiosity and giving
+them a taste of the skills and dedication that go into our performances.
+This exchange emphasized collaboration, understanding, and the joy of exploring
+new interests together.</p>
+<p>As part of our commitment to engaging with the community, our Concert
+Band is honored to perform at local events, such as the Pioneer National
+Day Dinner. This year, our talented band members contributed to the National
+Day celebrations by collaborating with the Choir, showcasing patriotic
+tunes and uplifting performances for the residents of Pioneer. This event
+not only allows our students to share their passion for music but also
+brings the community together in a shared spirit of pride and celebration.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND4.jpg">
+</div>
+<p><em>Performance for Pioneer National Day Dinner 2024 at Frontier CC</em>
+</p>
+<h4>Memorable moments</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND5.jpg">
+</div>
+<p><em>Farewell Party for the outgoing seniors</em>
+</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
