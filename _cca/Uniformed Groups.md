@@ -845,10 +845,12 @@ Crime Prevention Messages</p>
 <summary>Red Cross Youth</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Red Cross Youth</p>
-<p><em>[insert photo RCY1]</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY1.jpg">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
+<p></p>
 <p><strong>CCA Schedule</strong>
 </p>
 <table style="minWidth: 75px">
@@ -1022,7 +1024,7 @@ Crime Prevention Messages</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ambassodor of Blood Championship</p>
+<p>Ambassador of Blood Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
@@ -1066,7 +1068,7 @@ Crime Prevention Messages</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ambassodor of Blood Championship</p>
+<p>Ambassador of Blood Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Commendation</p>
@@ -1183,7 +1185,7 @@ Crime Prevention Messages</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Footdrill Enrichment Workshop</p>
+<p>Foot-drill Enrichment Workshop</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>April</p>
@@ -1241,16 +1243,21 @@ Crime Prevention Messages</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p>Competitions</p>
+<p></p>
+<p><strong>Competitions</strong>
+</p>
 <p>The Red Cross Youth HQ hosts annual competitions to enhance cadets' skills
 in first aid, disaster management, and leadership.</p>
-<p><strong>[INSERT PHOTO RCY2]</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY2.jpg">
+</div>
 <p>Cadet receives an award after delivering a compelling presentation advocating
 for blood donation.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>Activities</p>
+<p><strong>Activities</strong>
+</p>
 <p><strong>Annual Unit Camp</strong>
 </p>
 <p>The annual camp aims to build relationship and foster stronger bonds among
@@ -1259,7 +1266,10 @@ Training to prepare for the upcoming First Aid Championship. Organized
 by the incoming Secondary Three leaders, the camp served as a valuable
 opportunity for these leaders to develop their leadership skills and enhance
 collaboration with both peers and juniors.</p>
-<p>[INSERT PHOTO RCY3]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY3.jpg">
+</div>
 <p>Our very own JWSS RCY talent show!</p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -1269,26 +1279,38 @@ collaboration with both peers and juniors.</p>
 our cadets with a valuable opportunity to share their first aid and foot
 drill expertise with the younger Links, fostering skills and mentorship
 across age groups.</p>
-<p>[INSERT PHOTO RCY4]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY4.jpg">
+</div>
+<p></p>
+<p></p>
 <h1>Blood Donor Recruitment Drive @ Westgate Mall</h1>
 <p>Each year, our unit collaborates with the JWSS Student Ambassadors on
 a blood donation drive, encouraging the public to donate by highlighting
 the vital importance of blood donation and dispelling common myths surrounding
 it.</p>
-<p>[INSERT PHOTO RCY5]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY5.jpg">
+</div>
+<p></p>
+<p></p>
 <h1>Standard First Aid Course</h1>
 <p>The Standard First Aid Course is held for our Secondary Two cadets every
 year as part of their badge work.</p>
-<p>[INSERT PHOTO RCY6]</p>
-<h1>Speech Day and National Day Parade  </h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY6.jpg">
+</div>
+<p></p>
+<p></p>
+<h1>Speech Day and National Day Parade</h1>
 <p>Every year, our cadets join other Uniformed Groups in the Speech Day and
 National Day Parade. Though the training is demanding, it instills resilience,
 grit, and discipline, shaping them into determined and dedicated individuals.</p>
-<h2>[INSERT PHOTO RCY7]</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY7.jpg">
+</div>
 <p></p>
-<h2>&nbsp;</h2>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 </div>
 </details>
 <details class="isomer-details">
