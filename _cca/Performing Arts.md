@@ -321,7 +321,7 @@ variant: tiptap
 <p><em>Our drama team on 19 October 2024</em>
 </p>
 <h4>Activities &amp; Competitions</h4>
-<p></p>
+<p>A chance for our team to showcase our talents&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -344,22 +344,82 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>A chance for our team to showcase our talents&nbsp;</p>
-<h2>[eldd5&amp;6]</h2>
-<p></p>
-<p></p>
+<p><em>School based performances in 2024</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD5.jpg">
+</div>
+<p><em>Our junior team of actors and debaters out for Drama performance in Oct</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD6.jpg">
+</div>
+<p><em>Appreciation to the outgoing team of actors and debators</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2>Team Bonding and VIA</h2>
+<h4>Team Bonding and VIA</h4>
 <p>Besides our drama and debate activities, our team also had exciting team
 building activities through sports and games.</p>
-<p>[eldd7 &amp; 8]</p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>[eldd 9 &amp; 10]</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD8.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<em>Our team of actors and debaters getting actively involved in sports</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD9.jpg">
+</div>
+<p><em>Getting to know each other</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD10.jpg">
+</div>
+<p><em>Drama training</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
