@@ -373,30 +373,19 @@ from the centre to the outermost layer.</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/englit3.png">
 </div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_4.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/englit13.png">
 </div>
