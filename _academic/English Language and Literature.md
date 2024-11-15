@@ -280,9 +280,6 @@ peers become clearer, more effective and confident speakers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="el2.png" src="/images/el2.png">
 </div>
 <h2>Literature in English</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lit_cover.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/English%20Language%20and%20Literature/lit_cover.jpg">
-</div>
 <p>&gt; Subjects Offered</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -295,8 +292,8 @@ peers become clearer, more effective and confident speakers.</p>
 <p>Pure Literature in English (Upper Sec Express and Normal Academic)</p>
 </li>
 </ul>
-<p>&gt;
-<br>&gt; Curriculum &gt; &gt;</p>
+<p>
+<br>&gt; Curriculum &gt;</p>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -339,9 +336,6 @@ written and understood.</p>
 </tr>
 </tbody>
 </table>
-<p>&gt; &gt; ![lit_areas_of_study_II.jpg](/images/lit_areas_of_study_II.jpg)
-&gt; &gt; **The study of Literature centres on literary response – the
-negotiation of meaning between readers and texts.** &gt; &gt;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -427,6 +421,7 @@ from the centre to the outermost layer.</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/englit13.png">
 </div>
+<p></p>
 <p>
 <br>
 </p>
