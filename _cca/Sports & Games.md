@@ -665,19 +665,31 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badgirls1.jpg">
+</div>
 <p>Farewell for the seniors</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badgirls2.png">
+</div>
 <p><em>C division players in action during weekly trainings</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badgirls3.jpg">
+</div>
 <p><em>Winners of the Internal competition in JWSS during CCA camp</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badgirls4.jpg">
+</div>
 <p><em>After the friendly match with SST</em>
 </p>
 </td>
