@@ -280,9 +280,6 @@ peers become clearer, more effective and confident speakers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="el2.png" src="/images/el2.png">
 </div>
 <h2>Literature in English</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lit_cover.jpg" src="https://jurongwestsec.moe.edu.sg/qql/slot/u198/Academic%20Programme/English%20Language%20and%20Literature/lit_cover.jpg">
-</div>
 <p>&gt; Subjects Offered</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -295,8 +292,8 @@ peers become clearer, more effective and confident speakers.</p>
 <p>Pure Literature in English (Upper Sec Express and Normal Academic)</p>
 </li>
 </ul>
-<p>&gt;
-<br>&gt; Curriculum &gt; &gt;</p>
+<p>
+<br>&gt; Curriculum &gt;</p>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -339,9 +336,6 @@ written and understood.</p>
 </tr>
 </tbody>
 </table>
-<p>&gt; &gt; ![lit_areas_of_study_II.jpg](/images/lit_areas_of_study_II.jpg)
-&gt; &gt; **The study of Literature centres on literary response – the
-negotiation of meaning between readers and texts.** &gt; &gt;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -379,69 +373,76 @@ from the centre to the outermost layer.</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/englit3.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_1.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_2.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_3.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_4.png">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit8.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit9.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit10.png">
-</div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/englit13.png">
 </div>
-<p>
-<br>
+<p><strong>JWSS Literature Symposium 2024</strong>
 </p>
+<p>The 9<sup>th</sup> JWSS Literature Symposium was successfully conducted
+by the JWSS Literature Unit on 17<sup>th </sup>May 2024. It was well-received
+by over 150 student and teacher participants from 8 different secondary
+schools.</p>
+<p>This year’s theme is ‘FANTASIA: Worlds of Words’. The symposium aimed
+to cultivate a deeper appreciation for Literature by showcasing how words
+transport us to diverse realms and foster boundless imagination. The event
+was graced by esteemed guests, senior teachers and experienced lecturers
+from NIE who conducted workshops and presentations for students to interact
+and collaborate, thus increasing their confidence and passion in Literature.
+Greater collaboration was also fostered among the Literature teachers through
+the teachers’ workshop which touched on effective teaching pedagogies and
+resources for Literature.</p>
+<p></p>
+<p>The first segment of the Literature Symposium included:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Address by Ms Tan
+Ming Ming, JWSS Principal</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guest-of-Honour Address by
+Dr Angelia Poon, Associate Professor, NIE-NTU</p>
+<p>&nbsp;</p>
+<p>The second segment of the Symposium included the following concurrent
+students’ workshops:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>“It’s all a fantasy: And how Poetry is Magic” </em>by
+Dr Richard Angus Whitehead, Lecturer at NIE, NTU</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Navigating the Dark Forest of Poetry </em>by
+Mr Samuel Zou, Experienced Teacher, CHIJ St Theresa’s Convent</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>“Lift Off!” A Drama workshop </em>by
+Ms Tina Kishore, Lead Teacher (Literature), Evergreen Secondary School</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Analysing and Writing about short stories for the ‘O’ Levels </em>by
+Mr Ow Yeong Wai Kit &amp; Mr Nar Dominic, co authors and PHD candidates,
+NIE</p>
+<p>&nbsp;</p>
+<p>The teachers’ workshop was:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Designing Unseen Test Papers for Upper Secondary </em>by
+Dr Loh Chin Ee, Associate Professor, NIE, NTU</p>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit14.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture1.png">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture2.png">
 </div>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture5.png">
+</div>
+<p></p>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/englit16.png">
 </div>

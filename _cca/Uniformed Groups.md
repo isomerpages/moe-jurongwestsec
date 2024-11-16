@@ -8,76 +8,1309 @@ variant: tiptap
 <details class="isomer-details">
 <summary>National Cadet Corps (NCC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>National Cadet Corps (NCC)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC_Photo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC1.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC_info.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc02.png">
-</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>CCA Schedule</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30 – 5.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Parade Square</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Organisation Chart</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LTA(NCC) Chua Wang Zhi</p>
+<p>2LT (NCC) Yew Yee Siang</p>
+<p>LTA (NCC) Liew Shao Chuan Alvin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Sergeant Major</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YOU QIYONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Sergeant Major</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAUFF BIN HAIRUL AZHAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Company Sergeant Major (Junior Cadet)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMAD RIDHWAN BIN MUSTAFFA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Company Sergeant Major (Senior Cadet)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRUZO NATHANIEL CLYDE BIGLAEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Company Sergeant Major (Cadet Leader)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANNADORAI NITHILAN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Activities</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><strong>List of Activities</strong></h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Camp STEEL (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January – March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Technical Handling (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February – July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC SAR-21 Live Firing (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February – July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS NCC Annual Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Affirmation Ceremony (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Free Style Drill Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May – June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Specialist Assessment (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March – June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Camp FORGE (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Senior Specialist Leadership Course (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July – September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Sports Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July – September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CPR-AED Training (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Orienteering Competition (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Overseas Trip / Exchange Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
+<p><strong>Students’ Achievement</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC2.png">
+</div>
+<p>MSG(NCC) Amirun Zaqy bin Muhammad Fazeli receiving the Outstanding Cadet
+Award from Commandant NCC LTC Ong Siong Beng. The NCC Outstanding Cadet
+Award (OCA) is the highest award attainable by our Secondary 4 Senior Cadet
+Leaders. It recognises these Cadets for their leadership skills and contribution
+to their units.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>Activities &amp; Competitions</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc04.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC3.png">
 </div>
+<p>As part of the Secondary One Affirmation Ceremony at NCC HQ, cadets had
+the opportunity to have a close look and handle various types of weapons
+from the army.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc05.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC4.png">
 </div>
+<p>Cadets engaged in an indoor air rifle shoot in preparation for their Live
+Range shooting using the SAR-21 rifle next year.</p>
+<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc06.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC5.png">
 </div>
+<p>Cadets playing the Guardians of the City card game to develop a deeper
+understanding of Singapore’s security threats and the part we play in keeping
+Singapore safe and secure.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/ncc07.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC6.png">
 </div>
+<p>Cadets taking part in the inter-school NCC Sports Championship, where
+they engaged in friendly competition with cadets from other schools.</p>
+<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC7.png">
+</div>
+<p>Cadets displaying their choreography during the NCC Free Style Drill Competition.</p>
+<hr>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>National Police Cadet Corps (NPCC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>National Police Cadet Corps</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/npcc1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC1.jpg">
 </div>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>CCA Schedule</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30pm-5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hockey Pitch</p>
+<p>Classrooms 7-10</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Organisation Chart</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/ASP (NPCC) KEK POH KHEE</p>
+<p>ASP (NPCC) KEIRA SEOW</p>
+<p>P/INSP (NPCC) LIM LI YING</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Honorary Inspectors and Cadet Inspectors</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H/INSP (NPCC) LIN HAO</p>
+<p>CI (NPCC) NUR IFFAH</p>
+<p>CI (NPCC) SEE EN ZU</p>
+<p>CI (NPCC) JADRIAN GOH</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) KHRYSTEL KEE (JI JINGLE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Unit Leader (Planning)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) TAN CHING YI (CHEN JINGYI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Unit Leader (Training)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) KAYDEN ASHRAF BIN MUHAMAD FAZLEEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Program (Planning) IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) LUM JIAN EN MELVERN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) VISHALANI D/O SKANTHARAMAESH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) LIEW CHIA SHIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) SAJJID MUHAMMAD FURQAAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Program (Training) IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) NG JUN LE, JAVIER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CSI IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) SHIVA KRIS CHANDRASHEKARAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drills IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) MUHAMMAD EL HAZEEQ HO BIN MUHAMMAD HEIKEL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marksman IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) FRANCESMA EMANUELLE ESGUERRA CASTILLO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Coordinators (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) WONG JING YA, DENISE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Coordinators (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT(NPCC) FOON XINYI, VERA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/npcc2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC2.png">
 </div>
+<p></p>
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<h2><strong>List of Activities</strong></h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Shooting Enrichment Program</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Enhanced CSI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Unit Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Adventure Training Camp @ Pulau Ubin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Inter-Unit Drills Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Crime Scene Investigation Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Inter-Unit .22 Revolver Shooting Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Leadership and Mentoring Skills Program</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Areas Cadet Leadership Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Area Games Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Annual Parade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Police Youth Ambassador</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Community Safety &amp; Security Program</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Road Marshallers Program</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Police Heritage Centre Visit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Home Team Gallery Visit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Jurong Division Challenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Speech Day Parade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS National Day Parade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Camp 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/npcc3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC3.jpg">
 </div>
+<p>NPCC Shooting Enrichment Program</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/npcc4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC4.jpg">
 </div>
+<p>NPCC Enhanced Crime Scene Investigation</p>
+<p></p>
+<p>&nbsp;</p>
+<p><strong>Adventure Awaits: Camps &amp; Outdoor Experience</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/npcc5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC5.jpg">
 </div>
+<p>NPCC Adventure Training Camp @ Pulau Ubin</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/npcc6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC6.jpg">
 </div>
+<p>Get Involved: Police Youth Ambassador Activities</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/npcc7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC7.jpg">
 </div>
+<p>Police Youth Ambassador: Partnering with Neighbourhood Police to Share
+Crime Prevention Messages</p>
+<p>&nbsp;</p>
+<p></p>
+<p><strong>Explore &amp; Discover: Visits &amp; Enrichment Courses</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC8.jpg">
+</div>
+<p>NPCC Home Team Gallery Visit</p>
+<p></p>
+<p><strong>Rise to the Challenge: Competitions &amp; Contribution to Events</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC9.jpg">
+</div>
+<p>NPCC Annual Parade</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC10.jpg">
+</div>
+<p>Jurong-Division Challenge Shield 2023(Merit Award)</p>
+<p>&nbsp;</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Red Cross Youth</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Red Cross Youth</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/redcross1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY1.jpg">
 </div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<p><strong>CCA Schedule</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.45 – 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Room 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Organisation Chart</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Karpagam (OIC)</p>
+<p>Ms Maggie Lim (2IC)</p>
+<p>Mrs Alicia Tan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RIANNE NG GEIK TENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG TIANQI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson (External)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PUTRI ALEEYA BINTE MHD RAIZAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN RONG XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VERLYN OU JIA EN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Excellent Unit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019 - 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior and Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Disaster Risk Reduction Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ambassador of Blood Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior and Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior and Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Disaster Risk Reduction Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ambassador of Blood Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior and Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><strong>List of Activities</strong></h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold Modular Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February/August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual Unit Bonding Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Leader Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uniformed Group Passing Out Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drones Workgroup 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foot-drill Enrichment Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>World Red Cross Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Aid Duty during JWSS Cross Country and Sports Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cadet-link activity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Specialist Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS National Day Parade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blood Donor Recruitment Drive @ Westgate Mall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<p><strong>Competitions</strong>
+</p>
+<p>The Red Cross Youth HQ hosts annual competitions to enhance cadets' skills
+in first aid, disaster management, and leadership.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/redcross2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY2.jpg">
 </div>
+<p>Cadet receives an award after delivering a compelling presentation advocating
+for blood donation.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Activities</strong>
+</p>
+<p><strong>Annual Unit Camp</strong>
+</p>
+<p>The annual camp aims to build relationship and foster stronger bonds among
+cadets through team bonding games. Cadets also participated in First Aid
+Training to prepare for the upcoming First Aid Championship. Organized
+by the incoming Secondary Three leaders, the camp served as a valuable
+opportunity for these leaders to develop their leadership skills and enhance
+collaboration with both peers and juniors.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/redcross3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY3.jpg">
 </div>
+<p>Our very own JWSS RCY talent show!</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Cadet-Link Activity</strong>
+</p>
+<p>We collaborated with the Red Cross Links at Frontier Primary School, providing
+our cadets with a valuable opportunity to share their first aid and foot
+drill expertise with the younger Links, fostering skills and mentorship
+across age groups.</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/redcross4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY4.jpg">
 </div>
 <p></p>
+<p></p>
+<h1>Blood Donor Recruitment Drive @ Westgate Mall</h1>
+<p>Each year, our unit collaborates with the JWSS Student Ambassadors on
+a blood donation drive, encouraging the public to donate by highlighting
+the vital importance of blood donation and dispelling common myths surrounding
+it.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY5.jpg">
+</div>
+<p></p>
+<p></p>
+<h1>Standard First Aid Course</h1>
+<p>The Standard First Aid Course is held for our Secondary Two cadets every
+year as part of their badge work.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY6.jpg">
+</div>
+<p></p>
+<p></p>
+<h1>Speech Day and National Day Parade</h1>
+<p>Every year, our cadets join other Uniformed Groups in the Speech Day and
+National Day Parade. Though the training is demanding, it instills resilience,
+grit, and discipline, shaping them into determined and dedicated individuals.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY7.jpg">
+</div>
+<p></p>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 </div>
 </details>
 <details class="isomer-details">
@@ -709,9 +1942,4 @@ variant: tiptap
 <p><strong>&nbsp;</strong>
 <br>
 </p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p></p>

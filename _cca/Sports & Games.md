@@ -6,43 +6,69 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Badminton (Boys and Girls)</summary>
+<summary>Badminton (Boys &amp; Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<h4><strong>Badminton Boys</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_1.png">
+</div>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Organisation Chart</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Teachers-in-Charge</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Badminton Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Badminton Girls</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Wee (I/C)
-<br>Mr Yeo Keng Boon Kenneth (2 I/C)
-<br>Mr Ganesh Kumar Ponnalagu
-<br>
+<p><strong>Training Day</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Darshini D/O Gunaseigaran (I/C)
-<br>Tan Qiu Yan (2 I/C)</p>
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mondays and Wednesdays</p>
+<p>Fridays (For selected players)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 6pm</p>
+<p></p>
+<p></p>
+<p>2pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Multi-Purpose Hall</p>
+<p>ActiveSG Badminton Courts</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Aloysius Aw (IC)</p>
+<p>Mr Nar Soon Keong (2IC)</p>
+<p>Mr Ganesh Kumar Ponnalagu</p>
 </td>
 </tr>
 </tbody>
@@ -53,83 +79,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Coach</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Keu Yin Song
-<br>Mr Er Hock Tee</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="4">
-<p><strong>CCA Schedule</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Venue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Day One</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Training Day Two</strong>
+<p><strong>Coaches / Instructors</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday 2.00pm - 4.00pm
-<br>Monday 4.00pm - 6.15pm
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday 2.00pm - 4.00pm
-<br>Wednesday 4.00pm - 6.15pm
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday 3.00pm - 6.00pm
-<br>(Only for School Team)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 1.30pm - 3.30pm
-<br>Friday 3.30pm - 5.30pm
-<br>
-</p>
+<p>Mr Andrew Ng Jia Jun</p>
 </td>
 </tr>
 </tbody>
@@ -141,66 +98,375 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Executive Team</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
-<p>Boy's Team</p>
+<p><strong>CCA Leaders</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Captain</p>
+<p>Vice-Captain (Training) Vice-Captain (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kai Tze (B Division)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Captains</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kotian Gurupreeth Purandara (B Division)
-<br>Balasubramanian Aswin Kumar (B Division)</p>
+<p>Dylan Wong (Huang Wenle) – 3HY</p>
+<p>Cholan Ashvin – 3HY</p>
+<p>Dannala Nikhilesh Kumar – 3CE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Events &amp; Publicity Head</p>
+<p>Captain (Lower Sec)</p>
+<p>Vice-Captain (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Felix Lee Yize</p>
+<p>Ho Rui Jia, Hayden – 2RE</p>
+<p>Saravana Kumar Srinivas – 2PN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (Upper Sec)</p>
+<p>Level Head (Lower Sec)</p>
+<p>Level Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lucian Lian Bowen – 3RT</p>
+<p>Wang Ruitong – 3CE</p>
+<p>Dani Hariz Bin Mohamed Affendi – 2IY</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Logistics Head</p>
+<p>Logistics Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hia Wei Dai</p>
+<p>Richard Hao Jia Wei – 3HY</p>
+<p>Chong Kai Kiat – 2IY</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Welfare Head</p>
+<p>Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mui Yu Zheng, Jayden</p>
+<p>Pahalavan Aadhavan – 3CE</p>
+<p>Murugesan Shibichakravarthi – 2CE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Coordinator Head
-<br>Assistant Level Coordinator
-<br>
+<p>Publicity Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shoumik Patoju – 3IN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rusyaidi Bin Rohaizat
-<br>Muhammad Ukasyah Bin Mohd Ismadi</p>
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division</p>
+<p>‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> in Group Stage</p>
+<p>Nationals Top 28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division</p>
+<p>‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> in Group Stage</p>
+<p>West Zone Top 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division</p>
+<p>‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup> in Group Stage</p>
+<p>3<sup>rd</sup> in Group Stage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division</p>
+<p>‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup> in Group Stage</p>
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division</p>
+<p>‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+<p>6<sup>th</sup> in Group Stage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>&nbsp;List of Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games ‘B’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January to February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton Training Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W3 Cluster Tournament</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games ‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April to July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Exchange</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Activities &amp; Competitions</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_2.png">
+</div>
+<p>NSG players in action</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_3.png">
+</div>
+<p><em>Badminton Training Camp</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_4.png">
+</div>
+<p><em>Friendly matches with other schools</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_5.png">
+</div>
+<p><em>CCA Exchange with Choir</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Team Bonding</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_6.png">
+</div>
+<p><em>Laser Tag with Basketball Boys</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>Badminton Girls</strong></h4>
+<h4><strong>&nbsp;</strong></h4>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 – 6pm&nbsp; (school team only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School hall/External Sportshall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 – 3.30pm (lower sec)</p>
+<p>3.30 – 5.30pm (upper sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School hall/External Sportshall</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Darshini D/O Gunaseigaran</p>
+<p>Ms Susan Liang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coaches / Instructors</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelly Wee Choon Eng</p>
 </td>
 </tr>
 </tbody>
@@ -212,99 +478,191 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
-<p>Girl's Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captains</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(3E3) Antu Angelena
-<br>
+<p><strong>CCA Leaders</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captains</p>
+<p>Captain (Upper Sec)</p>
+<p>Captain (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(3N3) Jezreel Ching Yi Xuan
-<br>
+<p>Lim Hui Bing (Upper Sec)</p>
+<p>Antu Aibeleena (Lower Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Felicia Ong Zi Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kaleyn Huin Shi Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare IC</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kannan Lucksana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity and Outreach IC</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Raifana Binte Misradi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics and Safety IC</p>
+<p>Logistics and Safety 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Tze Yun</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Publicity &amp; Events Head
-<br>
+<p>‘B’ and ‘C’ div games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘B’ div NSG games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 in West Zone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘C’ div NSG games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> in group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WYSE ACTIVE International</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;<strong>List of Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(3E2) Fedora Tan Cixi
-<br>
+<p><strong>Month</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logistics Head</p>
+<p>March CCA Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(3E2) Bun Le Xuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Welfare Head
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(3E2) Erika Chua Shi Xuan
-<br>
-</p>
+<p>March 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Coordinator</p>
+<p>Termly games and Bonding day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(2IY) Lakshya Bhujanga Kotian</p>
+<p>End of every term</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Coordinator</p>
+<p>CCA Exchange with Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(3E4) Tee Jia Xuan</p>
+<p>May 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friendly matches with other Secondary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May, Jun, Nov</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/badminton2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/badminton3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/badminton7.png">
-</div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Basketball (Boys and Girls)</summary>
+<summary>Basketball (Boys &amp; Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h3>Basketball</h3>
 <div class="isomer-image-wrapper">
@@ -1178,6 +1536,12 @@ and striving for excellence, on and off the field.</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
