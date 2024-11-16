@@ -1319,7 +1319,6 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture1.jpg">
 </div>
-<p></p>
 <p><strong>CCA Schedule</strong>
 </p>
 <table style="minWidth: 75px">
@@ -1359,7 +1358,6 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Organisation Chart</strong>
 </p>
 <table style="minWidth: 25px">
@@ -1434,12 +1432,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 </tbody>
 </table>
-<p></p>
-</div>
-</details>
-</div>
-<p><strong>Achievements</strong>
-</p>
+<h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1504,9 +1497,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 </tbody>
 </table>
-<hr>
-<p><strong>Competitions</strong>
-</p>
+<h4><strong>Competitions</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1577,9 +1568,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 </tbody>
 </table>
-<hr>
-<p><strong>List of Activities</strong>
-</p>
+<h4><strong>List of Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1716,170 +1705,24 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 </tbody>
 </table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Activity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Open House&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>January</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Day Commemoration&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>January</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Week Fundraising&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 1 Induction and Leadership Camp&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Enrolment Parade and Dedication Service&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JWSS Speech Day Parade&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>UG Passing Out Parade (POP)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Blaze&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Promotion Ceremony&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Exchange (Life@JW) &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JWSS National Day Parade&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>August</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Character Quest&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>September</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Cares&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Adventure Camp&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Share-a-Gift&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>December</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<p><strong>Activities &amp; Competitions (2024)</strong>
-</p>
+<h4><strong>Activities &amp; Competitions (2024)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture2.jpg">
 </div>
 <p>BB Week Fundraising</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture3.jpg">
 </div>
 <p>Induction and Leadership Camp</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture4.jpg">
 </div>
 <p>Enrolment Parade</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture5.jpg">
 </div>
 <p>BB Blaze</p>
-<hr>
-<p><strong>Activities &amp; Competitions (2023)</strong>
-</p>
+<h4><strong>Activities &amp; Competitions (2023)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture6.jpg">
 </div>
@@ -1887,8 +1730,6 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture7.jpg">
 </div>
 <p>BB Combined Schools Adventure Camp&nbsp;</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture8.jpg">
 </div>
@@ -1896,8 +1737,6 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture9.jpg">
 </div>
 <p>Sports and Games Challenge – Nerf Battle @ Canberra Secondary School</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture10.jpg">
 </div>
@@ -1905,9 +1744,6 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture11.jpg">
 </div>
 <p>BB Cares – Kayak and Clean</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1939,7 +1775,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tbody>
 </table>
 <p>BB Induction Camp – Outdoor Hike</p>
-<p><strong>&nbsp;</strong>
-<br>
-</p>
+</div>
+</details>
+</div>
 <p></p>
