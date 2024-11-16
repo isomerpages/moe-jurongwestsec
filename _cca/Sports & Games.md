@@ -385,7 +385,6 @@ variant: tiptap
 </table>
 <hr>
 <h4><strong>Badminton Girls</strong></h4>
-<h4><strong>&nbsp;</strong></h4>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -657,8 +656,34 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<h4><strong>Activities &amp; Competitions</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Farewell for the seniors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>C division players in action during weekly trainings</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Winners of the Internal competition in JWSS during CCA camp</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>After the friendly match with SST</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
