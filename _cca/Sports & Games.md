@@ -701,6 +701,10 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Basketball (Boys &amp; Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_A.jpg">
+</div>
 <h3><strong>CCA Schedule</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -1284,19 +1288,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert Photo B]</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Insert Photo C]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_B.jpg">
+</div>
 <p><em>JWSS Girls’ Team</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_C.jpg">
+</div>
 <p><em>JWSS Boys’ Team</em>
 </p>
 </td>
@@ -1312,19 +1313,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert Photo D]</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Insert Photo E]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_D.jpg">
+</div>
 <p><em>B division girls players in action during NSG West Zone Championship</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_E.jpg">
+</div>
 <p><em>C division girls players in action during NSG Championship</em>
 </p>
 </td>
@@ -1340,19 +1338,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert Photo F]</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Insert Photo M]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_E.jpg">
+</div>
 <p><em>Girls’ Team Friendly Match with AES</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_F.jpg">
+</div>
 <p><em>Boys’ Team Friendly Match with Chung Cheng High School (Main)</em>
 </p>
 </td>
@@ -1368,18 +1363,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert Photo G]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Insert Photo H]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_G.jpg">
+</div>
 <p><em>Flag making during team bonding and training Camp in 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_H.jpg">
+</div>
 <p><em>Shooting game during team bonding and training Camp in 2024</em>
 </p>
 </td>
@@ -1422,18 +1415,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert Photo K]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Insert Photo L]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_I.jpg">
+</div>
 <p><em>Basketball girls enjoying a fun team bonding session at the bowling alley during CCA Day 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_J.jpg">
+</div>
 <p><em>Group photo after bowling session during CCA Day 2024</em>
 </p>
 </td>
@@ -1449,18 +1440,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert Photo N]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Insert Photo O]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_N.jpg">
+</div>
 <p><em>Taking teamwork off the court - Basketball boys enjoyed some thrilling laser tag action on CCA Day 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_O.jpg">
+</div>
 <p><em>The Basketball boys wrap up the laser tag session with smiles, camaraderie, and unforgettable memories on CCA Day 2024</em>
 </p>
 </td>
