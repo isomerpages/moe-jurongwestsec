@@ -689,122 +689,120 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Basketball (Boys &amp; Girls)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3>Basketball</h3>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/basketballA.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/basketballB.jpeg">
-</div>
-<p></p>
-<p><strong>JWSS Basketball Team Logo</strong>
+<h3><strong>CCA Schedule</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" src="/images/Logo.jpg">
-</div>
-<p></p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="4">
-<p>CCA Schedule</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Venue (s)</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Venue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Day One</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Day Two</p>
+<td rowspan="1" colspan="3">
+<p><strong>Boys’ Team</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.45pm – 6.00pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.45pm – 6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Girls’ Team</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.45pm – 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Monday 3.45 pm - 6.15 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday 3.45 pm - 6.15 pm</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball Court</p>
+<p>2.00pm – 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday 3.45 pm - 6.15 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 3.45 pm - 6.15 pm</p>
+<p>Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<h4><strong>Organisation Chart</strong></h4>
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Organisation Chart</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
+<td rowspan="1" colspan="2">
+<p><strong>Teachers-In-Charge</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Girls' Team</u></strong>
-<br>Mdm Nur Farizah Binte Esman (I/C)
-<br>Ms Luo Yuhui
-<br>Mrs Salinah Zhu
-<br>
-<br><strong><u>Boy's Team</u></strong>
-<br>Mr Yaw Kah Weng (I/C)
-<br>Mr Hong Guangyu William (2 I/C)
-<br>Mr Rajamanickam Thandavamurthy</p>
+<p><strong>Boys’ Team</strong>
+</p>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Coaches</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Girls’ Team</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kendy (C’ &amp; B’ Div Boys' Team)
-<br>Ms Ng Su Wei (C’ &amp; B’ Div Girls' Team)</p>
+<p>Mr P Vinoth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Farizah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Shafarie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zubir</p>
 </td>
 </tr>
 </tbody>
@@ -816,68 +814,154 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Executive Committee</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys’ Team</p>
+<td rowspan="1" colspan="2">
+<p><strong>Coaches / Instructors</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>‘B’ Division</p>
+<p><strong>Boys’ Team</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Jia An (Captain)
-<br>Woo Chang Sheng (Vice-Captain)
-<br>Donavan Tan Yi Fu (Vice-Captain)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>‘C’ Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Jun Hau (Captain)
-<br>Huang Zhi Bin (Vice-Captain)</p>
+<p><strong>Girls’ Team</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lim Wei Sian, Aron (C’ &amp; B’ Div Boys' Team)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls’ Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>‘B’ Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Yu Ing (Captain)
-<br>Seri Dewi Binte Effendi (Vice-Captain)
-<br>Yu Pei Wen (Vice-Captain)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>‘C’ Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- (Captain)
-<br>
-<br>- (Vice-Captain)</p>
+<p>Ms Ng Su Wei (C’ &amp; B’ Div Girls' Team)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Achievements</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CCA Leaders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>&nbsp;Boys’ Team</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain (Upper Sec)</p>
+<p>&nbsp;</p>
+<p>Captain (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAYDEN GOH MIN HAO</p>
+<p>&nbsp;</p>
+<p>LUKAS WEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (Upper Sec)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Vice-Captain (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOR YI YANG BRYAN</p>
+<p>BACOMO EARL DANIEL FERNANDEZ</p>
+<p>&nbsp;</p>
+<p>ALLAN KWOK ZI YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHONG SHAW WAI, DOMINIC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Girls’ Team</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain (Upper Sec)</p>
+<p>&nbsp;</p>
+<p>Captain (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHLYN WOO WING HUEN</p>
+<p>&nbsp;</p>
+<p>BALAKRISHNAN HARI BIRUNDHA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain (Upper Sec)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Vice-Captain (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BALAKRISHNAN HARIPRIYA</p>
+<p>NUR ADLINA ZAFIRAH BINTE MUHAMMAD RAZALI</p>
+<p>&nbsp;</p>
+<p>CHANEL KEISHA CODILLA CAPALA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Well-Being IC</p>
+<p>&nbsp;</p>
+<p>Well-Being 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG QI QI (WANG QIQI)</p>
+<p>&nbsp;</p>
+<p>ZUHYRAH ALYA BINTE RAMLIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity and Outreach IC</p>
+<p>&nbsp;</p>
+<p>Publicity and Outreach 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JEK EN NING ZENNICIA</p>
+<p>&nbsp;</p>
+<p>SOFIYAAH JOHNSON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics and Safety IC</p>
+<p>&nbsp;</p>
+<p>Logistics and Safety 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AFREEN FAEZAH BINTE MOHAMED ALI</p>
+<p>&nbsp;</p>
+<p>MUKUNDHU GOVINDAN RAMESH BABU SANMATHI</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -886,15 +970,40 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Zone ‘C’ Division Boys’ Basketball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Basketball ‘B’ Division Boys’ Invitational Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1028,106 +1137,325 @@ variant: tiptap
 <p>2015</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>List of Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone ‘C’ Division Boys’ Basketball Championships</p>
+<p><strong>Activity</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2012</p>
+<p><strong>Month</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jumpshot National Schools 'B' Division Girls Basketball Championships</p>
+<p>CCA Open House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2012</p>
+<p>JANUARY 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National 'B’ Division Girls’ Basketball Championships</p>
+<p>B Division Basketball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2011</p>
+<p>JANUARY 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone 'B' Division Girls’ Basketball Championships</p>
+<p>CCA Bonding &amp; Training Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2011</p>
+<p>MARCH 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone 'C' Division Boys’ Basketball Championships</p>
+<p>CCA Appreciation Tea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2011</p>
+<p>APRIL 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National ‘B’ Division Girls’ Basketball Championships</p>
+<p>C Division Basketball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2010</p>
+<p>MAY – AUGUST 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone ‘B’ Division Girls’ Basketball Championships</p>
+<p>CCA DAY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2010</p>
+<p>OCTOBER 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BAS-Milo National U17 Girls’ Basketball Championships</p>
+<p>Friendly Match with other schools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th place</p>
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Open House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2010</p>
+<p>JANUARY 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division Basketball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JANUARY 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Bonding &amp; Training Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MARCH 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Appreciation Tea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>APRIL 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Basketball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MAY – AUGUST 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA DAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OCTOBER 2023</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/basketball1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/basketball2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/basketball3.png">
-</div>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo B]</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo C]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>JWSS Girls’ Team</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>JWSS Boys’ Team</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Activities &amp; Competitions</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo D]</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo E]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>B division girls players in action during NSG West Zone Championship</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>C division girls players in action during NSG Championship</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo F]</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo M]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Girls’ Team Friendly Match with AES</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Boys’ Team Friendly Match with Chung Cheng High School (Main)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Team Bonding</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo G]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo H]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Flag making during team bonding and training Camp in 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Shooting game during team bonding and training Camp in 2024</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo I]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo J]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Briefing for station game during team bonding and training Camp in 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Group photo for team bonding and training Camp in 2024</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo K]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo L]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Basketball girls enjoying a fun team bonding session at the bowling alley during CCA Day 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Group photo after bowling session during CCA Day 2024</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo N]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Insert Photo O]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Taking teamwork off the court - Basketball boys enjoyed some thrilling laser tag action on CCA Day 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>The Basketball boys wrap up the laser tag session with smiles, camaraderie, and unforgettable memories on CCA Day 2024</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
