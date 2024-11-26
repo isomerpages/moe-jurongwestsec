@@ -2,11 +2,9 @@
 title: Full Subject–Based Banding (FSBB)
 permalink: /holistic-development/full-subject-based-banding-fsbb/
 description: ""
+variant: markdown
 ---
-
-
-**Jurong West Secondary School** is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020. It was also reported in the media on 3 September 2019. ([read about it here!](https://www.channelnewsasia.com/news/singapore/subject-based-banding-secondary-schools-pilot-moe-11868662))
-
+**Jurong West Secondary School**&nbsp;is one of the 28 secondary schools selected by the Ministry of Education to start piloting aspects of Full Subject-Based Banding (Full SBB) from 2020. It was also reported in the media on 3 September 2019.
   
 
 ![fsbb1.jpg](/images/fsbb1.jpg)  
@@ -17,7 +15,7 @@ description: ""
 
 With Full SBB, all schools are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs, without labels. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life.  
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qTew7GF4NLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTew7GF4NLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
   
 At Jurong West Secondary School, in addition to being able to offer English Language / Mathematics / Science / Chinese Language / Malay Language / Tamil Language, eligible students will be able to offer the Humanities (Geography / History / Literature) at a more demanding level from 2020 onwards.  
   
@@ -28,7 +26,7 @@ Our school will allow Secondary 2 Normal (Academic) students in 2020 the opportu
 Our school will allow Secondary 2 Normal (Technical) students in 2021 the opportunity to take Humanities subjects (Geography/History/Literature) at a more demanding level if they meet the eligibility criteria.  
   
 **(III) For students in Sec 2NA in 2020**  
-Our school will allow Secondary 3 Normal (Academic) students in 2021 the opportunity to take Humanities (Social Studies & Geography/History/Literature elective) at a more demanding level if they meet the eligibility criteria.  
+Our school will allow Secondary 3 Normal (Academic) students in 2021 the opportunity to take Humanities (Social Studies &amp; Geography/History/Literature elective) at a more demanding level if they meet the eligibility criteria.  
   
 **By 2021, Jurong West Secondary School will have fully implemented the following aspects of Full SBB:**  
 Offering of Humanities subjects at a more demanding level from Secondary 2; and organising Secondary 1 Form Classes in new ways.  
