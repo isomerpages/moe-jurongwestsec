@@ -11,6 +11,16 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: GCE N-Level 2024 Results Release
+      subtitle: GCE N-Level 2024
+      id: infopic
+      description: The GCE N-Level 2024 results will be released on Monday, 18
+        December 2024.
+      button: Click here for more information
+      url: /gcenlevel2024/
+      alt: Image alt text
+      image: /images/Results Release/gcenlevel2024.jpg
+  - infopic:
       title: OPEN HOUSE 2024
       subtitle: JWSS Open House 2024
       id: infopic
@@ -30,16 +40,6 @@ sections:
       url: https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
       alt: Image alt text
       image: /images/Highlights/SGC.jpg
-  - infopic:
-      title: GCE O-Level 2023 Results Release
-      subtitle: GCE O-Level 2023
-      id: infopic
-      description: The GCE O-Level 2023 results will be released on Thursday, 11
-        January 2024.
-      button: Click here for more information
-      url: /gceolevel2024/
-      alt: Image alt text
-      image: /images/Results Release/Picture1.png
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
