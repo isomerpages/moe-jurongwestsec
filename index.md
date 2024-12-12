@@ -11,12 +11,22 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: Secondary 1 Registration 2024
+      subtitle: Secondary 1 Registration
+      id: infopic
+      description: Secondary 1 Posting Results will be released on 18 December 2024. A
+        warm welcome to all new secondary 1 students!
+      button: Click here for more info
+      url: https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
+      alt: Image alt text
+      image: /images/Sec One Registration/sec1reg2025.jpg
+  - infopic:
       title: GCE N-Level 2024 Results Release
       subtitle: GCE N-Level 2024
       id: infopic
       description: The GCE N-Level 2024 results will be released on Monday, 16
         December 2024.
-      button: Click here for more information
+      button: Click here for more info
       url: /gcenlevel2024/
       alt: Image alt text
       image: /images/Results Release/gcenlevel2024.jpg
@@ -30,16 +40,6 @@ sections:
       url: https://go.gov.sg/2024jwssopenhouse-register
       alt: Image alt text
       image: /images/Open House/2024_Open_House_Banner_final.jpg
-  - infopic:
-      title: School Graduating Certificate (SGC)
-      subtitle: School Graduating Certificate
-      id: infopic
-      description: Alumni who graduated in 2023 may reserve a slot to collect their
-        SGC from the school general office.
-      button: click here to reserve your slot now!
-      url: https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
-      alt: Image alt text
-      image: /images/Highlights/SGC.jpg
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
