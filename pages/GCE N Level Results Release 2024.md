@@ -8,7 +8,7 @@ image: /images/Results Release/GCENLevel2023.jpg
 <h2>Arrangements for the Release of 2024 GCE N-Level Results<br></h2>
 <h4><strong>Instructions for results release day:</strong></h4>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp; Students are to report to school hall on <strong>Monday, 16 December 2024</strong> and
-be seated by 1.50 pm.</p>
+be seated by 1.45 pm.</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp; All students must be in proper school uniform
 with proper shoes.</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are expected to observe the
@@ -30,8 +30,8 @@ documents for the school’s verification when collecting the results.</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students may contact their school for
 assistance with the appointment of a proxy.</p>
 <h4><strong>Resources for parents and students:</strong></h4>
-<p>2023 Singapore-Cambridge GCE N(A)- &amp; N(T)-Level Examination Results
-<a href="https://www.moe.gov.sg/news/press-releases/20231211-release-of-the-2023-singapore-cambridge-gce-na-nt-level-examination-results#:~:text=The%20results%20of%20the%202023,18%20December%202023%2C%202.00pm." rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+<p>2024 Singapore-Cambridge GCE N(A)- &amp; N(T)-Level Examination Results
+<a href="https://www.moe.gov.sg/news/press-releases/20241209-release-of-the-2024-singapore-cambridge-gce-na-and-nt-level-examination-results-on-16-december-2024" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <p>Joint Admissions Exercise (JAE) <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
