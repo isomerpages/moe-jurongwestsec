@@ -17,7 +17,7 @@ sections:
       description: Secondary 1 Posting Results will be released on 18 December 2024. A
         warm welcome to all new secondary 1 students!
       button: Click here for more info
-      url: https://www.picktime.com/JWSSSCHGRADCERTCOLLECTION
+      url: /seconereg/
       alt: Image alt text
       image: /images/Sec One Registration/sec1reg2025.jpg
   - infopic:
