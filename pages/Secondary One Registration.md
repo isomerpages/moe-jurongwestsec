@@ -4,4 +4,25 @@ permalink: /seconereg/
 variant: tiptap
 description: ""
 ---
-<h4>A very warm welcome to all our new Secondary One students to Jurong West Secondary School!</h4><p>Welcome to the 2024 Secondary One Registration Webpage!</p><p>We will like to inform all parents/guardians of our new 2024 Secondary One students, that we will start sending to you various announcements and consent forms via Parents Gateway starting from <strong>20 Dec 2023, 3pm</strong>.</p><p>Parents/guardians could start registering their child/ward on <strong>20 Dec 2023, 9am</strong>, using the link provided below.</p><p>For parents/guardians who wish to appeal for a transfer for their child/ward into Jurong West Secondary School, you could do so through the link provided below.</p><p></p><p>a) Secondary one registration link - <a href="https://go.gov.sg/jwsec1reg2024" rel="noopener noreferrer nofollow" target="_blank">Click here</a></p><p>b) Principal's welcome letter and important information for parents - <a href="/files/Sec1reg/P_s_Welcome_Letter_for_2024_Secondary_One_updated_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a></p><p>c) Secondary one booklist - <a href="/files/About Us/BookList/2024_Sec_1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a></p><p>d) Appeal for transfer <strong>into </strong>Jurong West Secondary School - <a href="https://go.gov.sg/appealtransferintojwss2024" rel="noopener noreferrer nofollow" target="_blank">Click here</a></p><p></p>
+<h4>A very warm welcome to all our new Secondary One students to Jurong West Secondary School!</h4>
+<p>Welcome to the 2025 Secondary One Registration Webpage!</p>
+<p>We will like to inform all parents/guardians of our new 2025 Secondary
+One students, that we will start sending to you various announcements and
+consent forms via Parents Gateway starting from <strong>18 Dec 2024, 3pm</strong>.</p>
+<p>Parents/guardians could start registering their child/ward on <strong>18 Dec 2024, 9am</strong>,
+using the link provided below.</p>
+<p>For parents/guardians who wish to appeal for a transfer for their child/ward
+into Jurong West Secondary School, you could do so through the link provided
+below.</p>
+<p></p>
+<p>a) Secondary one registration link - <a href="https://go.gov.sg/jwsec1reg2025" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+</p>
+<p>b) Principal's welcome letter and important information for parents -
+<a href="/files/Sec1reg/Principal_Welcome_Letter_for_2025_Secondary_One.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+<p>c) Secondary one booklist - <a href="/files/About Us/BookList/Sec_1_book_list_and_uniform_2025.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+<p>d) Appeal for transfer <strong>into </strong>Jurong West Secondary School
+- <a href="https://go.gov.sg/appealtransferintojwss2025" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+</p>
+<p></p>
