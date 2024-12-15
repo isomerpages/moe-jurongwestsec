@@ -3,6 +3,7 @@ title: Secondary One Registration
 permalink: /seconereg/
 variant: tiptap
 description: ""
+image: /images/Sec One Registration/sec1reg2025.jpg
 ---
 <h4>A very warm welcome to all our new Secondary One students to Jurong West Secondary School!</h4>
 <p>Welcome to the 2025 Secondary One Registration Webpage!</p>
