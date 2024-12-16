@@ -19,9 +19,8 @@ below.</p>
 <p>a) Secondary one registration link (available from 18 Dec 2024, 9am) -
 <a href="https://go.gov.sg/jwsec1reg2025" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
-<p>b) Principal's welcome letter and important information for parents -
-<a href="/files/Sec1reg/Principal_Welcome_Letter_for_2025_Secondary_One.pdf" rel="noopener nofollow" target="_blank">Click here</a>
-</p>
+<p>b) Principal's welcome letter and important information for parents (available
+from 18 Dec 2024, 9am) - Click here</p>
 <p>c) Secondary one booklist - <a href="/files/About Us/BookList/Sec_1_book_list_and_uniform_2025.pdf" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 <p>d) Appeal for transfer <strong>into </strong>Jurong West Secondary School
