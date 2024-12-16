@@ -12,15 +12,17 @@ variant: tiptap
 </p>
 <p>Opening hours&nbsp;: 7am - 3pm (Avoid lunchtime 12noon - 1pm)</p>
 <p>Note: School uniform can be purchased from the school bookshop as well</p>
-<p><strong>Book List for 2024</strong>
+<p><strong>Book List for 2025</strong>
 </p>
-<p><a href="/files/About Us/BookList/2024_Sec_1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Booklist</a>
+<p><a href="/files/About Us/BookList/2025_Sec_1_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Booklist</a>
 </p>
-<p><a href="/files/About%20Us/BookList/2024_Sec_2_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Booklist</a>
+<p><a href="/files/About Us/BookList/2025_Sec_2_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
-<p><a href="/files/About%20Us/BookList/2024_Sec_3_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Booklist</a>
+<p><a href="/files/About Us/BookList/2025_Sec_3_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Booklist</a>
 </p>
-<p><a href="/files/About%20Us/BookList/2024_Sec_4_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Booklist</a>
+<p><a href="/files/About Us/BookList/2025_Sec_4_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Booklist</a>
+</p>
+<p><a href="/files/About Us/BookList/2025_Sec_5_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Booklist</a>
 </p>
 <h3>School Uniform Supplier Information</h3>
 <p><strong>KH Uniform Pte Ltd</strong>
