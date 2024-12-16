@@ -7,9 +7,9 @@ image: /images/Sec One Registration/sec1reg2025.jpg
 ---
 <h4>A very warm welcome to all our new Secondary One students to Jurong West Secondary School!</h4>
 <p>Welcome to the 2025 Secondary One Registration Webpage!</p>
-<p>We will like to inform all parents/guardians of our new 2025 Secondary
-One students, that we will start sending to you various announcements and
-consent forms via Parents Gateway starting from <strong>18 Dec 2024, 3pm</strong>.</p>
+<p>We would like to inform all parents/guardians of our new 2025 Secondary
+One students, that we will be sending various announcements and consent
+forms via Parents Gateway starting from <strong>18 Dec 2024, 3pm</strong>.</p>
 <p>Parents/guardians could start registering their child/ward on <strong>18 Dec 2024, 9am</strong>,
 using the link provided below.</p>
 <p>For parents/guardians who wish to appeal for a transfer for their child/ward
