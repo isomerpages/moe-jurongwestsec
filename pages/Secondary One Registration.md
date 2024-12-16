@@ -16,7 +16,8 @@ using the link provided below.</p>
 into Jurong West Secondary School, you could do so through the link provided
 below.</p>
 <p></p>
-<p>a) Secondary one registration link - <a href="https://go.gov.sg/jwsec1reg2025" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+<p>a) Secondary one registration link (available from 18 Dec 2024, 9am) -
+<a href="https://go.gov.sg/jwsec1reg2025" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <p>b) Principal's welcome letter and important information for parents -
 <a href="/files/Sec1reg/Principal_Welcome_Letter_for_2025_Secondary_One.pdf" rel="noopener nofollow" target="_blank">Click here</a>
