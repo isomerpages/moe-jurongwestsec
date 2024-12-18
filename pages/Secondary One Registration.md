@@ -9,7 +9,8 @@ image: /images/Sec One Registration/sec1reg2025.jpg
 <p>Welcome to the 2025 Secondary One Registration Webpage!</p>
 <p>We would like to inform all parents/guardians of our new 2025 Secondary
 One students, that we will be sending various announcements and consent
-forms via Parents Gateway starting from <strong>18 Dec 2024, 3pm</strong>.</p>
+forms via Parents Gateway starting from <strong>18 Dec 2024, <s>3pm</s> <em>5pm</em></strong>. <em>(update: Schools have been informed that Parents Gateway will be unavailable due to maintenance from 12pm - 5pm. We will monitor the situation and strive to send the PGs as soon as the service becomes available)</em>
+</p>
 <p>Parents/guardians could start registering their child/ward on <strong>18 Dec 2024, 9am</strong>,
 using the link provided below.</p>
 <p>For parents/guardians who wish to appeal for a transfer for their child/ward
