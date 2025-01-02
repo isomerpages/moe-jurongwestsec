@@ -317,7 +317,7 @@ is a passionate advocate for arts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Environmental Science Club</summary>
+<summary>STEM and Sustainability Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
