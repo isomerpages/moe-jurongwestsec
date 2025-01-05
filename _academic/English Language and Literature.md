@@ -389,6 +389,138 @@ and international levels.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICAS Writing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction (Top 1% in Singapore): Nur Adriana Binte Sha’ari (4PN)</p>
+<p>Distinction (Top 10% in Singapore): Wai En Qi (2PN), Khoo Yee Jye (3IN),
+Simone Tan (3RT), Chelsea Chan Yu Qi (4PN), Xacus See Tho (4RT)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen’s Commonwealth Essay Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award: Ong Yong Jun Nathaniel (1IN), Chu Yun Le (1HY), Afreen Faezah
+(3CE), Anburaj Valentina (3IN), Htet Thiri (4RT)</p>
+<p>Silver Award: Gan Yao Kai (1CE), Lim Ying Jia (1IY),</p>
+<p>Simone Tan Ann Qi (3RT), Valerie Tay (4IY)</p>
+<p>Bronze Award: Averen Wong Kai Feng (1EE), Ng Hon Cheng Elroy (1HY), Noelle
+Ke Hui Heng (1RT), Matilda Cheong Ya Lee (2IY), Lim Yong Qing (3CE),</p>
+<p>Marsha Dylara Binte Mohammad Marruwe (3RT), Jek En Ning Zennicia (3RT),
+Thamirra Raghunathan (4IY), Goh Wei Zeng (4RT)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unity Writer’s Festival (UWF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poetry Competition, First Place: Noble Thet Mon (2RE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Poetry Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super Junior Category, Merit Award (Top 10): Jothiraj Kaavyashri (2RE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -403,25 +535,7 @@ and international levels.</p>
 <p>
 <br>
 </p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_4.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit13.png">
-</div>
 <p><strong>JWSS Literature Symposium 2024</strong>
 </p>
 <p>The 9<sup>th</sup> JWSS Literature Symposium was successfully conducted
@@ -471,26 +585,12 @@ Dr Loh Chin Ee, Associate Professor, NIE, NTU</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture4.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture5.png">
-</div>
-<p></p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit16.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit17.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit18.png">
-</div>
 <p>
 <br>
 </p>
