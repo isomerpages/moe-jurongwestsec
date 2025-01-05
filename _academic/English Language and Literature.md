@@ -253,7 +253,8 @@ year-appropriate texts (print, non-print and digital networked sources)
 of increasing complexity and create a range of texts, including multimodal
 and hybrid texts, for various purposes.</p>
 <h2>Literature in English</h2>
-<p>&gt; Subjects Offered</p>
+<p><strong>Subjects Offered</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Literature in English (Lower Sec)</p>
