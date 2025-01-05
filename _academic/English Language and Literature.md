@@ -252,33 +252,6 @@ are provided for students to progressively read, view and respond to age-/
 year-appropriate texts (print, non-print and digital networked sources)
 of increasing complexity and create a range of texts, including multimodal
 and hybrid texts, for various purposes.</p>
-<p><strong>Monthly Thursday Sharing</strong>
-</p>
-<p>Is there a real-world issue that you are intrigued by and would like to
-share with the school?</p>
-<p>The Monthly Thursday Sharing is a platform for students to share their
-views about a hot button issue and simultaneously hone their ability to
-communicate confidently, effectively and sensitively. They evaluate and
-synthesise information from credible sources as well as share their perspectives
-and reflections using the appropriate tone and register. They then invite
-their peers to think further about the issue by posing stimulating questions.
-This platform enables the presenters to raise awareness of real-world issues
-and encourage the audience to think deeper and more holistically about
-them.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="el1.png" src="/images/el1.png">
-</div>
-<p><strong>Wednesday Morning Sharing –&nbsp;Speak Well, Speak Right</strong>
-</p>
-<p>“How can I be a more engaging and effective speaker?” If you have these
-questions, fret not, as the weekly sharing sessions provide tips on how
-to speak well.</p>
-<p>Selected students focus on features of clear pronunciation and aspects
-of expression (e.g., volume, stress and intonation) that would help their
-peers become clearer, more effective and confident speakers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="el2.png" src="/images/el2.png">
-</div>
 <h2>Literature in English</h2>
 <p>&gt; Subjects Offered</p>
 <ul data-tight="true" class="tight">
