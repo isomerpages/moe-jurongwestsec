@@ -263,7 +263,7 @@ and hybrid texts, for various purposes.</p>
 <p>Humanities Literature in English (Upper Sec Express)</p>
 </li>
 <li>
-<p>Pure Literature in English (Upper Sec Express and Normal Academic)</p>
+<p>Pure Literature in English (Upper Sec Express)</p>
 </li>
 </ul>
 <p>
