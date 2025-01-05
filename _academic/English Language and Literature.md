@@ -267,8 +267,8 @@ and hybrid texts, for various purposes.</p>
 </li>
 </ul>
 <p>
-<br>&gt; Curriculum &gt;</p>
-<p></p>
+<br><strong>Curriculum</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -317,24 +317,44 @@ written and understood.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Literature in English Lessons at JWSS</strong> 
+</p>
+<p></p>
 <p>The study of Literature centres on literary response – the negotiation
 of meaning between readers and texts. This Literary Response Framework
 represents how teachers will design learning experiences that encourage
 students to respond to texts in a holistic manner.&nbsp;</p>
-<p>The Framework is shaped like an eye to emphasise how responding to Literature
-empowers students to read texts and the world in different ways and with
-discernment.&nbsp;</p>
-<p>The various layers of this framework are elaborated upon below, starting
-from the centre to the outermost layer.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/literaryresponseframework.png">
+</div>
+<p></p>
+<p>The lessons focus on the <strong>empowerment of students</strong> as they
+engage in active meaning-making of the text with discernment. Through lessons,
+students develop an appreciation of language as they learn about the five
+areas of study – plot, character, setting and atmosphere, style and theme.</p>
+<p>To foster <strong>effective communication skills</strong>, students share
+their understandings of a text through a variety of ways, including through
+discussions and written tasks. They will be guided to shape their thoughts
+into arguments who are supported with elaboration and textual details.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h2>Programme</h2>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit1.png">
-</div>
+<h4>Achievements</h4>
+<p>Each year, the English Language Department provides opportunities and
+platforms for students who demonstrate a passion for and talent in English
+Language and the literary arts. Teachers in the department invite these
+students to participate in competitions and seminars at the cluster, national,
+and international levels.</p>
+<p>Below are some of our students' achievements over the past three years.</p>
 <p>
 <br>
 </p>
