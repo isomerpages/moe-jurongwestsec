@@ -317,7 +317,7 @@ written and understood.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Literature in English Lessons at JWSS</strong> 
+<p><strong>Literature in English Lessons at JWSS</strong>
 </p>
 <p></p>
 <p>The study of Literature centres on literary response – the negotiation
@@ -355,18 +355,57 @@ Language and the literary arts. Teachers in the department invite these
 students to participate in competitions and seminars at the cluster, national,
 and international levels.</p>
 <p>Below are some of our students' achievements over the past three years.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction (Top 1% in Singapore): Goh Wei Zeng (4RT)</p>
+<p>Distinction (Top 10% in Singapore): Toh Rui Xuan (2EE), Anburaj Valentina
+(3IN), Feba Jibin (4RE)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit2.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit3.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_1.png">
 </div>
