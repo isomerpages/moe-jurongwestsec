@@ -252,35 +252,9 @@ are provided for students to progressively read, view and respond to age-/
 year-appropriate texts (print, non-print and digital networked sources)
 of increasing complexity and create a range of texts, including multimodal
 and hybrid texts, for various purposes.</p>
-<p><strong>Monthly Thursday Sharing</strong>
-</p>
-<p>Is there a real-world issue that you are intrigued by and would like to
-share with the school?</p>
-<p>The Monthly Thursday Sharing is a platform for students to share their
-views about a hot button issue and simultaneously hone their ability to
-communicate confidently, effectively and sensitively. They evaluate and
-synthesise information from credible sources as well as share their perspectives
-and reflections using the appropriate tone and register. They then invite
-their peers to think further about the issue by posing stimulating questions.
-This platform enables the presenters to raise awareness of real-world issues
-and encourage the audience to think deeper and more holistically about
-them.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="el1.png" src="/images/el1.png">
-</div>
-<p><strong>Wednesday Morning Sharing –&nbsp;Speak Well, Speak Right</strong>
-</p>
-<p>“How can I be a more engaging and effective speaker?” If you have these
-questions, fret not, as the weekly sharing sessions provide tips on how
-to speak well.</p>
-<p>Selected students focus on features of clear pronunciation and aspects
-of expression (e.g., volume, stress and intonation) that would help their
-peers become clearer, more effective and confident speakers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="el2.png" src="/images/el2.png">
-</div>
 <h2>Literature in English</h2>
-<p>&gt; Subjects Offered</p>
+<p><strong>Subjects Offered</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Literature in English (Lower Sec)</p>
@@ -289,12 +263,12 @@ peers become clearer, more effective and confident speakers.</p>
 <p>Humanities Literature in English (Upper Sec Express)</p>
 </li>
 <li>
-<p>Pure Literature in English (Upper Sec Express and Normal Academic)</p>
+<p>Pure Literature in English (Upper Sec Express)</p>
 </li>
 </ul>
 <p>
-<br>&gt; Curriculum &gt;</p>
-<p></p>
+<br><strong>Curriculum</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -343,52 +317,225 @@ written and understood.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Literature in English Lessons at JWSS</strong>
+</p>
+<p></p>
 <p>The study of Literature centres on literary response – the negotiation
 of meaning between readers and texts. This Literary Response Framework
 represents how teachers will design learning experiences that encourage
 students to respond to texts in a holistic manner.&nbsp;</p>
-<p>The Framework is shaped like an eye to emphasise how responding to Literature
-empowers students to read texts and the world in different ways and with
-discernment.&nbsp;</p>
-<p>The various layers of this framework are elaborated upon below, starting
-from the centre to the outermost layer.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/literaryresponseframework.png">
+</div>
+<p></p>
+<p>The lessons focus on the <strong>empowerment of students</strong> as they
+engage in active meaning-making of the text with discernment. Through lessons,
+students develop an appreciation of language as they learn about the five
+areas of study – plot, character, setting and atmosphere, style and theme.</p>
+<p>To foster <strong>effective communication skills</strong>, students share
+their understandings of a text through a variety of ways, including through
+discussions and written tasks. They will be guided to shape their thoughts
+into arguments who are supported with elaboration and textual details.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h2>Programme</h2>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit1.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit2.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Screenshot_4.png">
-</div>
+<h4>Achievements</h4>
+<p>Each year, the English Language Department provides opportunities and
+platforms for students who demonstrate a passion for and talent in English
+Language and the literary arts. Teachers in the department invite these
+students to participate in competitions and seminars at the cluster, national,
+and international levels.</p>
+<p>Below are some of our students' achievements over the past three years.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction (Top 1% in Singapore): Goh Wei Zeng (4RT)</p>
+<p>Distinction (Top 10% in Singapore): Toh Rui Xuan (2EE), Anburaj Valentina
+(3IN), Feba Jibin (4RE)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit13.png">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS Writing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction (Top 1% in Singapore): Nur Adriana Binte Sha’ari (4PN)</p>
+<p>Distinction (Top 10% in Singapore): Wai En Qi (2PN), Khoo Yee Jye (3IN),
+Simone Tan (3RT), Chelsea Chan Yu Qi (4PN), Xacus See Tho (4RT)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen’s Commonwealth Essay Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award: Ong Yong Jun Nathaniel (1IN), Chu Yun Le (1HY), Afreen Faezah
+(3CE), Anburaj Valentina (3IN), Htet Thiri (4RT)</p>
+<p>Silver Award: Gan Yao Kai (1CE), Lim Ying Jia (1IY),</p>
+<p>Simone Tan Ann Qi (3RT), Valerie Tay (4IY)</p>
+<p>Bronze Award: Averen Wong Kai Feng (1EE), Ng Hon Cheng Elroy (1HY), Noelle
+Ke Hui Heng (1RT), Matilda Cheong Ya Lee (2IY), Lim Yong Qing (3CE),</p>
+<p>Marsha Dylara Binte Mohammad Marruwe (3RT), Jek En Ning Zennicia (3RT),
+Thamirra Raghunathan (4IY), Goh Wei Zeng (4RT)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unity Writer’s Festival (UWF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poetry Competition, First Place: Noble Thet Mon (2RE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Poetry Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super Junior Category, Merit Award (Top 10): Jothiraj Kaavyashri (2RE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p></p>
 <p><strong>JWSS Literature Symposium 2024</strong>
 </p>
 <p>The 9<sup>th</sup> JWSS Literature Symposium was successfully conducted
@@ -438,26 +585,12 @@ Dr Loh Chin Ee, Associate Professor, NIE, NTU</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture4.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture5.png">
-</div>
-<p></p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit16.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit17.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/englit18.png">
-</div>
 <p>
 <br>
 </p>
