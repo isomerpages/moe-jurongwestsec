@@ -16,7 +16,7 @@ sections:
       id: infopic
       description: The GCE O-Level 2024 results will be released on Friday, 10 January 2025
       button: Click here for more info
-      url: https://go.gov.sg/2024jwssopenhouse-register
+      url: /gceolevel2024/
       alt: Image alt text
       image: /images/Results Release/Picture1.png
   - infopic:
