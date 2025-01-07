@@ -11,6 +11,15 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: GCE O-LEVEL 2024 Results Release
+      subtitle: GCE O-LEVEL 2024
+      id: infopic
+      description: The GCE O-Level 2024 results will be released on Friday, 10 January 2025
+      button: Click here for more info
+      url: https://go.gov.sg/2024jwssopenhouse-register
+      alt: Image alt text
+      image: /images/Results Release/Picture1.png
+  - infopic:
       title: Secondary 1 Registration 2024
       subtitle: Secondary 1 Registration
       id: infopic
@@ -30,16 +39,6 @@ sections:
       url: /gcenlevel2024/
       alt: Image alt text
       image: /images/Results Release/gcenlevel2024.jpg
-  - infopic:
-      title: OPEN HOUSE 2024
-      subtitle: JWSS Open House 2024
-      id: infopic
-      description: JWSS will be having our Open House 2024 on 16 Nov 2024 from 9am -
-        1pm.   Do register your attendance at the link below!
-      button: Click here to register
-      url: https://go.gov.sg/2024jwssopenhouse-register
-      alt: Image alt text
-      image: /images/Open House/2024_Open_House_Banner_final.jpg
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
