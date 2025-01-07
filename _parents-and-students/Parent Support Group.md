@@ -75,13 +75,13 @@ holistic education for the students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Michell Teo Qi En</p>
+<p>Mdm Phua Pek Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JWSS PSG Vice-Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:etoilebb08@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">etoilebb08@hotmail.com</a>
+<p><a href="mailto:peklinphua@gmail.com" rel="noopener noreferrer nofollow" target="_blank">peklinphua@gmail.com</a>
 </p>
 </td>
 </tr>
