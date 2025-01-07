@@ -569,9 +569,7 @@ Kaeden Zou Yankai (1IY), Enya Hoo (1CE), Marsha Dylara Binte Mohammad Marruwe
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>READ!Fest</strong>
-</p>
+<h4><br><strong>READ! Fest</strong></h4>
 <p>The annual Read!Fest is organised in conjunction with the <strong>National Reading Movement</strong>.
 A myriad of engaging activities were held to <strong>celebrate the joy of reading</strong> and <strong>encourage reading widely</strong> in
 the week-long event.</p>
@@ -634,45 +632,12 @@ resources for Literature.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/LiteratureSymposium2.png">
 </div>
 <p></p>
-<p>The first segment of the Literature Symposium included:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Address by Ms Tan
-Ming Ming, JWSS Principal</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guest-of-Honour Address by
-Dr Angelia Poon, Associate Professor, NIE-NTU</p>
-<p>&nbsp;</p>
-<p>The second segment of the Symposium included the following concurrent
-students’ workshops:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>“It’s all a fantasy: And how Poetry is Magic” </em>by
-Dr Richard Angus Whitehead, Lecturer at NIE, NTU</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Navigating the Dark Forest of Poetry </em>by
-Mr Samuel Zou, Experienced Teacher, CHIJ St Theresa’s Convent</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>“Lift Off!” A Drama workshop </em>by
-Ms Tina Kishore, Lead Teacher (Literature), Evergreen Secondary School</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Analysing and Writing about short stories for the ‘O’ Levels </em>by
-Mr Ow Yeong Wai Kit &amp; Mr Nar Dominic, co authors and PHD candidates,
-NIE</p>
-<p>&nbsp;</p>
-<p>The teachers’ workshop was:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Designing Unseen Test Papers for Upper Secondary </em>by
-Dr Loh Chin Ee, Associate Professor, NIE, NTU</p>
+<h4><strong>Speak Up, Speak Out Workshop</strong></h4>
+<p>As part of the exciting line-up of LIFE@JW activities, the Secondary Three
+students had an enjoyable time honing their skills of rhetoric and argumentation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Speak_Up_Speak_Out.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture4.png">
-</div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
 <p>
 <br>
 </p>
