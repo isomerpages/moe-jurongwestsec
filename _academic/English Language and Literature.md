@@ -570,8 +570,33 @@ Kaeden Zou Yankai (1IY), Enya Hoo (1CE), Marsha Dylara Binte Mohammad Marruwe
 </tbody>
 </table>
 <p>
-<br>
+<br><strong>READ!Fest </strong>
 </p>
+<p>The annual Read!Fest is organised in conjunction with the <strong>National Reading Movement</strong>.
+A myriad of engaging activities were held to <strong>celebrate the joy of reading</strong> and <strong>encourage reading widely</strong> in
+the week-long event.</p>
+<p>Donning the guise of beloved characters from fantasy realms, our EL teachers
+heralded the JWSS Read! Fest 2024.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest1.png">
+</div>
+<p>Donning the guise of beloved characters from fantasy realms, our EL teachers
+heralded the JWSS Read! Fest 2024. The week ended with a video compilation
+of Read! Fest 2024 activities, Book Parade presentations and a magical
+finale on the joy of reading by the ELDD members.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest2.png">
+</div>
+<p>Favourite reads were gifted by teachers across departments, and hunts
+in the school commenced with much excitement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest3.png">
+</div>
+<p>During their CCE lessons, students from each level participated in activities
+designed to spark creativity and foster collaboration.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest4.png">
+</div>
 <p></p>
 <p><strong>JWSS Literature Symposium 2024</strong>
 </p>
