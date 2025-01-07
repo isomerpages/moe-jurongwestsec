@@ -570,7 +570,7 @@ Kaeden Zou Yankai (1IY), Enya Hoo (1CE), Marsha Dylara Binte Mohammad Marruwe
 </tbody>
 </table>
 <p>
-<br><strong>READ!Fest </strong>
+<br><strong>READ!Fest</strong>
 </p>
 <p>The annual Read!Fest is organised in conjunction with the <strong>National Reading Movement</strong>.
 A myriad of engaging activities were held to <strong>celebrate the joy of reading</strong> and <strong>encourage reading widely</strong> in
