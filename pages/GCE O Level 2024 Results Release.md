@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>GCE O Level 2024 Results Release</strong></h3>
-<p>Arrangements for the Release of 2024 GCE O-Level Results</p>
+<p>Arrangements for the Release of 2024 GCE O-Level Results on 10 January
+2025 at 2.30pm</p>
 <h4><strong>Instructions for results release day:</strong></h4>
 <p>a) Students are to report to school hall on Friday, 10 January 2025 and
 be seated by 2.20 pm.</p>
