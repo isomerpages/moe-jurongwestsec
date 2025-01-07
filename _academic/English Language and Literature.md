@@ -601,6 +601,14 @@ designed to spark creativity and foster collaboration.</p>
 time in iconic destinations through our exhilarating ELDD-initiated Escape
 Room. This extraordinary adventure was organised for the second time in
 Read! Fest, making it an unforgettable experience for everyone involved.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest5.png">
+</div>
+<p>To foster students’ enthusiasm for learning, students were able to enjoy
+reading a wide array of riveting Singaporean fiction and non-fiction excerpts
+using the Sing Lit Cloud Machine. Our Instagram page is designed to encourage
+students to read beyond the classroom.</p>
+<p></p>
 <p></p>
 <p><strong>JWSS Literature Symposium 2024</strong>
 </p>
