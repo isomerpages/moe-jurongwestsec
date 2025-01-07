@@ -597,6 +597,10 @@ designed to spark creativity and foster collaboration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest4.png">
 </div>
+<p>Adding to the excitement of Read! Fest 2024, seven teams raced against
+time in iconic destinations through our exhilarating ELDD-initiated Escape
+Room. This extraordinary adventure was organised for the second time in
+Read! Fest, making it an unforgettable experience for everyone involved.</p>
 <p></p>
 <p><strong>JWSS Literature Symposium 2024</strong>
 </p>
