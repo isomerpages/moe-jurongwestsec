@@ -608,10 +608,11 @@ Read! Fest, making it an unforgettable experience for everyone involved.</p>
 reading a wide array of riveting Singaporean fiction and non-fiction excerpts
 using the Sing Lit Cloud Machine. Our Instagram page is designed to encourage
 students to read beyond the classroom.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest6.png">
+</div>
 <p></p>
-<p></p>
-<p><strong>JWSS Literature Symposium 2024</strong>
-</p>
+<h4><strong>W3 Literature Symposium 2024</strong></h4>
 <p>The 9<sup>th</sup> JWSS Literature Symposium was successfully conducted
 by the JWSS Literature Unit on 17<sup>th </sup>May 2024. It was well-received
 by over 150 student and teacher participants from 8 different secondary
@@ -625,6 +626,13 @@ and collaborate, thus increasing their confidence and passion in Literature.
 Greater collaboration was also fostered among the Literature teachers through
 the teachers’ workshop which touched on effective teaching pedagogies and
 resources for Literature.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/LiteratureSymposium1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/LiteratureSymposium2.png">
+</div>
 <p></p>
 <p>The first segment of the Literature Symposium included:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Address by Ms Tan
