@@ -29,10 +29,10 @@ of a proxy.</p>
 <p>2024 Singapore-Cambridge GCE O-Level Examination Results <a href="https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <p></p>
-<p>Joint Admissions Exercise (JAE) Website <a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p>Joint Admissions Exercise (JAE) Website <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <p></p>
-<p>Direct School Admission - Junior Colleges (DSA-JC) <a href="www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p>Direct School Admission - Junior Colleges (DSA-JC) <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa/" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <p></p>
 <p>Polytechnic Foundation Programme (PFP) <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
