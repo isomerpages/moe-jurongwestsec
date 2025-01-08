@@ -444,100 +444,173 @@ Thamirra Raghunathan (4IY), Goh Wei Zeng (4RT)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ICAS English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>High Distinction (Top 1% in Singapore): Anburaj Valentina ( 2RT)</p>
+<p>Distinction (Top 10% in Singapore): Chang Zheng Han (2RE), Teo Tze Feng
+Jafon (2RT), Simone Tan Ann Qi (2EE), Choi Yuk (3CE), Shahina Nabiha d/o
+Mohamed Sulaiman (3CE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2023</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ICAS Writing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>High Distinction (Top 1% in Singapore): Anburaj Valentina (2RT), Putri
+Aleeya Binte Mohamed Rizal (2PN), Ang Hui Yi (3CE)</p>
+<p>Distinction (Top 10% in Singapore): Afreen Faezah Binte Mohamed Ali (2IY),Simone
+Tan Ann Qi (2EE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2023</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Queen’s Commonwealth Essay Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gold Finalist Award: Chow Zhenyu (4N3)</p>
+<p>Gold Award: Francesma Emanuelle Esguerra Castillo (2PN), Jek En Ning Zennicia
+(2EE), Huda Inaiyah Binte Mohamed Nizzan (4E3)</p>
+<p>Silver Award: Anburaj Valentina (2RT), Kwa Yi Da (2RE),</p>
+<p>Htet Thiri (3RT), Niang Sian Huai (4E1), Ernest Teo Zhi Yao (4E3)</p>
+<p>Bronze Award: Tan Kai Wen (1RT), Simone Tan Ann Qi (2EE), Nidhi Somashekar
+(2IY), Afreen Faezah Binte Mohamed Ali (2IY), Balakrishnan Haripriya (2IY),
+Putri Aleeya Binte Mohamed Rizal (2PN), Anne Lohita (2RT), Chang Zheng
+Han (2RE), Nuryn Hanisah Binte Muhammad Izwan (2RE), Shahina Nabiha d/o
+Mohamed Sulaiman (3CE), Sia Hui Xian Chloe (3IY), New Wu Chiu (4E1), Tia
+Git Yu (4E3), Nur Syifa (4N1), Ma Yuxin Cynthia (4N2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2023</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Voices of the West</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Distinction Award: Trisha Aliyah Ang Naidu (2IN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Creative Arts Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in the Creative Arts Seminar organised by Gifted Education
+Branch, Ministry of Education Singapore and Yale-NUS College: Nidhi Somashekar
+(2IY), Anburaj Valentina (2RT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction (Top 1% in Singapore): Shahina Nabiha D/O Mohamed Sulaiman
+(2CE)</p>
+<p>Distinction (Top 10% in Singapore): Lim Xuan Xian, Zoya (3E4), Ang Hui
+Yi (2CE), Chelsea Chan Yu Qi (2PN), Francesma Emanuelle Esguerra Castillo
+(1PN), Putri Aleeya Binte Mohamed Rizal (1PN), Nidhi Somashekar (1IY),
+Bruzo Nathaniel Clyde Biglaen (1RT), Anburaj Valentina (1RT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS Writing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction (Top 1% in Singapore): Xania Chen (4E1), Gisele Low Xin
+Hui (4E4), Ang Hui Yi (2CE),</p>
+<p>Nidhi Somashekar (1IY)</p>
+<p>Distinction (Top 10% in Singapore): Htet Thiri (2RT), Chua Le Yu (3E1),
+Lim Xuan Xian, Zoya (3E4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen’s Commonwealth Essay Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award: Claire Lim Yee Xuen (1RE)</p>
+<p>Silver Award: Isaac Sim Cheng Jun (4E2), Tan Kai Ting, Kes (3E4), Lim
+Xuan Xian, Zoya (3E4), Nethra Viswanathan (2CY), Nur Zahirah Binte Jerryrudin
+(2CE), Shahina Nabiha D/O Mohamed Sulaiman (2CE), Claris Toh Rui Xi (2RT),
+Feba Jibin (2RE), Simone Tan Ann Qi (1EE), Nidhi Somashekar (1IY), Putri
+Aleeya Binte Mohamed Rizal (1PN), Afreen Faezah Binte Mohamed Ali (1IY),
+Chang Zheng Han (1RE)</p>
+<p>Bronze Award: Wong Wei Ren Aviv (3E1), Ng Ai Khee (3E4), Goh Wei Zeng
+(2RT), Nur Hishmah Binte Kalilur Rahuman (2CY), Naomi Lam Hyun Yee (2IN),
+Kaeden Zou Yankai (1IY), Enya Hoo (1CE), Marsha Dylara Binte Mohammad Marruwe
+(1RE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<h4><br><strong>READ! Fest</strong></h4>
+<p>The annual Read!Fest is organised in conjunction with the <strong>National Reading Movement</strong>.
+A myriad of engaging activities were held to <strong>celebrate the joy of reading</strong> and <strong>encourage reading widely</strong> in
+the week-long event.</p>
+<p>Donning the guise of beloved characters from fantasy realms, our EL teachers
+heralded the JWSS Read! Fest 2024.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest1.png">
+</div>
+<p>Donning the guise of beloved characters from fantasy realms, our EL teachers
+heralded the JWSS Read! Fest 2024. The week ended with a video compilation
+of Read! Fest 2024 activities, Book Parade presentations and a magical
+finale on the joy of reading by the ELDD members.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest2.png">
+</div>
+<p>Favourite reads were gifted by teachers across departments, and hunts
+in the school commenced with much excitement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest3.png">
+</div>
+<p>During their CCE lessons, students from each level participated in activities
+designed to spark creativity and foster collaboration.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest4.png">
+</div>
+<p>Adding to the excitement of Read! Fest 2024, seven teams raced against
+time in iconic destinations through our exhilarating ELDD-initiated Escape
+Room. This extraordinary adventure was organised for the second time in
+Read! Fest, making it an unforgettable experience for everyone involved.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest5.png">
+</div>
+<p>To foster students’ enthusiasm for learning, students were able to enjoy
+reading a wide array of riveting Singaporean fiction and non-fiction excerpts
+using the Sing Lit Cloud Machine. Our Instagram page is designed to encourage
+students to read beyond the classroom.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/ReadFest6.png">
+</div>
 <p></p>
-<p><strong>JWSS Literature Symposium 2024</strong>
-</p>
+<h4><strong>W3 Literature Symposium 2024</strong></h4>
 <p>The 9<sup>th</sup> JWSS Literature Symposium was successfully conducted
 by the JWSS Literature Unit on 17<sup>th </sup>May 2024. It was well-received
 by over 150 student and teacher participants from 8 different secondary
@@ -551,46 +624,20 @@ and collaborate, thus increasing their confidence and passion in Literature.
 Greater collaboration was also fostered among the Literature teachers through
 the teachers’ workshop which touched on effective teaching pedagogies and
 resources for Literature.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/LiteratureSymposium1.png">
+</div>
 <p></p>
-<p>The first segment of the Literature Symposium included:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Address by Ms Tan
-Ming Ming, JWSS Principal</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guest-of-Honour Address by
-Dr Angelia Poon, Associate Professor, NIE-NTU</p>
-<p>&nbsp;</p>
-<p>The second segment of the Symposium included the following concurrent
-students’ workshops:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>“It’s all a fantasy: And how Poetry is Magic” </em>by
-Dr Richard Angus Whitehead, Lecturer at NIE, NTU</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Navigating the Dark Forest of Poetry </em>by
-Mr Samuel Zou, Experienced Teacher, CHIJ St Theresa’s Convent</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>“Lift Off!” A Drama workshop </em>by
-Ms Tina Kishore, Lead Teacher (Literature), Evergreen Secondary School</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Analysing and Writing about short stories for the ‘O’ Levels </em>by
-Mr Ow Yeong Wai Kit &amp; Mr Nar Dominic, co authors and PHD candidates,
-NIE</p>
-<p>&nbsp;</p>
-<p>The teachers’ workshop was:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Designing Unseen Test Papers for Upper Secondary </em>by
-Dr Loh Chin Ee, Associate Professor, NIE, NTU</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/LiteratureSymposium2.png">
 </div>
+<p></p>
+<h4><strong>Speak Up, Speak Out Workshop</strong></h4>
+<p>As part of the exciting line-up of LIFE@JW activities, the Secondary Three
+students had an enjoyable time honing their skills of rhetoric and argumentation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Speak_Up_Speak_Out.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/LIT/Picture4.png">
-</div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
 <p>
 <br>
 </p>
