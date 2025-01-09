@@ -51,7 +51,7 @@ variant: tiptap
 </td>
 <th rowspan="1" colspan="1">
 <p><strong>Mr Rayner Goh</strong>
-<br><em>HOD Student Development<br>Geography</em>
+<br><em>HOD Student Development<br></em><strong><em>Geography</em></strong>
 <br><em>&nbsp;</em>
 <br>
 </p>
@@ -82,9 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Rahmat Tirmizi Bin Juma'at&nbsp;</strong>
-<br><em>Senior Teacher, Geography <br>Geography English Language<br></em>
-<br>
+<p><strong>Mrs Keira Seow<br></strong><em>Subject Head, Student Leadership</em><strong><br></strong><em>History<br>Social Studies</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,7 +110,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Keira Seow<br></strong><em>Subject Head, Student Leadership</em><strong><br></strong><em>History<br>Social Studies</em>
+<p><strong>Mr Yew Yee Siang</strong>
+<br><em>Teacher&nbsp;<br>Geography<br>Social Studies</em>
 <br>
 </p>
 </td>
@@ -154,35 +153,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Darshini D/O Gunaseigaran</strong>
 <br><em>Teacher<br>English Literature<br>History<br></em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>13/</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Yew Yee Siang</strong>
-<br><em>Teacher&nbsp;<br>Geography<br>Social Studies</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>14/</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Susan Liang Siew Geok</strong>
-<br><em>Teacher&nbsp;<br>English Literature<br>History</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>15/</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Jennifer Wu</strong>
-<br><em>Teacher&nbsp;<br>English Language<br>Geography</em>
 </p>
 </td>
 </tr>
