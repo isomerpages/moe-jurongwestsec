@@ -222,7 +222,7 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Fong Sum Yi</strong> 
-<br><em>AYH (Sec 1)</em>
+<br><em>AYH (Sec 2)</em>
 </p>
 </td>
 <th rowspan="1" colspan="1">
