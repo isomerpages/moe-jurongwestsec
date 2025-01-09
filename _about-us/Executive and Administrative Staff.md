@@ -2,9 +2,238 @@
 title: Executive and Administrative Staff
 permalink: /about-us/executive-and-administrative-staff/
 description: ""
+variant: tiptap
 ---
-![](/images/Department%20Photos/eas2023.jpg)
-
-**[ EXECUTIVE &amp; ADMINISTRATIVE STAFF ]**
-
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 879.676px; height: 57px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 39px;">01/<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 261px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Ms Angela Sim</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">Administration Manager </i></span></div></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 37px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">02/</span></div><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mr New Lam Heng</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Operations Manager</i></div></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left; width: 70px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">03/</b></div><br style="margin: 0px; outline: 0px; padding: 0px;"></td><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mr Hoo Kap Yoong</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">Operations Manager</i></span></div></th></tr></tbody></table><table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 879.676px; height: 57px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 39px;">04/<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 261px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mr Muhammad Sanusi Bin Roslan</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">ICT Manager </i></span></div></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 37px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">05/</span></div><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Ms&nbsp;Tamilvani D/O Rachandran</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Administrative Executive</i></div></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left; width: 70px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">06/</b></div><br style="margin: 0px; outline: 0px; padding: 0px;"></td><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Ms Woo Cui Shan</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">Administrative Executive</i></span></div></th></tr></tbody></table><table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 879.676px; height: 57px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 39px;">07/<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 261px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Ms Ong Ee Lu, Joelle</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">School Laboratory Technician</i></span></div></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 37px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">08/</span></div><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Ms Noraini Binte Mahmod</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">School Laboratory Technician</i></div></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left; width: 70px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">09/</b></div><br style="margin: 0px; outline: 0px; padding: 0px;"></td><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mr Ng Cheng Kwee</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">Education Workshop Instructor</i></span></div></th></tr></tbody></table><table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 879.676px; height: 57px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 39px;">10/<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 261px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mr Mohamed Zaidy Bin Mohamed Diah</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">Education Workshop Instructor </i></span></div></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 37px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">11/</span></div><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mr Hirwan Bin Sukor</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Operations Support Officer</i></div></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left; width: 70px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">12/</b></div><br style="margin: 0px; outline: 0px; padding: 0px;"></td><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mr Hashim</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">Operations Support Officer</i></span></div></th></tr></tbody></table><table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 879.676px; height: 57px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: right; width: 39px;">13/<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 261px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mdm Bibi Amnah D/O Haider Shah</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">Operations Support Officer </i></span></div></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 37px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">14/</span></div><br style="margin: 0px; outline: 0px; padding: 0px;"></th><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mdm Choong Nyiet Lan</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><i style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Operations Support Officer</i></div></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: left; width: 70px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: right;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">15/</b></div><br style="margin: 0px; outline: 0px; padding: 0px;"></td><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">Mdm Muniamah</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;"><i style="margin: 0px; outline: 0px; padding: 0px;">Operations Support Officer</i></span></div></th></tr></tbody></table>
+<p><strong>[ EXECUTIVE &amp; ADMINISTRATIVE STAFF ]</strong>
+</p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>01/
+<br>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Angela Sim</p>
+<p>Administration Manager</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>02/</p>
+<p>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Ang Zhi Qiang Alson</p>
+<p><em>Operations Manager</em>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>03/
+<br>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Muhammad Sanusi Bin Roslan</p>
+<p><em>ICT Manager</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>04/</p>
+<p>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms&nbsp;Tamilvani D/O Rachandran</p>
+<p><em>Administrative Executive</em>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>05/</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Ms Woo Cui Shan</p>
+<p><em>Administrative Executive</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>06/
+<br>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Ong Ee Lu, Joelle</p>
+<p><em>School Laboratory Technician</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>07/</p>
+<p>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Noraini Binte Mahmod</p>
+<p><em>School Laboratory Technician</em>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>08/</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Mr Ng Cheng Kwee</p>
+<p><em>Education Workshop Instructor</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>09/
+<br>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Mohamed Zaidy Bin Mohamed Diah</p>
+<p><em>Education Workshop Instructor</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>10/</p>
+<p>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Hirwan Bin Sukor</p>
+<p><em>Operations Support Officer</em>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>11/</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Mr Hashim</p>
+<p><em>Operations Support Officer</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>12/
+<br>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mdm Bibi Amnah D/O Haider Shah</p>
+<p><em>Operations Support Officer</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>13/</p>
+<p>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mdm Muniamah</p>
+<p><em>Operations Support Officer</em>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
