@@ -25,12 +25,7 @@ variant: tiptap
 <p>Programme</p>
 </li>
 </ul>
-<h2>Teaching Staff*</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACT Dept/C_T.png">
-</div>
-<p><strong><br></strong>
-</p>
+<h2>Teaching Staff</h2>
 <table style="minWidth: 150px">
 <colgroup>
 <col>

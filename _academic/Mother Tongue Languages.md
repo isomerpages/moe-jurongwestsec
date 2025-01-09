@@ -6,9 +6,6 @@ variant: tiptap
 ---
 <h2>Teaching Staff</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/MTL.png">
-</div>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -40,9 +37,8 @@ variant: tiptap
 <p><strong>03/</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Yasmin Hussein</strong>
-<br><strong><em>Year Head (Upper Secondary)</em><br><em>Malay Language</em></strong><em><br></em><strong><em>Malay Literature</em></strong>
-<br>
+<p><strong>Mdm Zhu Qingyun</strong>
+<br>Senior <em>Teacher<br>Chinese Language</em>
 </p>
 </td>
 </tr>
@@ -106,8 +102,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zhu Qingyun</strong>
-<br><em>Teacher<br>Chinese Language</em>
+<p><strong>Ms Nur Sherlyn Mohamad Salim</strong>
+<br><em>Teacher<br>Malay Language<br>Malay Literaturee</em>
 <br>
 </p>
 </td>
@@ -171,8 +167,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nur Sherlyn Mohamad Salim</strong>
-<br><em>Teacher<br>Malay Language<br>Malay Literature</em>
+<p><strong>Mr Ganesh Kumar</strong>
+<br><em>Tamil Language</em>
 <br>
 </p>
 </td>
@@ -191,19 +187,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ganesh Kumar</strong>
-<br><em>Tamil Language</em><strong><br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>18/</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Lee Lay Teng</strong>
-<br><em>Contract Adjunct Teacher<br>Chinese Language</em>
+<br><em>Contract Adjunct Teacher<br>Chinese Language</em><strong><br></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

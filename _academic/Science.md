@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1>Teaching Staff</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci Dept/Science2024/Science_Dept.png">
-</div>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -32,7 +29,7 @@ variant: tiptap
 <p><strong>02</strong>/</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Melissa Chan Kar Mun</strong> 
+<p><strong>Mdm Hemalatha Pragaran</strong>
 <br><em>HOD Character &amp; Citizenship Education<br>Chemistry</em> 
 <br>
 </p>
