@@ -70,7 +70,8 @@ variant: tiptap
 <br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>05/</p>
+<p><strong>05/</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ng Huey Lee</strong> 
@@ -258,7 +259,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Benjamin Low Chi Arn</strong> 
-<br><em>SH Character &amp; Citizenship Education</em> 
+<br><em>SH Character &amp; Citizenship Education</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
