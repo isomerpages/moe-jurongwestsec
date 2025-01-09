@@ -4,9 +4,6 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/SMC.png">
-</div>
 <p><strong>[ SCHOOL LEADERS ]</strong>
 </p>
 <table style="minWidth: 150px">
@@ -85,7 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chan Kar Mun&nbsp;Melissa</strong> 
+<p><strong>Mdm Hemalatha Pragaran</strong> 
 <br><em>HOD Character and Citizenship Education</em>
 </p>
 </td>
@@ -172,8 +169,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Yasmin Hussein</strong> 
-<br><em>Year Head (Upper Secondary)</em>
+<p><strong>Ms Tan Yen Nee</strong>
+<br><em>Year Head (Lower Secondary)</em>
 </p>
 </td>
 </tr>
@@ -184,7 +181,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Kah Onn</strong> 
-<br><em>Year Head (Lower Secondary)</em>
+<br><em>Year Head (Upper Secondary)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,8 +228,8 @@ variant: tiptap
 <p>18/</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Keira Seow </strong>
-<br><em>SH Student Leadership</em>
+<p><strong>Ms Pui Lixian</strong>
+<br><em>AYH (Sec 4) (Internal)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -262,7 +259,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Benjamin Low Chi Arn</strong> 
 <br><em>SH Character &amp; Citizenship Education</em> 
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,8 +266,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Huzaini Bin Alwi</strong> 
-<br><em>SH Data Management</em>
+<p><strong>Ms Kek Poh Khee</strong> 
+<br><em>SH Chemistry (Internal)</em>
 </p>
 </td>
 </tr>
@@ -281,8 +277,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tay Shi Ying</strong> 
-<br><em>SH English Language</em>
+<p><strong>Mr Huzaini Bin Alwi</strong> 
+<br><em>SH Data Management</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,8 +286,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Siti Zamiara</strong> 
-<br><em>SH Geography</em>
+<p><strong>Ms Tay Shi Ying</strong> 
+<br><em>SH English Language</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -299,8 +295,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Zubir Bin Ali</strong> 
-<br><em>SH Malay Language</em>
+<p><strong>Ms Siti Zamiara</strong> 
+<br><em>SH Geography</em>
 </p>
 </td>
 </tr>
@@ -310,8 +306,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chua Wang Zhi</strong> 
-<br><em>SH Mathematics</em>
+<p><strong>Mr Zubir Bin Ali</strong> 
+<br><em>SH Malay Language</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,8 +315,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kek Poh Khee</strong> 
-<br><em>SH Chemistry (Internal)</em>
+<p><strong>Mr Chua Wang Zhi</strong> 
+<br><em>SH Mathematics</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,9 +324,35 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Kek Poh Khee</strong> 
+<br><em>SH Chemistry (Internal)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>29/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Mrs Salinah Zhu</strong> 
 <br><em>SH Student Management</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>30/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Keira Seow </strong>
+<br><em>SH Student Leadership</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -349,7 +371,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>29/
+<p>31/
 <br>
 </p>
 </th>
@@ -359,15 +381,14 @@ variant: tiptap
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>30/</p>
+<p>32/</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lim Kian Huat</strong> 
+<p><strong>Mr Ang Zhiqiang Alson </strong>
 <br>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>31/</strong>
-</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
