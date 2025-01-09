@@ -20,9 +20,6 @@ variant: tiptap
 </li>
 </ul>
 <h2>Teaching Staff</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/Mathematics_Dept.png">
-</div>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -39,26 +36,26 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Ms Sharron Chiam Sze Hui
-<br><em>HOD Mathematics<br>Mathematics</em>
+<br><strong><em>HOD Mathematics<br>Mathematics</em></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>02/</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Mr Chua Wang Zhi</strong>
-<br><em>Subject Head, Mathematics<br>Mathematics</em>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Angeline Kiew Mee Ling<br></strong><em>HOD Educational Technology (internal) Computing</em>
 <br>
 </p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>03/</strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lim Kiang Wee<br></strong><em>Lead Teacher, Mathematics<br>Mathematics<br></em>
+<p><strong>Mr Chua Wang Zhi</strong>
+<br><em>Subject Head, Mathematics<br>Mathematics<br></em>
 <br>
 </p>
 </td>
@@ -87,7 +84,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Angeline Kiew Mee Ling<br></strong><em>Senior Teacher, Computing</em>
+<p><strong>Mr Chian Siau Yong</strong><em> Teacher Mathematics</em>
 <br>
 <br>
 </p>
@@ -177,14 +174,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15/</strong>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chian Siau Yong</strong><em> Teacher Mathematics</em>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
