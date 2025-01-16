@@ -41,10 +41,8 @@ ones.</p>
 <p>
 <br>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2><strong>Overview of Jurong West Secondary School’s Sexuality Education Programme for 2024</strong></h2>
+<p></p>
+<h2><strong>Overview of Jurong West Secondary School’s Sexuality Education Programme for 2025</strong></h2>
 <p>
 <br>Sexuality Education is delivered in a holistic manner through the school
 curriculum.&nbsp;The content for Sexuality Education is grouped into five
