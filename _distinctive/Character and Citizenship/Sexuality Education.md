@@ -6,36 +6,25 @@ third_nav_title: Character and Citizenship
 variant: tiptap
 ---
 <h2><strong>Ministry of Education (MOE) Sexuality Education in Schools</strong></h2>
-<p>Sexuality Education (SEd) in schools is about enabling students to understand
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
-mature, develop healthy and rewarding relationships including those with
-members of the opposite sex, and make wise, informed and responsible decisions
-on sexuality matters. SEd is premised on the importance of the family as
-the basic unit of society. This means encouraging healthy, heterosexual
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<h2><strong>&nbsp;</strong></h2>
 <h2><strong>Goals of Sexuality Education</strong></h2>
-<p><strong>The goals of Sexuality Education are to:</strong>
-</p>
-<p>To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on
-human sexuality and the consequences of sexual activity.</p>
-<p>&nbsp;</p>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of
-self-awareness, management of their thoughts, feelings and behaviours,
-development of empathy for others, possession of effective communication,
-problem-solving and decision-making skills; and</p>
-<p>&nbsp;</p>
-<p>To help students develop a moral compass, respect for themselves and for
-others as sexual beings, premised on the family as the basic unit of society,
-through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about
-sexuality.</p>
-<p>
-<br>
+<p>The<strong> Goals </strong>of Sexuality Education are to:</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.
 <br>
 </p>
 <h2><strong>Key Messages</strong></h2>
@@ -114,7 +103,14 @@ at this age.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -245,7 +241,14 @@ flouting copyright laws, etc.)</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -408,7 +411,14 @@ consequences, both offline and online</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -588,7 +598,14 @@ our beliefs</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -768,7 +785,14 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -855,7 +879,12 @@ to make wise, informed and sensible decisions.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
