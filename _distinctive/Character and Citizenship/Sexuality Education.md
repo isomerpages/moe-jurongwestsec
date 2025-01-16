@@ -51,8 +51,6 @@ Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
 <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
 in the school curriculum.
 <br>
-<br>
-<br>
 </p>
 <p>The subjects that incorporate topics on sexuality include:
 <br>i.&nbsp; &nbsp;Science
