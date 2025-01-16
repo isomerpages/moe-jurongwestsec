@@ -74,8 +74,8 @@ Singapore Food Agency</p>
 <h4><strong>Application Procedure</strong></h4>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1) Download and complete the application form. You may also request for
-a hardcopy from the School’s General Office.</p>
+<p>1) Download and complete the application form. (<a href="/files/About Us/Canteen/Canteen_Application.pdf" rel="noopener nofollow" target="_blank">click here</a>)
+You may also request for a hardcopy from the School’s General Office.</p>
 <p>2) Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
