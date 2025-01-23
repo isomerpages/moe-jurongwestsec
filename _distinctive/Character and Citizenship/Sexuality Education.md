@@ -841,10 +841,8 @@ eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable here (please
-upload parents opt-out form found in Annex A and insert a hyperlink for
-parents to download the form). The completed form is to be submitted by
-17/01/2025.</p>
+to parents at the start of the year and is also downloadable <a href="/files/Distinctive/CCE/ANNEX_A_The_Growing_Years_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 17/01/2025.</p>
 <p>&nbsp;</p>
 <p>Parents not on PG, and who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme will</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
