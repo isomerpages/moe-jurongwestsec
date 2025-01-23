@@ -509,7 +509,7 @@ our beliefs</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
-<p><strong>2023 Sexuality Education Lessons in CCE</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -560,25 +560,25 @@ our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</a>
-</p>
+<p>This lesson aims to help students think critically about gender stereotypes
+that exist in our society in the contexts of career and family (e.g. males
+typically perceived as main breadwinners and females typically perceived
+as main caregivers in the family), and the impact of these stereotypes
+on individuals. Students will learn to be aware of possible gender stereotypes
+that may affect one’s family and future decisions. They will also learn
+to reframe their perspectives and not judge others based on their own or
+others’ values and principles, with regard to gender stereotypes.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• understand what gender stereotypes comprise, e.g. notions of masculinity
+and femininity vary over time and space, and are shaped by societal expectations</p>
+<p>• know that imposing gender stereotypes on oneself and others can limit
+one’s experiences, cause harm to the self-esteem of oneself and others
+and should be avoided</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that the value of a person
-is not tied to one’s gender and not conforming to gender stereotypes does
-not negate one’s gender identity</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes
-comprise, e.g. notions of masculinity and femininity vary over time and
-space, and are shaped by societal expectations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that imposing gender stereotypes
-on oneself and others can limit one’s experiences, cause harm to the self-esteem
-of oneself and others and should be avoided</p>
-<p><em>&nbsp;</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -600,9 +600,8 @@ or their friends are involved in an unhealthy relationship.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways of coping
-with broken relationships, and family and friends are important pillars
-of support</p>
+<p>·&nbsp;know there are healthy ways of coping with broken relationships,
+and family and friends are important pillars of support</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise emotions caused by traumatic
 situations, e.g. bullying, abuse and dating violence, and understand the
 physiological and psychological, social impact on victims</p>
@@ -615,7 +614,7 @@ and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
