@@ -158,7 +158,7 @@ what builds healthy and supportive relationships, both online and offline</p>
 that the readiness and interest in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -179,12 +179,12 @@ so that the students will feel more comfortable during the discussions.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and psychological
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand that physical and psychological
 abuse from others, especially those we know and trust, can have strong
 negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept that as we
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand and accept that as we
 work towards becoming our best self, there will be times when we make mistakes,
 and recognise the importance of exercising moral courage in facing up to
 consequences</p>
@@ -215,7 +215,7 @@ irresponsibly or maliciously when online (e.g. spreading of online falsehoods,
 flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
