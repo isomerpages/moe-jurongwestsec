@@ -85,11 +85,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Secondary 1</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -221,13 +217,13 @@ flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p></p>
+<p></p>
+<p>
+<br>
+<br><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 2</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -360,13 +356,10 @@ consequences, both offline and online</p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p>
+<br><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 3</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -511,11 +504,7 @@ our beliefs</p>
 <p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Secondary 4</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -677,8 +666,6 @@ and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>
-</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -755,19 +742,15 @@ and act in alignment with our beliefs</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>
-</p>
-<p>
 <br><strong><em>The Empowered Teens (eTeens)&nbsp;</em></strong>is a programme
 developed by Health Promotion Board, in collaboration with the Ministry
 of Education, for Secondary 3 students to provide them with accurate information
 on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
 conducted in two segments – a mass talk segment and a classroom-based programme.
 The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
-<p>
+empowered to make wise, informed and sensible decisions.
+<br>
 <br>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
@@ -775,13 +758,8 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.
 <br>
 <br>
-<br>
 </p>
 <h2><strong>At Jurong West Secondary School, the <em>eTeens </em>Programme will be implemented as follows, in 2025</strong></h2>
-<p>
-<br>
-<br>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -832,8 +810,9 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p>
+<br>
+</p>
 <p><strong><u>INFORMATION FOR PARENTS</u></strong>
 </p>
 <p>Parents may opt their children out of the Sexuality Education lessons,
@@ -849,5 +828,3 @@ at the start of the year and is also downloadable <a href="/files/Distinctive/CC
 The completed form is to be submitted by 17/01/2025.</p>
 <p>Parents can contact the school at <a href="mailto:jwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jwss@moe.edu.sg</a> for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
