@@ -836,14 +836,15 @@ of assertiveness and responsible decision-making</p>
 <p></p>
 <p><strong><u>INFORMATION FOR PARENTS</u></strong>
 </p>
-<p>Parents may opt their children out of Growing Years,&nbsp;<em>eTeens</em>&nbsp;and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p><strong>The Growing Years</strong>&nbsp;- For parents on Parent’s Gateway
-(PG), please acknowledge receipt of letter on MOE Sexuality Education in
-Schools - The Growing Years via PG by 19 January 2024. Parents who wished
-to opt their children out of the Growing Years Programme in 2024 would
-have completed the online Opt-out Form&nbsp;at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6594bf997fd1790011a7f5db</a> &nbsp;by
-19 January 2024.</p>
+<p>Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.</p>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also downloadable here (please
+upload parents opt-out form found in Annex A and insert a hyperlink for
+parents to download the form). The completed form is to be submitted by
+17/01/2025.</p>
 <p>&nbsp;</p>
 <p>Parents not on PG, and who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme will</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
