@@ -843,33 +843,11 @@ external providers.</p>
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable <a href="/files/Distinctive/CCE/ANNEX_A_The_Growing_Years_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 17/01/2025.</p>
-<p>&nbsp;</p>
-<p>Parents not on PG, and who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme will</strong>&nbsp;need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="../growing%20years%20parent%20opt%20out%20form%202023%20for%20school%20website.docx" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p>A hardcopy of the form, duly completed and signed, is to be submitted
-to the school office by 19 January 2024.</p>
-<p>&nbsp;</p>
-<p><strong>The Empowered Teens (<em>eTeens)</em>&nbsp;programme</strong>&nbsp;–
-Additionally, for Secondary 3 parents on Parent’s Gateway (PG), please
-acknowledge receipt of letter on eTeens programme via PG by 19 January
-2024. Parents who wished to opt their children out of eTeens Programme
-in 2024 would have completed the online Opt-out Form at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6594bf997fd1790011a7f5db</a> 
-<a href="https://form.gov.sg/5ff80139a42e5400120f2621&nbsp;by%2020%20January%202022" rel="noopener noreferrer nofollow" target="_blank">&nbsp;by 19 January 202</a>4.</p>
-<p>&nbsp;</p>
-<p>Parents not on PG, and who wish to opt their children out of the&nbsp;<strong>eTeens programme&nbsp;</strong>will
-need to complete an opt-out form. This form will be distributed to parents
-at the start of the year and is also downloadable <a href="../e%20teens%20parents%20opt%20out%20form%202023%20for%20school%20website.docx" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p>A hardcopy of the form, duly completed and signed, would have been submitted
-to the school office by 19 January 2024.</p>
-<p>&nbsp;</p>
-<p>Parents can contact the school at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">jwss@moe.edu.sg</a>&nbsp;or&nbsp;+65
-6262 3593&nbsp;for discussion or to seek clarification about the school’s
-sexuality education programme.</p>
-<p>&nbsp;</p>
-<p>Parents, who wish to attend the school sexuality education programmes,
-should contact the school to make the necessary arrangements.</p>
+<p>Parents who wish to opt their children out of the eTeens programme need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/Distinctive/CCE/ANNEX_B_GY_and_eTeens_form_for_Sec_3s.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 17/01/2025.</p>
+<p>Parents can contact the school at <a href="mailto:jwss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jwss@moe.edu.sg</a> for discussion or to seek
+clarification about the school’s Sexuality Education programme.</p>
 <p><strong><u>&nbsp;</u></strong>
 </p>
