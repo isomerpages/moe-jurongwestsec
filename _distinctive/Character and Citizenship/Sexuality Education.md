@@ -667,9 +667,9 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen
-our character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs</p>
+<p>·&nbsp;understand that we strengthen our character when we commit to sound
+values-based viewpoints (e.g. respect for life) and decisions, and speak
+and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -683,31 +683,9 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p><strong>2023 Sexuality Education Lessons in CCE 2021</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 5</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -763,12 +741,12 @@ in consideration of the well-being of themselves and others.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our
-character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs</p>
+<p>·&nbsp;understand that we strengthen our character when we commit to sound
+values-based viewpoints (e.g. respect for life) and decisions, and speak
+and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
