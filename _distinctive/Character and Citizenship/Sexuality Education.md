@@ -839,11 +839,11 @@ of assertiveness and responsible decision-making</p>
 <p>Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
-<p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/Distinctive/CCE/ANNEX_A_The_Growing_Years_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/Distinctive/CCE/ANNEX_A_The_Growing_Years_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 17/01/2025.</p>
-<p>Parents who wish to opt their children out of the eTeens programme need
+<p>Parents who wish to opt their children out of the <strong><em>eTeens </em>programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Distinctive/CCE/ANNEX_B_GY_and_eTeens_form_for_Sec_3s.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 17/01/2025.</p>
