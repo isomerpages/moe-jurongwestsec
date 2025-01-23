@@ -53,13 +53,13 @@ in the school curriculum.
 <br>
 </p>
 <p>The subjects that incorporate topics on sexuality include:
-<br>i.&nbsp; &nbsp;Science
-<br>ii.&nbsp; Character and Citizenship Education (CCE)
+<br>a.&nbsp; &nbsp;Science
+<br>b.&nbsp; Character and Citizenship Education (CCE)
 <br>
 <br>
 </p>
-<p>&nbsp;</p>
-<p>The values and attitudes of our youth towards sexuality are increasingly
+<p><strong><u>Sexuality Education Lessons: </u></strong>
+<br>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
 his/her own identity and often struggles with new social relationships.
