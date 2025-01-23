@@ -345,14 +345,14 @@ of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect and
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;recognise the importance of self-respect and
 respect for others in relating to members of the opposite gender</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations
 and the importance of exercising discretion to reduce risks and avoid negative
 consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -360,38 +360,7 @@ consequences, both offline and online</p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p><strong>2023 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -455,9 +424,9 @@ entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that self-perception
-and identity have an impact on our self-esteem and how we interact with
-others and the choices we make, both online and offline</p>
+<p>·&nbsp;&nbsp;know that self-perception and identity have an impact on
+our self-esteem and how we interact with others and the choices we make,
+both online and offline</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that expectations
 of oneself and others may differ and can affect one’s emotions, thoughts
 and behaviours</p>
@@ -467,7 +436,7 @@ entering into a dating relationship</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -487,8 +456,8 @@ and that family and friends are important pillars of support.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building
-involves personal emotions and vulnerabilities, and changes and challenges</p>
+<p>·&nbsp;&nbsp;&nbsp;know that relationship-building involves personal emotions
+and vulnerabilities, and changes and challenges</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that a decision
 to end a relationship will have consequences on oneself and others</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that grief and
@@ -499,7 +468,7 @@ ways of coping with broken relationships, and family and friends are important
 pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 <tr>
