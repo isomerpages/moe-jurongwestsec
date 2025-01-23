@@ -771,14 +771,13 @@ empowered to make wise, informed and sensible decisions.</p>
 <br>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.
 <br>
 <br>
 <br>
 </p>
-<h2><strong>At Jurong West Secondary School, the eTeens Programme will be implemented as follows, in 2024</strong></h2>
+<h2><strong>At Jurong West Secondary School, the <em>eTeens </em>Programme will be implemented as follows, in 2025</strong></h2>
 <p>
 <br>
 <br>
@@ -808,20 +807,17 @@ to make wise, informed and sensible decisions.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor for</p>
-<p>Sec 3 students</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Awareness of the different STIs
-and HIV/AIDS</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of transmission</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of protection, specifically
-on how the condom is used</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences and impact of STIs/HIV</p>
+<p>• Raise awareness and provide knowledge on:</p>
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 (Term 2 Week 7)</p>
-<p>&nbsp;</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -829,20 +825,15 @@ on how the condom is used</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
-of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
+<p>• Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Sec 3 (Term 3 Week 1)</p>
-<p>&nbsp;</p>
+<p>&nbsp;Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p><strong><u>INFORMATION FOR PARENTS</u></strong>
