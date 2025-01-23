@@ -757,14 +757,16 @@ and act in alignment with our beliefs</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>eTeens Programme</strong>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>
 </p>
 <p>
 <br><strong><em>The Empowered Teens (eTeens)&nbsp;</em></strong>is a programme
 developed by Health Promotion Board, in collaboration with the Ministry
 of Education, for Secondary 3 students to provide them with accurate information
-on STIs, HIV and protection from a health perspective. eTeens is conducted
-in two segments – a mass talk segment and a classroom-based programme.</p>
+on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
 <p>
 <br>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
