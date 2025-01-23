@@ -795,13 +795,11 @@ Abstinence and upholding family values are the key messages.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Programme Learning Objectives</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong>Time Period (e.g. Term 3 Week 9)</strong>
 </p>
 </td>
 </tr>
