@@ -44,7 +44,4 @@ sections:
       description: Latest Updates can be found here!
       button: read more
       url: /announcements
-  - resources:
-      title: Highlights
-      subtitle: Highlights
 ---

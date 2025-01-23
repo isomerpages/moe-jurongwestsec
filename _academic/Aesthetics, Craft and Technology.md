@@ -1,5 +1,5 @@
 ---
-title: Craft and Technology
+title: Aesthetics, Craft and Technology
 permalink: /curriculum/academic/craft-and-technology/
 description: ""
 variant: tiptap
