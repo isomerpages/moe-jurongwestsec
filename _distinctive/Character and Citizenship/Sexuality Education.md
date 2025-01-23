@@ -221,7 +221,7 @@ flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>2023 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -290,7 +290,7 @@ treat everyone with respect and empathy.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that one’s understanding of
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that one’s understanding of
 gender roles should not be limited by gender stereotypes</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop an appreciation of one’s
 own unique qualities and characteristics as a male or female</p>
@@ -325,7 +325,7 @@ and the importance of exercising discretion to reduce risks and avoid negative
 consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
