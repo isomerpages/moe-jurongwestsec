@@ -646,7 +646,7 @@ the success of their marriage</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
