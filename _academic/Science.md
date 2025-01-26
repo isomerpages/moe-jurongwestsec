@@ -88,9 +88,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Li Ying</strong> 
-<br><em>Teacher<br>Chemistry</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>08/</strong>
@@ -121,8 +119,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chew Wei Sheng</strong> 
-<br><em>Teacher<br>Chemistry Mathematics<br></em>
+<p><strong>Ms Ridzwana Begum</strong> 
+<br><em>Teacher<br>Chemistry<br>Biology</em> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,9 +128,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ridzwana Begum</strong> 
-<br><em>Teacher<br>Chemistry<br>Biology</em> 
-<br>
+<p><strong>Ms Lim Li Ying</strong> 
+<br><em>Teacher<br>Chemistry</em>
+</p>
+<p><em>Computer Applications </em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +141,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Farizah Binte Esman</strong> 
-<br><em>Teacher<br>Chemistry Computing<br>Computer Applications</em>
+<br><em>Teacher<br>Chemistry<br>Computer Applications</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,18 +150,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13/</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Aw</strong>  <strong>Zhi Zhong Aloysius</strong>
-</p>
-<p><em>Teacher</em>
-</p>
-<p><em>Mathematics</em>
-</p>
-<p><em>Physics</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
