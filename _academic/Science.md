@@ -97,7 +97,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Pui Li Xian</strong> 
-<br><em>Teacher<br>Biology</em>
+<br><em>AYH (Sec 4) (Internal),<br>Biology</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
