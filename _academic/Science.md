@@ -120,7 +120,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ridzwana Begum</strong> 
-<br><em>Teacher<br>Chemistry<br>Biology</em> 
+<br><em>Teacher<br>Chemistry<br>Biology</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,8 +130,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lim Li Ying</strong> 
 <br><em>Teacher<br>Chemistry</em>
-</p>
-<p><em>Computer Applications </em>
+<br><em>Computer Applications</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
