@@ -124,7 +124,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ravindran Arul Jothi</strong>
+<p><strong>Mdm Ravindran Arul Jothi</strong>
 <br><em>Teacher<br>Tamil Language<br>Tamil Literature</em>
 <br>
 </p>
@@ -189,7 +189,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lee Lay Teng</strong>
-<br><em>Contract Adjunct Teacher<br>Chinese Language</em><strong><br></strong>
+<br><em>Contract Adjunct Teacher<br>Chinese Language</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,10 +197,33 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Meiqi Maggie</strong>
-<br><em>Teacher<br>Chinese Language<br>Chinese</em>
-<br><em>Literature<br></em>
+<p><strong>Ms Kang Yue</strong>
+<br><em>Teacher<br>Chinese Language<br>Chinese Literature<br></em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>19/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Guan Tiancheng</strong>
+<br><em>Teacher<br>Chinese Language<br>Chinese</em>
+<br><em>Literature</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
