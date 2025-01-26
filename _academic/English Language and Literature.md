@@ -77,9 +77,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr&nbsp;&nbsp;Rahmat Tirmizi Bin Juma'at</strong>
-</p>
-<p><em>Senior Teacher, Geography<br>English Language<br>Geography<br></em>
+<p><strong>Ms&nbsp;Ng Ling Yee Domina</strong>
+<br><em>Subject Head (Biology)</em>
+<br><em>English Language</em>
+<br><em>Biology</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +89,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Fong Sum Yi</strong>
-<br><em>AYH (Sec 1)<br>English Language English Literature <br></em>
+<br><em>AYH</em>
+<br><em>(Sec 2)<br>English Language English Literature <br></em>
 </p>
 </td>
 </tr>
@@ -112,14 +114,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Ng Ling Yee Domina</strong>
-</p>
-<p><em>Subject Head</em>
-</p>
-<p><em>English Language</em>
-</p>
-<p><em>Biology</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>09/</strong>
