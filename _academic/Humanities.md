@@ -173,7 +173,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr P Vinoth</strong>
+<br><em>Teacher Geography Physical Education</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>15/</strong>
