@@ -53,7 +53,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ng Ling Yee Domina</strong> 
-<br><em>Subject Head, Biology<br>Biology<br>English Language<br></em> 
+<br><em>Subject Head, Biology<br>Biology<br>English Language<br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Pui Li Xian</strong> 
-<br><em>Teacher<br>Biology</em> 
+<br><em>Teacher<br>Biology</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Alvin Liew Shao Chuan</strong> 
-<br><em>Teacher<br>Chemistry</em> 
+<br><em>Teacher<br>Chemistry</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +136,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Farizah Binte Esman</strong> 
+<p><strong>Mr Eric Lee Chin Ngai</strong> 
 <br><em>Teacher<br>Chemistry<br>Computer Applications</em>
 </p>
 </td>
