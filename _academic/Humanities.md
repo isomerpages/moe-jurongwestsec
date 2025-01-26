@@ -182,7 +182,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Shannen Lim</strong>
+<br><em>Teacher</em>
+<br><em>English Language</em>
+<br><em>Social Studies</em>
+</p>
 </td>
 </tr>
 </tbody>
