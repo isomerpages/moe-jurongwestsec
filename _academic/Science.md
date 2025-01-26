@@ -40,7 +40,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Tan Yen Nee</strong>
+<br><strong><em>Year Head</em><br><em>(Lower Secondary)</em></strong>
+<br><strong><em>Physics</em></strong>
+</p>
 </td>
 <th rowspan="1" colspan="1">
 <p></p>
