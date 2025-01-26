@@ -40,10 +40,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Ling Yee Domina</strong> 
-<br><em>Subject Head, Biology<br>Biology<br>English Language<br></em> 
-<br>
-</p>
+<p></p>
 </td>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -55,8 +52,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Huzaini Bin Alwi</strong> 
-<br><em>Subject Head, Data Management<br>Physics<br></em>
+<p><strong>Ms Ng Ling Yee Domina</strong> 
+<br><em>Subject Head, Biology<br>Biology<br>English Language<br></em> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,8 +61,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Salinah Zhu</strong> 
-<br><em>Subject Head, Student Management<br>Physics</em>
+<p><strong>Mr Huzaini Bin Alwi</strong> 
+<br><em>Subject Head, Data Management<br>Physics<br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,9 +70,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Alvin Liew Shao Chuan</strong> 
-<br><em>Teacher<br>Chemistry</em> 
-<br>
+<p><strong>Mrs Salinah Zhu</strong> 
+<br><em>Subject Head, Student Management<br>Physics</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,15 +84,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Kek Poh Khee</strong> 
+<br><em>Teacher<br>Chemistry</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>08/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kek Poh Khee</strong> 
-<br><em>Teacher<br>Chemistry</em>
+<p><strong>Ms Pui Li Xian</strong> 
+<br><em>Teacher<br>Biology</em> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,9 +102,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Pui Li Xian</strong> 
-<br><em>Teacher<br>Biology</em> 
-<br>
+<p><strong>Mr Alvin Liew Shao Chuan</strong> 
+<br><em>Teacher<br>Chemistry</em> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
