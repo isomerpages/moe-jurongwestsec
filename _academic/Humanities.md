@@ -167,7 +167,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Sharon Tan</strong>
 <br><em>Teacher</em>
-<br><em>English Language</em>
+<br><em>English</em>
+<br><em>Language</em>
 <br><em>Social Studies</em>
 </p>
 </td>
