@@ -88,7 +88,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Kek Poh Khee</strong> 
-<br><em>Teacher<br>Chemistry</em>
+<br><em>Subject Head (Internal), Chemistry<br>Chemistry</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
