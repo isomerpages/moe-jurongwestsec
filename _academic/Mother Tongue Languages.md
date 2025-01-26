@@ -106,7 +106,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Nur Sherlyn Mohamad Salim</strong>
 <br><em>Teacher<br>Malay Language<br>Malay Literature</em>
-<br>
 </p>
 </td>
 </tr>
