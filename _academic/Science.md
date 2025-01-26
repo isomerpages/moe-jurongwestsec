@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1>Teaching Staff</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci Dept/Science2024/Science_Dept.png">
+</div>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
