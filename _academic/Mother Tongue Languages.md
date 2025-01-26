@@ -52,8 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Durgadevi</strong>
 <br><em>Teacher</em>
-</p>
-<p><em>Tamil Language<br>Tamil Literature</em>
+<br><em>Tamil Language<br>Tamil Literature</em>
 <br>
 </p>
 </td>
@@ -74,7 +73,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lim Meiqi Maggie</strong>
-<br><em>Teacher<br>Chinese Language<br>Chinese Literature<br></em>
+<br><em>Teacher<br>Chinese Language<br>Chinese</em>
+<br><em>Literature<br></em>
 </p>
 </td>
 </tr>
