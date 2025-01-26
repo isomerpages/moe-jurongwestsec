@@ -68,7 +68,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Syaifudean Selamat;</strong>
 <br><em>PE/CCA Coordinator</em>  <em><br>Physical Education</em>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +86,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr P Vinoth</strong>
-<br><em>Teacher<br>Physical Education</em>
+<br><em>Teacher<br>Physical Education Geography</em>
 </p>
 </td>
 </tr>
