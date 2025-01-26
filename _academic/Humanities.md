@@ -158,19 +158,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13/</p>
+<p><strong>13/</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14/</p>
+<p><strong>14/</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>15/</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
