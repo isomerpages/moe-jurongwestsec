@@ -208,7 +208,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Guan Tiancheng</strong>
+<p><strong>Mr Guan Tianchen</strong>
 <br><em>Teacher<br>Chinese Language<br>Chinese</em>
 <br><em>Literature</em>
 </p>
