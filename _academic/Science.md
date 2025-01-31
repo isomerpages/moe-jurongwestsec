@@ -2,7 +2,7 @@
 title: Science
 permalink: /curriculum/academic/science/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -1787,3 +1787,4 @@ and the design of the boats.</p>
 </div>
 </details>
 </div>
+<p></p>
