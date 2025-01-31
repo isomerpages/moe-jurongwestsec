@@ -5,27 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>Humanities</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teaching Staff</p>
-</li>
-<li>
-<p>Social Studies</p>
-</li>
-<li>
-<p>History</p>
-</li>
-<li>
-<p>Geography</p>
-</li>
-<li>
-<p>Principles of Accounts</p>
-</li>
-<li>
-<p>Programme</p>
-</li>
-</ul>
-<h2>Teaching Staff</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -192,84 +175,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Social Studies</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec2NTLJNewater1.jpg">
+<p></p>
 </div>
-<p>Subjects Offered</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Humanities (SS/Geography)</p>
-</li>
-<li>
-<p>Humanities (SS/History)</p>
-</li>
-<li>
-<p>Humanities (SS/Literature in English)</p>
-</li>
-</ul>
-<p><strong>Curriculum</strong>
-</p>
-<p>The aims of the syllabus are to enable students to:</p>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>understand issues that affect the socio-economic development, the governance
-and the future of Singapore.</p>
-</li>
-<li>
-<p>learn from the experiences of other countries to build and sustain a politically
-viable, socially cohesive and economically vibrant Singapore.&nbsp;</p>
-</li>
-<li>
-<p>develop thinking and process skills which are essential for lifelong and
-independent learning.&nbsp;</p>
-</li>
-<li>
-<p>have a deep sense of shared destiny and national identity.&nbsp;</p>
-</li>
-<li>
-<p>develop into citizens who have empathy towards others and will participate
-responsibly and sensibly in a multi-ethnic, multi-cultural and multi-religious
-society.&nbsp;</p>
-</li>
-<li>
-<p>develop into responsible citizens with a global perspective.</p>
-</li>
-</ul>
-<p><strong>T &amp; L Framework</strong>
-</p>
-<p>The intended learning outcomes shown in the outermost circle frame the
-syllabus content and the six themes of the syllabus.</p>
-<p>![SS_framework.png](/images/SS_framework.png)</p>
-<h2>History</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="History_Cover.jpg" src="/images/History_Cover.jpg">
-</div>
-<p>Subjects Offered</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Humanities (SS/History)</p>
-</li>
-<li>
-<p>Full History</p>
-</li>
-</ul>
-<p><strong>Curriculum</strong>
-</p>
-<p>History education in Singapore seeks to develop in students a critical
-appreciation of past human experiences and connections between the past
-and present.</p>
-<p>There are&nbsp;<strong>seven qualities</strong>&nbsp;of a History learner,
-which the History Syllabuses (from lower secondary to pre-university) aim
-to develop in our students. These seven qualities are further elaborated
-in the framework below.</p>
-<p><strong>T &amp; L Framework</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="history_framework.png" src="/images/history_framework.png">
-</div>
-<h2>Geography</h2>
+</details>
+<details class="isomer-details">
+<summary>Geography</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coastal_Fieldwork_2.jpg">
 </div>
@@ -298,63 +209,45 @@ between people and their environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="geography_framework.png" src="/images/geography_framework.png">
 </div>
-<h2>Programme</h2>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humana.png">
+<h2></h2>
 </div>
-<p>
-<br>
-</p>
+</details>
+<details class="isomer-details">
+<summary>History</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humanb.png">
+<img style="width: 100%" height="auto" width="100%" alt="History_Cover.jpg" src="/images/History_Cover.jpg">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humanc.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humanf.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humang.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humanh.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humani.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humanl.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/humanm.png">
-</div>
-<p></p>
-<p></p>
-<h2>Principles of Accounts</h2>
+<p>Subjects Offered</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Humanities (SS/History)</p>
+</li>
+<li>
+<p>Full History</p>
+</li>
+</ul>
 <p><strong>Curriculum</strong>
 </p>
+<p>History education in Singapore seeks to develop in students a critical
+appreciation of past human experiences and connections between the past
+and present.</p>
+<p>There are&nbsp;<strong>seven qualities</strong>&nbsp;of a History learner,
+which the History Syllabuses (from lower secondary to pre-university) aim
+to develop in our students. These seven qualities are further elaborated
+in the framework below.</p>
+<p><strong>T &amp; L Framework</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="history_framework.png" src="/images/history_framework.png">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Principles of Accounts</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Principles of Accounts (POA) is designed to provide students with a meaningful
 basic introduction to financial accounting and to develop an appreciation
 of the discipline of accounting. It is grounded in preparing, communicating
@@ -588,4 +481,97 @@ can take to pursue a career in this field.</p>
 </tbody>
 </table>
 <p>&nbsp; &nbsp;&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Social Studies</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec2NTLJNewater1.jpg">
+</div>
+<p>Subjects Offered</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Humanities (SS/Geography)</p>
+</li>
+<li>
+<p>Humanities (SS/History)</p>
+</li>
+<li>
+<p>Humanities (SS/Literature in English)</p>
+</li>
+</ul>
+<p><strong>Curriculum</strong>
+</p>
+<p>The aims of the syllabus are to enable students to:</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand issues that affect the socio-economic development, the governance
+and the future of Singapore.</p>
+</li>
+<li>
+<p>learn from the experiences of other countries to build and sustain a politically
+viable, socially cohesive and economically vibrant Singapore.&nbsp;</p>
+</li>
+<li>
+<p>develop thinking and process skills which are essential for lifelong and
+independent learning.&nbsp;</p>
+</li>
+<li>
+<p>have a deep sense of shared destiny and national identity.&nbsp;</p>
+</li>
+<li>
+<p>develop into citizens who have empathy towards others and will participate
+responsibly and sensibly in a multi-ethnic, multi-cultural and multi-religious
+society.&nbsp;</p>
+</li>
+<li>
+<p>develop into responsible citizens with a global perspective.</p>
+</li>
+</ul>
+<p><strong>T &amp; L Framework</strong>
+</p>
+<p>The intended learning outcomes shown in the outermost circle frame the
+syllabus content and the six themes of the syllabus.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Humanities Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humana.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humanb.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humanc.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humanf.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humang.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humanh.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humani.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humanl.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:600px" height="auto" width="100%" src="/images/humanm.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
