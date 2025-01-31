@@ -4,7 +4,10 @@ permalink: /curriculum/academic/mother-tongue-languages/
 description: ""
 variant: tiptap
 ---
-<h2>Teaching Staff</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -225,7 +228,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Chinese Language</h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Chinese Language</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="chinese.jpg" src="/images/chinese.jpg">
 </div>
@@ -235,13 +242,13 @@ variant: tiptap
 <p>Higher Chinese Language</p>
 </li>
 <li>
-<p>Chinese Language (Express)</p>
+<p>Chinese Language (G3)</p>
 </li>
 <li>
-<p>Chinese Language (NA)</p>
+<p>Chinese Language (G2)</p>
 </li>
 <li>
-<p>Basic Chinese Language (NT)</p>
+<p>Basic Chinese Language (G1)</p>
 </li>
 </ul>
 <p><strong>Overview</strong>
@@ -287,7 +294,12 @@ cultures&nbsp;in relation to their own.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/chineseoverview.jpg">
 </div>
-<h2>Malay Language</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Malay Language</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="malay unit.png" src="/images/malay%20unit.png">
 </div>
@@ -297,17 +309,16 @@ cultures&nbsp;in relation to their own.</p>
 <p>Higher Malay Language</p>
 </li>
 <li>
-<p>Malay Language (Express)</p>
+<p>Malay Language (G3)</p>
 </li>
 <li>
-<p>Malay&nbsp;Language (NA)</p>
+<p>Malay&nbsp;Language (G2)</p>
 </li>
 <li>
-<p>Basic Malay&nbsp;Language (NT)</p>
+<p>Basic Malay&nbsp;Language (G1)</p>
 </li>
 </ul>
 <p><strong>Overview</strong>
-<br>
 </p>
 <p>Objectives in MTL Teaching:</p>
 <ul data-tight="true" class="tight">
@@ -346,33 +357,32 @@ a distinct edge in understanding other mindsets. It facilitates their&nbsp;trans
 into new environments, and makes it easier for them to understand other
 cultures&nbsp;in relation to their own.</p>
 <h2>Curriculum (ML)</h2>
-<p>The Syllabus Framework is shown below.
-<br>
-</p>
+<p>The Syllabus Framework is shown below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ML Curriculum.png" src="/images/ML%20Curriculum.png">
 </div>
-<h1>Tamil Language</h1>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Tamil Language</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="tamil.jpg" src="/images/tamil.jpg">
 </div>
-<p>
-<br>
-<br>Subjects Offered:
-<br>
-</p>
+<p>Subjects Offered:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Higher Tamil Language</p>
 </li>
 <li>
-<p>Tamil&nbsp;Language (Express)</p>
+<p>Tamil&nbsp;Language (G3)</p>
 </li>
 <li>
-<p>Tamil&nbsp;Language (NA)</p>
+<p>Tamil&nbsp;Language (G2)</p>
 </li>
 <li>
-<p>Basic Tamil&nbsp;Language (NT)</p>
+<p>Basic Tamil&nbsp;Language (G1)</p>
 </li>
 </ul>
 <p><strong>Overview</strong>
@@ -417,7 +427,12 @@ cultures&nbsp;in relation to their own.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TL_Framework.PNG" src="/images/TL_Framework.png">
 </div>
-<h1>Programme</h1>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mother Tongue Languages Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -425,12 +440,6 @@ cultures&nbsp;in relation to their own.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <h4><strong><u>MOTHER TONGUE LANGUAGES (MTL) FORTNIGHT 2024</u></strong></h4>
 <p></p>
 <p>Join us in embracing the spirit of celebration as we unveil the theme
@@ -462,15 +471,12 @@ marking the official commencement of MTL Fortnight 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/A5.jpg">
 </div>
-<p></p>
-<p></p>
 <p>Here are some highlights of the various activities that took place during
 the MTL Fortnight programme.</p>
 <p>&nbsp;</p>
 <p><strong><u>CHINESE LANGUAGE UNIT ACTIVITIES</u></strong>
 </p>
 <p>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B4.jpg">
 </div>
@@ -484,9 +490,7 @@ the MTL Fortnight programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/B1.jpg">
 </div>
 <p>&nbsp;Secondary 1 CL students made Chinese reunion dishes using air dry
-clay</p>
-<p></p>
-<p></p>
+clay.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/C4.png">
@@ -502,7 +506,6 @@ clay</p>
 </div>
 <p>&nbsp;Secondary 2 CL students made DIY dragons</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D1.png">
 </div>
@@ -513,8 +516,7 @@ clay</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/D3.png">
 </div>
 <p>Secondary 3 CL students were able to better appreciate tea and the etiquette
-of drinking tea</p>
-<p></p>
+of drinking tea.</p>
 <p>&nbsp;</p>
 <p><strong><u>MALAY LANGUAGE UNIT ACTIVITIES</u></strong>
 </p>
@@ -533,7 +535,6 @@ of drinking tea</p>
 </div>
 <p>Secondary 1 ML students made traditional Malay food using air dry clay</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/F1.jpg">
 </div>
@@ -548,8 +549,6 @@ of drinking tea</p>
 </div>
 <p>Secondary 2 ML students learned the steps to <em>tarian</em>  <em>joget </em>in
 a Malay traditional dance workshop</p>
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/G1.jpg">
@@ -579,7 +578,6 @@ a Malay traditional dance workshop</p>
 </div>
 <p>Secondary 1 TL students made traditional Indian food using air dry clay</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I1.jpg">
 </div>
@@ -593,7 +591,6 @@ a Malay traditional dance workshop</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/I4.jpg">
 </div>
 <p>Secondary 2 TL students decorated traditional oil lamps</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/J1.png">
@@ -668,7 +665,6 @@ even got a chance to bring home some sweet treats too! Through such a showcase,
 the MTL Department do hope that we will be able to foster a greater love
 for the different MTL and cultures in the school.</p>
 <p></p>
-<p></p>
 <h4><strong><u>Lunar New Year Celebration 2024</u></strong></h4>
 <p></p>
 <p>The MTL Department organised the annual Lunar New Year celebration on
@@ -734,7 +730,6 @@ gifts.</p>
 </div>
 <p>The creative dragon head crafted by our talented students stole the show!</p>
 <p></p>
-<p></p>
 <h3><strong><u>Mother Tongue Languages (MTL) Fortnight 2022</u></strong></h3>
 <p>
 <br>
@@ -787,11 +782,8 @@ units. The “Gong”, is an ancient Chinese instrument, used during grand
 processions. We were honored to have Ms Tan to officiate the opening of
 the event by hitting the Gong thrice.&nbsp;
 <br>
-<br>
 </p>
 <h3><strong><u>CHINESE LANGUAGE ACTIVITIES</u></strong></h3>
-<p><strong><u><br></u></strong>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -813,15 +805,10 @@ the event by hitting the Gong thrice.&nbsp;
 </tbody>
 </table>
 <p>In-class experience for Sec 1 CL students -&nbsp;<strong>Chopsticks Lantern Cultural Activity</strong>
-</p>
-<p>
 <br>
 </p>
 <p>An in class arts and cultural experience for students to immerse themselves
 in the making of lanterns using chopsticks in its most creative manner.
-<br>
-</p>
-<p>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -851,9 +838,6 @@ in the making of lanterns using chopsticks in its most creative manner.
 in the Chinese ink painting and understand the difference between&nbsp;<strong>Calligraphy and Ink Painting</strong>
 <br>
 </p>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -875,17 +859,10 @@ in the Chinese ink painting and understand the difference between&nbsp;<strong>C
 </tbody>
 </table>
 <p><strong>The art of seal engraving is a cornerstone of Chinese fine arts.</strong>
-<br>
+<br>Sec 3 CL Students immersed in the experience of carving out their unique
+seal<strong><br></strong>
 </p>
-<p><strong><br></strong>
-</p>
-<p>Sec 3 CL Students immersed in the experience of carving out their unique
-seal</p>
-<p><strong><br></strong>
-</p>
-<p><strong><u>MALAY LANGUAGE ACTIVITIES<br></u></strong>
-</p>
-<p>
+<p><strong><u>MALAY LANGUAGE ACTIVITIES</u></strong>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -910,10 +887,7 @@ seal</p>
 </table>
 <p>In class experience for Sec 1 ML students to immerse themselves in the
 Malay culture. Students participating in the&nbsp;<strong>Wayang Culit workshop</strong>&nbsp;and
-showcasing the traditional Malay Arts shadow puppet showcase performance
-<br>
-</p>
-<p><strong><u><br></u></strong>
+showcasing the traditional Malay Arts shadow puppet showcase performance <strong><u><br></u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -937,14 +911,9 @@ showcasing the traditional Malay Arts shadow puppet showcase performance
 </table>
 <p>&nbsp;In-class unique experience for the Sec 3 ML students to immerse
 themselves and understand more about the&nbsp;<strong>different abstracts and creative designs of the Malay delicacies and pastries.</strong>
-<br>
 </p>
-<p>
-<br>
-</p>
-<p><strong><u>TAMIL LANGUAGE ACTIVITIES<br></u></strong>
-</p>
-<p><strong><u><br></u></strong>
+<p></p>
+<p><strong><u>TAMIL LANGUAGE ACTIVITIES</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -968,10 +937,7 @@ themselves and understand more about the&nbsp;<strong>different abstracts and cr
 </table>
 <p>In-class experience for Sec 1 TL to appreciate&nbsp;<strong>the art of flower tying</strong>.
 Flowers symbolize peace and prosperity and play an important part in the
-decoration of traditional indian ceremonies.
-<br>
-</p>
-<p>
+decoration of traditional Indian ceremonies.
 <br>
 </p>
 <table style="minWidth: 75px">
@@ -1007,9 +973,6 @@ where students coordinated their lips movement in line with the lyrics
 of the movie songs.
 <br>
 </p>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1035,7 +998,6 @@ Cooking food in earthenware is a healthy option in Indian tradition. Through
 this activity, students also learnt the medicinal and artistic aspect of
 using clay.&nbsp;
 <br>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1060,9 +1022,6 @@ using clay.&nbsp;
 <p>In-class experience for Sec 2 TL students being engrossed in the&nbsp;<strong>arts of learning and applying the rules of the Tamil traditional mind stretching games</strong>&nbsp;like
 “Thayam” and “Pallanguli” and had fun moments competing with their team
 mates.
-<br>
-</p>
-<p>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1091,30 +1050,18 @@ items, also known as “mangala items” are placed in these decorative plates
 during traditional ceremonies.&nbsp;
 <br>
 </p>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 539px; height: 299px;" height="auto" width="100%" alt="24.png" src="/images/mtl24.png">
 </div>
 <p><strong>A peek at a Sec 3 TL student’s e book creation</strong>. An opportunity
 for students to inspire themselves to become writers of the future and
 develop their creativity and language use by creating interesting traditional
-stories and poems through the interactive e-book.&nbsp;
-<br>
-</p>
-<p>
-<br>
-</p>
+stories and poems through the interactive e-book.&nbsp;</p>
 <h3><strong><u>2022 JWSS MTL FORTNIGHT SHOWCASE</u></strong></h3>
-<p><strong><u><br></u></strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 657px; height: 297px;" height="auto" width="100%" alt="25.png" src="/images/mtl25.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p>The beautiful, colourful and attractive artefacts done by our students
 for the various hands on activities and photographs of our students in
 action were displayed as a booth showcase at the Cybercafe with posters
@@ -1125,217 +1072,8 @@ on 11 March 2022.
 </tr>
 </tbody>
 </table>
-<h3>Mother Tongue Languages (MTL) Fortnight 2021</h3>
-<p>This year’s theme, titled, “Ties that Bind” showcases a variety of customs
-and traditions in Singapore, with special focus on our harmonious living
-environment through the beauty of our Mother Tongue language. The specially
-curated week-long showcase hopes to inspire joy and most importantly, a
-culture of care through the celebrations of our customs and traditions.</p>
-<p>Apart from exploring our mini museum in the learning hive, our MTL Fortnight
-teachers have also designed targeted activities for different groups and
-levels of students which includes poetry writing, colouring, video making
-and level-wide song dedication.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image 01.jpeg" src="/images/mtlImage%2001.jpeg">
+<p></p>
 </div>
-<p>MTL Fortnight Opening Ceremony – Our vice-principals, Mrs Lau and Mr Chan
-cutting the ribbon to officiate the opening of MTL Fortnight 2021. The
-cutting of the ribbon symbolizes the 'opening' of something new, much like
-when a ribbon is cut from a nicely packaged gift before unwrapping. It
-builds anticipation with the promise of something exciting for everyone
-to ignite and immerse in our upcoming Mother Tongue Languages activities!</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 451px; height: 338px;" height="auto" width="100%" alt="Image 02.jpg" src="/images/Image%2002.jpg">
-</div>
-<p>Exploring Our Mini Exhibition in the Learning Hive - We have the luxury
-of seeing these exhibitions in the comfort of our own school!
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 426px; height: 319px;" height="auto" width="100%" alt="Image 03.jpg" src="/images/Image%2003.jpg">
-</div>
-<p>The Chinese Showcase – Uncover the dos and don’ts behind a cultural experience
-namely housewarming and wedding.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 04.jpeg" src="/images/Image%2004%20(1).jpeg">
-</div>
-<p>The Malay Showcase – The intricate paraphernalia behind a cultural event
-in the Malay society.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 05.jpeg" src="/images/Image%2005(1).jpeg">
-</div>
-<p>The Indian Showcase – Elegant and extravagant, the Indian cultural elements
-in this showcase highlights its meaningful significance.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" height="auto" width="100%" alt="Image 06.jpeg" src="/images/Image%2006.jpeg">
-</div>
-<p>
-<br>Chinese Language Quiz – Students fervently attempting the quiz while experiencing
-the showcase.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px; outline: none; padding: 0px; border: none; float: left;" height="auto" width="100%" alt="Image 07.jpeg" src="/images/Image%2007.jpeg">
-</div>
-<p>
-<br>Chinese Auspicious culture – An in-class experience to discover the wonders
-of Chinese Auspicious Culture -</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 08.jpeg" src="/images/Image%2008(1).jpeg">
-</div>
-<p>Chinese Auspicious culture – A student designing an angbao with auspicious
-words and symbols</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 535px;" height="auto" width="100%" alt="Image 9.jpeg" src="/images/Image%209.jpeg">
-</div>
-<p>In-class experience for Sec 1 ML students - Secondary 1 to Secondary 3
-students partake in different cultural activities to immerse themselves
-in the Malay culture. Secondary 1 students were given an in-class experience
-to analyse the interrelationship between flowers and Malay culture through
-songs, drawings and poetry. They identified various types of flowers that
-help to preserve the Malay culture whilst learning about its preservation
-in modern day, urban environment.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 10.jpeg" src="/images/Image%2010(1).jpeg">
-</div>
-<p>A peek at decorative motifs in ML culture for Sec 2 students - Secondary
-2 students took part in a mindfulness session through colouring of Hari
-Raya greeting cards. The greeting cards, which reflected decorative motifs,
-allowed students to identify features in Malay heritage such as orchids,
-ketupat and batik. Students took the chance to show their use of flamboyant
-cultural colour palette in a level-based competition, which promised them
-exciting prizes.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 428px; height: 320px;" height="auto" width="100%" alt="Image 11_A.jpeg" src="/images/Image%2011_A.jpeg">
-</div>
-<p>Origami folding session for Sec 3 ML students - Secondary 3 students engaged
-in an origami-folding session related to Malay cultural costumes and outfit.
-The students folded intricate pieces of the Malay headgear, Tanjak, while
-learning the value of patience and embodying the traditions embodied in
-the practice of creating.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 484px;" height="auto" width="100%" alt="Image 12.jpeg" src="/images/Image%2012.jpeg">
-</div>
-<p>TL Show and Tell – Students eagerly sharing about the traditional costume
-in the Indian society
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 602px; height: 372px;" height="auto" width="100%" alt="Image 13.JPG" src="/images/Image%2013.jpg">
-</div>
-<p>&nbsp;&nbsp;Rangoli Art – Having a go at Rangoli Art, a type of decoration
-usually drawn on the ground or sidewalk in front of a house.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 1130.67px; height: 607.932px;" height="auto" width="100%" alt="Image 14.jpeg" src="/images/Image%2014.jpeg">
-</div>
-<p>
-<br>We hope that our students have gained a deeper insight into their own
-culture and learn to appreciate them better. May these activities also
-raise our awareness on values and practicality of conversing in our own
-MTL in a real world context
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Chinese New Year Celebration 2021</h3>
-<p>On 11 Feb 2021 (Thursday), the MTL Department organised the annual Chinese
-New Year Celebration on New Year’s Eve.
-<br>
-</p>
-<p>This was indeed a unique experience for all JWSS staff and students. Even
-though we were not able to celebrate in the hall like previous years due
-to the pandemic, but it was still memorable as we were able to celebrate
-in class with meaningful classroom activities. Some of the activities that
-were done include: making of sky lantern, writing wishes for our COVID-19
-frontliners, donating items for the hampers which were given to school
-cleaners and the elderly from the NTUC Health Senior Activity Centre (Taman
-Jurong).
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/image15.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" src="/images/image20.png">
+</details>
 </div>
 <p></p>
