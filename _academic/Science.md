@@ -4,7 +4,10 @@ permalink: /curriculum/academic/science/
 description: ""
 variant: tiptap
 ---
-<h1>Teaching Staff</h1>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -172,7 +175,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h1>Overview</h1>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Overview</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -186,12 +194,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 913px; height: 681px;" height="auto" width="100%" alt="cover.jpg" src="/images/cover.jpg">
 </div>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u>Subjects Offered<br></u></strong> 
-<br>
+<p></p>
+<p><strong><u>Subjects Offered</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -246,12 +250,7 @@ variant: tiptap
 </ul>
 </li>
 </ul>
-<h3><strong><u><br></u></strong></h3>
-<h3><strong><u><br></u></strong></h3>
 <h3><strong><u>Curriculum and Framework</u></strong></h3>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="01.png" src="/images/framework.png">
 </div>
@@ -267,7 +266,6 @@ to an increasingly technologically-driven world.&nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 <br>
 </p>
-<p></p>
 <p>In line with the framework of learning Science as an inquiry subject,
 our department organises a series of enrichment activities to stimulate
 students' interest and inquisitiveness towards Science. Refer to our programme
@@ -293,17 +291,19 @@ Science is the vehicle that spurs thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 805px; height: 602px;" height="auto" width="100%" alt="Science Rm 5.jpeg" src="/images/scienceroom5.jpeg">
 </div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h1>Programme</h1>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Science Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4>Achievements</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -591,7 +591,6 @@ but also instilled a profound sense of creativity and problem-solving acumen.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stem_Playground_Prototype.jpg">
 </div>
 <p>&nbsp;&nbsp;</p>
-<p></p>
 <p><strong><u>Science Olympiads</u></strong>
 </p>
 <p>Our upper secondary students enthusiastically engaged in the Singapore
@@ -600,10 +599,7 @@ and Singapore Junior Physics Olympiad (SJPO). These esteemed Science Olympiads
 serve as an invaluable platform for our students to push the boundaries
 of their scientific knowledge in their respective fields. They willingly
 accepted the challenge, demonstrating their passion for and dedication
-to the sciences.</p>
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+to the sciences.&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -993,19 +989,10 @@ the realm of science.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>
-<br>3 Distinctions, 9 Credits and 5 Merits.</p>
+<p>&nbsp;3 Distinctions, 9 Credits and 5 Merits.</p>
 <p></p>
-<hr>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br><strong>Activities 2022<br></strong> 
-<br>
+<p><strong>Activities 2022<br></strong>
 </p>
-<hr>
 <p><strong>Science Competitions 2022</strong>
 </p>
 <p></p>
@@ -1037,8 +1024,6 @@ of the respective scientific fields.</p>
 </div>
 <p><em>Wong Wei Ren Aviv (3E1) receiving his SJChO certificate from Ms Tan on Recognition &amp; Celebration Day.</em>
 </p>
-<p></p>
-<p></p>
 <p><strong>Awards with names of students:</strong>
 </p>
 <p><u>ICAS Science Assessment</u>
@@ -1069,8 +1054,6 @@ of the respective scientific fields.</p>
 <p>Bronze – Koh You Li Erika (4E1)</p>
 <p>Bronze – Chloe Teh Shiying (4E2)</p>
 <p></p>
-<p></p>
-<p></p>
 <p><u>Singapore Junior Chemistry Olympiad</u>
 </p>
 <p>Bronze – Wong Wei Ren Aviv (3E1)</p>
@@ -1083,10 +1066,6 @@ of the respective scientific fields.</p>
 <p>Honourable mention – Wong Wei Ren Aviv (3E1)</p>
 <p>Honourable mention – Devashree d/o Thanabalan (3E2)</p>
 <p>Honourable mention – Samuel Joshua (3E2)</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>
 <br><strong>Post-Weighted Assessment (WA2) – Sec 1 Lower Secondary Science Integrative Activity</strong> 
 <br>
@@ -1121,10 +1100,7 @@ and subsequently uploaded as videos onto a second padlet embedded onto
 the SLS package. Some of the groups whose filters worked quite well were
 also being invited to the front of the lab to share their design with the
 rest of the classes, thereby promoting collaborative learning amongst the
-students.&nbsp;
-<br>
-<br>
-</p>
+students.&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1190,10 +1166,7 @@ students.&nbsp;
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 271px; height: 586px;" height="auto" width="100%" alt="Photo 2.jpeg" src="/images/integrative7.jpeg">
 </div>
 <p>Students are engaged in forming the materials outline of the purification
-device.
-<br>
-<br>
-</p>
+device.</p>
 </td>
 </tr>
 </tbody>
@@ -1205,9 +1178,8 @@ device.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Activities 2021<br><br></strong>
+<p><strong>Activities 2021</strong>
 </p>
-<hr>
 <p><strong><br>Singapore Junior Biology Olympiad (SJBO) 2021</strong> 
 <br>
 <br>The Singapore Junior Biology Olympiad (SJBO) provides a platform for Secondary
@@ -1226,10 +1198,7 @@ of multiple choice, true-false and short answer questions, was conducted
 online on 19 May 2021.
 <br>
 <br>Yeo Yu Xuan Dazzel received the Gold Award while Tan Ching Thee Royce
-received the Bronze Award in the Singapore Junior Biology Olympiad 2021.
-<br>
-<br>
-</p>
+received the Bronze Award in the Singapore Junior Biology Olympiad 2021.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1257,9 +1226,6 @@ received the Bronze Award in the Singapore Junior Biology Olympiad 2021.
 </tr>
 </tbody>
 </table>
-<p><strong><br></strong>
-</p>
-<hr>
 <p><strong><br>Science JeWel 2021</strong> 
 <br>
 <br>1. Applied Sciences Programme
@@ -1267,7 +1233,6 @@ received the Bronze Award in the Singapore Junior Biology Olympiad 2021.
 <br>Forensic Science
 <br>Students experienced various hands-on forensic activities and were introduced
 to real-world applications.
-<br>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1293,7 +1258,6 @@ to real-world applications.
 <p>Students learnt about the DNA by constructing DNA models and practiced
 extracting DNA from a simulated crime scene to identify a criminal.&nbsp;
 <br>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1318,8 +1282,7 @@ extracting DNA from a simulated crime scene to identify a criminal.&nbsp;
 <p>Students did an investigation on how the size of blood splatter correlates
 to the distance from which the blood fell. Students were introduced to
 techniques used by forensics scientists for analyzing blood which shed
-light on how an attack happened at a crime scene.
-<br><strong><br></strong>
+light on how an attack happened at a crime scene. <strong><br></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1343,7 +1306,6 @@ light on how an attack happened at a crime scene.
 </table>
 <p>Students learned to detect and analyse fingerprints. Students learnt how
 to extract fingerprints from different surfaces.
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -1380,8 +1342,7 @@ immunology and cardiology.
 </tr>
 </tbody>
 </table>
-<p>
-<br>Applied Food Sciences and Molecular Gastronomy
+<p>Applied Food Sciences and Molecular Gastronomy
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1409,7 +1370,6 @@ immunology and cardiology.
 </table>
 <p>Students carried out an investigation to find out which liquid will keep
 sliced apples looking the freshest.
-<br>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1444,7 +1404,6 @@ suspension and gelification recipes.
 led by Duck Learning. During the course, students learned how to code,
 build, and program robots with different functions.
 <br>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1472,7 +1431,6 @@ build, and program robots with different functions.
 <p>Students learned about conditionals and compound conditionals and applied
 these knowledge to build a safe.
 <br>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1498,7 +1456,6 @@ these knowledge to build a safe.
 </tbody>
 </table>
 <p>Students working on their Design Thinking project (Theme: Pollution).
-<br>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -1526,11 +1483,9 @@ these knowledge to build a safe.
 </table>
 <p>Samples of students’ final prototypes
 <br>
-<br>
 <br>Competitions&nbsp;
 <br>Our Science JeWel students had the opportunities to participate in National
 and International competitions.
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -1538,10 +1493,7 @@ and International competitions.
 </div>
 <p>Our Secondary 2 students being awarded the Certificate of Accomplishment
 in Singapore Youth Science Fair 2021.
-<br><strong><br></strong>
-</p>
-<hr>
-<p><strong><br>Post Exam (EYE) – Sec 1 Lower Secondary Science Integrative Activity</strong> 
+<br><strong><br>Post Exam (EYE) – Sec 1 Lower Secondary Science Integrative Activity</strong> 
 <br>
 <br>Our Secondary 1 students extended their classroom learning on concepts
 learnt in Diversity of Materials using Separation Techniques by engaging
@@ -1563,7 +1515,6 @@ then judged based on how clear the resultant water comes out of the purification
 device at the end by comparing it with a turbidity disc. The purification
 process was then filmed by the students using their smartphones and subsequently
 uploaded onto SLS.
-<br>
 <br>
 </p>
 <table style="minWidth: 25px">
@@ -1658,10 +1609,6 @@ device.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong><br></strong>
-</p>
-<hr>
 <p><strong><br>Ignite Skills Challenge 2021&nbsp;<br></strong> 
 <br>Ignite Skills Challenge 2021 is an annual competition that introduces
 students to technical skills and fosters deeper understanding of courses
@@ -1686,11 +1633,7 @@ system they had created.
 <br>In the Final round, they were tasked to create a ‘Filtration learning
 package’ video to teach their classmates more about filtration and how
 to build a filtration system. The team achieved a gold award in this competition
-and had an enriching learning experience.
-<br>
-<br>
-<br>
-</p>
+and had an enriching learning experience.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1718,9 +1661,6 @@ and had an enriching learning experience.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 </td>
 </tr>
 </tbody>
@@ -1732,13 +1672,9 @@ and had an enriching learning experience.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Activities 2020</strong>
-</p>
-<p><strong><br></strong>
+<p><strong>Activities 2020<br></strong>
 </p>
 <p><strong>Post Exam (EYE) – Sec 1 Lower Secondary Science Activity<br></strong>
-</p>
-<p><strong><br></strong>
 </p>
 <p>Our Secondary 1 students extended their classroom learning on density,
 which is to determine the ability of an object to float or sink. Students
@@ -1748,16 +1684,12 @@ thinking through the modifications made using other optional items. Once
 ready, it was time to “float their boat” with as many standard masses possible!
 The boats were judged according to the maximum amount of mass it can hold
 and the design of the boats.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 520px; height: 693px;" height="auto" width="100%" alt="01.jpg" src="/images/activities1.jpg">
 </div>
 <p>1E1 students are discussing and forming the base of the sail car.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 563px; height: 421px;" height="auto" width="100%" alt="02.jpg" src="/images/activities2.jpg">
 </div>
@@ -1769,16 +1701,12 @@ and the design of the boats.</p>
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 555px; height: 415px;" height="auto" width="100%" alt="03.jpg" src="/images/activities3.jpg">
 </div>
 <p>1T1 students doing the finishing touches to the boat.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 557px; height: 418px;" height="auto" width="100%" alt="04.jpg" src="/images/activities4.jpg">
 </div>
 <p>1N1 students testing out the sail car with the portable fan.</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1800,9 +1728,7 @@ and the design of the boats.</p>
 </tbody>
 </table>
 <p>1E3 students hard at work.</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1824,30 +1750,22 @@ and the design of the boats.</p>
 </tbody>
 </table>
 <p>1E3 students with the final product of the boat.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 481px; height: 641px;" height="auto" width="100%" alt="09.jpg" src="/images/activities9.jpg">
 </div>
 <p>Best Team Design</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 561px; height: 420px;" height="auto" width="100%" alt="10.jpg" src="/images/activities10.jpg">
 </div>
 <p>The winning team from 1N2 with their winning entry.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 451px; height: 550px;" height="auto" width="100%" alt="11.jpg" src="/images/activities11.jpg">
 </div>
 <p>1E2’s winning entry.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 631px; height: 473px;" height="auto" width="100%" alt="12.jpg" src="/images/activities12.jpg">
 </div>
@@ -1859,11 +1777,20 @@ and the design of the boats.</p>
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 533px; height: 400px;" height="auto" width="100%" alt="13.jpg" src="/images/activities13.jpg">
 </div>
 <p>Winning entry from 1E4.</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
