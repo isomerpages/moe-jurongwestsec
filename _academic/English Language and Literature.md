@@ -5,21 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>English Language and Literature</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teaching Staff</p>
-</li>
-<li>
-<p>English Language</p>
-</li>
-<li>
-<p>Literature in English</p>
-</li>
-<li>
-<p>Programme</p>
-</li>
-</ul>
-<h2>Teaching Staff</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -180,7 +170,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>English Language</h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary>English Language</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="english_cover.jpg" src="/images/english_cover.jpg">
 </div>
@@ -229,7 +223,11 @@ are provided for students to progressively read, view and respond to age-/
 year-appropriate texts (print, non-print and digital networked sources)
 of increasing complexity and create a range of texts, including multimodal
 and hybrid texts, for various purposes.</p>
-<h2>Literature in English</h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Literature in English</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Subjects Offered</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -324,7 +322,12 @@ into arguments who are supported with elaboration and textual details.</p>
 </tr>
 </tbody>
 </table>
-<h2>Programme</h2>
+<h2></h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary>English Language and Literature Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4>Achievements</h4>
 <p>Each year, the English Language Department provides opportunities and
 platforms for students who demonstrate a passion for and talent in English
@@ -615,6 +618,8 @@ students had an enjoyable time honing their skills of rhetoric and argumentation
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL/Speak_Up_Speak_Out.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
