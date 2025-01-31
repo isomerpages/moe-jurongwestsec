@@ -5,21 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>Physical Education</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teaching Staff</p>
-</li>
-<li>
-<p>Overview</p>
-</li>
-<li>
-<p>Exercise and Sports Science</p>
-</li>
-<li>
-<p>Programme</p>
-</li>
-</ul>
-<h2>Teaching Staff</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -118,18 +107,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Physical Education</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE1.jpg">
 </div>
-<h2>Subjects Offered</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Physical Education (Secondary 1 to 5)</p>
-</li>
-<li>
-<p>Exercise and Sports Science (GCE O-Level Elective Subject)</p>
-</li>
-</ul>
 <p><strong>Curriculum</strong>
 <br>'Healthy Body healthy Mind'</p>
 <p><strong><u>Goals of Physical Education</u></strong>
@@ -162,7 +148,6 @@ active and healthy life.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 1:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -201,9 +186,7 @@ active and healthy life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Games component: Netball and Tchoukball
-<br>
-</p>
+<p>Games component: Netball and Tchoukball</p>
 </li>
 <li>
 <p></p>
@@ -221,9 +204,7 @@ active and healthy life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Games component: Softball and Netball
-<br>
-</p>
+<p>Games component: Softball and Netball</p>
 </li>
 <li>
 <p></p>
@@ -251,9 +232,7 @@ active and healthy life.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -287,28 +266,26 @@ and a&nbsp;<strong>Practical</strong>&nbsp;component as shown below</p>
 </div>
 <p><strong>PE Curriculum Framework</strong>
 </p>
-<h2>Exercise and Sports Science</h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Exercise and Sports Science</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ESS1.jpg" src="/images/ESS1.jpg">
 </div>
-<p>Subjects Offered:
-<br>
-</p>
+<p>Subject Offered:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Physical Education (Secondary 1 to 5)</p>
-</li>
-<li>
 <p>Exercise and Sports Science (GCE O-Level Elective Subject)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Curriculum</strong>
 <br>JWSS will be offering Exercise &amp; Sports Science (ESS) to selected
 students in Secondary 3 Express and Normal Academic classes. ESS is an
 interdisciplinary subject where students will be grounded in the sub-disciplines
-of sports science with an understanding of sociology in relation to sports.
-<br>
-</p>
+of sports science with an understanding of sociology in relation to sports.</p>
 <p>The aims of the syllabus are for students to:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -326,9 +303,7 @@ sports to manage personal participation in physical activities; and&nbsp;</p>
 </li>
 <li>
 <p>Examine issues related to sports and participation in physical activities
-from socio-cultural and global perspectives.
-<br>
-</p>
+from socio-cultural and global perspectives.</p>
 </li>
 </ul>
 <p>The subject consists of&nbsp;<strong>two components</strong>:&nbsp; &nbsp;&nbsp;</p>
@@ -355,7 +330,12 @@ Swimming or badminton (singles/doubles)&nbsp;<strong>AND</strong>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ESS2.png" src="/images/ESS2.png">
 </div>
-<h2>Activities for 2023</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>PE Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>10 March 2023: Annual Sports Day 2023</strong>
 </p>
 <p>The eagerly awaited JWSS Annual Sports Day made its triumphant return
@@ -416,5 +396,9 @@ Ms Tan Qiu Yan from the Humanities Department. Mathematics department also
 walked away as the overall champion department of 2023.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE%20Dept/crosscountry2023.png">
+</div>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
