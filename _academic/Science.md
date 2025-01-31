@@ -1786,11 +1786,4 @@ and the design of the boats.</p>
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
-</details>
-</div>
-<p></p>
