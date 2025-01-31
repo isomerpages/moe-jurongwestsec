@@ -20,6 +20,9 @@ variant: tiptap
 </li>
 </ul>
 <h2>Teaching Staff</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eng Dept/EL_LIT_Dept.png">
+</div>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -57,7 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms&nbsp;Tay Shi Ying&nbsp;</strong>
-<br><em>Subject Head English Language<br>English Language<br></em>
+<br><em>Subject Head, English<br>English Language<br></em>
 </p>
 </td>
 </tr>
@@ -77,9 +80,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr&nbsp;&nbsp;Rahmat Tirmizi Bin Juma'at</strong>
-</p>
-<p><em>Senior Teacher, Geography<br>English Language<br>Geography<br></em>
+<p><strong>Ms&nbsp;Ng Ling Yee Domina</strong>
+<br><em>Subject Head (Biology)</em>
+<br><em>English Language</em>
+<br><em>Biology</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +92,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Fong Sum Yi</strong>
-<br><em>AYH (Sec 1)<br>English Language English Literature <br></em>
+<br><em>AYH (Sec 2)<br>English Language English Literature <br></em>
 </p>
 </td>
 </tr>
@@ -99,12 +103,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Darshini D/O Gunaseigaran</strong>
-</p>
-<p><em>Teacher</em>
-</p>
-<p><em>English Literature</em>
-</p>
-<p><em>History</em>
+<br><em>Teacher</em>
+<br><em>English Literature</em>
+<br><em>History</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,13 +113,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Ng Ling Yee Domina</strong>
-</p>
-<p><em>Subject Head</em>
-</p>
-<p><em>English Language</em>
-</p>
-<p><em>Biology</em>
+<p><strong>Mr</strong>
+<br><strong>Muhammad</strong>
+<br><strong>Alyhariz</strong>
+<br><em>Teacher</em>
+<br><em>English Language</em>
+<br><em>English Literature</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,14 +137,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;&nbsp;Susan Liang</strong>
-<br>
-</p>
-<p><em>Teacher</em>
-</p>
-<p><em>English Literature</em>
-</p>
-<p><em>History</em>
+<p><strong>Ms Sharon Tan</strong>
+<br><em>Teacher</em>
+<br><em>English Language</em>
+<br><em>Social Studies</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,30 +148,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sharon Tan</strong>
-<br>
-</p>
-<p><em>Teacher</em>
-</p>
-<p><em>English Language</em>
-</p>
-<p><em>Social Studies</em>
+<p><strong>Ms Shannen Lim</strong>
+<br><em>Teacher</em>
+<br><em>English Language</em>
+<br><em>Social Studies</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12/</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr AlyHariz</strong>
-<br>
-</p>
-<p><em>Teacher</em>
-</p>
-<p><em>English Language</em>
-</p>
-<p><em>English Literature</em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

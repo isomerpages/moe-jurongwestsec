@@ -107,7 +107,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Aw Zhi Zhong, Aloysius</strong>
-<br><em>Teacher<br>Mathematics Physics<br></em>
+<br><em>Teacher<br>Mathematics</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">

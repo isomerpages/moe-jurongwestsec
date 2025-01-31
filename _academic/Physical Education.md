@@ -20,6 +20,9 @@ variant: tiptap
 </li>
 </ul>
 <h2>Teaching Staff</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/PE_Dept.png">
+</div>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -45,7 +48,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Kah Onn</strong>
-<br><strong><em>Year Head (Lower Secondary)</em></strong>
+<br><strong><em>Year Head (Upper Secondary) Physical Education</em></strong>
 <br>
 </p>
 </td>
@@ -68,7 +71,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Syaifudean Selamat;</strong>
 <br><em>PE/CCA Coordinator</em>  <em><br>Physical Education</em>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +89,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr P Vinoth</strong>
-<br><em>Teacher<br>Physical Education</em>
+<br><em>Teacher<br>Physical Education Geography</em>
 </p>
 </td>
 </tr>

@@ -26,6 +26,9 @@ variant: tiptap
 </li>
 </ul>
 <h2>Teaching Staff</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Human Dept/Humanities_Dept.png">
+</div>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -152,7 +155,41 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Darshini D/O Gunaseigaran</strong>
-<br><em>Teacher<br>English Literature<br>History<br></em>
+<br><em>Teacher<br>English Literature<br>History</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>13/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Sharon Tan</strong>
+<br><em>Teacher</em>
+<br><em>English</em>
+<br><em>Language</em>
+<br><em>Social Studies</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>14/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr P Vinoth</strong>
+<br><em>Teacher Geography Physical Education</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Shannen Lim</strong>
+<br><em>Teacher</em>
+<br><em>English Language</em>
+<br><em>Social Studies</em>
 </p>
 </td>
 </tr>

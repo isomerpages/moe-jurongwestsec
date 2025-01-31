@@ -182,9 +182,7 @@ is a passionate advocate for arts.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Artist: Tan Kai Ting, Kes (2E1’21)</strong>
-<br><a href="https://kestan07.wixsite.com/my-site-1" rel="noopener noreferrer nofollow" target="_blank">https://kestan07.wixsite.com/my-site-1</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

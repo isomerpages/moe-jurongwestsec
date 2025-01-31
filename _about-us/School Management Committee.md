@@ -4,6 +4,9 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/SMC.png">
+</div>
 <p><strong>[ SCHOOL LEADERS ]</strong>
 </p>
 <table style="minWidth: 150px">
@@ -325,8 +328,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kek Poh Khee</strong> 
-<br><em>SH Chemistry (Internal)</em>
+<p><strong>Mrs Salinah Zhu</strong> 
+<br><em>SH Student Management</em>
 </p>
 </td>
 </tr>
@@ -336,18 +339,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Salinah Zhu</strong> 
-<br><em>SH Student Management</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>30/</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Mrs Keira Seow </strong>
 <br><em>SH Student Leadership</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -372,7 +372,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>31/
+<p>30/
 <br>
 </p>
 </th>
@@ -382,7 +382,7 @@ variant: tiptap
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>32/</p>
+<p>31/</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ang Zhiqiang Alson </strong>

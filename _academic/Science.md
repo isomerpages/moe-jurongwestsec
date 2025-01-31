@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1>Teaching Staff</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci Dept/Science2024/Science_Dept.png">
+</div>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -40,9 +43,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Ling Yee Domina</strong> 
-<br><em>Subject Head, Biology<br>Biology<br>English Language<br></em> 
-<br>
+<p><strong>Ms Tan Yen Nee</strong>
+<br><strong><em>Year Head</em><br><em>(Lower Secondary)</em></strong>
+<br><strong><em>Physics</em></strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
@@ -55,8 +58,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Huzaini Bin Alwi</strong> 
-<br><em>Subject Head, Data Management<br>Physics<br></em>
+<p><strong>Ms Ng Ling Yee Domina</strong> 
+<br><em>Subject Head, Biology<br>Biology<br>English Language<br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,8 +67,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Salinah Zhu</strong> 
-<br><em>Subject Head, Student Management<br>Physics</em>
+<p><strong>Mr Huzaini Bin Alwi</strong> 
+<br><em>Subject Head, Data Management<br>Physics<br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,9 +76,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Alvin Liew Shao Chuan</strong> 
-<br><em>Teacher<br>Chemistry</em> 
-<br>
+<p><strong>Mrs Salinah Zhu</strong> 
+<br><em>Subject Head, Student Management<br>Physics</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,8 +90,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Li Ying</strong> 
-<br><em>Teacher<br>Chemistry</em>
+<p><strong>Ms Kek Poh Khee</strong> 
+<br><em>Subject Head (Internal), Chemistry<br>Chemistry</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,8 +99,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kek Poh Khee</strong> 
-<br><em>Teacher<br>Chemistry</em>
+<p><strong>Ms Pui Li Xian</strong> 
+<br><em>AYH (Sec 4) (Internal),<br>Biology</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,9 +108,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Pui Li Xian</strong> 
-<br><em>Teacher<br>Biology</em> 
-<br>
+<p><strong>Mr Alvin Liew Shao Chuan</strong> 
+<br><em>Teacher<br>Chemistry</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,8 +122,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chew Wei Sheng</strong> 
-<br><em>Teacher<br>Chemistry Mathematics<br></em>
+<p><strong>Ms Ridzwana Begum</strong> 
+<br><em>Teacher<br>Chemistry<br>Biology</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,9 +131,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ridzwana Begum</strong> 
-<br><em>Teacher<br>Chemistry<br>Biology</em> 
-<br>
+<p><strong>Ms Lim Li Ying</strong> 
+<br><em>Teacher<br>Chemistry</em>
+<br><em>Computer Applications</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,8 +142,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Farizah Binte Esman</strong> 
-<br><em>Teacher<br>Chemistry Computing<br>Computer Applications</em>
+<p><strong>Mr Eric Lee Chin Ngai</strong> 
+<br><em>Teacher<br>Chemistry<br>Computer Applications</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,18 +152,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13/</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Aw</strong>  <strong>Zhi Zhong Aloysius</strong>
-</p>
-<p><em>Teacher</em>
-</p>
-<p><em>Mathematics</em>
-</p>
-<p><em>Physics</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

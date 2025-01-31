@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Teaching Staff</h2>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL Dept/MTL_Dept.png">
+</div>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -50,8 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Durgadevi</strong>
 <br><em>Teacher</em>
-</p>
-<p><em>Tamil Language<br>Tamil Literature</em>
+<br><em>Tamil Language<br>Tamil Literature</em>
 <br>
 </p>
 </td>
@@ -72,7 +73,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lim Meiqi Maggie</strong>
-<br><em>Teacher<br>Chinese Language<br>Chinese Literature<br></em>
+<br><em>Teacher<br>Chinese Language<br>Chinese</em>
+<br><em>Literature<br></em>
 </p>
 </td>
 </tr>
@@ -103,8 +105,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Nur Sherlyn Mohamad Salim</strong>
-<br><em>Teacher<br>Malay Language<br>Malay Literaturee</em>
-<br>
+<br><em>Teacher<br>Malay Language<br>Malay Literature</em>
 </p>
 </td>
 </tr>
@@ -123,7 +124,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ravindran Arul Jothi</strong>
+<p><strong>Mdm Ravindran Arul Jothi</strong>
 <br><em>Teacher<br>Tamil Language<br>Tamil Literature</em>
 <br>
 </p>
@@ -188,8 +189,35 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lee Lay Teng</strong>
-<br><em>Contract Adjunct Teacher<br>Chinese Language</em><strong><br></strong>
+<br><em>Contract Adjunct Teacher<br>Chinese Language</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>18/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Kang Yue</strong>
+<br><em>Teacher<br>Chinese Language<br>Chinese Literature<br></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>19/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Guan Tianchen</strong>
+<br><em>Teacher<br>Chinese Language<br>Chinese</em>
+<br><em>Literature</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
