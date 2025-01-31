@@ -5,27 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>Aesthetics, Craft and Technology</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teaching Staff</p>
-</li>
-<li>
-<p>Art</p>
-</li>
-<li>
-<p>Design &amp; Technology&nbsp;</p>
-</li>
-<li>
-<p>Nutrition and Food Science</p>
-</li>
-<li>
-<p>Music</p>
-</li>
-<li>
-<p>Programme</p>
-</li>
-</ul>
-<h2>Teaching Staff</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -147,7 +130,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Art</h3>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Art</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="art_creations_jwss_students.PNG" src="/images/art_creations_jwss_students.png">
 </div>
@@ -162,18 +150,14 @@ variant: tiptap
 </li>
 </ul>
 <p>
-<br>Enhanced Art Programme (EAP)
-<br>
-</p>
+<br>Enhanced Art Programme (EAP)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A JWSS Distinctive Programme ‘O’ Level Art @ Upper Secondary&nbsp;</p>
 </li>
 </ul>
 <p>
-<br>Art Talent Development Programme (TDP)
-<br>
-</p>
+<br>Art Talent Development Programme (TDP)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Lower Secondary</p>
@@ -181,9 +165,7 @@ variant: tiptap
 </ul>
 <p><strong>Curriculum</strong>
 </p>
-<p>Art is important for students’ holistic development as Art
-<br>
-</p>
+<p>Art is important for students’ holistic development as Art</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>fosters students’ sense of identity, culture and place in society;</p>
@@ -198,15 +180,11 @@ and communicate effectively in the 21st Century; and</p>
 </ul>
 <p>
 <br>Drawing from the value of art in education, the aims and objectives of
-the Lower Secondary Art are:
-<br>
-</p>
+the Lower Secondary Art are:</p>
 <p><strong>Aims:</strong>
 </p>
 <p>
-<br>Art Education in our schools aims to enable every child to
-<br>
-</p>
+<br>Art Education in our schools aims to enable every child to</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>enjoy art,</p>
@@ -227,9 +205,7 @@ art; and respect art as part of their understanding of themselves, their
 cultural heritage and the world.
 <br>
 <br>At the end of their 2-year Lower Secondary Art Curriculum, students will
-be able to do the following:
-<br>
-</p>
+be able to do the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -247,34 +223,26 @@ be able to do the following:
 <tr>
 <td rowspan="1" colspan="1">
 <p>Perceive
-<br>From observing to inquiring
-<br>
-</p>
+<br>From observing to inquiring</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Identify qualities in and interpret what they see and experience
 <br>
 <br>Record and present their observations using different ways
 <br>
-<br>Generate questions and ideas from visual
-<br>
-</p>
+<br>Generate questions and ideas from visual</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Communicate
-<br>From creating to innovating
-<br>
-</p>
+<br>From creating to innovating</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Express experiences and ideas in art making
 <br>
 <br>Experiment with different materials, tools, and media to create new visual
-possibilities
-<br>
-</p>
+possibilities</p>
 </td>
 </tr>
 <tr>
@@ -289,9 +257,7 @@ possibilities
 and processes
 <br>
 <br>Work with others to make art, present art, and solve visual and other
-problems
-<br>
-</p>
+problems</p>
 </td>
 </tr>
 </tbody>
@@ -303,7 +269,11 @@ problems
 </div>
 <p><strong>For Interaction (4I) Integrated Learning and Thinking Approach</strong>
 </p>
-<h2>Design &amp; Technology&nbsp;</h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Design &amp; Technology</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Web1.jpg" src="/images/Web1.jpg">
 </div>
@@ -322,15 +292,11 @@ problems
 It is a compulsory project-based subject in the lower secondary school
 curriculum. D&amp;T anchors on design action and the application of knowledge
 and process skills.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Students are to engage in design-and-make activities and experience a
 basic process of design adapted to their abilities, interest and design
 context.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>The lower secondary D&amp;T syllabus aims to enable students to:</p>
 <p>&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -358,9 +324,7 @@ context.</p>
 <p>Our upper secondary programme prepares students for their GCE O/N levels
 in Secondary 4/5. It is a comprehensive programme to familiarise students
 with coursework requirements.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Students will also acquire basic knowledge and understanding related to
 Structures, Mechanisms and Electronics for designing and making controlled
 systems. They will need to apply the knowledge in one or more technological
@@ -385,7 +349,12 @@ process and control via electrical signals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dnt_framework.png" src="/images/dnt_framework.png">
 </div>
-<h2>Nutrition and Food Science</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Nutrition and Food Science</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NFS2.jpg" src="/images/NFS2.jpg">
 </div>
@@ -492,15 +461,17 @@ concerning food and nutrition.</p>
 <td rowspan="1" colspan="1">
 <p>1. Nutrition &amp; Food Science
 <br>2. Food Entrepreneurship
-<br>3. FCE &amp; The Community&nbsp;
-<br>
-</p>
+<br>3. FCE &amp; The Community&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h2>Music</h2>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Music</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Subjects Offered</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -550,80 +521,59 @@ and the community.</p>
 </li>
 </ul>
 <p>The syllabus lays the foundation for further study in music and endeavours
-to foster a lifelong appreciation and involvement in music.
-<br>
-</p>
-<p></p>
-<h2>Programme</h2>
+to foster a lifelong appreciation and involvement in music.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ACT Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h2></h2>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft1" src="/images/cft1.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft2" src="/images/cft2.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft3" src="/images/cft3.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft4" src="/images/cft4.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft5" src="/images/cft5.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft6" src="/images/cft6.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft7" src="/images/cft7.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft8" src="/images/cft8.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft9" src="/images/cft9.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft10" src="/images/cft10.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" alt="cft11" src="/images/cft11.png">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:600px" height="auto" width="100%" alt="cft12" src="/images/cft12.png">
+<p></p>
+<p></p>
 </div>
-<p>
-<br>
-</p>
+</details>
+</div>
+<p></p>
