@@ -5,21 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>Information and Communications Technology</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teaching Staff</p>
-</li>
-<li>
-<p>Computing</p>
-</li>
-<li>
-<p>Computer Applications</p>
-</li>
-<li>
-<p>Programme</p>
-</li>
-</ul>
-<h2>Teaching Staff</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -90,7 +79,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Computing</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Computing</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="computing_cover.jpg" src="/images/computing_cover.jpg">
 </div>
@@ -149,14 +143,10 @@ of computer science concepts and skills.</p>
 <p>Module III – Abstraction and Algorithms&nbsp;</p>
 </li>
 <li>
-<p>Module IV – Programming
-<br>
-</p>
+<p>Module IV – Programming</p>
 </li>
 </ol>
-<p>The value of computing lies in the&nbsp;<strong>integrative use of software and hardware</strong>&nbsp;to&nbsp;<strong>create new artefacts that solve or address real-world problems</strong>.
-<br>
-</p>
+<p>The value of computing lies in the&nbsp;<strong>integrative use of software and hardware</strong>&nbsp;to&nbsp;<strong>create new artefacts that solve or address real-world problems</strong>.</p>
 <p><strong>T &amp; L Framework</strong>
 </p>
 <p>Computing Education Framework</p>
@@ -172,13 +162,16 @@ of each dimension.)</p>
 <br>An important aspect of the Computer Education Framework is the relationship
 between the&nbsp;<strong>Core Concepts</strong>,&nbsp;<strong>Computational Thinking and Practices</strong>:
 Core Concepts and Computational Thinking are applied in the Practices,
-and the Practices will in turn deepen one’s understanding of the Core Concepts.
-<br>
-</p>
+and the Practices will in turn deepen one’s understanding of the Core Concepts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="framework 2.png" src="/images/framework%202.png">
 </div>
-<h2>Computer Applications</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Computer Applications</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="cpa_cover.png" src="/images/cpa_cover.png">
 </div>
@@ -220,7 +213,12 @@ of each dimension.)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="framework 1.png" src="/images/framework%201-1.png">
 </div>
-<h2>Programme</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ICT Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4>Animation and Game Making Competition 2020</h4>
 <p>The Animation and Game Making (Previously known as Media Computing (MEC))
 Competition is an annual competition for Secondary students offering Computer
@@ -234,15 +232,11 @@ to announce that Tan Li Chuan, 3T1 is awarded the Bronze Award for the
 Animation and Game Making Competition – Game Category.</p>
 <p><strong>Awards:</strong>
 </p>
-<p>Tan Li Chuan, 3T1 is awarded the Bronze Award
-<br>
-</p>
+<p>Tan Li Chuan, 3T1 is awarded the Bronze Award</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/icta.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <h4>NTU School of Computer Science and Engineering (SCSE) Python Workshop</h4>
 <p>The Python Programming Workshop for the Youth was organised by NTU Computer
 Science and Engineering Club, in partnership with Jurong West Secondary
@@ -255,35 +249,29 @@ in a competition and presentation.</p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/ictb.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/ictc.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/ictd.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/icte.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/ictf.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:600px" height="auto" width="100%" src="/images/ictg.png">
+</div>
+<p></p>
+</div>
+</details>
 </div>
 <p>
 <br>
