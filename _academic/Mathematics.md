@@ -5,21 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>Mathematics</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teaching Staff</p>
-</li>
-<li>
-<p>Mathematics</p>
-</li>
-<li>
-<p>Additional Mathematics</p>
-</li>
-<li>
-<p>Programme</p>
-</li>
-</ul>
-<h2>Teaching Staff</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -182,7 +171,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Subject offered: Mathematics</h3>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mathematics</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2017Supermarket.jpg" src="/images/2017Supermarket.jpg">
 </div>
@@ -229,7 +223,12 @@ components – concepts, skills, processes, metacognition and attitude.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="cover.PNG" src="/images/coveraddmath.png">
 </div>
-<h3>Subject Offered: Additional Mathematics</h3>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Additional Mathematics</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h3>Curriculum</h3>
 <p>The syllabus is organised along 3 content strands with a listing of mathematical
 processes that cut across the 3 strands.</p>
@@ -273,39 +272,21 @@ components – concepts, skills, processes, metacognition and attitude.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="POA2015_4.jpg" src="/images/POA2015_4.jpg">
 </div>
-<h3>Subject Offered: Principles of Accounts</h3>
-<h3>Curriculum</h3>
-<p>Principles of Accounts (POA) is designed to provide students with a meaningful
-basic introduction to financial accounting and to develop an appreciation
-of the discipline of accounting. It is grounded in preparing, communicating
-and using financial information, and appreciating the need for ethical
-conduct. The subject places emphasis on the understanding and application
-of accounting knowledge to develop lifelong skills and values that will
-be of value in the increasingly complex world of business.</p>
-<p>This subject forms part of a broad-based education to equip students with
-strong fundamentals for future learning.</p>
-<p>In line with the framework of learning Principles of Accounts as an important
-foundation subject, our department organises a series of enrichment activities
-to stimulate students' interest and inquisitiveness towards the subject.</p>
-<h2>Programme</h2>
-<h4></h4>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mathematics Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Student Achievements</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Competition</p>
 </th>
@@ -365,12 +346,6 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 <td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -385,12 +360,6 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 <td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -402,12 +371,6 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -444,12 +407,6 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 <td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -461,12 +418,6 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -500,12 +451,6 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 <td rowspan="1" colspan="1">
 <p>2020</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -522,12 +467,6 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -542,12 +481,6 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 <td rowspan="1" colspan="1">
 <p>2019</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -560,19 +493,13 @@ to stimulate students' interest and inquisitiveness towards the subject.</p>
 <td rowspan="1" colspan="1">
 <p>2019</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>2021</strong>
 </p>
 <p><strong>Crime Scene Investigation using Mathematics (20 October)</strong>
-<br>
 </p>
 <p>As part of the school’s post-exam activities, Secondary Two students worked
 on a scenario of a hit-and-run accident where they have to apply their
@@ -592,17 +519,13 @@ and experienced how Mathematics can be applied to the real world context.</p>
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 01.jpeg" src="/images/math1.jpeg">
 </div>
 <p>Students making use of their Personal Learning Devices (PLDs) to analyse
-the evidence provided.
-<br>
-</p>
+the evidence provided.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 417px; height: 312px;" height="auto" width="100%" alt="Image 02.jpeg" src="/images/math2.jpeg">
 </div>
-<p>Students working on their calculations and sharing their findings.
-<br>
-</p>
+<p>Students working on their calculations and sharing their findings.</p>
 </td>
 </tr>
 <tr>
@@ -610,17 +533,13 @@ the evidence provided.
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block;" height="auto" width="100%" alt="Image 03.JPG" src="/images/math3.jpg">
 </div>
-<p>Students discussing and debating who the “suspect” is.
-<br>
-</p>
+<p>Students discussing and debating who the “suspect” is.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 452px; height: 339px;" height="auto" width="100%" alt="Image 04.jpeg" src="/images/math4.jpeg">
 </div>
-<p>Congratulations to the prize winners.
-<br>
-</p>
+<p>Congratulations to the prize winners.</p>
 </td>
 </tr>
 </tbody>
@@ -665,9 +584,7 @@ to construct new knowledge and, at the same time, solve problems</p>
 </div>
 <p><strong>Students comparing prices at the supermarket before making their decision</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mathB.jpg">
 </div>
@@ -685,6 +602,10 @@ to construct new knowledge and, at the same time, solve problems</p>
 </p>
 <p></p>
 <p></p>
+<p></p>
+</div>
+</details>
+</div>
 <p>
 <br>
 </p>
