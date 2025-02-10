@@ -25,7 +25,7 @@ description: Advertisement for School Canteen
 <p>Indian Muslim Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, 03 Feb 2025</p>
+<p>Monday, 28 Feb 2025</p>
 </td>
 </tr>
 </tbody>
