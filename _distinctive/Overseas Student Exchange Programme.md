@@ -160,7 +160,9 @@ corporations.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSEP/Suzhou2024/dumpling_2.jpg">
+</div>
 <p><strong>Not bad for a first timer. Practice makes perfect!</strong>
 </p>
 </td>
