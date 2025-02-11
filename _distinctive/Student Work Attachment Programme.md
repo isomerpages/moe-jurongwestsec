@@ -44,7 +44,7 @@ school and share their experience with the student body.</p>
 <p>Student participants will also be awarded a certificate, jointly signed
 by the Principal and a nominated representative from the organisation where
 the student was on work attachment.</p>
-<h2>SWAP Activities </h2>
+<h2>SWAP Activities</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -520,6 +520,9 @@ and also taught me the value of responsibility.”
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SWAP/SDC.jpg">
+</div>
 <p>Sentosa Development Corporation</p>
 </td>
 <td rowspan="1" colspan="1">
