@@ -12,6 +12,9 @@ guide our approach to fostering deep and meaningful learning, enabling
 students to connect new knowledge to existing understanding, organise ideas
 coherently, and reflect on their thinking processes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TNL/TLframework.png">
+</div>
 <p>These principles are reinforced through the <strong>teaching processes </strong>outlined
 in the Singapore Teaching Practice framework: <strong>assessment and feedback</strong>, <strong>positive classroom culture</strong>, <strong>lesson preparation</strong>,
 and <strong>lesson enactment</strong>. These practices ensure that learning
