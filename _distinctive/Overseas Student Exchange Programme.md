@@ -174,9 +174,9 @@ corporations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>2025 OSEP</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Coming soon !</p>
 </div>
 </details>
 </div>
