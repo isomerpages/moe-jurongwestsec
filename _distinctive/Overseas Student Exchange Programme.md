@@ -161,7 +161,8 @@ corporations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<p><strong>Not bad for a first timer. Practice makes perfect!</strong>
+</p>
 </td>
 </tr>
 </tbody>
