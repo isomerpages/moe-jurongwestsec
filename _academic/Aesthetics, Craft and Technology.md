@@ -112,7 +112,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Mandhiraj Kaur Dhillon </strong><em>Teacher<br>Nutrition &amp; Food Science</em>
+<p><strong>Ms&nbsp;Mandhiraj Kaur Dhillon </strong>Flexi Adjunct <em>Teacher<br>Nutrition &amp; Food Science</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
