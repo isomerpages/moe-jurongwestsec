@@ -126,7 +126,8 @@ variant: tiptap
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>12/</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Narimah Bte Mohamed Nasir</strong> Flexi Adjunct Teacher Art</p>
