@@ -74,7 +74,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms</strong>  <strong>Angelene Ho</strong>
-<br><em>Teacher Art</em>
+<br><em>Teacher</em>
+<br><em>Art</em>
 </p>
 </td>
 </tr>
