@@ -62,8 +62,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Kim Kim Felicia</strong>
-<br><em>Teacher<br>Computer Applications<br>Mathematics</em>
+<p><strong>Ms Lim Li Ying</strong>
+<br><em>Teacher<br>Computer Applications<br>Chemistry</em>
 <br>
 </p>
 </td>
