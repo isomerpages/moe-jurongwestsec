@@ -374,7 +374,7 @@ process and control via electrical signals.</p>
 <p>Food &amp; Consumer Education (FCE) @ Lower Secondary&nbsp;</p>
 </li>
 <li>
-<p>Food &amp; Nutrition (FN) @ Upper Secondary</p>
+<p>Nutrition and Food Science (NFS) @ Upper Secondary</p>
 </li>
 </ul>
 <p><strong>Curriculum</strong>
