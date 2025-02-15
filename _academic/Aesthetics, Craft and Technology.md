@@ -73,7 +73,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms</strong>  <strong>Angelene Ho </strong><em>Teacher Art</em>
+<p><strong>Ms</strong>  <strong>Angelene Ho</strong>
+<br><em>Teacher Art</em>
 </p>
 </td>
 </tr>
@@ -120,7 +121,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Norita Binte Mokhtar </strong>Teacher Art</p>
+<p><strong>Mdm Norita Binte Mokhtar </strong>Teacher
+<br>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>12/</strong>
@@ -128,7 +130,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Narimah Bte Mohamed Nasir</strong>
-<br>Flexi Adjunct Teacher Art</p>
+<br>Flexi
+<br>Adjunct
+<br>Teacher
+<br>Art</p>
 </td>
 </tr>
 </tbody>
