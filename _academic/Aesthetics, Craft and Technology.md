@@ -120,7 +120,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Norita Binte Mokhtar</strong>
+</p>
+<p>Teacher</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
