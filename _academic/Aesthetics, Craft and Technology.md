@@ -120,17 +120,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Norita Binte Mokhtar</strong>
-</p>
-<p>Teacher</p>
-<p>Art</p>
+<p><strong>Mdm Norita Binte Mokhtar </strong>Teacher Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>12/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Narimah Bte Mohamed Nasir</strong> Flexi Adjunct Teacher Art</p>
+<p><strong>Ms Narimah Bte Mohamed Nasir</strong>
+<br>Flexi Adjunct Teacher Art</p>
 </td>
 </tr>
 </tbody>
