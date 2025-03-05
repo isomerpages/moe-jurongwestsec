@@ -25,7 +25,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Ms Kiew Mee Ling, Angeline
-<br><em>HOD Educational Technology (internal)<br>Computing<br></em>
+<br><em>HOD Educational Technology<br>Computing<br></em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -62,8 +62,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Kim Kim Felicia</strong>
-<br><em>Teacher<br>Computer Applications<br>Mathematics</em>
+<p><strong>Ms Lim Li Ying</strong>
+<br><em>Teacher<br>Computer Applications<br>Chemistry</em>
 <br>
 </p>
 </td>

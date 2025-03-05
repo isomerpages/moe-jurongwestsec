@@ -73,7 +73,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms</strong>  <strong>Angelene Ho </strong><em>Teacher Art</em>
+<p><strong>Ms</strong>  <strong>Angelene Ho</strong>
+<br><em>Teacher</em>
+<br><em>Art</em>
 </p>
 </td>
 </tr>
@@ -101,7 +103,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Anita Bte Mohamed Salleh </strong><em>Teacher<br>Nutrition &amp; Food Science</em>
+<p><strong>Mdm Roszilah Abdul Rahim </strong><em>Teacher<br>Nutrition &amp; Food</em>
+<br><em>Science</em>
 </p>
 </td>
 </tr>
@@ -111,7 +114,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Mandhiraj Kaur Dhillon </strong><em>Teacher<br>Nutrition &amp; Food Science</em>
+<p><strong>Ms&nbsp;Mandhiraj Kaur Dhillon </strong>Flexi Adjunct <em>Teacher<br>Nutrition &amp; Food Science</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,13 +122,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Norita Binte Mokhtar </strong>Teacher
+<br>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>12/</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Narimah Bte Mohamed Nasir</strong>
+<br>Flexi
+<br>Adjunct
+<br>Teacher
+<br>Art</p>
 </td>
 </tr>
 </tbody>
@@ -365,7 +374,7 @@ process and control via electrical signals.</p>
 <p>Food &amp; Consumer Education (FCE) @ Lower Secondary&nbsp;</p>
 </li>
 <li>
-<p>Food &amp; Nutrition (FN) @ Upper Secondary</p>
+<p>Nutrition and Food Science (NFS) @ Upper Secondary</p>
 </li>
 </ul>
 <p><strong>Curriculum</strong>
