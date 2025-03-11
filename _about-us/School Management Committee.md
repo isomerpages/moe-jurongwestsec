@@ -123,9 +123,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sharron Chiam Sze Hui</strong> 
-<br><em>HOD Mathematics</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>11/</strong>
