@@ -4,9 +4,6 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/SMC.png">
-</div>
 <p><strong>[ SCHOOL LEADERS ]</strong>
 </p>
 <table style="minWidth: 150px">
