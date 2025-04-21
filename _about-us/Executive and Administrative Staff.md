@@ -175,7 +175,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Hirwan Bin Sukor</p>
+<p>Mr Hashim</p>
 <p><em>Operations Support Officer</em>
 </p>
 </th>
@@ -187,7 +187,7 @@ variant: tiptap
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Mr Hashim</p>
+<p>Mdm Bibi Amnah D/O Haider Shah</p>
 <p><em>Operations Support Officer</em>
 </p>
 </th>
@@ -212,20 +212,17 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Bibi Amnah D/O Haider Shah</p>
+<p>Mdm Muniamah</p>
 <p><em>Operations Support Officer</em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>13/</p>
 <p>
 <br>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Muniamah</p>
-<p><em>Operations Support Officer</em>
-</p>
+<p></p>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
