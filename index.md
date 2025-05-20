@@ -11,6 +11,15 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: Direct School Admission Application 2025
+      subtitle: Direct School Admission
+      id: infopic
+      description: Application for DSA 2025 has opened!
+      button: Click here for more info
+      url: /about-us/direct-school-admission-dsa/
+      alt: Image alt text
+      image: /images/Highlights/DSA_2025.jpg
+  - infopic:
       title: GCE O-LEVEL 2024 Results Release
       subtitle: GCE O-LEVEL 2024
       id: infopic
@@ -29,16 +38,6 @@ sections:
       url: /seconereg/
       alt: Image alt text
       image: /images/Sec One Registration/sec1reg2025.jpg
-  - infopic:
-      title: GCE N-Level 2024 Results Release
-      subtitle: GCE N-Level 2024
-      id: infopic
-      description: The GCE N-Level 2024 results will be released on Monday, 16
-        December 2024.
-      button: Click here for more info
-      url: /gcenlevel2024/
-      alt: Image alt text
-      image: /images/Results Release/gcenlevel2024.jpg
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
