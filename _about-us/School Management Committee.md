@@ -384,10 +384,13 @@ variant: tiptap
 <br>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<strong>32/</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Lau Ah Thee</strong>
+</p>
+<p>Operations Manager (Adjunc)</p>
 </td>
 </tr>
 </tbody>
