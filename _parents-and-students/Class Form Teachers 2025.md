@@ -1,6 +1,6 @@
 ---
-title: Class Form Teachers 2024
-permalink: /parents-and-students/class-form-teachers-2024/
+title: Class Form Teachers 2025
+permalink: /parents-and-students/class-form-teachers-2025/
 description: ""
 variant: tiptap
 ---
