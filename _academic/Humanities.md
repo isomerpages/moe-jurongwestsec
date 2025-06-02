@@ -74,8 +74,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Neo Suat Li Shirley</strong>
-<br><em>Teacher<br>Principles of Accounts Elements of Business Skills</em>
+<p><strong>Ms&nbsp;Erlinda Tanuwijaya</strong>
+<br>Senior <em>Teacher<br>Social Studies</em>
 </p>
 </td>
 </tr>
@@ -124,8 +124,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Erlinda Tanuwijaya</strong>
-<br><em>Teacher<br>Social Studies<br>Mathematics</em>
+<p><strong>Ms Neo Suat Li Shirley</strong>
+<br><em>Teacher<br>Principles of Accounts Elements of Business Skills</em>
 <br>
 </p>
 </td>
