@@ -228,7 +228,7 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Pui Lixian</strong>
-<br><em>AYH (Sec 4) (Internal)</em>
+<br><em>AYH (Sec 4)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
