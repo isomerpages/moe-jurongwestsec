@@ -14,7 +14,7 @@ sections:
       title: Direct School Admission Application 2025
       subtitle: Direct School Admission
       id: infopic
-      description: Application for DSA 2025 has opened!
+      description: Application for DSA 2025 has closed.
       button: Click here for more info
       url: /about-us/direct-school-admission-dsa/
       alt: Image alt text
