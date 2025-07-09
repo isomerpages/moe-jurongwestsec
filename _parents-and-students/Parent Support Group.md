@@ -89,12 +89,12 @@ holistic education for the students.</p>
 </table>
 <h3>Join Us</h3>
 <p>You can sign up to join the PSG by filling in the registration form&nbsp;
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc1SYIhN5i9OEqivH2d2NQKiWVGEl3YV0nwjnmHj_5LOG6IeA/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;!</p>
+<a href="https://go.gov.sg/joinjwsspsg" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;!</p>
 <p>Alternatively, you can also scan the QR code below&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/PSG%20form.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/PSG/PSG_qrcode.png">
 </div>
-<p>Scan the above QR Code to join the PSG! (or visit <a href="http://tinyurl.com/JWSS-PSG" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
+<p>Scan the above QR Code to join the PSG! (or visit <a href="https://go.gov.sg/joinjwsspsg" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/psg2.png">
 </div>
