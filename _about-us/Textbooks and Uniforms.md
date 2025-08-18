@@ -27,7 +27,7 @@ variant: tiptap
 <h3>School Uniform Supplier Information</h3>
 <p><strong>KH Uniform Pte Ltd</strong>
 </p>
-<p>Address: Blk 115A Commonwealth Drive #04-16 S(149596)</p>
+<p>Address: 8 Boon Lay Way, 8@TradeHub 21, #03-14, Singapore 609964</p>
 <p>Telephone Number:&nbsp;6479 6811</p>
 <p>Fax&nbsp;Number: 6474 4037</p>
 <p>Website:&nbsp; khuniform.com</p>
