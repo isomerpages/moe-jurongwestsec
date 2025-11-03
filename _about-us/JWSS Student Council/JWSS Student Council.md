@@ -6,8 +6,9 @@ third_nav_title: JWSS Student Council
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/1_SC_Mass_Photo.jpg">
 </div>
 <p>Our Student Council Family</p>
 <h1>Overview</h1>
