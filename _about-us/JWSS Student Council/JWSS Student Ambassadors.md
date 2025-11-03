@@ -5,6 +5,10 @@ description: ""
 third_nav_title: JWSS Student Council
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SA/3_SA_Mass_Photo.jpg">
+</div>
 <h1>Overview</h1>
 <p>We believe that every Student Ambassador can contribute as a community
 youth leader beyond the school. Fuelled by passion and centred on values,
@@ -15,6 +19,10 @@ the emerging green economy and care economy of tomorrow.</p>
 <h1>Vision</h1>
 <p>See a Need, Take the Lead</p>
 <h1>Leadership Training</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCAs/SC/2_JSLDT.png">
+</div>
 <p>Student Ambassadors will receive training in the Leadership Challenge
 (Kouzes and Posner) 5 practices and 10 commitments, namely:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Model the Way</p>
@@ -46,7 +54,7 @@ Programme</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Sustainability Movement
 Gold Award</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Friends of Singa</p>
-<p>Outstanding Student Ambassadors also could be awarded:</p>
+<p>Outstanding Student Ambassadors could also be awarded:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE EAGLES Award (Leadership)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE EAGLES Award (Service)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE EAGLES Award (21<sup>st</sup> Century
@@ -59,11 +67,6 @@ Competencies)</p>
 to 5.30pm.</p>
 <p>Primary School Student Leaders who are keen to contribute to Student Ambassadors
 may also check out our <strong>DSA Leadership</strong> webpage.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SA/A__Blood_Donation_Drive.jpg">
-</div>
-<p>Students engaging the public on the importance of Blood Donation</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SA/B__Engaging_the_school_in_Sustainability_Sharing.jpg">
 </div>
