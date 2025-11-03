@@ -24,7 +24,7 @@ and thought leadership.</p>
 <p>Dare to Lead, Serve and Inspire</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCAs/SC/2_JSLDT.png">
 </div>
 <p>The key-shaped competencies that all students of JWSS, especially the
 Student Councillors, will be developed in.</p>
