@@ -6,8 +6,9 @@ third_nav_title: JWSS Student Council
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/1_SC_Mass_Photo.jpg">
 </div>
 <p>Our Student Council Family</p>
 <h1>Overview</h1>
@@ -23,10 +24,10 @@ and thought leadership.</p>
 <p>Dare to Lead, Serve and Inspire</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCAs/SC/2_JSLDT.png">
 </div>
-<p>The key-shaped competencies that all students of JWSS, especially the
-Student Councillors, will be developed in.</p>
+<p>The JWSS student leadership development tool that all students of JWSS,
+especially the Student Councillors, will be developed in.</p>
 <h1>Leadership Training</h1>
 <p>Student Councillors will receive training in the Leadership Challenge
 (Kouzes and Posner) 5 practices and 10 commitments, namely:</p>
