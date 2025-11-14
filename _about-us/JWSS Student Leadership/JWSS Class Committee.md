@@ -41,14 +41,6 @@ Student Leaders, will be developed in</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Challenge the Process</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enabling Others to Act</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inspire a Shared Vision</p>
-<p>Selected leaders, such as the Vice-Chairperson and the Welfare Head, will
-have the opportunity to serve as <strong>Peer Support Leaders</strong>,
-and be trained in identifying DISTRESS in their peers and offer socio-emotional
-support through the CHEER model.</p>
-<p>Selected students will also be identified as <strong>Community Youth Leaders</strong> to
-be trained in service-learning to lead the class in Values-in-Action community
-projects.</p>
-<p></p>
 <p></p>
 <h1>Leadership Platforms</h1>
 <p>Class Committee are involved in the preparation of class and school projects.
