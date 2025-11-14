@@ -850,7 +850,7 @@ confident individuals who contribute meaningfully to their community.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_1.jpg">
 </div>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
@@ -945,76 +945,102 @@ confident individuals who contribute meaningfully to their community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Band Major (Music)</p>
+<p>Band Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kaeden Zou Yankai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Band Major (Discipline)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Siow Ai Min</p>
+<p>Tan Kai Wen&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quartermaster</p>
+<p>Assistant Band Majors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Claire Lim Yee Xuen, Zhuang Huihui, Lily Amani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Welfare Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aniq Naufal</p>
+<p>Faith Chua Wen Xuan &amp; Kezia Lee You Shi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Recreational Head</p>
+<p>Quartermasters</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Aisyah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Librarian and Wardrobe Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lau Wan Yee, Bryan Toong Wei Jie, Chee Rui Feng Nate</p>
+<p>Lily Amani and Sia Yu Shan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Publicity Head</p>
+<p>Librarian &amp; Safety 1i/c (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kai Wen, Lim Yi Xuan</p>
+<p>Chee Rui Feng Nate</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary Support Leader</p>
+<p>Librarian &amp; Safety 2i/c (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prisshaa Advanti</p>
+<p>Kennith Hoo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity &amp; Outreach 1i/c (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Jing Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity &amp; Outreach 2i/c (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yu Zihan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wellbeing 1i/c (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yang Jia Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wellbeing 2i/c (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eka Aldri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woodwind &amp; Brass Section Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bethany Lee En Yuan &amp; Chareesha Ananda Putri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Percussion Section Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lily Amani</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>At Jurong West Secondary School Concert Band, we aim to:</strong>
-</p>
+<p></p>
+<h4><strong>CCA Objectives</strong></h4>
+<p>At Jurong West Secondary School Concert Band, we aim to:</p>
 <p>Develop and nurture the fundamental skills necessary to perform a symphonic
 repertoire for various occasions, foster camaraderie and teamwork among
 our members through planned programmes and activities and create opportunities
 for members to hone their leadership skills and enhance their self-confidence.</p>
+<p></p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -1035,6 +1061,17 @@ for members to hone their leadership skills and enhance their self-confidence.</
 <td rowspan="1" colspan="1">
 <p><strong>Year</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
 </td>
 </tr>
 <tr>
@@ -1118,7 +1155,7 @@ for members to hone their leadership skills and enhance their self-confidence.</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -1133,10 +1170,28 @@ for members to hone their leadership skills and enhance their self-confidence.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary One Orientation</p>
+<p>CNY Concert</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>January</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-day Band Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>March</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Band Exchange Programme at Jurongville Sec. Sch.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>March</strong>
 </p>
 </td>
 </tr>
@@ -1145,25 +1200,16 @@ for members to hone their leadership skills and enhance their self-confidence.</
 <p>Learning Journey to Esplanade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>January</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Annual Band Camp</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>March</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Speech Day</p>
+<p>SYF Central Judging</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>March</strong>
+<p><strong>April</strong>
 </p>
 </td>
 </tr>
@@ -1178,16 +1224,7 @@ for members to hone their leadership skills and enhance their self-confidence.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Exchange Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>May</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VIA Project @ Pioneer National Day Dinner 2024</p>
+<p>VIA Project @ Pioneer CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>August</strong>
@@ -1205,19 +1242,16 @@ for members to hone their leadership skills and enhance their self-confidence.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Open House</p>
+<p>CCA Day showcasing e21CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>November</strong>
+<p><strong>October</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND2.png">
-</div>
-<p>SYF Presentation 2023</p>
+<p></p>
 <h4><strong>Holistic Activities and Programmes</strong></h4>
 <p>Our Concert Band offers students a vibrant environment to explore their
 musical talents, develop skills, and build lasting friendships. With a
@@ -1232,12 +1266,12 @@ a platform to demonstrate the hard work put into each practice session.</p>
 <p>We believe in experiential learning, so it is a regular affair for band
 members to attend concerts and learning journey to witness professional
 musicians in action to inspire them in their own musical journeys.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_2.jpg">
 </div>
-<p><em>Learning Journey @Esplanade</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_3.jpg">
+</div>
 <h4><strong>Team Bonding and VIA</strong></h4>
 <p>Our annual band camp is a transformative experience focusing on character
 building, resilience, and teamwork. The camp helps students develop a positive
@@ -1258,18 +1292,12 @@ Day celebrations by collaborating with the Choir, showcasing patriotic
 tunes and uplifting performances for the residents of Pioneer. This event
 not only allows our students to share their passion for music but also
 brings the community together in a shared spirit of pride and celebration.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_4.jpg">
 </div>
-<p><em>Performance for Pioneer National Day Dinner 2024 at Frontier CC</em>
-</p>
-<h4><strong>Memorable moments</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/BAND5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_5.jpg">
 </div>
-<p><em>Farewell Party for the outgoing seniors</em>
-</p>
 <p></p>
 </div>
 </details>
