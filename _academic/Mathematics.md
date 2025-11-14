@@ -152,49 +152,72 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="2017Supermarket.jpg" src="/images/2017Supermarket.jpg">
 </div>
 <h3>Curriculum</h3>
-<p>The syllabus is organised along 3 content strands with a listing of mathematical
-processes that cut across the 3 strands.</p>
-<table style="minWidth: 75px">
+<p>Our Mathematics curriculum aims to equip our pupils with Mathematical
+skills, processes and concepts so that they can develop metacognition and
+positive attitudes to be effective and creative problem solvers in life.</p>
+<p></p>
+<h3>T &amp; L Framework</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="01.png" src="/images/01math.png">
+</div>
+<p>Our department programmes strive to equip our pupils with Mathematical
+skills, processes and concepts to solve problems in a variety of contexts
+within and outside Mathematics. Our teachers conscientiously practice the
+three phases of learning in the classroom – Readiness to Learn, Engagement
+in Learning and Mastery in Learning.</p>
+<p>The engagement phase includes one or more of the three pedagogical approaches
+to support most of the Mathematics instructions in classroom – Activity-based
+Learning, Inquiry-based Learning and Direct Instruction.</p>
+<p>The following subjects are offered at the three teaching groups.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p>3 Content + 1 Process Strand</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Numbers and Algebra</p>
+<p><strong>Teaching Group</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geometry and Measurement</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Statistics and Probability</p>
+<p><strong>Subject(s) offered</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>Mathematical Processes</p>
+<td rowspan="1" colspan="1">
+<p>G3 Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Additional Mathematics (Elective)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G2 Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G1 Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>T &amp; L Framework</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="01.png" src="/images/01math.png">
-</div>
-<p>The central focus of the mathematics curriculum is the development of
-mathematical problem solving competency. Supporting this focus are five-related
-components – concepts, skills, processes, metacognition and attitude.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cover.PNG" src="/images/coveraddmath.png">
-</div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
