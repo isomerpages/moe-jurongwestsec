@@ -257,29 +257,29 @@ tasks and activities;</p>
 <p>Students were given opportunities to discuss key concepts and develop
 a deeper understanding of them, (e.g. By generalising concepts through
 pattern recognition)</p>
-<p></p>
-<p>&lt;Math 1.jpg&gt;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/Maths_1.jpg">
+</div>
 <p>E-pedagogical tools such as the Feedback Assistant – Mathematics in SLS
 were used to provide students with hints and instant feedback, making the
 learning of mathematics more engaging and effective.</p>
-<p></p>
-<p>&lt;Math 2.jpg&gt;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/math_2.jpg">
+</div>
 <p>Digital and physical activities were used to make mathematics practice
 more engaging and motivating, while building subject mastery and nurturing
 students’ joy of learning.</p>
-<p></p>
-<p>&lt;Math 3.jpg&gt;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/Math_3.jpg">
+</div>
 <p>Infusing digital literacies such as computational thinking in the teaching
 of Mathematical concepts, by guiding them to create flow charts, enables
 them to make their thinking visible. Through scaffolded learning, collaboration
 and communication, students strengthen their problem-solving skills and
 retention of concepts.</p>
-<p></p>
-<p>&lt;Math 4.jpg&gt;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/Math_4.jpg">
+</div>
 <p><strong>Extending Learning beyond the Mathematics Classroom</strong>
 </p>
 <p><strong>Talent Development – Innovation JeWel Programme</strong>
@@ -289,9 +289,9 @@ to deepen their learning and sharpen their critical thinking. In the Innovation
 JeWel Programme, students collaborate on interdisciplinary STEM projects,
 where they creatively seek solutions to tackle sustainability challenges
 while developing essential communication and teamwork skills.</p>
-<p></p>
-<p>&lt;Math 5.jpg&gt;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/Math_5.jpg">
+</div>
 <p><strong>Competitions – Singapore Mathematical Olympiad &amp; Australian Mathematics Competition</strong>
 </p>
 <p>Students with potential and interest in Mathematics are</p>
@@ -300,9 +300,9 @@ Mathematical training beyond the curriculum.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;provided with opportunities
 to further stretch their abilities in National-Level Competitions such
 as Singapore Mathematical Olympiad and Australian Mathematics Competition.</p>
-<p></p>
-<p>&lt;Math 6.jpg&gt;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math Dept/Math_6.jpg">
+</div>
 </div>
 </details>
 </div>
