@@ -722,7 +722,7 @@ is a passionate advocate for arts.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <h5></h5>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Splash01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
