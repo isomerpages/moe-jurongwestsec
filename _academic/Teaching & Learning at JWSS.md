@@ -1,5 +1,5 @@
 ---
-title: Teaching n Learning at JWSS
+title: Teaching & Learning at JWSS
 permalink: /curriculum/academic/teaching-n-learning-at-jwss/
 description: ""
 variant: tiptap

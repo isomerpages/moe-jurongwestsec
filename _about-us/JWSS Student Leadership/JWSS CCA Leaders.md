@@ -2,7 +2,7 @@
 title: JWSS CCA Leaders
 permalink: /about-us/jwss-student-council/cca-leaders/
 description: ""
-third_nav_title: JWSS Student Council
+third_nav_title: JWSS Student Leadership
 variant: tiptap
 ---
 <table style="minWidth: 25px">
@@ -24,9 +24,9 @@ a <strong>growth mindset</strong> and the <strong>agency</strong> to <strong>ser
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/2_JSLDT.png">
 </div>
-<p>The key-shaped competencies that all students of JWSS, especially the
+<p>The leadership competencies that all students of JWSS, especially the
 Student Leaders (CCA leaders), will be developed in</p>
 <p></p>
 <h1>Leadership Training</h1>

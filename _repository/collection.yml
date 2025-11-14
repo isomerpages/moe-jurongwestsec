@@ -2,6 +2,8 @@ collections:
   repository:
     output: true
     order:
+      - Special Educational Needs.md
+      - Counselling.md
       - Academic Subjects.md
       - Academic Related.md
       - Secondary 1 Parents Engagement Session 2023.md

@@ -2,7 +2,7 @@
 title: JWSS Class Committee
 permalink: /about-us/jwss-student-council/class-committee/
 description: ""
-third_nav_title: JWSS Student Council
+third_nav_title: JWSS Student Leadership
 variant: tiptap
 ---
 <table style="minWidth: 25px">
@@ -17,7 +17,8 @@ variant: tiptap
 juniors in values such as Resilience, Integrity, Care, Harmony, Excellence
 and Respect. They influence the class culture through class and school
 projects. The Class Committee roles are: Class Chairperson, Vice-Chairperson,
-Administrative Head, Sustainability Head and Welfare Head.</p>
+Peer Support Leader, Sports Leader, VIA Head, Sustainability Head and Aesthetics
+Head.</p>
 <p></p>
 <p></p>
 <h1>Vision</h1>
@@ -26,9 +27,9 @@ a <strong>growth mindset</strong> and the <strong>agency</strong> to <strong>ser
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/2_JSLDT.png">
 </div>
-<p>The key-shaped competencies that all students of JWSS, especially the
+<p>The leadership competencies that all students of JWSS, especially the
 Student Leaders, will be developed in</p>
 <p></p>
 <p></p>
@@ -40,14 +41,6 @@ Student Leaders, will be developed in</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Challenge the Process</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enabling Others to Act</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inspire a Shared Vision</p>
-<p>Selected leaders, such as the Vice-Chairperson and the Welfare Head, will
-have the opportunity to serve as <strong>Peer Support Leaders</strong>,
-and be trained in identifying DISTRESS in their peers and offer socio-emotional
-support through the CHEER model.</p>
-<p>Selected students will also be identified as <strong>Community Youth Leaders</strong> to
-be trained in service-learning to lead the class in Values-in-Action community
-projects.</p>
-<p></p>
 <p></p>
 <h1>Leadership Platforms</h1>
 <p>Class Committee are involved in the preparation of class and school projects.

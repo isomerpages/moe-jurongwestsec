@@ -722,7 +722,7 @@ is a passionate advocate for arts.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <h5></h5>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/Splash01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -776,6 +776,7 @@ is a passionate advocate for arts.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm. Felicia Tan Kim Kim (I/C)
 <br>Ms. Tay Shi Ying</p>
+<p>Mdm. Rajavizhi</p>
 </td>
 </tr>
 </tbody>
@@ -788,7 +789,7 @@ is a passionate advocate for arts.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>2024/2025 </strong>EXCO Members</p>
+<p><strong>2025/2026 </strong>EXCO Members</p>
 </th>
 </tr>
 <tr>
@@ -796,7 +797,7 @@ is a passionate advocate for arts.</p>
 <p>Director of PA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khoo Yee Jye (3IN)</p>
+<p>Azafie Bin Azahar (3HY)</p>
 </td>
 </tr>
 <tr>
@@ -804,7 +805,7 @@ is a passionate advocate for arts.</p>
 <p>Director of Photography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim De Fu (3RT)</p>
+<p>Liew Shan Keat (3HY)</p>
 </td>
 </tr>
 <tr>
@@ -812,7 +813,7 @@ is a passionate advocate for arts.</p>
 <p>Director of Infocomm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammed Malaiki Bin Hisham (3CE)</p>
+<p>Kwek Junhong Gabriel (3RT)</p>
 </td>
 </tr>
 </tbody>
@@ -838,13 +839,13 @@ is a passionate advocate for arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AeroChallenge@Ngee Ann Polytechnic</p>
+<p>Ngee Ann Photographic Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p>Lim De Fu (Shortlist and Exhibited)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019</p>
+<p>2025</p>
 </td>
 </tr>
 </tbody>
@@ -861,7 +862,7 @@ is a passionate advocate for arts.</p>
 <p>Activity</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2024</p>
+<p>2025</p>
 </th>
 </tr>
 <tr>
@@ -948,6 +949,25 @@ remote control cars!</p>
 </tbody>
 </table>
 <p></p>
+<p>The Infocomm &amp; Media Technology Club (IMTC) enriches students’ learning
+experiences by giving them opportunities to express their creativity and
+showcase their ideas through digital media.</p>
+<p></p>
+<p>Our club provides hands-on training in the following areas:</p>
+<p>★Photography</p>
+<p>★Videography</p>
+<p>★ Digital Marketing</p>
+<p></p>
+<p>Our partnership with the Infocomm Media Development Authority (IMDA) equips
+students with essential techniques for content creation.</p>
+<p></p>
+<p>This programme engages in practical projects and tasks that prioritize
+creating socially beneficial content.</p>
+<p>The curriculum includes Photography, Videography, Augmented reality, Digital
+drawing, Artificial intelligence and Podcasting.</p>
+<p>Our students also took part in external competitions so that they can
+apply their knowledge learnt during CCA.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -955,76 +975,79 @@ remote control cars!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Digital_Marketing.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Introduction to Mini-Drones as part of IMTC training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Digital Marketing Workshop Students were introduced to social media platforms,
+learnt to create visually appealing graphics, writing engaging captions
+and present a digital marketing campaign.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Photography_Training.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture4.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Hot Wheel Unboxing Video Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Empowering students to use professional photography gear to capture and
+tell powerful visual stories through photos and videos.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/LeadCON.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture6.jpg">
-</div>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEADCON 2025 leadership conference organised by IMDA (Infocomm and Media
+Development Authority)</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Annual IMTC Camp</p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Lim_De_Fu.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Congratulations to Lim De Fu, whose artwork titled “Golden Years, Shared
+Melodies” has been shortlisted for display at the 20th Ngee Ann Photographic
+Exhibition!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC_at_work_during_Busking.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/CCA_Open_House.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC_at_work.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
 </td>
 </tr>
 </tbody>
