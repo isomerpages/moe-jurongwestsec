@@ -981,10 +981,9 @@ apply their knowledge learnt during CCA.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Marketing Workshop</p>
-<p>Students were introduce to social media platforms, learn to</p>
-<p>create visually appealing graphics, writing engaging captions and present
-a digital marketing campaign.</p>
+<p>Digital Marketing Workshop Students were introduced to social media platforms,
+learnt to create visually appealing graphics, writing engaging captions
+and present a digital marketing campaign.</p>
 </td>
 </tr>
 <tr>
