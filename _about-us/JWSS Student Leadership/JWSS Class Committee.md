@@ -17,7 +17,8 @@ variant: tiptap
 juniors in values such as Resilience, Integrity, Care, Harmony, Excellence
 and Respect. They influence the class culture through class and school
 projects. The Class Committee roles are: Class Chairperson, Vice-Chairperson,
-Administrative Head, Sustainability Head and Welfare Head.</p>
+Peer Support Leader, Sports Leader, VIA Head, Sustainability Head and Aesthetics
+Head.</p>
 <p></p>
 <p></p>
 <h1>Vision</h1>
@@ -26,9 +27,9 @@ a <strong>growth mindset</strong> and the <strong>agency</strong> to <strong>ser
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SC/2_JSLDT.png">
 </div>
-<p>The key-shaped competencies that all students of JWSS, especially the
+<p>The leadership competencies that all students of JWSS, especially the
 Student Leaders, will be developed in</p>
 <p></p>
 <p></p>
