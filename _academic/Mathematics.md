@@ -24,8 +24,8 @@ variant: tiptap
 <p>01/</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Sharron Chiam Sze Hui
-<br><strong><em>HOD Mathematics<br>Mathematics</em></strong>
+<p>Ms Wang Cuiyin
+<br><strong><em>HOD Mathematics</em></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Angeline Kiew Mee Ling<br></strong><em>HOD Educational Technology (internal) Computing</em>
+<p><strong>Ms Tham Jianyun<br></strong><em>Subject Head, Mathematics</em>
 <br>
 </p>
 </td>
@@ -43,8 +43,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chua Wang Zhi</strong>
-<br><em>Subject Head, Mathematics<br>Mathematics<br></em>
+<p><strong>Ms Erlinda Tanuwijaya</strong>
+<br><em>Subject Head, Social Studies<br>Mathematics<br></em>
 <br>
 </p>
 </td>
@@ -55,7 +55,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Huzaini Bin Alwi</strong><em><br>Subject Head, Data Management Physics Computing</em>
+<p><strong>Mdm Tan Kim Kim Felicia</strong>
+<br><em>Teacher<br>Mathematics</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,8 +64,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Li Ying</strong>
-<br><em>Teacher<br>Computer Applications<br>Chemistry</em>
+<p><strong>Mrs Alicia Tan</strong>
+<br><em>Teacher<br>Mathematics</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +74,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chian Siau Yong</strong><em> Teacher Mathematics</em>
+<p><strong>Ms Eunice Lee</strong>
+</p>
+<p>Teacher Mathematics
 <br>
 <br>
 </p>
@@ -85,7 +88,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Alicia Tan</strong>
+<p><strong>Mr Hong Guangyu William</strong>
 <br><em>Teacher<br>Mathematics</em>
 <br>
 </p>
@@ -105,8 +108,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Kim Kim Felicia</strong>
-<br><em>Teacher<br>Mathematics<br></em>
+<p><strong>Mr Chew Wei Sheng </strong><em>Teacher Mathematics<br></em>
 <br>
 </p>
 </td>
@@ -117,7 +119,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp;Erlinda Tanuwijaya<br></strong><em>Teacher<br>Mathematics<br>Social Studies<br></em>
+<p><strong>Mr Yong Mun Chong</strong><em> Teacher Mathematics<br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,40 +127,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Hong Guangyu William</strong>
-<br><em>Teacher<br>Mathematics</em>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>12/</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Farizah Binte Esman</strong>
-<br><em>Teacher Computing Computer Applications </em>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>13/</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Mohammad Azri Bin Kasmanni</strong>
-<br><em>Contract Adjunct Teacher Computer Applications Visual Art<br></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>14/</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chew Wei Sheng</strong>
-<br><em>Teacher<br>Mathematics</em>
+<p><strong>Mr Chian Siau Yong</strong><em> Teacher Mathematics</em>
 <br>
 </p>
 </td>
@@ -166,7 +135,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
