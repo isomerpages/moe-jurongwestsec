@@ -968,7 +968,6 @@ drawing, Artificial intelligence and Podcasting.</p>
 <p>Our students also took part in external competitions so that they can
 apply their knowledge learnt during CCA.</p>
 <p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -976,76 +975,80 @@ apply their knowledge learnt during CCA.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Digital_Marketing.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Introduction to Mini-Drones as part of IMTC training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Digital Marketing Workshop</p>
+<p>Students were introduce to social media platforms, learn to</p>
+<p>create visually appealing graphics, writing engaging captions and present
+a digital marketing campaign.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Photography_Training.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture4.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Hot Wheel Unboxing Video Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Empowering students to use professional photography gear to capture and
+tell powerful visual stories through photos and videos.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/LeadCON.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Picture6.jpg">
-</div>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEADCON 2025 leadership conference organised by IMDA (Infocomm and Media
+Development Authority)</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Annual IMTC Camp</p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Lim_De_Fu.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Congratulations to Lim De Fu, whose artwork titled “Golden Years, Shared
+Melodies” has been shortlisted for display at the 20th Ngee Ann Photographic
+Exhibition!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC_at_work_during_Busking.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/CCA_Open_House.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC_at_work.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
 </td>
 </tr>
 </tbody>
