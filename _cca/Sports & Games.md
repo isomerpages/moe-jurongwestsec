@@ -1643,6 +1643,8 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Hockey (Boys)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>CCA Schedule</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1651,35 +1653,57 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p>CCA Schedule</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Training Venue</p>
+<p><strong>Training Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day One</p>
+<p><strong>Training Day One</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day Two</p>
+<p><strong>Training Day Two</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Field
+<p>&nbsp;</p>
+<p>ActiveSG @ Jurong Town Hockey Pitch / School Field
+<br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
-<br>3.30 pm - 6.00 pm</p>
+<p>Mondays</p>
+<p>3.45 pm - 6.00 pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday/Wednesday
-<br>3.30 pm - 6.00 pm
-<br>(During Competition)</p>
+<p>&nbsp;</p>
+<p>Fridays</p>
+<p>3.00 pm - 6.00 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Organisation Chart</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mustaqim Mohamed (Teacher-in-Charge)</p>
+<p>Mr Yip Kwan Guan</p>
+<p>Mr Mr Lee Chen Ngai Eric Junior</p>
 </td>
 </tr>
 </tbody>
@@ -1690,77 +1714,259 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Orgnaisation Chart</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
+<p><strong>Coach</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mustaqim Mohamed (OIC)</p>
+<p>Mr Syed Syahmi</p>
 </td>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Key Appointment Holders</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hariish Selvakumar (3 Integrity)</p>
+<p>Muhammad Thaqif Ilham Bin Muhammad Ariff (3 Excellence)</p>
+<p>Kadire Ram (3 Respect)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'C' Division League 2 Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'B' Division Plate 1<sup>st</sup> Runner Up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;'C' Division League 2 1<sup>st</sup> Runner up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'B' Division Top 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;'C' Division Bowl Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'C' Division Top 8&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2018&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;'B' Division Bowl Runner up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'C' Division Plate 1st Runner up&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;2017</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'B' Division Plate Runner up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'C' Division Bowl 1st Runner up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'B' Division Plate 1st Runner up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;'C' Division Top 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Hockey Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;'B' Division Top 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/HockeyBoys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureA.jpg">
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Coaches</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our C Division Boys with their NSG League 2 Champions trophy after overcoming
+various challenges to emerge winners against strong opponents.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Syahmi
-<br>Mr Sunil Prasad Eyamo</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Key Appointment Holders</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mohamed ‘Irfan Dhiaulhaq (Captain)
-<br>Muhammad Haidar (Vice-Captain)
-<br>Appadurai Jaswanthram (Vice-Captain)
-<br>Yap Ming Xuen (Welfare I/C)
-<br>Sean Ng (Logistics I/C)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/hockey3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureB.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beyond participation in NSG competition, our Hockey Boys are also exposed
+to other competitions such as the Liga 5 Hockey Carnival as well as Indoor
+Hockey 5 A-Side organised by the Singapore Hockey Federation (SHF).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureC.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our weekly training sessions held at the ActiveSG @ Jurong Town Hockey
+pitch.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureD.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>March Holidays Camp also provides good opportunity for students to hone
+their rules of the game of Hockey.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 </div>
 </details>
