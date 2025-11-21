@@ -29,15 +29,13 @@ sections:
       alt: Image alt text
       image: /images/Results Release/Picture1.png
   - infopic:
-      title: Secondary 1 Registration 2024
-      subtitle: Secondary 1 Registration
+      title: JWSS OpEn HoUsE 2025
+      subtitle: JWSS Open House 2025
       id: infopic
-      description: Secondary 1 Posting Results will be released on 18 December 2024. A
-        warm welcome to all new secondary 1 students!
-      button: Click here for more info
+      description: Our JWSS Open House will be held on 22 November 2025 from 9 am - 1 pm!
       url: /seconereg/
       alt: Image alt text
-      image: /images/Sec One Registration/sec1reg2025.jpg
+      image: /images/Highlights/JWSS_WELCOME_BANNER.jpg
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
