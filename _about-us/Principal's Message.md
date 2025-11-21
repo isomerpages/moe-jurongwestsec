@@ -2,32 +2,25 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
 Welcome to Jurong West Secondary School (JWSS)!      
   
 
-I am excited and humbled to be appointed to lead JWSS as its 4th Principal. I am grateful to my predecessors who have led the school ably and laid strong foundations for the school.    
+This year, our school has made significant strides toward realizing the vision we have set out for our students through the implementation of our strategic plans schoolwide, guided by the belief that our
+students must be equipped to thrive in the future as - Learners, Thinkers, and Leaders of Tomorrow. Our vision is for all JWSS students to find joy in learning and strive to reach their fullest potential, becoming
+lifelong learners with the adaptive thinking skills needed for a dynamic world. 
 
-  
+We aim to foster confidence, resilience, and leadership, enabling our students to lead themselves first and then inspire others, exercising innovation and continuous improvement along the way.
 
-Over the years, JWSS has grown in strength and is now one of the schools of choice in the community. We are committed to the holistic development of our students in the academic and non-academic curricula. These two domains are continually symbiotic and reinforce each other in our students’ learning and development. Anchored in sound values and strong social-emotional competencies, our students will be actively engaged in their learning – and this will fuel their drive towards academic excellence as well as betterment of the community and the world.   
+Our “BlueSky Teams” lead innovations in areas such as STEAM and Sustainability, Developing Key-Shaped Competencies, Student Agency and Leadership, as well as our JWSS Estate and Infrastructure
+Upgrade Masterplan, have made significant progress in creating future-ready opportunities to enrich the our students learning. 
 
-  
+Meanwhile, our dedicated staff are engaging in professional development to enhance our teaching pedagogies through Assessment for Learning (AfL) and Metacognitive strategies, which are now
+actively applied in classrooms. We are seeing higher levels of student engagement and reflective thinking—a powerful testament to what we can achieve, with even more on the horizon.
 
-The myriad of school programmes and opportunities enable our students to explore, discover and leverage their distinct talents, passions and strengths. Some of these programmes include the Applied Learning Programme (advocating ideas and presenting innovative ICT-based solutions to real world issues), Learning for Life Programme (making positive impact on the community through service and leadership), JeWel Programme (pursuing passions and deepening knowledge and skills through customised training) as well as the Enhanced Art Programme (deepening artistic expression through multidisciplinary art). In my conversations with students and teachers, the strong culture of care, support and innovation have and will continue to equip our students with the skills and attributes to navigate and thrive in an increasingly volatile, uncertain, complex and ambiguous (VUCA) world.       
-
-  
-
-Our strong academic value-add and CCA achievements are testimony to our efforts to enable students to reach their full potential. One of the pilot schools selected to implement Full Subject-Based Banding (Full SBB) since 2020 – as part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students – JWSS now shares its learning and experiences with other schools as it is being progressively rolled out.    
-
-  
-
-All these would not have been possible without the dedication of our teachers and stakeholders, all of whom go out of their way to provide a broad-based, well-rounded education to develop in our students a suite of core values and competencies that they can use to shape a better future for all.    
-
-  
-
-As I lead the school from 2022, I hope to continue to build on the good work of our staff and invite all of your stakeholders to join us as we bring the school into the next phase of growth.    
-
+I am deeply grateful for the trust and support from our parents and stakeholders, which further fuels our determination to bring our vision to life for our school and students. JWSS is on an exciting journey
+of growth, and we invite you to join us in supporting this transformation. Together, let’s continue building a brighter future for our students.
   
 
 In the service of education,  
