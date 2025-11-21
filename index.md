@@ -11,6 +11,14 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: JWSS OpEn HoUsE 2025
+      subtitle: JWSS Open House 2025
+      id: infopic
+      description: Our JWSS Open House will be held on 22 November 2025 from 9 am - 1 pm!
+      url: /seconereg/
+      alt: Image alt text
+      image: /images/Highlights/JWSS_WELCOME_BANNER.jpg
+  - infopic:
       title: Direct School Admission Application 2025
       subtitle: Direct School Admission
       id: infopic
@@ -28,14 +36,6 @@ sections:
       url: /gceolevel2024/
       alt: Image alt text
       image: /images/Results Release/Picture1.png
-  - infopic:
-      title: JWSS OpEn HoUsE 2025
-      subtitle: JWSS Open House 2025
-      id: infopic
-      description: Our JWSS Open House will be held on 22 November 2025 from 9 am - 1 pm!
-      url: /seconereg/
-      alt: Image alt text
-      image: /images/Highlights/JWSS_WELCOME_BANNER.jpg
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
