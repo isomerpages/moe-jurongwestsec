@@ -1921,44 +1921,52 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureA.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our C Division Boys with their NSG League 2 Champions trophy after overcoming
+various challenges to emerge winners against strong opponents.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureB.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Beyond participation in NSG competition, our Hockey Boys are also exposed
+to other competitions such as the Liga 5 Hockey Carnival as well as Indoor
+Hockey 5 A-Side organised by the Singapore Hockey Federation (SHF).</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureC.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our weekly training sessions held at the ActiveSG @ Jurong Town Hockey
+pitch.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureD.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>March Holidays Camp also provides good opportunity for students to hone
+their rules of the game of Hockey.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 </div>
 </details>
