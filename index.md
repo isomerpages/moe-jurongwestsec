@@ -28,12 +28,13 @@ sections:
       alt: Image alt text
       image: /images/Highlights/DSA_2025.jpg
   - infopic:
-      title: GCE O-LEVEL 2024 Results Release
-      subtitle: GCE O-LEVEL 2024
+      title: GCE N-LEVEL 2025 Results Release
+      subtitle: GCE O-LEVEL 2025
       id: infopic
-      description: The GCE O-Level 2024 results will be released on Friday, 10 January 2025
+      description: The GCE N-Level 2025 results will be released on Thursday, 18
+        December 2025
       button: Click here for more info
-      url: /gceolevel2024/
+      url: /gcenlevel2025/
       alt: Image alt text
       image: /images/Results Release/Picture1.png
   - infobar:
