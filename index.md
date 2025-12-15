@@ -11,6 +11,16 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: GCE N-LEVEL 2025 Results Release
+      subtitle: GCE O-LEVEL 2025
+      id: infopic
+      description: The GCE N-Level 2025 results will be released on Thursday, 18
+        December 2025
+      button: Click here for more info
+      url: /gcenlevel2025/
+      alt: Image alt text
+      image: /images/Results Release/Picture1.png
+  - infopic:
       title: JWSS OpEn HoUsE 2025
       subtitle: JWSS Open House 2025
       id: infopic
@@ -27,16 +37,6 @@ sections:
       url: /about-us/direct-school-admission-dsa/
       alt: Image alt text
       image: /images/Highlights/DSA_2025.jpg
-  - infopic:
-      title: GCE N-LEVEL 2025 Results Release
-      subtitle: GCE O-LEVEL 2025
-      id: infopic
-      description: The GCE N-Level 2025 results will be released on Thursday, 18
-        December 2025
-      button: Click here for more info
-      url: /gcenlevel2025/
-      alt: Image alt text
-      image: /images/Results Release/Picture1.png
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
