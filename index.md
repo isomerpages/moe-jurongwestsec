@@ -19,7 +19,7 @@ sections:
       button: Click here for more info
       url: /gcenlevel2025/
       alt: Image alt text
-      image: /images/Results Release/Picture1.png
+      image: /images/Results Release/GCE_N_Level.jpg
   - infopic:
       title: JWSS OpEn HoUsE 2025
       subtitle: JWSS Open House 2025
