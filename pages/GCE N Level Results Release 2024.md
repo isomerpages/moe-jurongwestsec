@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 image: /images/Results Release/gcenlevel2024.jpg
 ---
-<h2>Arrangements for the Release of 2024 GCE N-Level Results<br></h2>
+<h2>Arrangements for the Release of 2025 GCE N-Level Results<br></h2>
 <h4><strong>Instructions for results release day:</strong></h4>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp; Students are to report to school hall on <strong>Monday, 16 December 2024</strong> and
 be seated by 1.45 pm.</p>
