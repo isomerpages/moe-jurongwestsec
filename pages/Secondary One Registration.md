@@ -24,6 +24,6 @@ below.</p>
 <p>c) Secondary one School Uniform and Booklist - <a href="https://www.jurongwestsec.moe.edu.sg/about-us/textbooks-and-uniforms/" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 <p>d) Appeal for transfer <strong>into </strong>Jurong West Secondary School
-- <a href="https://go.gov.sg/appealtransferintojwss2025" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+- <a href="https://go.gov.sg/2026jwsec1reg-appeal" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <p></p>
