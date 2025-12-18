@@ -15,7 +15,7 @@ sections:
       subtitle: Secondary One Registration
       id: infopic
       description: Jurong West Secondary School warmly welcomes all newly posted
-        Secondary one students!
+        Secondary One students!
       button: Click here for more info
       url: /seconereg/
       alt: Image alt text
