@@ -16,12 +16,12 @@ using the link provided below.</p>
 into Jurong West Secondary School, you could do so through the link provided
 below.</p>
 <p></p>
-<p>a) Secondary one registration link - <a href="https://go.gov.sg/jwsec1reg2025" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+<p>a) Secondary one registration link - <a href="https://go.gov.sg/jwsec1reg2026" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <p>b) Principal's welcome letter and important information for parents -
-<a href="/files/Sec1reg/Principal_Welcome_Letter_for_2025_Secondary_One.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+<a href="/files/Sec1reg/Principal_Welcome_Letter_for_2026_Secondary_One.pdf" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
-<p>c) Secondary one booklist - <a href="/files/About Us/BookList/Sec_1_book_list_and_uniform_2025.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+<p>c) Secondary one School Uniform and Booklist - <a href="https://www.jurongwestsec.moe.edu.sg/about-us/textbooks-and-uniforms/" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 <p>d) Appeal for transfer <strong>into </strong>Jurong West Secondary School
 - <a href="https://go.gov.sg/appealtransferintojwss2025" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
