@@ -11,6 +11,16 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: Secondary One Registration 2026
+      subtitle: Secondary One Registration
+      id: infopic
+      description: Jurong West Secondary School warmly welcomes all newly posted
+        Secondary one students!
+      button: Click here for more info
+      url: /seconereg/
+      alt: Image alt text
+      image: /images/Sec One Registration/sec1reg2026.jpg
+  - infopic:
       title: GCE N-LEVEL 2025 Results Release
       subtitle: GCE O-LEVEL 2025
       id: infopic
@@ -28,15 +38,6 @@ sections:
       url: /seconereg/
       alt: Image alt text
       image: /images/Highlights/JWSS_WELCOME_BANNER.jpg
-  - infopic:
-      title: Direct School Admission Application 2025
-      subtitle: Direct School Admission
-      id: infopic
-      description: Application for DSA 2025 has closed.
-      button: Click here for more info
-      url: /about-us/direct-school-admission-dsa/
-      alt: Image alt text
-      image: /images/Highlights/DSA_2025.jpg
   - infobar:
       title: Announcements
       description: Latest Updates can be found here!
