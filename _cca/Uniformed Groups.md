@@ -1317,7 +1317,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <summary>The Boys' Brigade</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/BB1.png">
 </div>
 <p><strong>CCA Schedule</strong>
 </p>
@@ -1341,11 +1341,11 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parade Square</p>
+<p>Parade Square or</p>
 <p>Room 1 / Room 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 4.00 – 6.00 pm</p>
+<p>Wednesday 3.30 – 5.30 pm</p>
 <p>(competition training)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1373,8 +1373,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shirley Neo (OIC)</p>
-<p>Mr Chew Wei Sheng (2IC)</p>
-<p>Ms Sivanandam Durgadevi</p>
+<p>Ms Shannen Lim (2IC)</p>
 </td>
 </tr>
 </tbody>
@@ -1386,7 +1385,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Instructor</p>
+<p>&nbsp;Instructors</p>
 </td>
 </tr>
 <tr>
@@ -1394,10 +1393,10 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <p>Sir Dannish Kurniago (Captain)</p>
 <p>Sir Aren Tang (Vice-Captain)</p>
 <p>Sir Colin Chua (Officer)</p>
+<p>Sir Gabriel Ang (Officer)</p>
 <p>&nbsp;</p>
 <p>Mr Arvind Shermen s/o Balamurgan (Primer)</p>
-<p>Mr Julian Tan Wei Heng (Primer)</p>
-<p>Mr Lim Yu Xing Paul (Primer)</p>
+<p>Mr Derek Maung @ Khant Zayar (Primer)</p>
 <p>Mr Marcus Un Ming Han (Primer)</p>
 </td>
 </tr>
@@ -1419,7 +1418,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <p>Company Sergeant Major (CSM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KRISHNAN DARSHAN (S4-CE)</p>
+<p>DANIEL YAP CHEN XI (S4-EE)</p>
 </td>
 </tr>
 <tr>
@@ -1427,7 +1426,8 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <p>Assistant Sergeant Major (ASM)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETHAN NG DING YANG (S4-CE)</p>
+<p>LIEW KAI XUN (S4-EE)</p>
+<p>JOEVI LEE JUN YI (4-RE)</p>
 </td>
 </tr>
 </tbody>
@@ -1456,7 +1456,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <p>&nbsp;JM Fraser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Gold (High Distinction)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -1514,6 +1514,17 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Year</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade Blaze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
 </td>
 </tr>
 <tr>
@@ -1577,130 +1588,184 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Activity</p>
+<p>&nbsp;2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>Activity</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>CCA Open House</p>
+<td rowspan="4" colspan="1">
+<p>January</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January</p>
+<p>CCA Open House</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>BB Day Commemoration</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>January</p>
+<p>CCA Trial for Sec 1s</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Blaze Trainings</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kayaking Course (Sec 2s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blaze Selection</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 First Parade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>&nbsp;</p>
+<p>March</p>
+<p>&nbsp;</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>BB Week Fundraising</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 Induction and Leadership Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB Enrolment Parade and Dedication Service</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
+<p>Secondary 1 Induction</p>
+<p>&amp; March 2D1N Camp</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>JWSS Speech Day Parade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>UG Passing Out Parade (POP)</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>April</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BB Week Collections</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BB Blaze&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April</p>
+<p>UG Passing Out Parade (POP)&nbsp;</p>
+<p>&amp; Sec 4 Handover Ceremony</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BB Promotion Ceremony&nbsp;</p>
+<p>BB Blaze</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BB Dedication Service</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>May</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>CCA Exchange (Life @ JW)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>May</p>
+<p>Musketry Course</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Aid Course with CPR &amp; AED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NDP Trainings</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>August</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>JWSS National Day Parade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>August</p>
+<p>&amp; NDP @ Padang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BB Character Quest&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>August</p>
+<p>BB 95<sup>th</sup> Anniversary Carnival&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>BB Cares</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>October</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Leader Assessment Camp</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BB Adventure Camp</p>
+<p>CCA Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BBGB Combined Schools Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>October</p>
+<p>BB Parents Engagement Session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Promotion Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Open House</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>December</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blaze trainings</p>
+<p>&amp; Fancy Performance Drills trainings</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>BB Share-a-Gift</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>December</p>
 </td>
 </tr>
 </tbody>
