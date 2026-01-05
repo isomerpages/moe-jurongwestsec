@@ -1522,7 +1522,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;WANG ZHONG WEN</p>
+<p>WANG ZHONG WEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -1530,7 +1530,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;JULIAN TAN WEI HENG</p>
+<p>JULIAN TAN WEI HENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
