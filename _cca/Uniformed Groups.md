@@ -1342,11 +1342,11 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <tr>
 <td rowspan="1" colspan="1">
 <p>Parade Square or</p>
-<p>Room 1 / Room 2</p>
+<p>Room 1 / Room 2 / Room 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 3.30 – 5.30 pm</p>
-<p>(competition training)</p>
+<p>Monday or Wednesday 3.30 – 5.30 pm</p>
+<p>competition training</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday 2.30 – 5.30 pm</p>
