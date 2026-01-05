@@ -219,10 +219,7 @@ flouting copyright laws, etc.)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p>
-<br>
 <br><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 2</strong>
@@ -353,8 +350,6 @@ consequences, both offline and online</p>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
-</p>
-<p>
 <br><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 3</strong>
@@ -495,9 +490,6 @@ our beliefs</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 4</strong>
@@ -666,8 +658,6 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 5</strong>
@@ -822,9 +812,7 @@ decision-making</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong><u>INFORMATION FOR PARENTS</u></strong>
 </p>
 <p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
