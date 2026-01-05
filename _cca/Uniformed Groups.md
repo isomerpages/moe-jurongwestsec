@@ -1346,7 +1346,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday or Wednesday 3.30 – 5.30 pm</p>
-<p>competition training</p>
+<p>*competition training</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday 2.30 – 5.30 pm</p>
@@ -1493,6 +1493,47 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Founder’s Award Recipients</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KRISHNAN DARSHAN&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;WANG ZHONG WEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;JULIAN TAN WEI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
 </td>
 </tr>
 </tbody>
