@@ -1342,11 +1342,11 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <tr>
 <td rowspan="1" colspan="1">
 <p>Parade Square or</p>
-<p>Room 1 / Room 2</p>
+<p>Room 1 / Room 2 / Room 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 3.30 – 5.30 pm</p>
-<p>(competition training)</p>
+<p>Monday or Wednesday 3.30 – 5.30 pm</p>
+<p>competition training</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday 2.30 – 5.30 pm</p>
@@ -1770,6 +1770,17 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </tr>
 </tbody>
 </table>
+<h4><strong>Activities &amp; Competitions (2025)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/1__BB_Day_Commemoration.png">
+</div>
+<p>BB Day Commemoration (Jan)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Activities &amp; Competitions (2024)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture2.jpg">
@@ -1787,59 +1798,6 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture5.jpg">
 </div>
 <p>BB Blaze</p>
-<h4><strong>Activities &amp; Competitions (2023)</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture7.jpg">
-</div>
-<p>BB Combined Schools Adventure Camp&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture9.jpg">
-</div>
-<p>Sports and Games Challenge – Nerf Battle @ Canberra Secondary School</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture11.jpg">
-</div>
-<p>BB Cares – Kayak and Clean</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture13.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture12.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture14.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>BB Induction Camp – Outdoor Hike</p>
 </div>
 </details>
 </div>
