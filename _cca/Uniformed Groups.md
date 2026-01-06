@@ -1346,7 +1346,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday or Wednesday 3.30 – 5.30 pm</p>
-<p>competition training</p>
+<p>*competition training</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday 2.30 – 5.30 pm</p>
@@ -1493,6 +1493,47 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 </td>
 <td rowspan="1" colspan="1">
 <p>2021</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Founder’s Award Recipients</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KRISHNAN DARSHAN&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZHONG WEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JULIAN TAN WEI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
 </td>
 </tr>
 </tbody>
@@ -1776,11 +1817,42 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/1__BB_Day_Commemoration.png">
 </div>
 <p>BB Day Commemoration (Jan)</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/2__Kayaking_Course.png">
+</div>
+<p>Kayaking Course (Feb)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/3__Sec_1_Induction_Camp.png">
+</div>
+<p>Sec 1 Induction Camp (Mar)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/4__UG_Passing_Out_Parade___Sec_4_Handover_Ceremony.jpg">
+</div>
+<p>UG Passing Out Parade (POP) &amp; Sec 4 Handover Ceremony (Apr)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/5__Musketry_Course.png">
+</div>
+<p>Musketry Course (May)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/6__First_Aid_Course_with_CPR___AED.jpg">
+</div>
+<p>First Aid Course with CPR &amp; AED (Jun)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/7__JWSS_NDP.jpg">
+</div>
+<p>JWSS NDP (Aug)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/8__BB_95th_Anniversary_Carnival.png">
+</div>
+<p>BB 95<sup>th</sup> Anniversary Carnival (Aug)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/9__BBGB_Combined_School_Camps.jpg">
+</div>
+<p>BBGB Combined School Camps (Nov)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/10__BB_Parents_Engagement_Session.png">
+</div>
+<p>BB Parents Engagement Session (Nov)</p>
 <h4><strong>Activities &amp; Competitions (2024)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/Picture2.jpg">
