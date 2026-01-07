@@ -49,10 +49,16 @@ card for verification when collecting the results.</p>
 </p>
 <p>CourseFinder <a href="www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
-<p>For resources on social and emotional support as well as education and
-career guidance</p>
-<p></p>
-<p></p>
+<p><strong>Resources on social and emotional support as well as education and career guidance</strong>
+</p>
+<p>&nbsp;Information Sheet for Parents <a href="http://go.gov.sg/olevel-ecgparentresources" rel="noopener nofollow" target="_blank">Click Here</a>&nbsp;&nbsp;&nbsp;</p>
+<p><strong>ECG Counselling Support</strong>
+</p>
+<p>Students may contact the ECG Counsellor in our school or make an ECG counselling
+appointment with the ECG Centre @ MOE from 7 - 21&nbsp;January 2026 (Weekdays:
+9.00 am to 5.00 pm; Saturdays: 9.00 am to 12.00 pm) through the appointment
+booking form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
