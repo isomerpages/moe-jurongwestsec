@@ -51,7 +51,9 @@ card for verification when collecting the results.</p>
 </p>
 <p><strong>Resources on social and emotional support as well as education and career guidance</strong>
 </p>
-<p>Information Sheet for Parents <a href="http://go.gov.sg/olevel-ecgparentresources" rel="noopener nofollow" target="_blank">Click Here</a>  <a href="/files/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">Click Here</a>&nbsp;</p>
+<p>Information Sheet for Parents <a href="/files/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">Click Here</a>&nbsp;</p>
+<p>ECG Information for Parents <a href="http://go.gov.sg/olevel-ecgparentresources" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 <p><strong>ECG Counselling Support</strong>
 </p>
 <p>Students may contact the ECG Counsellor in our school or make an ECG counselling
