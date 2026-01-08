@@ -11,6 +11,16 @@ sections:
   - hero:
       background: /images/Highlights/website_banner_v2.gif
   - infopic:
+      title: GCE O-LEVEL 2025 Results Release
+      subtitle: GCE O-LEVEL 2025
+      id: infopic
+      description: The GCE O-Level 2025 results will be released on Wednesday, 14
+        January 2026.
+      button: Click here for more info
+      url: /gceolevel2025
+      alt: Image alt text
+      image: /images/Results Release/Picture1.png
+  - infopic:
       title: Secondary One Registration 2026
       subtitle: Secondary One Registration
       id: infopic
@@ -22,7 +32,7 @@ sections:
       image: /images/Sec One Registration/sec1reg2026.jpg
   - infopic:
       title: GCE N-LEVEL 2025 Results Release
-      subtitle: GCE O-LEVEL 2025
+      subtitle: GCE N-LEVEL 2025
       id: infopic
       description: The GCE N-Level 2025 results will be released on Thursday, 18
         December 2025
@@ -30,17 +40,4 @@ sections:
       url: /gcenlevel2025/
       alt: Image alt text
       image: /images/Results Release/GCE_N_Level.jpg
-  - infopic:
-      title: JWSS OpEn HoUsE 2025
-      subtitle: JWSS Open House 2025
-      id: infopic
-      description: Our JWSS Open House will be held on 22 November 2025 from 9 am - 1 pm!
-      url: /seconereg/
-      alt: Image alt text
-      image: /images/Highlights/JWSS_WELCOME_BANNER.jpg
-  - infobar:
-      title: Announcements
-      description: Latest Updates can be found here!
-      button: read more
-      url: /announcements
 ---
