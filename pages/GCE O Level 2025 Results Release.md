@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>GCE O-Level 2025 Results Release</strong></h3>
 <p>Arrangements for the Release of 2025 GCE O-Level Results on 14 January
-2026 at 2.30pm</p>
+2026 at 2pm</p>
 <h4><strong>Instructions for results release day:</strong></h4>
 <p>a) Students are to report to school hall on <strong><u>Wednesday, 14 January 2026 and be seated by 1.45 pm</u></strong>.</p>
 <p>b) All students must be in proper school uniform with proper shoes.</p>
