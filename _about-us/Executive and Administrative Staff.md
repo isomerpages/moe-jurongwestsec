@@ -25,7 +25,8 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Ms Angela Sim</p>
-<p>Administration Manager</p>
+<p><em>Administration Manager</em>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>02/</p>
@@ -117,7 +118,8 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Ms Jessie Bay</p>
-<p>ICT Associate</p>
+<p><em>ICT Associate</em>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>08/
@@ -199,7 +201,8 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Ms Faridah</p>
-<p>Corporate Support Officer</p>
+<p><em>Corporate Support Officer</em>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>13/
@@ -208,7 +211,8 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Ms Illiana</p>
-<p>Corporate Support Officer</p>
+<p><em>Corporate Support Officer</em>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -235,7 +239,8 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Mr Aw Aik Huat</p>
-<p>Operations Support Officer</p>
+<p><em>Operations Support Officer</em>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<strong>15/</strong>
@@ -252,7 +257,8 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Mdm Chow Soo Kheng</p>
-<p>Operations Support Officer</p>
+<p><em>Operations Support Officer</em>
+</p>
 </th>
 </tr>
 </tbody>
@@ -273,7 +279,8 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Mdm Noorhayati</p>
-<p>Operations Support Officer</p>
+<p><em>Operations Support Officer</em>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<strong>18/</strong>
