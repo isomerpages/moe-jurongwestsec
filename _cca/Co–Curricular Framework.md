@@ -41,14 +41,5 @@ in future context whenever possible.</p>
 </div>
 <p></p>
 <h2>CCAs Schedule</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CCA Updates/UGs_and_Performing_Arts.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CCA Updates/Sports_CCA.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CCA Updates/Clubs_and_Societies.png">
-</div>
-<p></p>
-<p></p>
+<p><a href="/files/CCA/CCA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Click Here </a>to
+view CCA schedule for 2026</p>
