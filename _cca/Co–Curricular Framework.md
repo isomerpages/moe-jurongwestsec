@@ -36,10 +36,7 @@ in future context whenever possible.</p>
 </div>
 <p></p>
 <h2>CCAs in JWSS</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCAs in JWSS.png" src="/images/CCAs%20in%20JWSS.png">
-</div>
-<p></p>
+<p>Click here to view CCAs in 2026</p>
 <h2>CCAs Schedule</h2>
 <p><a href="/files/CCA/CCA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Click Here </a>to
 view CCA schedule for 2026</p>
