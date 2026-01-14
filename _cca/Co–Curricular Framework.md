@@ -38,7 +38,7 @@ in future context whenever possible.</p>
 <h2>CCAs in JWSS</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CCA_2026.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/CCA_2026.png">
 </div>
 <p>CCAs in 2026</p>
 <h2>CCAs Schedule</h2>
