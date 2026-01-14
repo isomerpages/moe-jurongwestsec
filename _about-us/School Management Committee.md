@@ -67,7 +67,8 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Oh Peck Lin</strong> 
-<br>School Staff Developer</p>
+<br><em>School Staff Developer</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>05/</strong>
@@ -171,7 +172,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Wang Cuiyin</strong>
-<br>HOD Mathematics</p>
+<br><em>HOD Mathematics</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +348,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Syaifudean Selamat</strong>
-<br>SH PE &amp; CCA</p>
+<br><em>SH PE &amp; CCA</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -386,7 +389,8 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ang Zhiqiang Alson </strong>
-<br>Operations Manager</p>
+<br><em>Operations Manager</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<strong>34/</strong>
@@ -395,7 +399,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lau Ah Thee</strong>
 </p>
-<p>Operations Manager</p>
+<p><em>Operations Manager</em>
+</p>
 </td>
 </tr>
 </tbody>
