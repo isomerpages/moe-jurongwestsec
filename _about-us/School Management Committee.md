@@ -31,7 +31,7 @@ variant: tiptap
 <p>02/</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Yeoh-Tan Jiing Shyuan</strong> 
+<p><strong>Mdm Diana Goh Boon Lang</strong> 
 <br><em>Vice-Principal</em>
 </p>
 </td>
@@ -67,7 +67,8 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Oh Peck Lin</strong> 
-<br>School Staff Developer</p>
+<br><em>School Staff Developer</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>05/</strong>
@@ -104,7 +105,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Angeline Kiew Mee Ling</strong> 
-<br><em>HOD Educational Technology (Internal)</em>
+<br><em>HOD Educational Technology</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +114,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Dr Nandakumar Mayakestan</strong> 
-<br><em>HOD Humanities</em>
+<br><em>HOD Curriculum Innovation</em>
 </p>
 </td>
 </tr>
@@ -123,14 +124,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Julianah Bte Othman</strong> 
+<br><em>HOD Humanities</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>11/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Choy Chee Ping</strong> 
+<p><strong>Ms Toh Hui Jing</strong> 
 <br><em>HOD Mother Tongue Languages</em>
 </p>
 </td>
@@ -139,7 +142,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chai Jiamin</strong> 
+<p><strong>Ms Chai Jiamin</strong>
 <br><em>HOD Physical Education &amp; Co-Curricular Activities</em>
 </p>
 </td>
@@ -168,8 +171,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Yen Nee</strong>
-<br><em>Year Head (Lower Secondary)</em>
+<p><strong>Ms Wang Cuiyin</strong>
+<br><em>HOD Mathematics</em>
 </p>
 </td>
 </tr>
@@ -179,16 +182,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Tan Yen Nee</strong>
+<br><em>Year Head (Lower Secondary)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>17/</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Lee Kah Onn</strong> 
 <br><em>Year Head (Upper Secondary)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,7 +220,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>17/</p>
+<p>18/</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Fong Sum Yi</strong> 
@@ -224,7 +228,7 @@ variant: tiptap
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>18/</p>
+<p>19/</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Pui Lixian</strong>
@@ -232,7 +236,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>19/</strong>
+<p>&nbsp;<strong>20/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,7 +247,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>20/</strong>
+<p><strong>21/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -252,7 +256,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21/</strong>
+<p><strong>22/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,7 +265,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>22/</strong>
+<p><strong>23/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,7 +276,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>23/</strong>
+<p><strong>24/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,7 +285,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24/</strong>
+<p><strong>25/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,7 +294,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>25/</strong>
+<p><strong>26/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -301,7 +305,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>26/</strong>
+<p><strong>27/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -310,16 +314,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27/</strong>
+<p><strong>28/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chua Wang Zhi</strong> 
+<p><strong>Ms Tham Jian Yun</strong> 
 <br><em>SH Mathematics</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28/</strong>
+<p><strong>29/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -330,7 +334,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>29/</strong>
+<p><strong>30/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,9 +343,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>31/</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Syaifudean Selamat</strong>
+<br><em>SH PE &amp; CCA</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -367,7 +375,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>30/
+<p>32/
 <br>
 </p>
 </th>
@@ -377,20 +385,22 @@ variant: tiptap
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>31/</p>
+<p>33/</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ang Zhiqiang Alson </strong>
-<br>Operations Manager</p>
+<br><em>Operations Manager</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>32/</strong>
+<p>&nbsp;<strong>34/</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lau Ah Thee</strong>
 </p>
-<p>Operations Manager (Adjunc)</p>
+<p><em>Operations Manager</em>
+</p>
 </td>
 </tr>
 </tbody>
