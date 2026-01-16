@@ -6,7 +6,10 @@ variant: tiptap
 ---
 <h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG_1.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG/PSG_1.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG/PSG_2.jpeg">
 </div>
 <h2>Overview</h2>
 <div class="isomer-image-wrapper">
@@ -24,7 +27,7 @@ holistic education for the students.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG_2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG_Programmes.png">
 </div>
 <h2>Contact Us</h2>
 <table style="minWidth: 75px">
@@ -49,13 +52,13 @@ holistic education for the students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Choy Chee Ping</p>
+<p>Mdm Julianah Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD of Mother Tongue</p>
+<p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_chee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_chee_ping@moe.edu.sg</a>
+<p><a href="mailto:julianah_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julianah_othman@moe.edu.sg</a>
 <br>
 </p>
 </td>
@@ -75,13 +78,13 @@ holistic education for the students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Phua Pek Lin</p>
+<p>Mdm Toh Chuay Chuay Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JWSS PSG Vice-Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:peklinphua@gmail.com" rel="noopener noreferrer nofollow" target="_blank">peklinphua@gmail.com</a>
+<p><a href="mailto:Chloetcc@yahoo.com.sg" rel="noopener noreferrer nofollow" target="_blank">chloetcc@yahoo.com.sg</a>
 </p>
 </td>
 </tr>
@@ -95,8 +98,18 @@ holistic education for the students.</p>
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/PSG/PSG_qrcode.png">
 </div>
 <p>Scan the above QR Code to join the PSG! (or visit <a href="https://go.gov.sg/joinjwsspsg" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
+<p>_______________________________________________________________________________________________________</p>
+<h2><strong>PSG ACTIVITIES 2026</strong></h2>
+<p><strong>Secondary 1 Parents Engagement Session</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/psg2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/WhatsApp_Image_2026_01_09_at_16_30_18.jpg">
+</div>
+<p>Our PSG booth in action during the Secondary 1 PES session, welcoming
+new parents and answering questions from Secondary 1 parents.</p>
+<p>________________________________________________________________________________________________________</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG_Gp_pic_2022.png">
 </div>
 <p>
 <br>
