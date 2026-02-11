@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Highlights/JWSS_Highlights_25_th.gif
+      background: /images/Highlights/JWSS_Highlights_25th_V2.gif
   - infopic:
       title: GCE O-LEVEL 2025 Results Release
       subtitle: GCE O-LEVEL 2025
