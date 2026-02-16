@@ -73,7 +73,7 @@ art-related courses in various post-secondary institutions as well as&nbsp;<stro
 <h3>For Further Information on the EAP</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please visit the MOE Elective Programmes Webpage:&nbsp;<a href="https://www.moe.gov.sg/education/secondary/other/enhanced-art-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/secondary/other/enhanced-art-programme</a>&nbsp;or&nbsp;</p>
+<p>Please visit the MOE Elective Programmes Webpage:&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/eap-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/eap-sec</a> &nbsp;or&nbsp;</p>
 </li>
 <li>
 <p>Contact the school at&nbsp;<strong>62623593</strong>&nbsp;or email us
