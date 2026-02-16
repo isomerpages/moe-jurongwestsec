@@ -185,7 +185,7 @@ Learning with a Personal Learning Device&nbsp;&nbsp;</p>
 <p>Parent Kit on Cyber Wellness for Your Child (<a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-cyber-wellness</a>)</p>
 </li>
 <li>
-<p>MOE Cyber Wellness Programme (<a href="https://www.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/programmes/cyber-wellness/</a>&nbsp;)</p>
+<p>MOE Cyber Wellness Programme (<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>)</p>
 </li>
 <li>
 <p>Media Literacy Council (<a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/better-internet-sg</a>)</p>
