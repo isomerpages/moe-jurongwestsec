@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - For Parents/Textbooks and Uniforms.md
       - For Parents/Parent Support Group.md
       - For Parents/Parent's Gateway.md
       - For Parents/.keep
