@@ -21,6 +21,15 @@ sections:
         - title: Announcements
           description: ""
           url: ""
+  - infopic:
+      subtitle: A message from our Principle
+      id: infopic
+      description: “Guided by our vision of nurturing Learners, Thinkers and Leaders
+        of Tomorrow, we equip our students to thrive confidently in a dynamic
+        world.”
+      button: Read full message
+      url: https://www.jurongwestsec.moe.edu.sg/about-us/principals-message/
+      alt: Ms Tan Ming Ming, Principle
   - textcards:
       title: Announcements
       id: textcards
