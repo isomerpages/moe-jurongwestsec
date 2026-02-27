@@ -2,5 +2,5 @@ collections:
   partners:
     output: true
     order:
-      - JWSS Alumni.md
       - School Advisory Committee.md
+      - JWSS Alumni.md
