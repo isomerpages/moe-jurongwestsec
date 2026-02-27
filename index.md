@@ -12,14 +12,30 @@ sections:
       background: /images/Highlights/JWSS_Highlights_25th_V2.gif
       variant: image
       key_highlights:
-        - title: Achievements
+        - title: Our Achievements
           description: ""
           url: ""
-        - title: YEH! 25
-          description: ""
+        - title: JW YEH! 25
+          description: YOUTHFUL.EXCELLENCE.HORIZONS
           url: ""
         - title: Announcements
           description: ""
+          url: ""
+  - textcards:
+      title: Announcements
+      id: textcards
+      cards:
+        - title: Announcement 1
+          description: "Description of Announcement  Date: xx xxx 2026"
+          linktext: Learn more
+          url: ""
+        - title: Announcement 2
+          description: "Description of Announcement  Date: xx xxx 2026"
+          linktext: Learn more
+          url: ""
+        - title: Announcement 3
+          description: "Description of Announcement  Date: xx xxx 2026"
+          linktext: Learn more
           url: ""
   - infopic:
       title: GCE O-LEVEL 2025 Results Release
