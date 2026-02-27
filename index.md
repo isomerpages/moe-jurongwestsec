@@ -21,6 +21,9 @@ sections:
         - title: Announcements
           description: ""
           url: ""
+        - title: For Staff
+          description: ""
+          url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
   - infopic:
       subtitle: A message from our Principle
       id: infopic
@@ -31,19 +34,19 @@ sections:
       url: https://www.jurongwestsec.moe.edu.sg/about-us/principals-message/
       alt: Ms Tan Ming Ming, Principle
   - textcards:
-      title: Announcements
+      title: Highlights
       id: textcards
       cards:
-        - title: Announcement 1
-          description: "Description of Announcement  Date: xx xxx 2026"
+        - title: Highlight 1
+          description: "Description of Highlight   Date: xx xxx 2026"
           linktext: Learn more
           url: ""
-        - title: Announcement 2
-          description: "Description of Announcement  Date: xx xxx 2026"
+        - title: Highlight 2
+          description: "Description of Highlight   Date: xx xxx 2026"
           linktext: Learn more
           url: ""
-        - title: Announcement 3
-          description: "Description of Announcement  Date: xx xxx 2026"
+        - title: Highlight 3
+          description: "Description of Highlight   Date: xx xxx 2026"
           linktext: Learn more
           url: ""
   - infopic:
