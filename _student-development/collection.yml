@@ -1,5 +1,5 @@
 collections:
-  cca:
+  student-development:
     output: true
     order:
       - JWSS Student Leadership.md
