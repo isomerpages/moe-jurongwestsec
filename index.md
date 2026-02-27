@@ -11,6 +11,16 @@ sections:
   - hero:
       background: /images/Highlights/JWSS_Highlights_25th_V2.gif
       variant: image
+      key_highlights:
+        - title: Achievements
+          description: ""
+          url: ""
+        - title: YEH! 25
+          description: ""
+          url: ""
+        - title: Announcements
+          description: ""
+          url: ""
   - infopic:
       title: GCE O-LEVEL 2025 Results Release
       subtitle: GCE O-LEVEL 2025
