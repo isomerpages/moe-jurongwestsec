@@ -2,11 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
-      - For Students/.keep
-      - For Students/Code of Conduct.md
-      - For Students/Portal for Staff & Students.md
-      - For Students/Class Form Teachers 2026.md
-      - For Students/Student Admission.md
       - 2026 School Calendar for Students.md
       - For Parents/.keep
       - For Parents/Parent's Gateway.md
@@ -14,4 +9,9 @@ collections:
       - For Parents/Textbooks and Uniforms.md
       - For Parents/Financial Assistance Scheme.md
       - For Parents/Useful Reading.md
+      - For Students/.keep
+      - For Students/Code of Conduct.md
+      - For Students/Portal for Staff & Students.md
+      - For Students/Class Form Teachers 2026.md
+      - For Students/Student Admission.md
       - Resources for Parents/.keep
