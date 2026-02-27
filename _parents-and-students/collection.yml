@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Textbooks and Uniforms.md
       - Student Admission.md
       - Portal for Staff & Students.md
       - Parent's Gateway.md
