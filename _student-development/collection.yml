@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - JWSS Student Development/JWSS Class Committee.md
       - JWSS Student Development/JWSS CCA Leaders.md
       - JWSS Student Development/JWSS Student Ambassadors.md
       - JWSS Student Development/JWSS Student Council.md
