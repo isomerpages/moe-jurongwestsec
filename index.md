@@ -20,7 +20,7 @@ sections:
           url: ""
         - title: Announcements
           description: ""
-          url: ""
+          url: https://www.jurongwestsec.moe.edu.sg/announcements/
         - title: For Staff
           description: ""
           url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
