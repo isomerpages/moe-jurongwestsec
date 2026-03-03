@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - JWSS Student Development/JWSS Class Committee.md
-      - JWSS Student Development/JWSS CCA Leaders.md
       - JWSS Student Development/.keep
       - Co–Curricular Framework.md
       - Clubs & Societies.md
