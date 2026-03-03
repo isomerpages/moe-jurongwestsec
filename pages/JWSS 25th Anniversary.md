@@ -36,7 +36,7 @@ a community that honours its past and rises boldly toward the future.</p>
 <p><strong>OUR 3 MAIN CELEBRATORY EVENTS</strong>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JWSS Annual Cross-Country" src="/images/25th Anniversary Celebration/JWEST_X.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">JWEST-X</div><div class="isomer-card-description">JWSS Annual Cross-Country</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg/jwest-x/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JWSS Annual Cross-Country" src="/images/25th Anniversary Celebration/JWEST_X.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">JWEST-X</div><div class="isomer-card-description">JWSS Annual Cross-Country</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
