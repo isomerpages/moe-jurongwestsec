@@ -15,12 +15,12 @@ sections:
         - title: JW YEH!
           description: JWSS 25th ANNIVERSARY
           url: /jw-25th-anniversary/
-        - title: Announcements
-          description: ""
-          url: https://www.jurongwestsec.moe.edu.sg/announcements/
         - title: For Staff
           description: ""
           url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
+        - title: Intagram
+          description: ""
+          url: https://www.instagram.com/teamjurongwest/?hl=en
   - infopic:
       subtitle: JWSS 25TH ANNVERSARY
       id: infopic
@@ -30,22 +30,6 @@ sections:
       title: JW YEH!
       image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
       alt: Logo for JWSS 25th Celebration
-  - textcards:
-      title: Highlights
-      id: textcards
-      cards:
-        - title: Highlight 1
-          description: "Description of Highlight   Date: xx xxx 2026"
-          linktext: Learn more
-          url: ""
-        - title: Highlight 2
-          description: "Description of Highlight   Date: xx xxx 2026"
-          linktext: Learn more
-          url: ""
-        - title: Highlight 3
-          description: "Description of Highlight   Date: xx xxx 2026"
-          linktext: Learn more
-          url: ""
   - infopic:
       title: GCE O-LEVEL 2025 Results Release
       subtitle: GCE O-LEVEL 2025
