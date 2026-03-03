@@ -36,7 +36,5 @@ and cool colours creates visual balance, symbolising harmony between tradition
 and innovation.</p>
 <p>It tells a story of a community that has moved the earth and touched the
 sky, honouring the past while confidently embracing the future.</p>
-<p></p>
-<p></p>
-<p></p>
+<hr>
 <p></p>
