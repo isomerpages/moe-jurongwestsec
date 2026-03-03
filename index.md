@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Highlights/JWSS_Highlights_25th_V2.gif
+      background: /images/Highlights/jwss_highlights_25th.gif
       variant: image
       key_highlights:
         - title: JW YEH!
