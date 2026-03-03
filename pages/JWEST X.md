@@ -4,4 +4,5 @@ permalink: /jwest-x/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p><strong>Exciting things coming your way!!!</strong>
+</p>
