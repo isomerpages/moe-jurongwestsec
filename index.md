@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: JW YEH!
           description: JWSS 25th ANNIVERSARY
-          url: ""
+          url: /jw-25th-anniversary/
         - title: Announcements
           description: ""
           url: https://www.jurongwestsec.moe.edu.sg/announcements/
