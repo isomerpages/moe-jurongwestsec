@@ -28,7 +28,7 @@ sections:
       button: Read full message
       url: /jw-25th-anniversary/
       title: JW YEH!
-      image: /images/image__2_.png
+      image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
       alt: Logo for JWSS 25th Celebration
   - textcards:
       title: Highlights
