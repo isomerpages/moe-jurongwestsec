@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners/JWSS Alumni.md
-      - Our Partners/School Advisory Committee.md
-      - Our Partners/.keep
       - Principal's Message.md
       - School Information.md
       - School Management Committee.md
       - Executive and Administrative Staff.md
+      - Our Partners/.keep
+      - Our Partners/JWSS Alumni.md
+      - Our Partners/School Advisory Committee.md
       - JWSS Student Leadership/.keep
       - School Canteen.md
       - School Safety SOP.md
