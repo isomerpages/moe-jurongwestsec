@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: YOUTHFUL.EXCELLENCE.HORIZONS
       button: Read full message
-      url: https://www.jurongwestsec.moe.edu.sg/about-us/principals-message/
+      url: /jw-25th-anniversary/
       title: JW YEH!
       image: /images/image__2_.png
       alt: Logo for JWSS 25th Celebration
