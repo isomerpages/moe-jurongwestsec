@@ -12,8 +12,8 @@ sections:
       background: /images/Highlights/JWSS_Highlights_25th_V2.gif
       variant: image
       key_highlights:
-        - title: JW YEH! 25
-          description: YOUTHFUL.EXCELLENCE.HORIZONS
+        - title: JW YEH!
+          description: JWSS 25th ANNIVERSARY
           url: ""
         - title: Announcements
           description: ""
