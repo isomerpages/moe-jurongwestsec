@@ -32,5 +32,3 @@ hallmarks of the JW Spirit.</p>
 25-year journey, while the balance of warm and cool tones reflects harmony
 between heritage and innovation. Together, the logo tells the story of
 a community that honours its past and rises boldly toward the future.</p>
-<hr>
-<p></p>
