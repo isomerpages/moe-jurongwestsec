@@ -28,7 +28,7 @@ sections:
       button: Read full message
       url: https://www.jurongwestsec.moe.edu.sg/about-us/principals-message/
       title: JW YEH!
-      image: /images/image__1_.png
+      image: /images/image__2_.png
   - textcards:
       title: Highlights
       id: textcards
