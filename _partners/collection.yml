@@ -1,5 +1,4 @@
 collections:
   partners:
     output: true
-    order:
-      - JWSS Alumni.md
+    order: []
