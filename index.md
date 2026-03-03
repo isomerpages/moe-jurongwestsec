@@ -22,14 +22,13 @@ sections:
           description: ""
           url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
   - infopic:
-      subtitle: A message from our Principle
+      subtitle: JWSS 25TH ANNVERSARY
       id: infopic
-      description: “Guided by our vision of nurturing Learners, Thinkers and Leaders
-        of Tomorrow, we equip our students to thrive confidently in a dynamic
-        world.”
+      description: YOUTHFUL.EXCELLENCE.HORIZONS
       button: Read full message
       url: https://www.jurongwestsec.moe.edu.sg/about-us/principals-message/
-      alt: Ms Tan Ming Ming, Principle
+      title: JW YEH!
+      image: /images/image__1_.png
   - textcards:
       title: Highlights
       id: textcards
