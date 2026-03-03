@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - JWSS Alumni.md
       - Principal's Message.md
       - School Information.md
       - School Advisory Committee.md
@@ -16,4 +15,5 @@ collections:
       - School Canteen.md
       - School Safety SOP.md
       - School Yearbooks.md
+      - JWSS Alumni.md
       - Contact Us.md
