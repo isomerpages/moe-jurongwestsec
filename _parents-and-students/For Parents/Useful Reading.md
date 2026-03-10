@@ -2,7 +2,7 @@
 title: Useful Reading
 permalink: /parents-and-students/resources-for-parents/useful-reading/
 description: ""
-third_nav_title: Resources for Parents
+third_nav_title: For Parents
 ---
 [Transitioning Back to School](files/Parent%20Kit%20-%20Transitioning%20Back%20to%20School.pdf)
 

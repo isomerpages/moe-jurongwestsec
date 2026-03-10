@@ -3,6 +3,7 @@ title: Textbooks and Uniforms
 permalink: /about-us/textbooks-and-uniforms/
 description: ""
 variant: tiptap
+third_nav_title: For Parents
 ---
 <h3>School Bookshop</h3>
 <p><strong>Pacific Bookstores</strong>

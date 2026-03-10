@@ -3,6 +3,7 @@ title: Financial Assistance Scheme
 permalink: /about-us/financial-assistance-for-students/
 description: ""
 variant: markdown
+third_nav_title: For Parents
 ---
 **APPLICATION FOR MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS)** 
 

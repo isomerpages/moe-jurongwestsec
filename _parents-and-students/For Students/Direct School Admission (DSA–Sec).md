@@ -3,6 +3,7 @@ title: Direct School Admission (DSA–Sec)
 permalink: /about-us/direct-school-admission-dsa/
 description: ""
 variant: tiptap
+third_nav_title: For Students
 ---
 <p><strong>DIRECT SCHOOL ADMISSION (DSA) TO JWSS</strong>
 </p>

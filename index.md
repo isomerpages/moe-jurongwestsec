@@ -9,8 +9,27 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Highlights/JWSS_Highlights_25th_V2.gif
+      background: /images/Highlights/jwss_highlights_25th.gif
       variant: image
+      key_highlights:
+        - title: JW YEH!
+          description: JWSS 25th ANNIVERSARY
+          url: /jw-25th-anniversary/
+        - title: For Staff
+          description: ""
+          url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
+        - title: Intagram
+          description: ""
+          url: https://www.instagram.com/teamjurongwest/?hl=en
+  - infopic:
+      subtitle: JWSS 25TH ANNVERSARY
+      id: infopic
+      description: YOUTHFUL.EXCELLENCE.HORIZONS
+      button: Read full message
+      url: /jw-25th-anniversary/
+      title: JW YEH!
+      image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
+      alt: Logo for JWSS 25th Celebration
   - infopic:
       title: GCE O-LEVEL 2025 Results Release
       subtitle: GCE O-LEVEL 2025

@@ -1,7 +1,8 @@
 collections:
-  cca:
+  student-development:
     output: true
     order:
+      - JWSS Student Development/.keep
       - Co–Curricular Framework.md
       - Clubs & Societies.md
       - Performing Arts.md

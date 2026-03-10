@@ -3,6 +3,7 @@ title: Parent Support Group
 permalink: /parents-and-students/parent-support-group/
 description: ""
 variant: tiptap
+third_nav_title: For Parents
 ---
 <h2></h2>
 <div class="isomer-image-wrapper">

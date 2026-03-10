@@ -2,10 +2,17 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Student Admission.md
-      - Portal for Staff & Students.md
-      - Parent's Gateway.md
-      - Parent Support Group.md
-      - Class Form Teachers 2026.md
+      - 2026 School Calendar for Students.md
+      - For Parents/.keep
+      - For Parents/Parent's Gateway.md
+      - For Parents/Parent Support Group.md
+      - For Parents/Textbooks and Uniforms.md
+      - For Parents/Financial Assistance Scheme.md
+      - For Parents/Useful Reading.md
+      - For Students/Direct School Admission (DSA–Sec).md
+      - For Students/.keep
+      - For Students/Code of Conduct.md
+      - For Students/Portal for Staff & Students.md
+      - For Students/Class Form Teachers 2026.md
+      - For Students/Student Admission.md
       - Resources for Parents/.keep
-      - Resources for Parents/Useful Reading.md
