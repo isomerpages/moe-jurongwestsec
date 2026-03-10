@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - JWSS Student Leadership/JWSS Student Council.md
       - JWSS Student Leadership/.keep
       - Co–Curricular Framework.md
       - Clubs & Societies.md
