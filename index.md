@@ -18,7 +18,7 @@ sections:
         - title: For Staff
           description: ""
           url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
-        - title: Intagram
+        - title: Instagram
           description: ""
           url: https://www.instagram.com/teamjurongwest/?hl=en
   - infopic:
