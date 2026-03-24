@@ -60,4 +60,13 @@ sections:
       url: /gcenlevel2025/
       alt: Image alt text
       image: /images/Results Release/GCE_N_Level.jpg
+  - infopic:
+      title: Lead Up to JWest-X
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Click here
+      url: JWest X
+      image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
+      alt: Image alt text
 ---
