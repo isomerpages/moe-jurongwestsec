@@ -33,8 +33,8 @@ sections:
   - infopic:
       title: Lead Up to JWest-X
       id: infopic
-      description: Calling on all JWSS students, staff and partners to participate in
-        this lead up event!
+      description: Together, let’s achieve 25,000 km — calling all JWSS students,
+        staff, and partners to be part of this lead-up event!
       button: Click here
       url: JWest-x
       image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
