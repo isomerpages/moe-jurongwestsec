@@ -64,7 +64,8 @@ sections:
       title: Lead Up to JWest-X
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
+      description: Calling on all JWSS students, staff and partners to participate in
+        this lead up event!
       button: Click here
       url: JWest-x
       image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
