@@ -66,7 +66,7 @@ sections:
       id: infopic
       description: Infopic description
       button: Click here
-      url: JWest X
+      url: JWest-x
       image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
       alt: Image alt text
 ---
