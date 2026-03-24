@@ -31,6 +31,16 @@ sections:
       image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
       alt: Logo for JWSS 25th Celebration
   - infopic:
+      title: Lead Up to JWest-X
+      subtitle: Add an image and text
+      id: infopic
+      description: Calling on all JWSS students, staff and partners to participate in
+        this lead up event!
+      button: Click here
+      url: JWest-x
+      image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
+      alt: Image alt text
+  - infopic:
       title: GCE O-LEVEL 2025 Results Release
       subtitle: GCE O-LEVEL 2025
       id: infopic
@@ -60,14 +70,4 @@ sections:
       url: /gcenlevel2025/
       alt: Image alt text
       image: /images/Results Release/GCE_N_Level.jpg
-  - infopic:
-      title: Lead Up to JWest-X
-      subtitle: Add an image and text
-      id: infopic
-      description: Calling on all JWSS students, staff and partners to participate in
-        this lead up event!
-      button: Click here
-      url: JWest-x
-      image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
-      alt: Image alt text
 ---
