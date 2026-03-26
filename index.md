@@ -31,6 +31,15 @@ sections:
       image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
       alt: Logo for JWSS 25th Celebration
   - infopic:
+      title: Lead Up to JWest-X
+      id: infopic
+      description: Together, let’s achieve 25,000 km — calling all JWSS students,
+        staff, and partners to be part of this lead-up event!
+      button: Click here
+      url: /jwest-x/
+      image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
+      alt: Image alt text
+  - infopic:
       title: GCE O-LEVEL 2025 Results Release
       subtitle: GCE O-LEVEL 2025
       id: infopic
@@ -50,14 +59,4 @@ sections:
       url: /seconereg/
       alt: Image alt text
       image: /images/Sec One Registration/sec1reg2026.jpg
-  - infopic:
-      title: GCE N-LEVEL 2025 Results Release
-      subtitle: GCE N-LEVEL 2025
-      id: infopic
-      description: The GCE N-Level 2025 results will be released on Thursday, 18
-        December 2025
-      button: Click here for more info
-      url: /gcenlevel2025/
-      alt: Image alt text
-      image: /images/Results Release/GCE_N_Level.jpg
 ---

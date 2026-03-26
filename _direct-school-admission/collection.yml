@@ -1,0 +1,5 @@
+collections:
+  direct-school-admission:
+    output: true
+    order:
+      - Direct School Admission (DSA–Sec).md
