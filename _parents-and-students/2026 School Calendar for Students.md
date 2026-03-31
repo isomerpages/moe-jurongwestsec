@@ -9,4 +9,4 @@ variant: tiptap
 </div>
 <p><a href="/files/2026_JWSS__Calendar___Student_version_for_JWSS_website____FEB.pdf" rel="noopener nofollow" target="_blank">Click H</a>
 <a href="/files/JWSS Student Calendar/2026_JWSS__Calendar___Student_version_for_JWSS_website____Apr.pdf" rel="noopener nofollow" target="_blank">e</a><a href="/files/2026_JWSS__Calendar___Student_version_for_JWSS_website____FEB.pdf" rel="noopener nofollow" target="_blank">re</a> to
-download the 2026 School Calendar for Students</p>
+download the 2026 School Calendar for Students (Updated 1 April 2026)</p>
