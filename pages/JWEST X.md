@@ -8,6 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg">
 </div>
+<p>Click Here for Updates!!! ==&gt;<a href="https://sites.google.com/moe.edu.sg/jwsscrosscountry2026/home" rel="noopener nofollow" target="_blank">JWEST-X Google Site</a>
+</p>
+<p></p>
 <p>As part of our 25th Anniversary Celebrations, we warmly invite you to
 take part in the JWest-X Virtual Challenge — a collective fitness goal
 that captures our JW Spirit: a school brimming with youthful energy, a
