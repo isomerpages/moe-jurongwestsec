@@ -15,6 +15,9 @@ sections:
         - title: JW YEH!
           description: JWSS 25th ANNIVERSARY
           url: /jw-25th-anniversary/
+        - title: Direct School Admission
+          description: (DSA)
+          url: /about-us/direct-school-admission-dsa/
         - title: For Staff
           description: ""
           url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
