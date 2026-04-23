@@ -15,15 +15,15 @@ sections:
         - title: JW YEH!
           description: JWSS 25th ANNIVERSARY
           url: /jw-25th-anniversary/
+        - title: Direct School Admission
+          description: (DSA)
+          url: ""
         - title: For Staff
           description: ""
           url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
         - title: Instagram
           description: ""
           url: https://www.instagram.com/teamjurongwest/?hl=en
-        - title: Direct School Admission
-          description: (DSA)
-          url: ""
   - infopic:
       subtitle: JWSS 25TH ANNVERSARY
       id: infopic
