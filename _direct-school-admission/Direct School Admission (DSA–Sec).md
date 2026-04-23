@@ -176,14 +176,18 @@ Jewel Programme upon joining JWSS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>STEM &amp; Sutainability</strong>
+<p><strong>STEM &amp; Sustainability</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>STEM &amp; Sustainability Club</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>At JWSS, we are committed to deepening students’ knowledge and skills
