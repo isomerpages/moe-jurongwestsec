@@ -1975,32 +1975,23 @@ their rules of the game of Hockey.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Netball/Netball_20260422_01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Netball/Netball_20260422_02.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Netball/Netball_20260422_03.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Netball/Netball_20260422_06.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Netball/Netball_20260422_07.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Netball/Netball_20260422_08.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball14.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:500px" height="auto" width="100%" src="/images/netball1.png">
-</div>
-<p></p>
-<p></p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
