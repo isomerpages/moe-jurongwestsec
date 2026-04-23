@@ -9,8 +9,8 @@ variant: tiptap
 <p><strong><u>A. INTRODUCTION</u></strong>
 </p>
 <p>Jurong West Secondary School (JWSS) welcomes Primary Six students eligible
-for Secondary One admission in 2026 with talents in various areas to apply
-for Direct School Admission to Secondary One in 2025.</p>
+for Secondary One admission in 2027 with talents in various areas to apply
+for Direct School Admission to Secondary One in 2026.</p>
 <p><strong><u>B. WHY APPLY FOR DSA TO JWSS</u></strong>
 </p>
 <p>In JWSS, we place a premium on the holistic development of our students.
@@ -43,14 +43,13 @@ areas:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Sports and Games teams have been making steady progress, with notable
-recent achievements. The school’s Basketball boys team secured a West Zone
-Top 4 placing in 2018, 2023, and 2025. The Volleyball boys team has consistently
-achieved West Zone Top 4 placings since 2015 and attained National Top
-8 and Top 4 placings for the C Division in 2022 and 2023 respectively,
-as well as a National Top 8 placing for the B Division in 2025. Our Netball
-girls have also performed consistently, achieving Top 8 placings in the
-West Zone Inter-School Competition.</p>
+<p>Our Sports and Games have been making steady progress with the most recent
+achievements being the school’s Basketball boys achieving West Zone Top
+4 Placing in 2018, 2023 and 2025.&nbsp; Volleyball boys achieved West Zone
+Top 4 Placings since 2015 and have attained Nationals Top 8 and Top 4 Placings
+for C Boys in 2022 and 2023 respectively and Nationals Top 8 in B Boys
+in 2025. Our Netball Girls have also been performing consistently to attain
+Top 8 Placings within the West Zone Inter-School Competition.</p>
 </td>
 </tr>
 <tr>
@@ -61,12 +60,12 @@ West Zone Inter-School Competition.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Modern Dance CCA has been performing well at the Singapore Youth Festival
-(SYF) Presentations, earning Certificates of Distinction and Accomplishment
-over the years. Students enjoy multiple opportunities to perform at both
-school and external events, such as Open House, National Day celebrations,
-and community showcases. They also attend specialised workshops to explore
-a variety of dance genres, including contemporary, hip-hop, jazz, and other
+<p>Our Modern Dance CCA has also been doing well at the Singapore Youth Festival
+(SYF) Presentations winning Certificates of Distinctions and Accomplishments
+over the years. Students enjoy multiple opportunities to perform at school
+and external events, such as Open House, National Day celebrations, and
+community showcases. They also attend specialised workshops to explore
+diverse dance genres, including contemporary, hip-hop, and Jazz, and other
 styles. Through these rich experiences, students hone their technical skills,
 build confidence, and develop a deep passion for the performing arts.</p>
 </td>
@@ -81,12 +80,11 @@ build confidence, and develop a deep passion for the performing arts.</p>
 <td rowspan="1" colspan="1">
 <p>Our Student Leadership programme offers a wide range of platforms for
 students to take on leadership roles in the school, such as the Student
-Council and Student Ambassadors. JWSS student leaders are provided with
-numerous highly customised developmental opportunities, including the Leadership
-Training Camp, community service projects, public speaking workshops, and
-CCA leadership roles. These experiences empower them to grow as learners,
-thinkers, and leaders, enabling them to make a positive impact in both
-the school and the wider community.</p>
+Council and the Student Ambassadors. JWSS Student Leaders are exposed to
+numerous highly customised developmental opportunities such as the Leadership
+Training Camp, Community Service projects, Public Speaking Workshops and
+CCA Leadership opportunities. These will enable them to shine as learners,
+thinkers and leaders to make a positive impact in school and the community.</p>
 </td>
 </tr>
 <tr>
@@ -99,18 +97,18 @@ the school and the wider community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JWSS is well known in the West for its well-established Uniformed Groups
-(UGs). Notably, both the Boys’ Brigade and Red Cross Youth have received
-Gold Awards for 14 years. In addition, the Boys’ Brigade was awarded the
-High Distinction Award in 2023, while the Red Cross Youth received the
-Excellent Unit Award in 2024.</p>
-<p>Our UGs develop students’ leadership potential in various ways. Leadership
-development courses equip students with foundational skills in leading
-others. Students are regularly given opportunities to take on leadership
-roles, such as organising camps and events, and intentionally designing
-activities to help their juniors grow as individuals. The UGs also foster
-a strong culture of mentorship, where senior members demonstrate care and
-concern for their juniors, nurturing them to become leaders of character.</p>
+<p>JWSS is well known in the West for its highly established Uniformed Groups
+(UGs). Notably, both Boys’ Brigade and Red Cross Youth have been receiving
+Gold Awards for 15 and 12 years respectively. The Boys' Brigade also received
+the High Distinction (Gold Award) in 2022, 2023 and 2024 while Red Cross
+Youth received the Excellent Unit Award in 2024.</p>
+<p>The UGs develop our students’ leadership potential in various ways. Leadership
+development courses impart to students the basics of leading others. They
+are regularly given opportunities to take on leadership roles, such as
+organising camps and events, and purposefully designing activities to help
+their juniors grow as individuals. The UGs also have a strong culture of
+mentorship, wherein senior members exercise care and concern for their
+juniors and nurture them to be leaders of character.</p>
 <p>As UG cadets, students will be developed to be confident leaders and inspire
 others to make a positive impact to the society and the nation.</p>
 </td>
@@ -123,41 +121,42 @@ others to make a positive impact to the society and the nation.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JWSS is one of only two Secondary schools in the West offering the Enhanced
-Art Programme (EAP) for artistically talented students. The EAP is a two-year
-Upper Secondary programme designed to expose students to a variety of art
-media, creative processes, professions, and practices within the arts and
-creative industries. It also provides in-depth development in selected
-art practices, enabling students to further their passion in fields such
-as art, design, and multimedia.</p>
-<p>At the Lower Secondary level, our two-year Art JeWel talent development
-programme offers students the opportunity to nurture and grow their artistic
-expertise.</p>
+<p>JWSS is one of only 2 secondary schools in the west to offer the Enhanced
+Art Programme (EAP) to artistically talented students. The EAP is a 2-year
+Upper Secondary programme that aims to expose students to different art
+media, creative processes, professions and practices in the arts and creative
+industries, while providing in-depth development of students in selected
+art practices which will enable them to further their passion in fields
+of art, design and multimedia. Our 2-year Art Jewel talent development
+programme in Lower Secondary provides our Art talents opportunities to
+nurture and grow their expertise in the area of Art. Students enrolled
+through DSA Visual Arts will be expected to join the Art Club CCA and Art
+Jewel Programme upon joining JWSS.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>STEM</strong>
 </p>
-<p><strong>(Science, Technology, Engineering &amp; Math)</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>At JWSS, we are committed to deepening students’ knowledge and skills
-in STEM and Sustainability. Through participation in our STEM and Sustainability
-Club CCA, students develop problem-solving skills and advocate for the
-use of STEM solutions to address sustainability challenges.</p>
-<p>Students can also join our STEM JeWel talent development programme, which
+in STEM and Sustainability. Through participation in STEM-related CCAs,
+such as the STEM and Sustainability Club, students develop problem-solving
+skills and advocate for the use of STEM solutions to address sustainability
+challenges.</p>
+<p>Students can also join our STEM Jewel talent development programme, which
 offers Math and Science talents opportunities to nurture and grow their
 expertise through conducting scientific research on sustainability-related
-issues.</p>
+issues. Students enrolled through DSA STEM are expected to join the STEM
+and Sustainability Club CCA upon joining JWSS.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong><u>C. APPLICATION CRITERIA*</u></strong>
 </p>
-<p>Primary Six (P6) students eligible for Secondary One in 2026 may apply
+<p>Primary Six (P6) students eligible for Secondary One in 2027 may apply
 for Direct School Admission to Secondary One in JWSS based on their&nbsp;<strong>holistic achievements and talents</strong>&nbsp;as
 well as the following criteria:</p>
 <table style="minWidth: 50px">
@@ -231,7 +230,7 @@ Accomplishment, Commendation)</p>
 <td rowspan="1" colspan="1">
 <p>Students applying should have a keen interest and passion in advocacy
 as well as leading and serving the student body and the community, as well
-as satisfy&nbsp;<strong>at least two </strong>of<strong> </strong>the following:</p>
+as satisfy&nbsp;<strong>at least two of </strong>the following:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; held the position of Prefect, Student
 Councillor, Ambassadorial roles or other equivalent leadership roles in
 Primary School</p>
@@ -241,6 +240,8 @@ of playing key leadership roles in their respective CCAs in Primary School</p>
 school-level or community-level programmes or projects</p>
 <p><em>#Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
+<p>Students applying through leadership DSA should also obtain a Conduct
+Grade of ‘Very Good’ or better in Primary 5 (overall) and Primary 6 (mid-Year)</p>
 </td>
 </tr>
 <tr>
@@ -264,6 +265,8 @@ Councillor, Ambassadorial roles or other equivalent leadership roles in
 Primary School</p>
 <p><em>#Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
+<p>Students applying through UG DSA should also obtain a Conduct Grade of
+‘Very Good’ or better in Primary 5 (overall) and Primary 6 (mid-Year)</p>
 </td>
 </tr>
 <tr>
@@ -284,13 +287,12 @@ or National level art exhibitions or relevant events</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; took part in school-based art exhibitions
 or similar events</p>
 <p>* Applicants do not need to submit actual portfolios with their applications.
-Applicants may choose to bring their actual portfolios when he/she attends
-the aptitude test.</p>
+Applicants may choose to bring their actual portfolios when he/she sit
+attend the interview.</p>
 <p>** Students admitted through DSA for the Visual Arts, Design and Media
 [Visual Arts] should have the intention of pursuing Art as a GCE O-level
-subject at the Upper Secondary level. They are also expected to join the
-Art Club CCA and Art JeWel Talent Development Programme upon joining JWSS.
-&nbsp;</p>
+subject at the Upper Secondary level. They would also be expected to join
+the Art Club CCA and Art Jewel Talent Development Programme of the school.</p>
 <p><em>#Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 </td>
@@ -298,8 +300,6 @@ Art Club CCA and Art JeWel Talent Development Programme upon joining JWSS.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>STEM</strong>
-</p>
-<p><strong>(Science, Technology, Engineering &amp; Math)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,11 +318,11 @@ activities</p>
 skills during audition</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; demonstrate a spirit of innovation
 and perseverance</p>
-<p>* Applicants do not need to submit their records or&nbsp; portfolios with
-their applications. Applicants may choose to bring their records and/or
-portfolios when he/she attends the aptitude test.</p>
+<p>* Applicants do not need to submit their records or portfolios with their
+applications. Applicants may choose to bring their records and/or portfolios
+when he/she attends the trials.</p>
 <p>** Students admitted through DSA for STEM are expected to join the STEM
-and Sustainability Club CCA upon joining JWSS.</p>
+and Sustainability CCA of the school.</p>
 <p><em>#Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 </td>
@@ -348,7 +348,7 @@ assessing the potential of the applicants.</p>
 <p>Submission of online application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am – 3 Jun 2025, 3pm</p>
+<p>6 May 2026, 11am – 2 Jun 2026, 4:30pm</p>
 </td>
 </tr>
 <tr>
@@ -359,7 +359,7 @@ assessing the potential of the applicants.</p>
 <p>Selection Stage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun – 4 Sep 2025</p>
+<p>29 Jun 2026 – 28 Aug 2026</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +370,7 @@ assessing the potential of the applicants.</p>
 <p>Exercise School Preference Stage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Oct – 31 Oct 2025</p>
+<p>19 Oct – 23 Oct 2026</p>
 </td>
 </tr>
 <tr>
@@ -381,7 +381,7 @@ assessing the potential of the applicants.</p>
 <p>School Allocation Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late Nov</p>
+<p>Mid Nov</p>
 </td>
 </tr>
 </tbody>
@@ -390,15 +390,15 @@ assessing the potential of the applicants.</p>
 </p>
 <p>Centralised DSA-Sec Application Process:</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025 to 3
-June 2025. For more details, please refer to MOE website –&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 6 May 2026 to 2
+June 2026. For more details, please refer to MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong><u>E. SELECTION PROCESS BY SCHOOL</u></strong>
 </p>
-<p>All shortlisted students will be informed latest by&nbsp;<strong><u>8 Jul 2025</u></strong>&nbsp;to
+<p>All shortlisted students will be informed latest by&nbsp;<strong><u>7 Jul 2026, Tuesday</u></strong>&nbsp;to
 attend a first round of an interview, an audition, sports trial, visual
-art aptitude test or task challenges depending on the DSA area.</p>
-<p>Students who are shortlisted will be invited to attend a second round
-of interview at a later date.</p>
+art aptitude test or problem solving tasks depending on the DSA area.</p>
+<p>Selected students will then be further invited for a <strong>second round of interview</strong> with
+the Student Development Team at a further date.</p>
 <p>Students who are shortlisted to attend the interview and trials are to
 report to the school’s General Office where the teacher overseeing the
 DSA Exercise will meet them to give further instructions.</p>
@@ -433,8 +433,8 @@ as follows:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Trials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Jul 25 (Fri) from 2.30pm
-<br>21 Jul 25 (Mon) from 3.30pm (Standby date)</p>
+<p>13 Jul 2026 (Mon) from 3:30pm
+<br>20 Jul 2026 (Mon) from 3:30pm (Standby date)</p>
 </td>
 </tr>
 <tr>
@@ -445,8 +445,8 @@ as follows:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Trials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Jul 25 (Thurs) from 3.30pm
-<br>21 Jul 25 (Mon) from 3.30pm (Standby date)</p>
+<p>9 Jul 2026 (Thurs) from 3:30pm
+<br>20 Jul 2026 (Mon) from 3:30pm (Standby date)</p>
 </td>
 </tr>
 <tr>
@@ -457,8 +457,8 @@ as follows:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Trials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Jul 25 (Fri) from 4.00pm
-<br>21 Jul 25 (Mon) from 3.30pm (Standby date)</p>
+<p>17 Jul 2026 (Fri) from 2:30pm
+<br>21 Jul 2026 (Tues) from 3:30pm (Standby date)</p>
 </td>
 </tr>
 <tr>
@@ -469,23 +469,38 @@ as follows:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visual Arts Task</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Jul 25 (Tues) from 2.00pm
-<br>16 Jul 25 (Wed) from 2.00pm (Standby date)</p>
+<p>14 Jul 2026 (Tues) from 2pm
+<br>15 Jul 2026 (Wed) from 2pm (Standby date)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leadership,
-<br>Boys’ Brigade,
-<br>Red Cross Youth</p>
+<p>Leadership
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write-Up (Leadership only)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write-Up (Leadership)</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interview</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Jul 25 (Tues) from 2.00pm (Leadership)
-<br>23 Jul 25 (Wed) from 3.30pm (UG)</p>
+<p>14 Jul 2026 (Tues) from 2:00pm (Leadership)
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade,
+<br>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interview</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Jul 2026 (Mon) from 3:00pm (UG)</p>
 </td>
 </tr>
 <tr>
@@ -496,7 +511,7 @@ as follows:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Auditions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Jul 25 (Mon) from 3.00pm</p>
+<p>20 Jul 2026 (Mon) from 3:30pm</p>
 </td>
 </tr>
 <tr>
@@ -505,10 +520,10 @@ as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Task Challenge</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interview&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interview&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Jul 25 (Fri) from 2.30pm</p>
+<p>22 Jul 2026 (Wed) from 3:00pm</p>
 </td>
 </tr>
 </tbody>
@@ -517,20 +532,19 @@ as follows:</p>
 </p>
 <p><strong><u>F. RELEASE OF OUTCOME OF DSA-SEC EXERCISE</u></strong>
 </p>
-<p>"You will receive notification from the school by <u>4 September 2025</u>,
+<p>"You will receive notification from the school by <u>28 August 2026</u>,
 if your child has been shortlisted to undergo Direct School Admission (DSA)
-selection. All applicants will receive their application outcomes between
-25 Aug and 4 Sep 2025."</p>
+selection. All applicants will receive their application outcomes between <u>17 to 28 August 2026</u>.</p>
 <p>Applicants given CO are guaranteed admission only if they:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indicate the school during School
-Preference Submission (27 Oct – 31 Oct 2025)</p>
+Preference Submission (19 Oct – 23 Oct 2026)</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qualify for an academic course offered
 by the school (i.e. G3, G2, G1) based on PSLE results.</p>
 <p>DSA-Sec allocation results will be released through Primary Schools together
 with PSLE results.</p>
 <p>Please note that students successfully allocated to their DSA-Sec schools
 will&nbsp;<strong><u>NOT</u>&nbsp;</strong>be allowed to participate in
-the annual S1 Posting Exercise to opt for secondary schools and are expected
+the annual S1 Posting Exercise to opt for secondary schools, and are expected
 to honour the commitment to the allocated DSA-Sec school for the entire
 duration of the programme. They will also&nbsp;<strong><u>NOT</u>&nbsp;</strong>be
 allowed to transfer to another school after the release of the PSLE results.</p>
@@ -539,9 +553,8 @@ to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <p><strong><u>G. ENQUIRIES</u></strong>
 </p>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+<p>For more information on DSA-Sec, please refer to the MOE website at
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
@@ -562,10 +575,9 @@ you may contact any one of the following staff:</p>
 <br>Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chai_jiamin@moe.edu.sg</a>
-</p>
+<p>chai_jiamin@moe.edu.sg</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Telephone:</p>
 <p>6262 3593</p>
 </td>
@@ -573,12 +585,11 @@ you may contact any one of the following staff:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Syaifudean Selamat
-<br>Coordinator,
+<br>Subject Head,
 <br>Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">syaifudean_selamat@moe.edu.sg</a>
-</p>
+<p>syaifudean_selamat@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -586,15 +597,8 @@ you may contact any one of the following staff:</p>
 <p>Ms Angela Sim
 <br>Administrative Manager</p>
 </td>
-<td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">jwss@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Amir
-<br>Vice Principal Administration</p>
+<p>jwss@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
