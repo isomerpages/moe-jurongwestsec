@@ -21,6 +21,9 @@ sections:
         - title: Instagram
           description: ""
           url: https://www.instagram.com/teamjurongwest/?hl=en
+        - title: Direct School Admission
+          description: (DSA)
+          url: ""
   - infopic:
       subtitle: JWSS 25TH ANNVERSARY
       id: infopic
