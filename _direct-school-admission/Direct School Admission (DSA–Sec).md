@@ -32,15 +32,27 @@ areas:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Sports and Games</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Basketball (Boys)</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Basketball (Boys)</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Netball (Girls)</strong>
+</li>
+<li>
+<p><strong>Netball (Girls)</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Volleyball (Boys)</strong>
+</li>
+<li>
+<p><strong>Volleyball (Boys)</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Sports and Games have been making steady progress with the most recent
@@ -53,11 +65,19 @@ Top 8 Placings within the West Zone Inter-School Competition.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Performing Arts</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Modern Dance</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Modern Dance</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Modern Dance CCA has also been doing well at the Singapore Youth Festival
@@ -71,11 +91,19 @@ build confidence, and develop a deep passion for the performing arts.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Leadership and Uniformed Groups</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Leadership</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Leadership</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Student Leadership programme offers a wide range of platforms for
@@ -89,12 +117,16 @@ thinkers and leaders to make a positive impact in school and the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leadership and Uniformed Groups</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Boys’ Brigade</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Boys’ Brigade</strong>
+</li>
+<li>
+<p><strong>Red Cross (Youth)</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Red Cross (Youth)</strong>
-</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>JWSS is well known in the West for its highly established Uniformed Groups
@@ -114,11 +146,19 @@ others to make a positive impact to the society and the nation.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Visual Arts, Design and Media</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Visual Arts</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Visual Arts</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>JWSS is one of only 2 secondary schools in the west to offer the Enhanced
@@ -135,8 +175,14 @@ Jewel Programme upon joining JWSS.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>STEM &amp; Sutainability</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>STEM</strong>
+<p><strong>STEM &amp; Sustainability Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,15 +233,23 @@ well as the following criteria:</p>
 <td rowspan="1" colspan="1">
 <p>Students applying should satisfy&nbsp;<strong>at least two</strong>&nbsp;of
 the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a proven and sustained record of
-representing Primary School at the Cluster, Zonal or National levels in
-the relevant sport</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; possess interest and passion for
-the relevant sport</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; demonstrate proficiency of skills
-and abilities during the relevant sport trial</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; achieved a placing at the relevant
-sport competitions conducted at Cluster, Zonal or National levels</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a proven and sustained record of representing Primary School at the Cluster,
+Zonal or National levels in the relevant sport</p>
+</li>
+<li>
+<p>possess interest and passion for the relevant sport</p>
+</li>
+<li>
+<p>demonstrate proficiency of skills and abilities during the relevant sport
+trial</p>
+</li>
+<li>
+<p>achieved a placing at the relevant sport competitions conducted at Cluster,
+Zonal or National levels</p>
+</li>
+</ul>
 <p><em>#Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 </td>
@@ -208,16 +262,23 @@ sport competitions conducted at Cluster, Zonal or National levels</p>
 <td rowspan="1" colspan="1">
 <p>Students applying should satisfy&nbsp;<strong>at least two</strong>&nbsp;of
 the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a proven and/or sustained record
-of representing Primary School at the Cluster, Zonal or National levels
-in the relevant performing art CCA</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; possess interest and passion for
-the relevant performing art CCA</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; demonstrate proficiency of skills
-and talents during the relevant performing art audition</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; achieved an award at the latest
-Singapore Youth Festival Arts Presentation (e.g. Certificate of Distinction,
-Accomplishment, Commendation)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a proven and/or sustained record of representing Primary School at the
+Cluster, Zonal or National levels in the relevant performing art CCA</p>
+</li>
+<li>
+<p>possess interest and passion for the relevant performing art CCA</p>
+</li>
+<li>
+<p>demonstrate proficiency of skills and talents during the relevant performing
+art audition</p>
+</li>
+<li>
+<p>achieved an award at the latest Singapore Youth Festival Arts Presentation
+(e.g. Certificate of Distinction, Accomplishment, Commendation)</p>
+</li>
+</ul>
 <p><em>#Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 </td>
@@ -231,13 +292,20 @@ Accomplishment, Commendation)</p>
 <p>Students applying should have a keen interest and passion in advocacy
 as well as leading and serving the student body and the community, as well
 as satisfy&nbsp;<strong>at least two of </strong>the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; held the position of Prefect, Student
-Councillor, Ambassadorial roles or other equivalent leadership roles in
-Primary School</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a proven and/or sustained record
-of playing key leadership roles in their respective CCAs in Primary School</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active involvement in CCA-level,
-school-level or community-level programmes or projects</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>held the position of Prefect, Student Councillor, Ambassadorial roles
+or other equivalent leadership roles in Primary School</p>
+</li>
+<li>
+<p>a proven and/or sustained record of playing key leadership roles in their
+respective CCAs in Primary School</p>
+</li>
+<li>
+<p>active involvement in CCA-level, school-level or community-level programmes
+or projects</p>
+</li>
+</ul>
 <p><em>#Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p>Students applying through leadership DSA should also obtain a Conduct
@@ -254,17 +322,27 @@ Grade of ‘Very Good’ or better in Primary 5 (overall) and Primary 6 (mid-Yea
 <td rowspan="1" colspan="1">
 <p>Students applying should satisfy&nbsp;<strong>at least two</strong>&nbsp;of
 the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a proven and sustained record of
-playing key leadership roles in their respective CCAs in Primary School</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active involvement in school level
-projects or community level programmes or projects</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a keen interest and passion in the
-relevant UG activities</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; held the position of Prefect, Student
-Councillor, Ambassadorial roles or other equivalent leadership roles in
-Primary School</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a proven and sustained record of playing key leadership roles in their
+respective CCAs in Primary School</p>
+</li>
+<li>
+<p>active involvement in school level projects or community level programmes
+or projects</p>
+</li>
+<li>
+<p>a keen interest and passion in the relevant UG activities</p>
+</li>
+<li>
+<p>held the position of Prefect, Student Councillor, Ambassadorial roles
+or other equivalent leadership roles in Primary School</p>
+</li>
+</ul>
+<p></p>
 <p><em>#Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
+<p></p>
 <p>Students applying through UG DSA should also obtain a Conduct Grade of
 ‘Very Good’ or better in Primary 5 (overall) and Primary 6 (mid-Year)</p>
 </td>
@@ -277,15 +355,24 @@ Primary School</p>
 <td rowspan="1" colspan="1">
 <p>Students applying should satisfy&nbsp;<strong>at least two</strong>&nbsp;of
 the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide sufficient evidence of Visual
-Arts talent through portfolios reproduction (to submit softcopy of their
-artwork as photographs)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; demonstrate proficiency of skills
-through a Visual Arts Task (interviews will be conducted where necessary)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented school at Cluster, Zonal
-or National level art exhibitions or relevant events</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; took part in school-based art exhibitions
-or similar events</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>provide sufficient evidence of Visual Arts talent through portfolios reproduction
+(to submit softcopy of their artwork as photographs)</p>
+</li>
+<li>
+<p>demonstrate proficiency of skills through a Visual Arts Task (interviews
+will be conducted where necessary)</p>
+</li>
+<li>
+<p>represented school at Cluster, Zonal or National level art exhibitions
+or relevant events</p>
+</li>
+<li>
+<p>took part in school-based art exhibitions or similar events</p>
+</li>
+</ul>
+<p></p>
 <p>* Applicants do not need to submit actual portfolios with their applications.
 Applicants may choose to bring their actual portfolios when he/she sit
 attend the interview.</p>
@@ -305,19 +392,26 @@ the Art Club CCA and Art Jewel Talent Development Programme of the school.</p>
 <td rowspan="1" colspan="1">
 <p>Students applying should satisfy&nbsp;<strong>at least two</strong>&nbsp;of
 the following:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a proven/ sustained record in any
-one or more areas:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; robotics,</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; coding,</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STEM-related activities,</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and/or sustainability-related
-activities</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; demonstrate knowledge, interest
-&amp; passion in STEM and/or Sustainability</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⁠demonstrate communication and collaborative
-skills during audition</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; demonstrate a spirit of innovation
-and perseverance</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a proven/ sustained record in any one or more areas:</p>
+</li>
+</ul>
+<p>-&nbsp;robotics,</p>
+<p>- coding,</p>
+<p>- STEM-related activities,</p>
+<p>- and/or sustainability-related activities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>demonstrate knowledge, interest &amp; passion in STEM and/or Sustainability</p>
+</li>
+<li>
+<p>demonstrate communication and collaborative skills during audition</p>
+</li>
+<li>
+<p>demonstrate a spirit of innovation and perseverance</p>
+</li>
+</ul>
 <p>* Applicants do not need to submit their records or portfolios with their
 applications. Applicants may choose to bring their records and/or portfolios
 when he/she attends the trials.</p>
