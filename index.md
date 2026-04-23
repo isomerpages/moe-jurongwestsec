@@ -17,7 +17,7 @@ sections:
           url: /jw-25th-anniversary/
         - title: Direct School Admission
           description: (DSA)
-          url: ""
+          url: /about-us/direct-school-admission-dsa/
         - title: For Staff
           description: ""
           url: https://www.jurongwestsec.moe.edu.sg/curriculum/staff-and-students/
