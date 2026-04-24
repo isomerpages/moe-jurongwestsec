@@ -2,6 +2,7 @@ collections:
   student-leadership-development:
     output: true
     order:
+      - Co Curricular Programme/Performing Arts.md
       - Co Curricular Programme/Clubs & Societies.md
       - Co Curricular Programme/Co–Curricular Framework.md
       - Co Curricular Programme/.keep
