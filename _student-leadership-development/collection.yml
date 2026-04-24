@@ -2,6 +2,7 @@ collections:
   student-leadership-development:
     output: true
     order:
+      - Co Curricular Programme/.keep
       - JWSS Student Leadership/Every Student a Leader.md
       - JWSS Student Leadership/JWSS Class Committee.md
       - JWSS Student Leadership/JWSS CCA Leaders.md
