@@ -3,6 +3,7 @@ title: Performing Arts
 permalink: /curriculum/performing-arts/
 description: ""
 variant: tiptap
+third_nav_title: Co Curricular Programme
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

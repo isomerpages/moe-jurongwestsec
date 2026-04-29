@@ -4,5 +4,10 @@ permalink: /jwestfora/
 variant: tiptap
 description: ""
 ---
-<p><strong>STAY TUNED FOR EXCITING HAPPENINGS COMING YOUR WAY!!!!</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25th Anniversary Celebration/JWESTFORA.png">
+</div>
+<p></p>
+<p><strong>CHECK BACK FOR MORE DETAILS!!!!</strong>
 </p>

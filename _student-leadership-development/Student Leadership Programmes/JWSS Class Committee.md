@@ -2,7 +2,7 @@
 title: JWSS Class Committee
 permalink: /about-us/jwss-student-council/class-committee/
 description: ""
-third_nav_title: JWSS Student Leadership
+third_nav_title: Student Leadership Programmes
 variant: tiptap
 ---
 <table style="minWidth: 25px">

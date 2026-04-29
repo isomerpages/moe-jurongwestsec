@@ -3,6 +3,7 @@ title: Co–Curricular Framework
 permalink: /curriculum/cca-framework/
 description: ""
 variant: tiptap
+third_nav_title: Co Curricular Programme
 ---
 <h2>Co-Curricular Activities (CCAs)</h2>
 <div class="isomer-image-wrapper">
