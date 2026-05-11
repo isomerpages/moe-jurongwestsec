@@ -52,14 +52,14 @@ sections:
       url: /gceolevel2025
       alt: Image alt text
       image: /images/Results Release/Picture1.png
-  - infopic:
-      title: Secondary One Registration 2026
-      subtitle: Secondary One Registration
-      id: infopic
-      description: Jurong West Secondary School warmly welcomes all newly posted
-        Secondary One students!
-      button: Click here for more info
-      url: /seconereg/
-      alt: Image alt text
-      image: /images/Sec One Registration/sec1reg2026.jpg
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Collection of 2025 School Graduation Certificates (SGC)
+          date: 11 May 2026
+          announcement: ""
+          link_text: ""
+          link_url: ""
 ---
