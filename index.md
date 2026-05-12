@@ -33,6 +33,13 @@ sections:
       title: JW YEH!
       image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
       alt: Logo for JWSS 25th Celebration
+  - infobar:
+      title: Collection of 2025 School Graduation Certificate (SGC)
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Click here
+      url: /highlights/student-graduation-certificate-testimonial/
   - infopic:
       title: Lead Up to JWest-X
       id: infopic
@@ -52,11 +59,4 @@ sections:
       url: /gceolevel2025
       alt: Image alt text
       image: /images/Results Release/Picture1.png
-  - infobar:
-      title: Collection of 2025 School Graduation Certificate (SGC)
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Click here
-      url: /highlights/student-graduation-certificate-testimonial/
 ---
