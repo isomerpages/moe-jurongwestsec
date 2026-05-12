@@ -37,9 +37,10 @@ sections:
       title: Collection of 2025 School Graduation Certificate (SGC)
       subtitle: Add informational text
       id: infobar
-      description: Infobar description
-      button: Click here
-      url: /highlights/student-graduation-certificate-testimonial/
+      description: The Student Graduation Certificate (Testimonial) for 2025
+        Graduation Cohort is ready for collection.
+      button: Click here to make appointment
+      url: https://www.picktime.com/book/JWSSSCHGRADCERTCOLLECTION
   - infopic:
       title: Lead Up to JWest-X
       id: infopic
