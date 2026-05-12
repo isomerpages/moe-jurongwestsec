@@ -37,8 +37,9 @@ sections:
       title: Collection of 2025 School Graduation Certificate (SGC)
       subtitle: Add informational text
       id: infobar
-      description: The Student Graduation Certificate (Testimonial) for 2025
-        Graduation Cohort is ready for collection.
+      description: The School Graduation Certificate (SGC) for 2025 Graduation Cohort
+        is ready for collection. Please make an appointment via the link below
+        for collection.
       button: Click here to make appointment
       url: https://www.picktime.com/book/JWSSSCHGRADCERTCOLLECTION
   - infopic:
