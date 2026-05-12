@@ -33,6 +33,15 @@ sections:
       title: JW YEH!
       image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
       alt: Logo for JWSS 25th Celebration
+  - infobar:
+      title: Collection of 2025 School Graduation Certificate (SGC)
+      subtitle: Add informational text
+      id: infobar
+      description: The School Graduation Certificate (SGC) for 2025 Graduation Cohort
+        is ready for collection. Please make an appointment via the link below
+        for collection.
+      button: Click here to make appointment
+      url: https://www.picktime.com/book/JWSSSCHGRADCERTCOLLECTION
   - infopic:
       title: Lead Up to JWest-X
       id: infopic
@@ -52,14 +61,4 @@ sections:
       url: /gceolevel2025
       alt: Image alt text
       image: /images/Results Release/Picture1.png
-  - infopic:
-      title: Secondary One Registration 2026
-      subtitle: Secondary One Registration
-      id: infopic
-      description: Jurong West Secondary School warmly welcomes all newly posted
-        Secondary One students!
-      button: Click here for more info
-      url: /seconereg/
-      alt: Image alt text
-      image: /images/Sec One Registration/sec1reg2026.jpg
 ---
