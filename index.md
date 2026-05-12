@@ -35,11 +35,10 @@ sections:
       alt: Logo for JWSS 25th Celebration
   - infobar:
       title: Collection of 2025 School Graduation Certificate (SGC)
-      subtitle: Add informational text
       id: infobar
       description: The School Graduation Certificate (SGC) for 2025 Graduation Cohort
-        is ready for collection. Please make an appointment via the link below
-        for collection.
+        is ready for collection(except 4EE & 4RE). Please make an appointment
+        via the link below.
       button: Click here to make appointment
       url: https://www.picktime.com/book/JWSSSCHGRADCERTCOLLECTION
   - infopic:
