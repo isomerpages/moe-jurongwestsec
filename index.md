@@ -52,11 +52,4 @@ sections:
       url: /gceolevel2025
       alt: Image alt text
       image: /images/Results Release/Picture1.png
-  - infopic:
-      title: Collection of 2025 School Graduation Certification
-      id: infopic
-      description: Infopic description
-      button: Click Here
-      url: /highlights/student-graduation-certificate-testimonial/
-      alt: Image alt text
 ---
