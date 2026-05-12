@@ -52,14 +52,11 @@ sections:
       url: /gceolevel2025
       alt: Image alt text
       image: /images/Results Release/Picture1.png
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Collection of 2025 School Graduation Certificates (SGC)
-          date: 11 May 2026
-          announcement: ""
-          link_text: ""
-          link_url: ""
+  - infopic:
+      title: Collection of 2025 School Graduation Certification
+      id: infopic
+      description: Infopic description
+      button: Click Here
+      url: /highlights/student-graduation-certificate-testimonial/
+      alt: Image alt text
 ---
