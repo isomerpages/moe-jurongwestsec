@@ -52,4 +52,11 @@ sections:
       url: /gceolevel2025
       alt: Image alt text
       image: /images/Results Release/Picture1.png
+  - infobar:
+      title: Collection of 2025 School Graduation Certificate (SGC)
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Click here
+      url: /highlights/student-graduation-certificate-testimonial/
 ---
