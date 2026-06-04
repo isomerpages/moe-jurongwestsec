@@ -353,8 +353,9 @@ they engaged in friendly competition with cadets from other schools.</p>
 <summary>National Police Cadet Corps (NPCC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>National Police Cadet Corps</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC1.jpg">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
@@ -560,10 +561,10 @@ they engaged in friendly competition with cadets from other schools.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC2.png">
+</div>
 <p><strong>Achievements</strong>
 </p>
 <table style="minWidth: 75px">
