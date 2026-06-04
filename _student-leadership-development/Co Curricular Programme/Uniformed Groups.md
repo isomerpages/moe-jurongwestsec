@@ -10,8 +10,9 @@ third_nav_title: Co Curricular Programme
 <summary>National Cadet Corps (NCC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>National Cadet Corps (NCC)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NCC/NCC1.png">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
@@ -296,8 +297,9 @@ third_nav_title: Co Curricular Programme
 <p></p>
 <p><strong>Students’ Achievement</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NCC/NCC2.png">
 </div>
 <p>MSG(NCC) Amirun Zaqy bin Muhammad Fazeli receiving the Outstanding Cadet
 Award from Commandant NCC LTC Ong Siong Beng. The NCC Outstanding Cadet
@@ -309,22 +311,23 @@ to their units.</p>
 <p><strong>Activities &amp; Competitions</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NCC/NCC3.png">
 </div>
+<p></p>
 <p>As part of the Secondary One Affirmation Ceremony at NCC HQ, cadets had
 the opportunity to have a close look and handle various types of weapons
 from the army.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NCC/NCC4.png">
 </div>
+<p>&nbsp;</p>
 <p>Cadets engaged in an indoor air rifle shoot in preparation for their Live
 Range shooting using the SAR-21 rifle next year.</p>
 <p>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NCC/NCC5.png">
 </div>
 <p>Cadets playing the Guardians of the City card game to develop a deeper
 understanding of Singapore’s security threats and the part we play in keeping
@@ -332,14 +335,14 @@ Singapore safe and secure.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NCC/NCC6.png">
 </div>
 <p>Cadets taking part in the inter-school NCC Sports Championship, where
 they engaged in friendly competition with cadets from other schools.</p>
 <p>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC/NCC7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NCC/NCC7.png">
 </div>
 <p>Cadets displaying their choreography during the NCC Free Style Drill Competition.</p>
 <hr>
@@ -350,8 +353,9 @@ they engaged in friendly competition with cadets from other schools.</p>
 <summary>National Police Cadet Corps (NPCC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>National Police Cadet Corps</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC1.jpg">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
@@ -557,10 +561,10 @@ they engaged in friendly competition with cadets from other schools.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC2.png">
+</div>
 <p><strong>Achievements</strong>
 </p>
 <table style="minWidth: 75px">
