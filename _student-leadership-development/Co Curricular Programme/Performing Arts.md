@@ -1279,7 +1279,7 @@ brings the community together in a shared spirit of pride and celebration.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance1.jpg">
 </div>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
@@ -1638,7 +1638,7 @@ brings the community together in a shared spirit of pride and celebration.</p>
 </table>
 <h4><strong>Activities &amp; Competitions</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance2.png">
 </div>
 <p><em>Singapore Youth Festival Arts Presentation</em>
 </p>
@@ -1651,14 +1651,14 @@ brings the community together in a shared spirit of pride and celebration.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance3.jpg">
 </div>
 <p><em>Chinese New Year Celebration</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance4.jpg">
 </div>
 <p><em>CCA Open House</em>
 </p>
@@ -1667,14 +1667,14 @@ brings the community together in a shared spirit of pride and celebration.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance5.jpg">
 </div>
 <p><em>Make up Workshop</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance6.jpg">
 </div>
 <p><em>Jazz workshop</em>
 </p>
@@ -1683,14 +1683,14 @@ brings the community together in a shared spirit of pride and celebration.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance7.jpg">
 </div>
 <p><em>CCA Exchange Day</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance8.jpg">
 </div>
 <p><em>Hosting students from China</em>
 </p>
@@ -1699,14 +1699,14 @@ brings the community together in a shared spirit of pride and celebration.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance9.jpg">
 </div>
 <p><em>JWSS Speech Day</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance10.jpg">
 </div>
 <p><em>Pioneer National Day Dinner</em>
 </p>
@@ -1715,7 +1715,7 @@ brings the community together in a shared spirit of pride and celebration.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/DANCE/dance11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/DANCE/dance11.jpg">
 </div>
 <p><em>Dance Exchange Programme</em>
 </p>
