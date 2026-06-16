@@ -811,13 +811,13 @@ they engaged in friendly competition with cadets from other schools.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC6.jpg">
 </div>
 <p>Get Involved: Police Youth Ambassador Activities</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC7.jpg">
 </div>
 <p>Police Youth Ambassador: Partnering with Neighbourhood Police to Share
 Crime Prevention Messages</p>
@@ -826,20 +826,20 @@ Crime Prevention Messages</p>
 <p><strong>Explore &amp; Discover: Visits &amp; Enrichment Courses</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC8.jpg">
 </div>
 <p>NPCC Home Team Gallery Visit</p>
 <p></p>
 <p><strong>Rise to the Challenge: Competitions &amp; Contribution to Events</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC9.jpg">
 </div>
 <p>NPCC Annual Parade</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC10.jpg">
 </div>
 <p>Jurong-Division Challenge Shield 2023(Merit Award)</p>
 <p>&nbsp;</p>
@@ -851,7 +851,7 @@ Crime Prevention Messages</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Red Cross Youth</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY1.jpg">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
@@ -1255,7 +1255,7 @@ Crime Prevention Messages</p>
 in first aid, disaster management, and leadership.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY2.jpg">
 </div>
 <p>Cadet receives an award after delivering a compelling presentation advocating
 for blood donation.</p>
@@ -1273,7 +1273,7 @@ opportunity for these leaders to develop their leadership skills and enhance
 collaboration with both peers and juniors.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY3.jpg">
 </div>
 <p>Our very own JWSS RCY talent show!</p>
 <p><strong>&nbsp;</strong>
@@ -1285,9 +1285,8 @@ our cadets with a valuable opportunity to share their first aid and foot
 drill expertise with the younger Links, fostering skills and mentorship
 across age groups.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY4.jpg">
 </div>
-<p></p>
 <p></p>
 <h1>Blood Donor Recruitment Drive @ Westgate Mall</h1>
 <p>Each year, our unit collaborates with the JWSS Student Ambassadors on
@@ -1295,26 +1294,23 @@ a blood donation drive, encouraging the public to donate by highlighting
 the vital importance of blood donation and dispelling common myths surrounding
 it.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY5.jpg">
 </div>
-<p></p>
 <p></p>
 <h1>Standard First Aid Course</h1>
 <p>The Standard First Aid Course is held for our Secondary Two cadets every
 year as part of their badge work.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY6.jpg">
 </div>
-<p></p>
 <p></p>
 <h1>Speech Day and National Day Parade</h1>
 <p>Every year, our cadets join other Uniformed Groups in the Speech Day and
 National Day Parade. Though the training is demanding, it instills resilience,
 grit, and discipline, shaping them into determined and dedicated individuals.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY7.jpg">
 </div>
-<p></p>
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 </div>
 </details>
