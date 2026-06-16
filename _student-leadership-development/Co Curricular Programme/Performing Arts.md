@@ -821,7 +821,7 @@ confident individuals who contribute meaningfully to their community.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BAND/Band_1.jpg">
 </div>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
@@ -1237,11 +1237,13 @@ a platform to demonstrate the hard work put into each practice session.</p>
 <p>We believe in experiential learning, so it is a regular affair for band
 members to attend concerts and learning journey to witness professional
 musicians in action to inspire them in their own musical journeys.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BAND/Band_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BAND/Band_3.jpg">
 </div>
 <h4><strong>Team Bonding and VIA</strong></h4>
 <p>Our annual band camp is a transformative experience focusing on character
@@ -1263,13 +1265,13 @@ Day celebrations by collaborating with the Choir, showcasing patriotic
 tunes and uplifting performances for the residents of Pioneer. This event
 not only allows our students to share their passion for music but also
 brings the community together in a shared spirit of pride and celebration.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BAND/Band_5.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BAND/Band_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BAND/Band_5.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
