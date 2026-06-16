@@ -995,9 +995,8 @@ apply their knowledge learnt during CCA.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/Photography_Training.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/Digital_Marketing.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1009,7 +1008,7 @@ and present a digital marketing campaign.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/Digital_Marketing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/Photography_Training.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1043,6 +1042,17 @@ Exhibition!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/IMTC_at_work_during_Busking.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/CCA_Open_House.jpg">
 </div>
 </td>
@@ -1054,16 +1064,6 @@ Exhibition!</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/IMTC_at_work.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/IMTC_at_work_during_Busking.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
