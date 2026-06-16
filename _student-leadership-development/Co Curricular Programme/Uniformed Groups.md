@@ -791,13 +791,13 @@ they engaged in friendly competition with cadets from other schools.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC3.jpg">
 </div>
 <p>NPCC Shooting Enrichment Program</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC4.jpg">
 </div>
 <p>NPCC Enhanced Crime Scene Investigation</p>
 <p></p>
@@ -805,19 +805,19 @@ they engaged in friendly competition with cadets from other schools.</p>
 <p><strong>Adventure Awaits: Camps &amp; Outdoor Experience</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC5.jpg">
 </div>
 <p>NPCC Adventure Training Camp @ Pulau Ubin</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC6.jpg">
 </div>
 <p>Get Involved: Police Youth Ambassador Activities</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC7.jpg">
 </div>
 <p>Police Youth Ambassador: Partnering with Neighbourhood Police to Share
 Crime Prevention Messages</p>
@@ -826,20 +826,20 @@ Crime Prevention Messages</p>
 <p><strong>Explore &amp; Discover: Visits &amp; Enrichment Courses</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC8.jpg">
 </div>
 <p>NPCC Home Team Gallery Visit</p>
 <p></p>
 <p><strong>Rise to the Challenge: Competitions &amp; Contribution to Events</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC9.jpg">
 </div>
 <p>NPCC Annual Parade</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC10.jpg">
 </div>
 <p>Jurong-Division Challenge Shield 2023(Merit Award)</p>
 <p>&nbsp;</p>
@@ -851,7 +851,7 @@ Crime Prevention Messages</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Red Cross Youth</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY1.jpg">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
@@ -1255,7 +1255,7 @@ Crime Prevention Messages</p>
 in first aid, disaster management, and leadership.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY2.jpg">
 </div>
 <p>Cadet receives an award after delivering a compelling presentation advocating
 for blood donation.</p>
@@ -1273,7 +1273,7 @@ opportunity for these leaders to develop their leadership skills and enhance
 collaboration with both peers and juniors.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY3.jpg">
 </div>
 <p>Our very own JWSS RCY talent show!</p>
 <p><strong>&nbsp;</strong>
@@ -1285,9 +1285,8 @@ our cadets with a valuable opportunity to share their first aid and foot
 drill expertise with the younger Links, fostering skills and mentorship
 across age groups.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY4.jpg">
 </div>
-<p></p>
 <p></p>
 <h1>Blood Donor Recruitment Drive @ Westgate Mall</h1>
 <p>Each year, our unit collaborates with the JWSS Student Ambassadors on
@@ -1295,26 +1294,23 @@ a blood donation drive, encouraging the public to donate by highlighting
 the vital importance of blood donation and dispelling common myths surrounding
 it.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY5.jpg">
 </div>
-<p></p>
 <p></p>
 <h1>Standard First Aid Course</h1>
 <p>The Standard First Aid Course is held for our Secondary Two cadets every
 year as part of their badge work.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY6.jpg">
 </div>
-<p></p>
 <p></p>
 <h1>Speech Day and National Day Parade</h1>
 <p>Every year, our cadets join other Uniformed Groups in the Speech Day and
 National Day Parade. Though the training is demanding, it instills resilience,
 grit, and discipline, shaping them into determined and dedicated individuals.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/RCY/RCY7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/RCY/RCY7.jpg">
 </div>
-<p></p>
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 </div>
 </details>
@@ -1322,7 +1318,7 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <summary>The Boys' Brigade</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/BB1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/BB1.png">
 </div>
 <p><strong>CCA Schedule</strong>
 </p>
@@ -1819,43 +1815,43 @@ grit, and discipline, shaping them into determined and dedicated individuals.</p
 <h4><strong>Activities &amp; Competitions (2025)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/1__BB_Day_Commemoration.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/1__BB_Day_Commemoration.png">
 </div>
 <p>BB Day Commemoration (Jan)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/2__Kayaking_Course.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/2__Kayaking_Course.png">
 </div>
 <p>Kayaking Course (Feb)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/3__Sec_1_Induction_Camp.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/3__Sec_1_Induction_Camp.png">
 </div>
 <p>Sec 1 Induction Camp (Mar)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/4__UG_Passing_Out_Parade___Sec_4_Handover_Ceremony.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/4__UG_Passing_Out_Parade___Sec_4_Handover_Ceremony.jpg">
 </div>
 <p>UG Passing Out Parade (POP) &amp; Sec 4 Handover Ceremony (Apr)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/5__Musketry_Course.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/5__Musketry_Course.png">
 </div>
 <p>Musketry Course (May)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/6__First_Aid_Course_with_CPR___AED.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/6__First_Aid_Course_with_CPR___AED.jpg">
 </div>
 <p>First Aid Course with CPR &amp; AED (Jun)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/7__JWSS_NDP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/7__JWSS_NDP.jpg">
 </div>
 <p>JWSS NDP (Aug)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/8__BB_95th_Anniversary_Carnival.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/8__BB_95th_Anniversary_Carnival.png">
 </div>
 <p>BB 95<sup>th</sup> Anniversary Carnival (Aug)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/9__BBGB_Combined_School_Camps.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/9__BBGB_Combined_School_Camps.jpg">
 </div>
 <p>BBGB Combined School Camps (Nov)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB/10__BB_Parents_Engagement_Session.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/BB/10__BB_Parents_Engagement_Session.png">
 </div>
 <p>BB Parents Engagement Session (Nov)</p>
 <h4><strong>Activities &amp; Competitions (2024)</strong></h4>

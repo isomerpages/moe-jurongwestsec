@@ -134,7 +134,7 @@ is a passionate advocate for arts.</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 217px; height: 307px;" height="auto" width="100%" alt="D.JPG" src="/images/DDD.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DDD.jpg">
 </div>
 <p>Student Artist: Cheryl Ang Suhartono (3E3’21)</p>
 </td>
@@ -722,8 +722,14 @@ is a passionate advocate for arts.</p>
 <summary>Infocomm and Media Technology Club (IMTC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h5></h5>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/IMTC.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -969,6 +975,18 @@ drawing, Artificial intelligence and Podcasting.</p>
 <p>Our students also took part in external competitions so that they can
 apply their knowledge learnt during CCA.</p>
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -978,7 +996,7 @@ apply their knowledge learnt during CCA.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Digital_Marketing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/Digital_Marketing.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -990,7 +1008,7 @@ and present a digital marketing campaign.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Photography_Training.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/Photography_Training.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1001,7 +1019,7 @@ tell powerful visual stories through photos and videos.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/LeadCON.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/LeadCON.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1012,7 +1030,7 @@ Development Authority)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/Lim_De_Fu.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/Lim_De_Fu.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1024,7 +1042,18 @@ Exhibition!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC_at_work_during_Busking.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/IMTC_at_work_during_Busking.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/CCA_Open_House.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1034,17 +1063,7 @@ Exhibition!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/CCA_Open_House.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students in action during the CCA Open House, rehearsal and busking performance.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/IMTC/IMTC_at_work.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/IMTC/IMTC_at_work.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
