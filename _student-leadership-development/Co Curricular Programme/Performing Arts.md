@@ -11,7 +11,7 @@ third_nav_title: Co Curricular Programme
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD1.jpg">
 </div>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
@@ -317,34 +317,18 @@ third_nav_title: Co Curricular Programme
 <p><strong>&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD2.jpg">
 </div>
 <p><em>Our drama team on 19 October 2024</em>
 </p>
 <h4>Activities &amp; Competitions</h4>
 <p>A chance for our team to showcase our talents&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD3.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD4.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
 <p><em>School based performances in 2024</em>
 </p>
 <table style="minWidth: 50px">
@@ -356,14 +340,14 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD5.jpg">
 </div>
 <p><em>Our junior team of actors and debaters out for Drama performance in Oct</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD6.jpg">
 </div>
 <p><em>Appreciation to the outgoing team of actors and debators</em>
 </p>
@@ -374,26 +358,12 @@ third_nav_title: Co Curricular Programme
 <h4>Team Bonding and VIA</h4>
 <p>Besides our drama and debate activities, our team also had exciting team
 building activities through sports and games.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD7.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD8.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;<em>Our team of actors and debaters getting actively involved in sports</em>
 </p>
 <table style="minWidth: 50px">
@@ -405,14 +375,14 @@ building activities through sports and games.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD9.jpg">
 </div>
 <p><em>Getting to know each other</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ELDD/ELDD10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/ELDD/ELDD10.jpg">
 </div>
 <p><em>Drama training</em>
 </p>
@@ -427,7 +397,7 @@ building activities through sports and games.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/CHOIR/choir1.jpg">
 </div>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
@@ -827,20 +797,20 @@ confident individuals who contribute meaningfully to their community.</p>
 <p>&nbsp;</p>
 <h4>Choir Enriching and Challenging Activities</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/CHOIR/choir2.jpg">
 </div>
 <p>Master Class Programme</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/CHOIR/choir3.jpg">
 </div>
 <p>CCA DAY – Bowling</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/CHOIR/choir4.jpg">
 </div>
 <p><em>Collaboration between Choir and Concert Band for National Day performance&nbsp;</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CHOIR/choir5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/CHOIR/choir5.jpg">
 </div>
 <p>CCA Day – Learning Journey to Peranakan Museum</p>
 <p></p>
