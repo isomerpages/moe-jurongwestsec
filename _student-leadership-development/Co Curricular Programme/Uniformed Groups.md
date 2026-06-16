@@ -791,13 +791,13 @@ they engaged in friendly competition with cadets from other schools.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC3.jpg">
 </div>
 <p>NPCC Shooting Enrichment Program</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC4.jpg">
 </div>
 <p>NPCC Enhanced Crime Scene Investigation</p>
 <p></p>
@@ -805,7 +805,7 @@ they engaged in friendly competition with cadets from other schools.</p>
 <p><strong>Adventure Awaits: Camps &amp; Outdoor Experience</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NPCC/NPCC5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/NPCC/NPCC5.jpg">
 </div>
 <p>NPCC Adventure Training Camp @ Pulau Ubin</p>
 <p></p>
