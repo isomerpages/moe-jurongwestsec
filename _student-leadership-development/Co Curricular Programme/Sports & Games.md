@@ -11,7 +11,7 @@ third_nav_title: Co Curricular Programme
 <div data-type="detailsContent" class="isomer-details-content">
 <h4><strong>Badminton Boys</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/Bad_B_Pic_1.png">
 </div>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
@@ -332,7 +332,7 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/Bad_B_Pic_2.png">
 </div>
 <p>NSG players in action</p>
 </td>
@@ -340,7 +340,7 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/Bad_B_Pic_3.png">
 </div>
 <p><em>Badminton Training Camp</em>
 </p>
@@ -349,7 +349,7 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/Bad_B_Pic_4.png">
 </div>
 <p><em>Friendly matches with other schools</em>
 </p>
@@ -358,7 +358,7 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/Bad_B_Pic_5.png">
 </div>
 <p><em>CCA Exchange with Choir</em>
 </p>
@@ -374,9 +374,8 @@ third_nav_title: Co Curricular Programme
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/Bad_B_Pic_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/Bad_B_Pic_6.png">
 </div>
 <p><em>Laser Tag with Basketball Boys</em>
 </p>
@@ -667,13 +666,13 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badgirls1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/badgirls1.jpg">
 </div>
 <p>Farewell for the seniors</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badgirls2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/badgirls2.png">
 </div>
 <p><em>C division players in action during weekly trainings</em>
 </p>
@@ -682,14 +681,14 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badgirls3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/badgirls3.jpg">
 </div>
 <p><em>Winners of the Internal competition in JWSS during CCA camp</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badgirls4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Badminton/badgirls4.jpg">
 </div>
 <p><em>After the friendly match with SST</em>
 </p>
@@ -704,7 +703,7 @@ third_nav_title: Co Curricular Programme
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_A.jpg">
 </div>
 <h3><strong>CCA Schedule</strong></h3>
 <table style="minWidth: 75px">
@@ -1290,14 +1289,14 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_B.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_B.jpg">
 </div>
 <p><em>JWSS Girls’ Team</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_C.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_C.jpg">
 </div>
 <p><em>JWSS Boys’ Team</em>
 </p>
@@ -1315,14 +1314,14 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_D.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_D.jpg">
 </div>
 <p><em>B division girls players in action during NSG West Zone Championship</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_E.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_E.jpg">
 </div>
 <p><em>C division girls players in action during NSG Championship</em>
 </p>
@@ -1340,14 +1339,14 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_E.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_F.jpg">
 </div>
 <p><em>Girls’ Team Friendly Match with AES</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_F.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_M.jpg">
 </div>
 <p><em>Boys’ Team Friendly Match with Chung Cheng High School (Main)</em>
 </p>
@@ -1365,14 +1364,14 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_G.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_G.jpg">
 </div>
 <p><em>Flag making during team bonding and training Camp in 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_H.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_H.jpg">
 </div>
 <p><em>Shooting game during team bonding and training Camp in 2024</em>
 </p>
@@ -1389,10 +1388,14 @@ third_nav_title: Co Curricular Programme
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert Photo I]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_I.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Insert Photo J]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_J.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -1417,14 +1420,14 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_I.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_K.jpg">
 </div>
 <p><em>Basketball girls enjoying a fun team bonding session at the bowling alley during CCA Day 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_J.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_L.jpg">
 </div>
 <p><em>Group photo after bowling session during CCA Day 2024</em>
 </p>
@@ -1442,14 +1445,14 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_N.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_N.jpg">
 </div>
 <p><em>Taking teamwork off the court - Basketball boys enjoyed some thrilling laser tag action on CCA Day 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Basketball/Photo_O.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Basketball/Photo_O.jpg">
 </div>
 <p><em>The Basketball boys wrap up the laser tag session with smiles, camaraderie, and unforgettable memories on CCA Day 2024</em>
 </p>
@@ -1924,8 +1927,9 @@ third_nav_title: Co Curricular Programme
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Hockey/PictureA.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our C Division Boys with their NSG League 2 Champions trophy after overcoming
@@ -1935,7 +1939,7 @@ various challenges to emerge winners against strong opponents.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureB.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Hockey/PictureB.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1947,7 +1951,7 @@ Hockey 5 A-Side organised by the Singapore Hockey Federation (SHF).</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Hockey/PictureC.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1958,8 +1962,9 @@ pitch.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Hockey/PictureD.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stu Leadership &amp; CCAs/Hockey/PictureD.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March Holidays Camp also provides good opportunity for students to hone
