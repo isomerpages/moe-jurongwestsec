@@ -117,8 +117,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Jessie Bay</p>
-<p><em>ICT Associate</em>
+<p>Ms Ong Ee Lu, Joelle</p>
+<p><em>School Laboratory Technician</em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -127,18 +127,16 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Ong Ee Lu, Joelle</p>
-<p><em>School Laboratory Technician</em>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>09/</p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Ms Siti Shahimah</p>
 <p><em>School Laboratory Technician</em>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 </tbody>
@@ -155,7 +153,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>10/
+<p>09/
 <br>
 <br>
 </p>
@@ -166,7 +164,7 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>11/</strong>
+<p>&nbsp;<strong>10/</strong>
 </p>
 <p></p>
 </td>
@@ -196,7 +194,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>12/</p>
+<p>11/</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -205,7 +203,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>13/
+<p>12/
 <br>
 </p>
 </th>
@@ -235,7 +233,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>14/</p>
+<p>13/</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Mr Aw Aik Huat</p>
@@ -243,7 +241,7 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>15/</strong>
+<p>&nbsp;<strong>14/</strong>
 </p>
 <p></p>
 </td>
@@ -253,7 +251,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>16/</p>
+<p>15/</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Mdm Chow Soo Kheng</p>
@@ -275,7 +273,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>17/</p>
+<p>16/</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Mdm Noorhayati</p>
@@ -283,14 +281,10 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>18/</strong>
-</p>
 <p></p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Mr Razman</p>
-<p><em>Operations Support Officer</em>
-</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
