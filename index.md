@@ -33,6 +33,15 @@ sections:
       title: JW YEH!
       image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
       alt: Logo for JWSS 25th Celebration
+  - infopic:
+      title: JWEST HOME
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Find out about JWest - Home
+      alt: Image alt text
+      image: /images/25th Anniversary Celebration/JWEST_home.png
+      url: /jwest-home/
   - infobar:
       title: Collection of 2025 School Graduation Certificate (SGC)
       id: infobar
@@ -49,13 +58,4 @@ sections:
       url: /jwest-x/
       image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
       alt: Image alt text
-  - infopic:
-      title: JWEST HOME
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Find out about JWest - Home
-      alt: Image alt text
-      image: /images/25th Anniversary Celebration/JWEST_home.png
-      url: /jwest-home/
 ---
