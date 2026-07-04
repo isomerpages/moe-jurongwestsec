@@ -56,4 +56,5 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/25th Anniversary Celebration/JWEST_home.png
 ---
