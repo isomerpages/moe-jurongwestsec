@@ -50,13 +50,10 @@ sections:
       image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
       alt: Image alt text
   - infopic:
-      title: GCE O-LEVEL 2025 Results Release
-      subtitle: GCE O-LEVEL 2025
+      title: JWEST HOME
+      subtitle: Add an image and text
       id: infopic
-      description: The GCE O-Level 2025 results will be released on Wednesday, 14
-        January 2026.
-      button: Click here for more info
-      url: /gceolevel2025
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
-      image: /images/Results Release/Picture1.png
 ---
