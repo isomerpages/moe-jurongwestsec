@@ -54,7 +54,8 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: Find out about JWest - Home
       alt: Image alt text
       image: /images/25th Anniversary Celebration/JWEST_home.png
+      url: /jwest-home/
 ---
