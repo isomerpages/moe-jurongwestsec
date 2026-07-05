@@ -33,6 +33,14 @@ sections:
       title: JW YEH!
       image: /images/25th Anniversary Celebration/CNY_2026_Lohei.png
       alt: Logo for JWSS 25th Celebration
+  - infopic:
+      title: JWEST HOME
+      id: infopic
+      description: Calling all JWSS alumni
+      button: Find out about JWest - Home
+      alt: Image alt text
+      image: /images/25th Anniversary Celebration/JWEST_home.png
+      url: /jwest-home/
   - infobar:
       title: Collection of 2025 School Graduation Certificate (SGC)
       id: infobar
@@ -49,14 +57,4 @@ sections:
       url: /jwest-x/
       image: /images/25th Anniversary Celebration/JWESTX_Publicity_Poster.jpg
       alt: Image alt text
-  - infopic:
-      title: GCE O-LEVEL 2025 Results Release
-      subtitle: GCE O-LEVEL 2025
-      id: infopic
-      description: The GCE O-Level 2025 results will be released on Wednesday, 14
-        January 2026.
-      button: Click here for more info
-      url: /gceolevel2025
-      alt: Image alt text
-      image: /images/Results Release/Picture1.png
 ---
