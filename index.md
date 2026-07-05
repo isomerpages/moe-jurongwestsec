@@ -35,9 +35,8 @@ sections:
       alt: Logo for JWSS 25th Celebration
   - infopic:
       title: JWEST HOME
-      subtitle: Add an image and text
       id: infopic
-      description: Infopic description
+      description: Calling all JWSS alumni
       button: Find out about JWest - Home
       alt: Image alt text
       image: /images/25th Anniversary Celebration/JWEST_home.png
