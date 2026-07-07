@@ -555,7 +555,7 @@ as follows:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Trials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Jul 2026 (Fri) from 2:30pm
+<p>14 Jul 2026 (Tues) from 3:00pm
 <br>21 Jul 2026 (Tues) from 3:30pm (Standby date)</p>
 </td>
 </tr>
